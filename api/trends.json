@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-10-17T18:25:30.397106+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-10-17T19:19:41.505904+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "全球股市跳水两大原因",
+          "url": "https://www.toutiao.com/trending/7561016546337439783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时19分]"
+        },
         {
           "title": "股市",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%82%A1%E5%B8%82&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D24%26realpos%3D23%26flag%3D1%26c_type%3D31%26band_rank%3D23%26cate%3D5001%26dgr%3D0%26lcate%3D5001%26q%3D%25E8%2582%25A1%25E5%25B8%2582%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1760689657%26pre_seqid%3D176068965741502733320135",
@@ -30,24 +53,13 @@
           "time_info": "16时30分"
         },
         {
-          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "金十图示：2025年10月17日（周五）亚太市场股市指数（收盘）",
           "url": "https://flash.jin10.com/detail/20251017180523782800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -75,7 +87,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -93,8 +105,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时19分]"
         }
       ]
     },
