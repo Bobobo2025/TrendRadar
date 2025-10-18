@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:16:38.398630+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2025-10-18T20:39:41.994786+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -117,11 +117,12 @@
           "url": "https://www.zhihu.com/question/1962655382531961559",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时39分]"
         },
         {
           "title": "小米称收到480名车主被网暴证据",
