@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:22:14.386752+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2025-10-18T18:22:09.961430+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -120,8 +120,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "小米称收到480名车主被网暴证据",
@@ -188,7 +188,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
@@ -238,6 +238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
+          "url": "https://www.zhihu.com/question/1962263756634579137",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         }
       ]
     }
