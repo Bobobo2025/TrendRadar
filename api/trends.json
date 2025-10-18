@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T16:27:46.878141+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-10-18T17:22:14.386752+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -119,9 +119,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 17时22分]"
         },
         {
           "title": "小米称收到480名车主被网暴证据",
