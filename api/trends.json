@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-18T07:19:07.668768+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-10-18T09:28:47.141232+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十图示：2025年10月17日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251018041141583800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时28分]"
+        },
         {
           "title": "欧洲央行Nagel警告：股市的高集中度可能引发回调",
           "url": "https://wallstreetcn.com/livenews/2989826",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251018041141583800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时19分]"
         },
         {
           "title": "南亚股市收盘播报｜印度股市连续两天创收盘历史新高，本周涨约1.7%，卢比涨约0.8%",
@@ -78,6 +79,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "邓莎老公路行持股市值不足5000万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E8%B7%AF%E8%A1%8C%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8D%E8%B6%B35000%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2582%2593%25E8%258E%258E%25E8%2580%2581%25E5%2585%25AC%25E8%25B7%25AF%25E8%25A1%258C%25E6%258C%2581%25E8%2582%25A1%25E5%25B8%2582%25E5%2580%25BC%25E4%25B8%258D%25E8%25B6%25B35000%25E4%25B8%2587%2523%26dgr%3D0%26band_rank%3D19%26pos%3D20%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D19%26c_type%3D31%26display_time%3D1760750798%26pre_seqid%3D17607507983960358575417",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "小米称收到480名车主被网暴证据",
+          "url": "https://www.douyin.com/hot/2273119",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 07时19分]"
+        },
+        {
+          "title": "魏思琪出任小米中国区市场部总经理",
+          "url": "https://www.toutiao.com/trending/7562122923616780307/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时23分]"
+        },
+        {
+          "title": "卢伟冰否认小米是一家营销公司",
+          "url": "https://www.douyin.com/hot/2273260",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "小米新任中国区市场部总经理，是魏思琪！王腾透露个人最新动态",
+          "url": "https://wallstreetcn.com/livenews/2989966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "小米之“祸”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%B9%8B%E2%80%9C%E7%A5%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -133,37 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米称收到480名车主被网暴证据",
-          "url": "https://www.douyin.com/hot/2273119",
-          "source": "抖音",
-          "ranks": [
-            24,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 07时19分]"
-        },
-        {
-          "title": "魏思琪出任小米中国区市场部总经理",
-          "url": "https://www.toutiao.com/trending/7562122923616780307/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时23分]"
         }
       ]
     }
