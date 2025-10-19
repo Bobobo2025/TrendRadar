@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:25:00.158793+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2025-10-19T22:18:47.178126+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "胡锡进谈小米呼吁抵制黑公关和水军",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时18分]"
         },
         {
           "title": "黄金暴涨股市波动 普通人机会在哪",
@@ -91,8 +91,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时21分 ~ 21时25分]"
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 22时18分]"
         }
       ]
     }
