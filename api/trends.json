@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T16:27:03.741009+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-10-19T17:22:01.981844+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时19分 ~ 16时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全体起立!上古真神降临腾讯新游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345937&amp;topic_name=%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B%21%E4%B8%8A%E5%8F%A4%E7%9C%9F%E7%A5%9E%E9%99%8D%E4%B8%B4%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         }
       ]
     }
