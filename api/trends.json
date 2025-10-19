@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T03:17:22.203315+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-10-20T04:23:44.664250+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     },
@@ -32,11 +32,12 @@
             12,
             11,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     },
@@ -52,11 +53,12 @@
             7,
             9,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     },
@@ -72,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     }
