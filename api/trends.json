@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-19T22:18:47.178126+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-10-19T23:20:44.171843+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 3,
       "titles": [
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时20分]"
+        },
         {
           "title": "魏思琪接替王腾任小米中国区市场部总经理，怎样看待这一任命？对小米发展会有哪些影响？",
           "url": "https://www.zhihu.com/question/1962655382531961559",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "媒体炮轰雷军,小米口碑崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "胡锡进谈小米呼吁抵制黑公关和水军",
@@ -60,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 23时20分]"
         },
         {
           "title": "黄金暴涨股市波动 普通人机会在哪",
@@ -88,11 +89,29 @@
             8,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 22时18分]"
+          "appearance_count": 10,
+          "time_info": "[17时21分 ~ 23时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
+          "url": "https://www.zhihu.com/question/1962624279872006124",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     }
