@@ -1,50 +1,11 @@
 {
-  "generated_at": "2025-10-20T07:21:14.085179+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-10-20T09:47:25.251116+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全体起立!上古真神降临腾讯新游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345937&amp;topic_name=%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B%21%E4%B8%8A%E5%8F%A4%E7%9C%9F%E7%A5%9E%E9%99%8D%E4%B8%B4%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
-          "url": "https://www.zhihu.com/question/1962624279872006124",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            7,
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
@@ -62,6 +23,79 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "港股开盘：百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-10-20）",
+          "url": "https://flash.jin10.com/detail/20251020091105006800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "瑞银上调全球股市评级 尤其看好中国科技股",
+          "url": "https://www.cls.cn/detail/2173633",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全体起立!上古真神降临腾讯新游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345937&amp;topic_name=%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B%21%E4%B8%8A%E5%8F%A4%E7%9C%9F%E7%A5%9E%E9%99%8D%E4%B8%B4%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴、蚂蚁集团拟斥资约 72 亿港元买楼，设香港总部，此举有哪些战略考量？未来发展潜力怎样？",
+          "url": "https://www.zhihu.com/question/1962624279872006124",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            7,
+            4,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         }
       ]
     },
@@ -77,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         }
       ]
     }
