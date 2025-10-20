@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T05:20:51.539546+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-10-21T06:23:02.380082+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）全球股市指数-美洲市场（收盘）",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "美银：信贷紧张或引发被动抛售 股市面临熊市信号",
@@ -84,7 +85,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨2.4%。 热门中概股里，房多多初步收涨约10%，蔚来、阿里巴巴、文远知行、网易至多涨超4%，拼多多、百胜中国、腾讯、新东方、京东、百度、小米等至多涨超2%。",
@@ -108,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "在美上市矿业概念股NioCorp Developments Ltd.收涨19.73%，USAR涨13.92%，Energy Fuels、金属采矿ETF、MP材料、UURAF涨7.22%-1%。 据媒体报道，美国、澳大利亚政府宣布支持美国铝业公司在西澳大利亚州的镓关键矿物开发项目。",
+          "url": "https://wallstreetcn.com/livenews/2990844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -123,19 +135,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
           "url": "https://www.toutiao.com/trending/7562144179561005102/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 06时23分]"
         }
       ]
     },
@@ -151,8 +164,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时23分]"
         }
       ]
     }
