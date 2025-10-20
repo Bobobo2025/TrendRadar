@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T18:26:31.886539+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2025-10-20T19:19:30.604865+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "贸易局势、美信贷恐慌缓解，全球主要股市集体反弹，日股再创新高，现货黄金企稳，比特币涨超4%",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时19分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
@@ -83,6 +83,17 @@
           "time_info": "[13时22分 ~ 14时34分]"
         },
         {
+          "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3757496",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "港股开盘：百度涨超5%",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
           "source": "百度热搜",
@@ -133,7 +144,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -171,6 +182,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "据彭博，三一重工和剑桥科技港股上市交易据悉已获得足额认购。",
+          "url": "https://wallstreetcn.com/livenews/2990606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）亚太市场股市指数",
           "url": "https://flash.jin10.com/detail/20251020102808201800",
           "source": "金十数据",
@@ -180,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "日韩股市创新高 加密货币集体大涨",
+          "url": "https://www.toutiao.com/trending/7563148218368983050/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "越南股市快速跳水，VN指数日内跌超5%。",
@@ -208,11 +241,12 @@
             20,
             22,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时19分]"
         },
         {
           "title": "港股收盘，恒生指数收涨2.42%，恒生科技指数收涨3%。科技股普涨，阿里巴巴涨近5%，腾讯、百度涨超3%；半导体板块走高，上海复旦涨近5%，中芯国际涨近4%。",
@@ -224,6 +258,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 19时19分]"
+        },
+        {
+          "title": "小米汽车回应雷军“免费送”视频",
+          "url": "https://www.toutiao.com/trending/7562430453786361902/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -265,26 +331,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 11时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "媒体炮轰雷军,小米口碑崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 18时26分]"
         }
       ]
     }
