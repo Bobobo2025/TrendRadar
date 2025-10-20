@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T01:21:47.118389+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-10-21T02:34:13.713669+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（10月20日），南非富时/JSE非洲领先40可交易指数收盘反弹0.57%，至10.4万点上方，全天呈现出V形反转。",
@@ -24,22 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "美国股市延续涨势，道指上涨1%，标普500指数现涨1.09%，纳指涨1.47%。",
           "url": "https://flash.jin10.com/detail/20251021010409004800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时34分]"
         },
         {
           "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
@@ -48,9 +50,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
+        },
+        {
+          "title": "小米SU7借朋友开10分钟被撞烂",
+          "url": "https://www.toutiao.com/trending/7562144179561005102/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 02时34分]"
         }
       ]
     },
@@ -84,25 +114,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "媒体炮轰雷军,小米口碑崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
