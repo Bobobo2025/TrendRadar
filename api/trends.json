@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T11:19:44.774979+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2025-10-20T12:29:39.352150+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
@@ -23,6 +23,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "前三季GDP5.2%正面影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3GDP5.2%25%E6%AD%A3%E9%9D%A2%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "港股开盘：百度涨超5%",
@@ -64,7 +75,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -81,7 +92,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -97,11 +108,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时29分]"
         }
       ]
     },
@@ -142,8 +154,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时29分]"
         }
       ]
     }
