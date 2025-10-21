@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T13:24:03.014126+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-10-21T14:32:54.664633+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时32分]"
         },
         {
           "title": "学习时报：努力稳股市让老百姓的消费底气更足",
@@ -26,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 14时32分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -84,6 +85,18 @@
           "time_info": "[00时29分 ~ 03时20分]"
         },
         {
+          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
+          "url": "https://wallstreetcn.com/articles/3757540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时32分]"
+        },
+        {
           "title": "美国股市延续涨势，道指上涨1%，标普500指数现涨1.09%，纳指涨1.47%。",
           "url": "https://flash.jin10.com/detail/20251021010409004800",
           "source": "金十数据",
@@ -94,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时34分]"
-        },
-        {
-          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
-          "url": "https://wallstreetcn.com/articles/3757540",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "学习时报：努力稳股市让消费底气更足",
@@ -218,11 +220,12 @@
             13,
             15,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时32分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
