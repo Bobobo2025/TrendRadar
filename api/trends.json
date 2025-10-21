@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T17:25:19.390754+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2025-10-21T18:24:06.354155+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时07分 ~ 17时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 18时24分]"
         },
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[13时23分 ~ 18时24分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251021180237520800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
@@ -237,11 +248,12 @@
             18,
             20,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 17时25分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 18时24分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
