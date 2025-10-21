@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T20:46:50.860017+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2025-10-21T21:36:54.724972+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 21时36分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -145,6 +145,17 @@
           "time_info": "18时24分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-21）",
+          "url": "https://flash.jin10.com/detail/20251021210420352800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
           "url": "https://flash.jin10.com/detail/20251021004644052800",
           "source": "金十数据",
@@ -195,7 +206,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -264,8 +275,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 20时46分]"
+          "appearance_count": 29,
+          "time_info": "[00时29分 ~ 21时36分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
