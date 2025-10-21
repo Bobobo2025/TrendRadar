@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T12:27:10.603468+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-10-21T13:24:03.014126+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "学习时报：努力稳股市让老百姓的消费底气更足",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 13时24分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时34分]"
+        },
+        {
+          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
+          "url": "https://wallstreetcn.com/articles/3757540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "学习时报：努力稳股市让消费底气更足",
@@ -206,11 +217,12 @@
             11,
             13,
             15,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
