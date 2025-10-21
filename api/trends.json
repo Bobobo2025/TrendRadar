@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T11:08:07.079171+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-10-21T12:27:10.603468+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 12时27分]"
+        },
+        {
+          "title": "学习时报：努力稳股市让老百姓的消费底气更足",
+          "url": "https://www.cls.cn/detail/2175278",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 12时27分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -83,17 +96,6 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
-          "title": "学习时报：努力稳股市让老百姓的消费底气更足",
-          "url": "https://www.cls.cn/detail/2175278",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
           "title": "学习时报：努力稳股市让消费底气更足",
           "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%8A%AA%E5%8A%9B%E7%A8%B3%E8%82%A1%E5%B8%82%E8%AE%A9%E6%B6%88%E8%B4%B9%E5%BA%95%E6%B0%94%E6%9B%B4%E8%B6%B3",
           "source": "百度热搜",
@@ -122,7 +124,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -133,7 +135,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -144,7 +146,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
@@ -203,11 +205,12 @@
             10,
             11,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 12时27分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
@@ -253,7 +256,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
