@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T07:21:20.425703+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-10-21T09:43:43.862147+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时43分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
+          "url": "https://flash.jin10.com/detail/20251021091015581800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）全球股市指数-美洲市场（收盘）",
@@ -135,11 +146,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时43分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
