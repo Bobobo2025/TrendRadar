@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T18:24:06.354155+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2025-10-21T19:19:32.339036+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时23分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时23分 ~ 19时19分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-21）",
@@ -140,7 +140,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -249,11 +249,12 @@
             20,
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
