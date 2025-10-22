@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T22:25:06.359980+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2025-10-22T23:25:13.508495+08:00",
+  "total_titles_processed": 2158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时26分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[15时26分 ~ 23时25分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
@@ -110,7 +110,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -201,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美国股市延续跌势，标普500指数下跌0.35%，道指下跌0.30%，纳指下跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20251022223349655800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出510.70亿元，占比3.06%；大单资金净流出268.35亿元，占比1.61%；小单资金净流入382.18亿元，占比2.29%。",
