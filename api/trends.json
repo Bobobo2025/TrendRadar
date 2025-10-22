@@ -1,431 +1,44 @@
 {
-  "generated_at": "2025-10-22T23:25:13.508495+08:00",
-  "total_titles_processed": 2158,
+  "generated_at": "2025-10-23T00:29:59.107355+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 23,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
-          "url": "https://wallstreetcn.com/articles/3757540",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 09时45分]"
-        },
         {
           "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
           "url": "https://wallstreetcn.com/articles/3757609",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时26分 ~ 23时25分]"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20251022151410351800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040708059800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "新加坡11月将公布更多提振股市的细节。",
-          "url": "https://wallstreetcn.com/livenews/2991643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时28分]"
-        },
-        {
-          "title": "加拿大股市收跌超1.7%，金银矿业股领跌，CPI发布日加债收益率走高",
-          "url": "https://wallstreetcn.com/livenews/2991437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时22分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收跌2.3%，兰特跌超0.8%，追随金银价格重挫的表现",
-          "url": "https://wallstreetcn.com/livenews/2991339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时20分]"
-        },
-        {
-          "title": "港股收盘，恒生指数收跌0.94%，恒生科技指数收跌1.41%。黄金概念股普跌，老铺黄金跌超8%，中国白银集团跌超8%；泡泡玛特绩后收涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2991796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时26分]"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20251022220034317800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "乘股市回暖东风，逾九成保险资管产品年内实现正收益",
-          "url": "https://wallstreetcn.com/livenews/2991457",
+          "title": "非洲股市收盘播报｜周三（10月22日），南非富时/JSE非洲领先40可交易指数收跌0.13%，至10.1万点，全天呈现出U形走势。 日内迄今，现货黄金维持大约2.2%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "00时29分"
         },
         {
-          "title": "港股市场迎来修复，短期震荡不改长期上行趋势",
-          "url": "https://wallstreetcn.com/livenews/2991455",
+          "title": "英国股市收涨超1%",
+          "url": "https://wallstreetcn.com/livenews/2992008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251022180126460800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251021234038429800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "欧洲股市主要指数低开，欧洲斯托克50指数跌0.27%，英国富时100指数涨0.44%，法国CAC40指数跌0.29%，德国DAX30指数跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/2991744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "多只优质中概股“归巢”，港股迎科技企业生力军",
-          "url": "https://wallstreetcn.com/livenews/2991447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-10-22）",
-          "url": "https://flash.jin10.com/detail/20251022085723922800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-22）",
-          "url": "https://flash.jin10.com/detail/20251022210958122800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "美国股市延续跌势，标普500指数下跌0.35%，道指下跌0.30%，纳指下跌0.7%。",
-          "url": "https://flash.jin10.com/detail/20251022223349655800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出510.70亿元，占比3.06%；大单资金净流出268.35亿元，占比1.61%；小单资金净流入382.18亿元，占比2.29%。",
-          "url": "https://flash.jin10.com/detail/20251022150621915800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "港交所陈翊庭：港股前三季IPO融资额增逾两倍，正处理近300宗上市申请",
-          "url": "https://wallstreetcn.com/livenews/2991732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "多伦多股市指数跌至三周低点，日内下跌1.9%。",
-          "url": "https://flash.jin10.com/detail/20251022012842484800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "高盛：中国股市慢牛正在形成 预计关键指数到2027年底有约30%上涨空间",
-          "url": "https://wallstreetcn.com/livenews/2991526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20251022102604127800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 18时25分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
-          "url": "https://wallstreetcn.com/livenews/2991417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "汽车博主透露蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "瑞穗银行：将阿里巴巴目标价从159美元上调至195美元。 将京东目标价从40美元上调至41美元。",
-          "url": "https://wallstreetcn.com/livenews/2991894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "瑞穗银行：将阿里巴巴(BABA.N)目标价从159美元上调至195美元。",
-          "url": "https://flash.jin10.com/detail/20251022185143441800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "车主买小米汽车被另一品牌销售诅咒",
-          "url": "https://www.toutiao.com/trending/7563446421257650222/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 22时25分]"
-        },
-        {
-          "title": "赛力斯和小米有多赚钱",
-          "url": "https://www.toutiao.com/trending/7563591736841211433/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2176123",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时19分 ~ 09时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒指低开0.50%，报25897.62点；恒生科技指数跌0.82%。网易、百度、阿里巴巴、理想汽车等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2991541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "00时29分"
         }
       ]
     }
