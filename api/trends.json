@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T00:29:59.107355+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-23T01:20:23.264127+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（10月22日），南非富时/JSE非洲领先40可交易指数收跌0.13%，至10.1万点，全天呈现出U形走势。 日内迄今，现货黄金维持大约2.2%的跌幅。",
           "url": "https://wallstreetcn.com/livenews/2992011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "英国股市收涨超1%",
           "url": "https://wallstreetcn.com/livenews/2992008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     }
