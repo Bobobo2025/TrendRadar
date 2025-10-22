@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T21:41:42.902465+08:00",
-  "total_titles_processed": 1989,
+  "generated_at": "2025-10-22T22:25:06.359980+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 21时41分]"
+          "appearance_count": 14,
+          "time_info": "[15时26分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时26分]"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251022220034317800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "乘股市回暖东风，逾九成保险资管产品年内实现正收益",
@@ -187,7 +198,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -350,11 +361,12 @@
           "url": "https://www.toutiao.com/trending/7563446421257650222/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 22时25分]"
         },
         {
           "title": "赛力斯和小米有多赚钱",
