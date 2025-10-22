@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T12:26:23.608317+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-10-22T13:28:24.498161+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -21,17 +21,6 @@
           "time_info": "[00时30分 ~ 09时45分]"
         },
         {
-          "title": "新加坡11月将公布更多提振股市的细节。",
-          "url": "https://wallstreetcn.com/livenews/2991643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "金十图示：2025年10月21日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251022040708059800",
           "source": "金十数据",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "新加坡11月将公布更多提振股市的细节。",
+          "url": "https://wallstreetcn.com/livenews/2991643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时28分]"
         },
         {
           "title": "加拿大股市收跌超1.7%，金银矿业股领跌，CPI发布日加债收益率走高",
