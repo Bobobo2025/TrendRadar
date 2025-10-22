@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T14:34:49.590282+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2025-10-22T15:27:08.962575+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 09时45分]"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251022151410351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）全球股市指数-美洲市场（收盘）",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时22分]"
+        },
+        {
+          "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
+          "url": "https://wallstreetcn.com/articles/3757609",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收跌2.3%，兰特跌超0.8%，追随金银价格重挫的表现",
@@ -102,6 +124,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "欧洲股市主要指数低开，欧洲斯托克50指数跌0.27%，英国富时100指数涨0.44%，法国CAC40指数跌0.29%，德国DAX30指数跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/2991744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "多只优质中概股“归巢”，港股迎科技企业生力军",
           "url": "https://wallstreetcn.com/livenews/2991447",
           "source": "华尔街见闻-快讯",
@@ -122,6 +155,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出510.70亿元，占比3.06%；大单资金净流出268.35亿元，占比1.61%；小单资金净流入382.18亿元，占比2.29%。",
+          "url": "https://flash.jin10.com/detail/20251022150621915800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "港交所陈翊庭：港股前三季IPO融资额增逾两倍，正处理近300宗上市申请",
+          "url": "https://wallstreetcn.com/livenews/2991732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "多伦多股市指数跌至三周低点，日内下跌1.9%。",
@@ -174,6 +229,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
+          "url": "https://www.zhihu.com/question/1963985406870647114",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时27分]"
+        },
+        {
           "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
           "url": "https://wallstreetcn.com/livenews/2991417",
           "source": "华尔街见闻-快讯",
@@ -184,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
