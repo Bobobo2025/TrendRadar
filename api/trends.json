@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T16:33:01.675209+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2025-10-22T17:26:11.441103+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时30分 ~ 09时45分]"
         },
         {
+          "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
+          "url": "https://wallstreetcn.com/articles/3757609",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 17时26分]"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20251022151410351800",
           "source": "金十数据",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        },
-        {
-          "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
-          "url": "https://wallstreetcn.com/articles/3757609",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 16时33分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）全球股市指数-美洲市场（收盘）",
@@ -92,6 +92,18 @@
           "time_info": "[00时30分 ~ 01时20分]"
         },
         {
+          "title": "港股收盘，恒生指数收跌0.94%，恒生科技指数收跌1.41%。黄金概念股普跌，老铺黄金跌超8%，中国白银集团跌超8%；泡泡玛特绩后收涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2991796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
+        },
+        {
           "title": "乘股市回暖东风，逾九成保险资管产品年内实现正收益",
           "url": "https://wallstreetcn.com/livenews/2991457",
           "source": "华尔街见闻-快讯",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "港股收盘，恒生指数收跌0.94%，恒生科技指数收跌1.41%。黄金概念股普跌，老铺黄金跌超8%，中国白银集团跌超8%；泡泡玛特绩后收涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2991796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）全球股市指数-欧洲市场（收盘）",
@@ -230,6 +231,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
+          "url": "https://www.zhihu.com/question/1963985406870647114",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 17时26分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/2991405",
           "source": "华尔街见闻-快讯",
@@ -239,18 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时33分]"
         },
         {
           "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
