@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:49:01.309744+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2025-10-22T21:41:42.902465+08:00",
+  "total_titles_processed": 1989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时26分 ~ 20时49分]"
+          "appearance_count": 12,
+          "time_info": "[15时26分 ~ 21时41分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）全球股市指数-欧洲市场",
@@ -179,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-22）",
+          "url": "https://flash.jin10.com/detail/20251022210958122800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出510.70亿元，占比3.06%；大单资金净流出268.35亿元，占比1.61%；小单资金净流入382.18亿元，占比2.29%。",
