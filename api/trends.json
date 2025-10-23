@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:33:49.961658+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-10-24T03:20:13.717768+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美本周累计上涨2.2%",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时20分]"
         },
         {
           "title": "英国股市创收盘历史新高",
