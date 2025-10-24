@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T14:34:10.243172+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-10-24T15:23:17.486588+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 15时23分]"
         },
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251024151239122800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入158.43亿元，占比0.8%；大单资金净流出73.96亿元，占比0.37%；小单资金净流入3.43亿元，占比0.02%。",
+          "url": "https://flash.jin10.com/detail/20251024150618793800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
@@ -161,8 +183,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 15时23分]"
         },
         {
           "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
@@ -171,11 +193,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 15时23分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -259,6 +282,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "理想汽车回应MEGA起火事故",
           "url": "https://www.douyin.com/hot/2280942",
           "source": "抖音",
@@ -268,17 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         }
       ]
     }
