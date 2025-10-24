@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T01:20:09.329860+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-10-25T02:31:27.360086+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "四中全会对A股市场有哪些影响",
@@ -76,11 +77,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     },
