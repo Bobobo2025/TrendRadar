@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T06:23:06.695215+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2025-10-25T07:19:57.020127+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）全球股市指数-美洲市场（收盘）",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时19分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
@@ -117,11 +117,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时19分]"
         }
       ]
     },
@@ -134,11 +135,12 @@
           "url": "https://www.toutiao.com/trending/7564170935826202670/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 07时19分]"
         }
       ]
     }
