@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-24T13:21:10.240017+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-10-24T14:34:10.243172+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 14时34分]"
+        },
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
           "url": "https://www.cls.cn/detail/2178501",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时21分]"
         },
         {
           "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
@@ -157,11 +157,25 @@
           "source": "微博",
           "ranks": [
             10,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 14时34分]"
+        },
+        {
+          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
+          "url": "https://www.cls.cn/detail/2179365",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 14时34分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -174,18 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 11时02分]"
-        },
-        {
-          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
-          "url": "https://www.cls.cn/detail/2179365",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "市监局介入处理小米YU7不明零件",
@@ -207,7 +209,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -254,7 +256,7 @@
     },
     {
       "keyword_group": "理想汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "理想汽车回应MEGA起火事故",
@@ -266,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         }
       ]
     }
