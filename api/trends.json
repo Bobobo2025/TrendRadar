@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T18:25:28.003392+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-10-24T19:19:43.354303+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时22分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[07时22分 ~ 19时19分]"
         },
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "中国央行：维护股市、债市、汇市等金融市场平稳运行",
+          "url": "https://wallstreetcn.com/livenews/2993371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
@@ -109,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -198,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 19时19分]"
         },
         {
           "title": "小米汽车购置税补贴方案",
@@ -265,7 +276,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，YINN涨4.8%，KWEB涨2.1%，CAAA涨1.1%。",
@@ -285,7 +296,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -299,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "腾讯微保、微信支付等联合推出“商保直付”快捷通道，已在深圳4家医院首批试点",
+          "url": "https://wallstreetcn.com/livenews/2993335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -313,11 +335,12 @@
           "ranks": [
             15,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 19时19分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
