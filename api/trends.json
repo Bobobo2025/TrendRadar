@@ -1,33 +1,46 @@
 {
-  "generated_at": "2025-10-25T00:30:34.808960+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-25T01:20:09.329860+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
           "url": "https://wallstreetcn.com/articles/3757722",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时20分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
           "url": "https://wallstreetcn.com/livenews/2993548",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时20分]"
+        },
+        {
+          "title": "四中全会对A股市场有哪些影响",
+          "url": "https://www.toutiao.com/trending/7564786945121848859/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）全球股市指数-欧洲市场（收盘）",
@@ -62,11 +75,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米新车有多处瑕疵车主拒绝提车",
+          "url": "https://www.toutiao.com/trending/7564170935826202670/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         }
       ]
     }
