@@ -1,440 +1,72 @@
 {
-  "generated_at": "2025-10-24T23:25:19.242488+08:00",
-  "total_titles_processed": 2111,
+  "generated_at": "2025-10-25T00:30:34.808960+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
           "url": "https://wallstreetcn.com/articles/3757722",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时22分 ~ 23时25分]"
-        },
-        {
-          "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
-          "url": "https://www.cls.cn/detail/2178501",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "金十图示：2025年10月24日（周五）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20251024151239122800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "00时30分"
+        },
+        {
+          "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
+          "url": "https://wallstreetcn.com/livenews/2993548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251024234134284800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "美国股市延续涨势，道指涨幅扩大至1.00%。",
           "url": "https://flash.jin10.com/detail/20251024231625591800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入158.43亿元，占比0.8%；大单资金净流出73.96亿元，占比0.37%；小单资金净流入3.43亿元，占比0.02%。",
-          "url": "https://flash.jin10.com/detail/20251024150618793800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "中国央行：维护股市、债市、汇市等金融市场平稳运行",
-          "url": "https://wallstreetcn.com/livenews/2993371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
-          "url": "https://wallstreetcn.com/livenews/2992762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时22分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特阿美本周累计上涨2.2%",
-          "url": "https://wallstreetcn.com/livenews/2992704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时20分]"
-        },
-        {
-          "title": "英国股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/2992681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "QFII三季度积极加仓，内外资机构看好A股市场",
-          "url": "https://wallstreetcn.com/livenews/2992803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "金十图示：2025年10月24日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251024180136005800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024090035869800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251024040821600800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "金十图示：2025年10月24日（周五）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20251024102736918800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "金十图示：2025年10月24日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20251024220045591800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "中国台湾股市今日休市。",
-          "url": "https://wallstreetcn.com/livenews/2992866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024083841593800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251023234144004800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024205708119800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
-          "url": "https://www.cls.cn/detail/2179365",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 19时19分]"
-        },
-        {
-          "title": "小米汽车购置税补贴方案",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26dgr%3D0%26realpos%3D10%26pos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D1%26band_rank%3D10%26stream_entry_id%3D31%26display_time%3D1761279848%26pre_seqid%3D176127984810903670917126",
-          "source": "微博",
-          "ranks": [
-            10,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 15时23分]"
-        },
-        {
-          "title": "小米汽车都卖到哪去了",
-          "url": "https://www.toutiao.com/trending/7563335440552738826/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 11时02分]"
-        },
-        {
-          "title": "市监局介入处理小米YU7不明零件",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%B0%8F%E7%B1%B3YU7%E4%B8%8D%E6%98%8E%E9%9B%B6%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25B8%2582%25E7%259B%2591%25E5%25B1%2580%25E4%25BB%258B%25E5%2585%25A5%25E5%25A4%2584%25E7%2590%2586%25E5%25B0%258F%25E7%25B1%25B3YU7%25E4%25B8%258D%25E6%2598%258E%25E9%259B%25B6%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26c_type%3D31%26band_rank%3D30%26pos%3D30%26cate%3D5001%26dgr%3D0%26realpos%3D30%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
-          "source": "微博",
-          "ranks": [
-            30,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "小米新车有多处瑕疵车主拒绝提车",
-          "url": "https://www.toutiao.com/trending/7564170935826202670/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时33分]"
-        },
-        {
-          "title": "小米汽车推出购置税补贴方案",
-          "url": "https://wallstreetcn.com/livenews/2993051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "雷军回应小米K90定价",
-          "url": "https://wallstreetcn.com/livenews/2992956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，YINN涨4.8%，KWEB涨2.1%，CAAA涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
-          "url": "https://wallstreetcn.com/livenews/2993280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "腾讯微保、微信支付等联合推出“商保直付”快捷通道，已在深圳4家医院首批试点",
-          "url": "https://wallstreetcn.com/livenews/2993335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "理想汽车",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            11,
-            10,
-            8,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时33分 ~ 23时25分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故",
-          "url": "https://www.douyin.com/hot/2280942",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蔚来卖爆了 开启“疯狂”招工模式",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%8D%96%E7%88%86%E4%BA%86+%E5%BC%80%E5%90%AF%E2%80%9C%E7%96%AF%E7%8B%82%E2%80%9D%E6%8B%9B%E5%B7%A5%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2993207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "00时30分"
         }
       ]
     }
