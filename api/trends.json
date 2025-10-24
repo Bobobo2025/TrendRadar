@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T11:02:52.918380+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-10-24T12:27:06.728768+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时27分]"
         },
         {
           "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
@@ -108,7 +108,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -149,7 +149,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米汽车都卖到哪去了",
@@ -177,13 +177,35 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "小米汽车购置税补贴方案",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26dgr%3D0%26realpos%3D10%26pos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D1%26band_rank%3D10%26stream_entry_id%3D31%26display_time%3D1761279848%26pre_seqid%3D176127984810903670917126",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
+          "url": "https://www.cls.cn/detail/2179365",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "雷军回应小米K90定价",
           "url": "https://wallstreetcn.com/livenews/2992956",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -214,6 +236,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车回应MEGA起火事故",
+          "url": "https://www.douyin.com/hot/2280942",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         }
       ]
     }
