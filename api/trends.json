@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T19:18:22.962556+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-10-25T20:41:15.010342+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -100,11 +100,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "小米生态链企业轻美科技洗碗机智能制造项目开工",
@@ -114,11 +115,12 @@
             3,
             7,
             13,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 20时41分]"
         },
         {
           "title": "YU7车主曝光小米把维修车当新车卖",
@@ -150,11 +152,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31835798",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时41分]"
         }
       ]
     },
