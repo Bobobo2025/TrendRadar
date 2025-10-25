@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T02:29:40.035427+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-10-26T03:18:53.692957+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
           "url": "https://m.thepaper.cn/newsDetail_forward_31835798",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     }
