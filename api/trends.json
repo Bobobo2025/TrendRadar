@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T16:25:28.397798+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-10-25T17:20:45.258499+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -56,6 +56,17 @@
           "time_info": "[01时19分 ~ 01时20分]"
         },
         {
+          "title": "李大霄：周末重大利好增强股市韧性",
+          "url": "https://www.toutiao.com/trending/7565059578811911716/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "金十图示：2025年10月24日（周五）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251024234134284800",
           "source": "金十数据",
@@ -88,11 +99,25 @@
           "url": "https://wallstreetcn.com/livenews/2993658",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
+          "title": "YU7车主曝光小米把维修车当新车卖",
+          "url": "https://www.toutiao.com/trending/7564610674433936932/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "小米新车有多处瑕疵车主拒绝提车",
@@ -105,18 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 07时19分]"
-        },
-        {
-          "title": "YU7车主曝光小米把维修车当新车卖",
-          "url": "https://www.toutiao.com/trending/7564610674433936932/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时25分]"
         }
       ]
     },
