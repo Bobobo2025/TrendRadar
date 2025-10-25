@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T18:21:28.869334+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-10-25T19:18:22.962556+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "四中全会对A股市场有哪些影响",
@@ -92,18 +92,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "买车送惊喜,小米宠粉有一手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "小米生态链企业轻美科技洗碗机智能制造项目开工",
@@ -112,11 +113,12 @@
           "ranks": [
             3,
             7,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时18分]"
         },
         {
           "title": "YU7车主曝光小米把维修车当新车卖",
@@ -142,6 +144,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 07时19分]"
+        },
+        {
+          "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31835798",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
