@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T07:19:57.020127+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-10-25T09:40:26.296404+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://flash.jin10.com/detail/20251025040626413800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 07时19分]"
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 09时40分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
@@ -121,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时40分]"
         }
       ]
     },
