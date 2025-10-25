@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T06:20:11.835885+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-10-26T07:20:22.304951+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
@@ -27,8 +27,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
