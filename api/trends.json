@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T21:25:47.137459+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2025-10-25T22:20:00.425325+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 19时18分]"
+        },
+        {
+          "title": "湖北盘活“三资”改革引燃股市",
+          "url": "https://www.toutiao.com/trending/7564383992020008996/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "四中全会对A股市场有哪些影响",
@@ -105,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时20分]"
         },
         {
           "title": "小米生态链企业轻美科技洗碗机智能制造项目开工",
@@ -125,6 +136,18 @@
           "time_info": "[16时25分 ~ 21时25分]"
         },
         {
+          "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31835798",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "YU7车主曝光小米把维修车当新车卖",
           "url": "https://www.toutiao.com/trending/7564610674433936932/",
           "source": "今日头条",
@@ -136,18 +159,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时19分 ~ 17时20分]"
-        },
-        {
-          "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31835798",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时25分]"
         },
         {
           "title": "小米新车有多处瑕疵车主拒绝提车",
