@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T15:19:33.228697+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-10-26T16:26:17.006364+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时26分]"
         },
         {
           "title": "买车送惊喜,小米宠粉有一手",
@@ -34,8 +34,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时26分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 16时26分]"
         }
       ]
     }
