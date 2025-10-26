@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T09:48:26.535930+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-10-26T11:14:21.654007+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时14分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 11时14分]"
         }
       ]
     }
