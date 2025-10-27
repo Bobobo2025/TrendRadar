@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T13:25:42.462876+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-10-27T14:37:59.899460+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -77,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
         }
       ]
     },
@@ -94,11 +95,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%85%BE%E8%AE%AF%E5%AE%98%E5%AE%A3%E7%AD%89%E9%A3%8E%E7%83%AD%E5%90%BB%E4%BD%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D22%26lcate%3D5001%26realpos%3D22%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%2523%25E8%2585%25BE%25E8%25AE%25AF%25E5%25AE%2598%25E5%25AE%25A3%25E7%25AD%2589%25E9%25A3%258E%25E7%2583%25AD%25E5%2590%25BB%25E4%25BD%25A0%2523%26cate%3D5001%26band_rank%3D22%26display_time%3D1761542455%26pre_seqid%3D176154245530901948370158",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时37分]"
         }
       ]
     },
@@ -111,11 +113,12 @@
           "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
         }
       ]
     }
