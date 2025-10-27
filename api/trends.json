@@ -1,11 +1,39 @@
 {
-  "generated_at": "2025-10-27T07:21:31.987166+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-10-27T09:52:29.549823+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027091216818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "中美经贸磋商如何影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "买车送惊喜,小米宠粉有一手",
@@ -18,6 +46,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
+          "url": "https://www.zhihu.com/question/1965388455073777331",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
+          "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     }
