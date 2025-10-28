@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:32:23.416719+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-10-28T17:24:29.503939+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -168,7 +168,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -237,6 +237,18 @@
           "time_info": "15时23分"
         },
         {
+          "title": "小米自研自产家电你会买吗",
+          "url": "https://www.toutiao.com/trending/7566103520548225065/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时24分]"
+        },
+        {
           "title": "恒指高开0.28%，报26508.75点；恒生科技指数涨0.45%。小鹏汽车涨4.6%，舜宇光学科技涨近2%；小米跌0.9%。网易跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/2994645",
           "source": "华尔街见闻-快讯",
@@ -248,24 +260,13 @@
           "time_info": "09时41分"
         },
         {
-          "title": "小米自研自产家电你会买吗",
-          "url": "https://www.toutiao.com/trending/7566103520548225065/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "小米高层调整：中国区总裁王晓雁不再兼任小米之家总经理，陈恺接任",
           "url": "https://wallstreetcn.com/livenews/2994887",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
