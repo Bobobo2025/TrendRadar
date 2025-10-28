@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T05:20:55.027674+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2025-10-29T06:22:42.480699+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -75,8 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时22分]"
         },
         {
           "title": "小米汽车送6万配置是诚意还是营销",
