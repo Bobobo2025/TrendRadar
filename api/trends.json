@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T03:18:34.784640+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-10-29T04:27:46.669208+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "小米汽车送6万配置是诚意还是营销",
@@ -59,6 +60,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，KWEB初步收跌0.8%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2995347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
