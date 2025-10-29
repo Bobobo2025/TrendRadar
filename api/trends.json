@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-29T20:48:12.963947+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2025-10-29T21:35:56.505445+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入10.89亿元，占比0.05%；大单资金净流出63.19亿元，占比0.28%；小单资金净流入116.29亿元，占比0.52%。",
-          "url": "https://flash.jin10.com/detail/20251029150939470800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
         {
           "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
           "url": "https://www.cls.cn/detail/2184773",
@@ -28,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时48分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 21时35分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入10.89亿元，占比0.05%；大单资金净流出63.19亿元，占比0.28%；小单资金净流入116.29亿元，占比0.52%。",
+          "url": "https://flash.jin10.com/detail/20251029150939470800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "非洲股市收盘播报｜周二（10月28日），南非富时/JSE非洲领先40可交易指数收涨1.06%，逼近10.25万点。",
@@ -133,6 +133,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "巴克莱：股市将出现“年末涨势”，整体市场环境对股市进一步上涨构成有利支撑",
+          "url": "https://flash.jin10.com/detail/20251029210526411800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "李大霄：中国股市或掀开新篇章",
           "url": "https://www.toutiao.com/trending/7566561779469848091/",
           "source": "今日头条",
@@ -168,11 +179,12 @@
             8,
             10,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时35分 ~ 20时48分]"
+          "appearance_count": 11,
+          "time_info": "[14时35分 ~ 21时35分]"
         },
         {
           "title": "小米自研自产家电你会买吗",
