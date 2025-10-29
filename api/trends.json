@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T15:23:04.429597+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-10-29T16:31:05.859729+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入10.89亿元，占比0.05%；大单资金净流出63.19亿元，占比0.28%；小单资金净流入116.29亿元，占比0.52%。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -65,6 +65,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "金十图示：2025年10月29日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251029161409016800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
           "url": "https://wallstreetcn.com/livenews/2995627",
           "source": "华尔街见闻-快讯",
@@ -112,11 +123,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346392&amp;topic_name=%E5%B0%8F%E7%B1%B3%E7%8B%82%E6%8F%BD%E8%BD%A6%E6%A6%9C%E7%AC%AC%E4%B8%80%2C%E8%B4%A8%E7%96%91%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "小米狂揽车榜第一,翻车质疑炸锅",
