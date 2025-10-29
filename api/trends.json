@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T06:24:33.814881+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-10-30T07:22:07.401066+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -55,22 +55,24 @@
           "ranks": [
             7,
             17,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 07时22分]"
         },
         {
           "title": "小米高管回应巨省电是空调名",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B7%A8%E7%9C%81%E7%94%B5%E6%98%AF%E7%A9%BA%E8%B0%83%E5%90%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%25AB%2598%25E7%25AE%25A1%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25A8%25E7%259C%2581%25E7%2594%25B5%25E6%2598%25AF%25E7%25A9%25BA%25E8%25B0%2583%25E5%2590%258D%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D10%26band_rank%3D10%26display_time%3D1761770417%26pre_seqid%3D1761770417218027496875",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 07时22分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
@@ -80,8 +82,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 07时22分]"
         }
       ]
     },
