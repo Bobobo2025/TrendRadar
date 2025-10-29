@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T16:31:05.859729+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2025-10-29T17:23:47.356792+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入10.89亿元，占比0.05%；大单资金净流出63.19亿元，占比0.28%；小单资金净流入116.29亿元，占比0.52%。",
@@ -43,6 +43,17 @@
           "time_info": "[12时29分 ~ 13时25分]"
         },
         {
+          "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
+          "url": "https://www.cls.cn/detail/2184773",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "金十图示：2025年10月29日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251029004703558800",
           "source": "金十数据",
@@ -71,7 +82,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -96,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "为何印度股市会出现外资撤离潮",
+          "url": "https://www.toutiao.com/trending/7566518028796431908/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
@@ -124,11 +146,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 17时23分]"
         },
         {
           "title": "小米狂揽车榜第一,翻车质疑炸锅",
