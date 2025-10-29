@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T18:25:25.081633+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-10-29T19:21:50.968436+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时21分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（10月28日），南非富时/JSE非洲领先40可交易指数收涨1.06%，逼近10.25万点。",
@@ -61,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -138,7 +138,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -181,11 +181,12 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时21分]"
         },
         {
           "title": "小米狂揽车榜第一,翻车质疑炸锅",
