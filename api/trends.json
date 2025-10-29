@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T17:23:47.356792+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2025-10-29T18:25:25.081633+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入10.89亿元，占比0.05%；大单资金净流出63.19亿元，占比0.28%；小单资金净流入116.29亿元，占比0.52%。",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
+          "url": "https://www.cls.cn/detail/2184773",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时25分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（10月28日），南非富时/JSE非洲领先40可交易指数收涨1.06%，逼近10.25万点。",
@@ -43,15 +55,15 @@
           "time_info": "[12时29分 ~ 13时25分]"
         },
         {
-          "title": "7.38万亿！公募持A股市值创新高，宁德时代蝉联头号重仓股",
-          "url": "https://www.cls.cn/detail/2184773",
-          "source": "财联社热门",
+          "title": "金十图示：2025年10月29日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251029180240078800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时25分"
         },
         {
           "title": "金十图示：2025年10月29日（周三）全球股市指数-欧洲市场（收盘）",
@@ -87,6 +99,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "市场消息：俄罗斯政府已允许包括核能垄断企业俄罗斯国家原子能公司和俄罗斯铁路公司在内的国有企业，使用其闲置现金在市场上购买股票和债券。此举被视为在最新一轮美国制裁后提振股市的举措。",
+          "url": "https://flash.jin10.com/detail/20251029175744179800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
           "url": "https://wallstreetcn.com/livenews/2995627",
           "source": "华尔街见闻-快讯",
@@ -109,13 +132,24 @@
           "time_info": "09时49分"
         },
         {
+          "title": "李大霄：中国股市或掀开新篇章",
+          "url": "https://www.toutiao.com/trending/7566561779469848091/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "为何印度股市会出现外资撤离潮",
           "url": "https://www.toutiao.com/trending/7566518028796431908/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
@@ -150,8 +184,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 18时25分]"
         },
         {
           "title": "小米狂揽车榜第一,翻车质疑炸锅",
