@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T04:40:20.113383+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T05:29:46.264525+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7565540045223264262/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         },
         {
           "title": "小米高管回应巨省电是空调名",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
@@ -37,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         }
       ]
     },
@@ -51,22 +52,24 @@
           "url": "https://wallstreetcn.com/livenews/2996181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         },
         {
           "title": "金十图示：2025年10月29日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251030040544312800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         }
       ]
     },
@@ -79,11 +82,12 @@
           "url": "https://wallstreetcn.com/livenews/2996198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时29分]"
         }
       ]
     }
