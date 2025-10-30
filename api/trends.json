@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T22:23:31.203747+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-10-30T23:28:41.229098+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
@@ -95,7 +95,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -144,8 +144,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时25分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[12时25分 ~ 23时28分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
