@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T19:19:43.381942+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2025-10-30T20:52:35.999218+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-30）",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时29分]"
+        },
+        {
+          "title": "明天A股市场能否反包大涨",
+          "url": "https://www.toutiao.com/trending/7566957124966682150/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "阿根廷MERVAL指数收涨4.86%，报280万点，最近三个交易日狂拉34.83%。 10月7日结束交易以来，阿根廷股市累计上涨54.95%。",
@@ -115,11 +126,12 @@
             13,
             16,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 20时52分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
