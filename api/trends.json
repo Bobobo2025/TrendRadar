@@ -1,223 +1,39 @@
 {
-  "generated_at": "2025-10-30T23:28:41.229098+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2025-10-31T00:32:32.010623+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-10-30）",
-          "url": "https://flash.jin10.com/detail/20251030091235181800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "港股午后走低，恒生科技指数一度跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2996486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时34分]"
-        },
-        {
-          "title": "明天A股市场能否反包大涨",
-          "url": "https://www.toutiao.com/trending/7566957124966682150/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时33分]"
-        },
-        {
-          "title": "鲍威尔：在缺乏美国股市急剧下跌的情况下，开支不会陡然下降。 对于当前支撑开支而言，股市是一个因素。",
-          "url": "https://wallstreetcn.com/livenews/2996181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时29分]"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251030040544312800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时29分]"
-        },
-        {
-          "title": "阿根廷MERVAL指数收涨4.86%，报280万点，最近三个交易日狂拉34.83%。 10月7日结束交易以来，阿根廷股市累计上涨54.95%。",
-          "url": "https://wallstreetcn.com/livenews/2996230",
+          "title": "中东股市收盘播报｜周四（10月30日），沙特证交所全股指数收跌0.82%——打乱10月27-29日持续上涨的趋势，报11655.85点，本周（连续五个自然日）累计上涨0.38%。 沙特阿美（ARAMCO.AB）收跌0.08%，报25.90沙特里亚尔，本周累涨0.15%、整体持续震荡上行。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.99%——逆转此前四天持续走高的趋势，报12.02沙特里亚尔，本周累跌1.64%。 土耳其伊斯坦布尔证交所全国100指数收跌0.31%，伊斯坦布尔证交所银行指数收涨0.62%。",
+          "url": "https://wallstreetcn.com/livenews/2997035",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20251030102956300800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20251030220059350800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-30）",
-          "url": "https://flash.jin10.com/detail/20251030083921748800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "日本央行行长植田和男：将在下次会议上做出适当的政策决定。 没有考虑因股市而不加息。 在关注美国经济的同时，重点研究工资势头。 在2026财年下行风险中，认为包括部分关税因素的影响。",
-          "url": "https://wallstreetcn.com/livenews/2996570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346461&amp;topic_name=%E5%85%A5%E4%BE%B5%E9%81%AD%E9%AA%82%2C%E5%B0%8F%E7%B1%B3%E5%B9%BF%E5%91%8A%E7%8B%82%E8%BD%B0%E9%9F%B3%E5%93%8D%E5%90%A7",
           "source": "贴吧",
           "ranks": [
-            7,
-            8,
-            10,
-            13,
-            16,
-            18,
-            20,
-            22,
-            23,
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时25分 ~ 23时28分]"
-        },
-        {
-          "title": "小米狂揽车榜第一,质疑铺天盖地",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346392&amp;topic_name=%E5%B0%8F%E7%B1%B3%E7%8B%82%E6%8F%BD%E8%BD%A6%E6%A6%9C%E7%AC%AC%E4%B8%80%2C%E8%B4%A8%E7%96%91%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            22,
-            26,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时40分 ~ 15时22分]"
-        },
-        {
-          "title": "小米高管回应“巨省电”是产品名",
-          "url": "https://www.toutiao.com/trending/7565540045223264262/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            17,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时40分 ~ 07时22分]"
-        },
-        {
-          "title": "小米高管回应巨省电是空调名",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B7%A8%E7%9C%81%E7%94%B5%E6%98%AF%E7%A9%BA%E8%B0%83%E5%90%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%25AB%2598%25E7%25AE%25A1%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25A8%25E7%259C%2581%25E7%2594%25B5%25E6%2598%25AF%25E7%25A9%25BA%25E8%25B0%2583%25E5%2590%258D%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D10%26band_rank%3D10%26display_time%3D1761770417%26pre_seqid%3D1761770417218027496875",
-          "source": "微博",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时40分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%。美团涨超5%，小鹏汽车、蔚来涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/2996435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
-          "url": "https://wallstreetcn.com/livenews/2996198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时29分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
