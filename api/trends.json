@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T17:24:27.183248+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-10-31T18:25:18.112427+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 18时25分]"
         },
         {
           "title": "美国科技公司营收强劲及日元走软带动日本股市上涨",
@@ -145,7 +145,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -155,6 +155,17 @@
       "keyword_group": "小米 小米汽车",
       "match_count": 4,
       "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时25分]"
+        },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346461&amp;topic_name=%E5%85%A5%E4%BE%B5%E9%81%AD%E9%AA%82%2C%E5%B0%8F%E7%B1%B3%E5%B9%BF%E5%91%8A%E7%8B%82%E8%BD%B0%E9%9F%B3%E5%93%8D%E5%90%A7",
@@ -168,17 +179,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时32分 ~ 13时23分]"
-        },
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "小米、海信等在浙江成立智屏视界科技公司 注册资本5000万",
@@ -246,8 +246,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 18时25分]"
         }
       ]
     },
@@ -262,7 +262,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
