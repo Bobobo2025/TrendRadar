@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T20:44:56.756386+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2025-10-31T21:33:42.673565+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技巨头主宰一切！亚洲股市“巨头依赖症”加深 中国市场是解药？",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时28分 ~ 19时18分]"
+        },
+        {
+          "title": "美联储洛根：消费者支出略高于长期趋势；股市上涨推动富裕家庭的需求增长。",
+          "url": "https://flash.jin10.com/detail/20251031210538992800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国科技公司营收强劲及日元走软带动日本股市上涨",
@@ -139,6 +150,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
+          "url": "https://flash.jin10.com/detail/20251031205708619800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "新兴市场股市今年每月都录得上涨，为自1993年以来的首次。",
           "url": "https://flash.jin10.com/detail/20251031165510995800",
           "source": "金十数据",
@@ -163,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 20时44分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 21时33分]"
         },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
@@ -208,11 +230,12 @@
           "url": "https://wallstreetcn.com/livenews/2997702",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时33分]"
         },
         {
           "title": "小米捐赠5亿元支持科研",
@@ -265,11 +288,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
