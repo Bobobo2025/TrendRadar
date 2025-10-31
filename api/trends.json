@@ -1,369 +1,73 @@
 {
-  "generated_at": "2025-10-31T23:22:08.211882+08:00",
-  "total_titles_processed": 2077,
+  "generated_at": "2025-11-01T00:28:20.378804+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技巨头主宰一切！亚洲股市“巨头依赖症”加深 中国市场是解药？",
-          "url": "https://www.cls.cn/detail/2187356",
+          "title": "Dominion Energy Inc.：25%的（电力）销售输送到美国弗吉尼亚州的（那些）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2997810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
           "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 19时18分]"
-        },
-        {
-          "title": "美联储洛根：消费者支出略高于长期趋势；股市上涨推动富裕家庭的需求增长。",
-          "url": "https://flash.jin10.com/detail/20251031210538992800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20251031220100720800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国科技公司营收强劲及日元走软带动日本股市上涨",
-          "url": "https://flash.jin10.com/detail/20251031093535294800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251031040550678800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时20分]"
-        },
-        {
-          "title": "明略科技港股暗盘一度大涨逾130%，发售价每股141港元。",
-          "url": "https://wallstreetcn.com/livenews/2997569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时24分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（10月30日），沙特证交所全股指数收跌0.82%——打乱10月27-29日持续上涨的趋势，报11655.85点，本周（连续五个自然日）累计上涨0.38%。 沙特阿美（ARAMCO.AB）收跌0.08%，报25.90沙特里亚尔，本周累涨0.15%、整体持续震荡上行。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.99%——逆转此前四天持续走高的趋势，报12.02沙特里亚尔，本周累跌1.64%。 土耳其伊斯坦布尔证交所全国100指数收跌0.31%，伊斯坦布尔证交所银行指数收涨0.62%。",
-          "url": "https://wallstreetcn.com/livenews/2997035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时32分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251031004543440800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时32分]"
-        },
-        {
-          "title": "受贸易乐观情绪影响，韩国股市势将创下2001年来最大单月涨幅",
-          "url": "https://flash.jin10.com/detail/20251031113743465800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20251031161230172800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20251031102814493800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
-        },
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "越南股市跌幅扩大 一度下跌2.5%",
-          "url": "https://flash.jin10.com/detail/20251031160618731800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "机制A还是机制B？ 港股打新逻辑焕新",
-          "url": "https://wallstreetcn.com/livenews/2997168",
+          "title": "非洲股市收盘播报｜周五（10月31日），南非富时/JSE非洲领先40可交易指数收跌0.42%，至10.2万点下方，本周累计下跌1.14%。 10月份，南非股指累涨0.98%，10月16日涨至10.6万点创历史新高之后快速走低。",
+          "url": "https://wallstreetcn.com/livenews/2997812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
-          "url": "https://flash.jin10.com/detail/20251031205708619800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "新兴市场股市今年每月都录得上涨，为自1993年以来的首次。",
-          "url": "https://flash.jin10.com/detail/20251031165510995800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
           "source": "贴吧",
           "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时20分 ~ 23时22分]"
-        },
-        {
-          "title": "入侵遭骂,小米广告狂轰音响吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346461&amp;topic_name=%E5%85%A5%E4%BE%B5%E9%81%AD%E9%AA%82%2C%E5%B0%8F%E7%B1%B3%E5%B9%BF%E5%91%8A%E7%8B%82%E8%BD%B0%E9%9F%B3%E5%93%8D%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时23分]"
-        },
-        {
-          "title": "小米、海信等在浙江成立智屏视界科技公司 注册资本5000万",
-          "url": "https://wallstreetcn.com/livenews/2997488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/2997668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时44分]"
-        },
-        {
-          "title": "小米可穿戴部创新产品业务负责人李创奇已离职，曾力推AI眼镜",
-          "url": "https://wallstreetcn.com/livenews/2997702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时33分]"
-        },
-        {
-          "title": "小米捐赠5亿元支持科研",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%8D%90%E8%B5%A05%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%81%E7%A7%91%E7%A0%94&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%258D%2590%25E8%25B5%25A05%25E4%25BA%25BF%25E5%2585%2583%25E6%2594%25AF%25E6%258C%2581%25E7%25A7%2591%25E7%25A0%2594%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D24%26stream_entry_id%3D31%26realpos%3D23%26band_rank%3D23%26display_time%3D1761875370%26pre_seqid%3D1761875370761026852861",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "理想汽车为车辆起火事件致歉",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
-        },
-        {
-          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
-          "url": "https://www.cls.cn/detail/2188129",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时21分 ~ 23时22分]"
-        },
-        {
-          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
-          "url": "https://wallstreetcn.com/livenews/2997591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，KWEB跌2.2%，CQQQ跌2.1%，ASHS和ASHR也跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.88%，报8230.19点。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌2.28%，中国科技指数ETF（CQQQ）收跌2.19%。 XtrackersHarvest中证50（ASHS）收跌1.33%，德银嘉实沪深300指数ETF（ASHR）收跌1.15%。",
-          "url": "https://wallstreetcn.com/livenews/2997114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里腾讯10月卖空数据激增 机构称震荡中孕育慢牛机会",
-          "url": "https://www.cls.cn/detail/2187385",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 18时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "香港恒生指数开盘跌0.07%，报26263.01点；恒生科技指数跌0.65%。比亚迪股份低开3.55%，此前发布财报；比亚迪电子跌1.66%，阿里巴巴、小米、网易、百度跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "00时28分"
         }
       ]
     }
