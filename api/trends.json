@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:33:42.673565+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-10-31T22:22:52.862394+08:00",
+  "total_titles_processed": 1995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技巨头主宰一切！亚洲股市“巨头依赖症”加深 中国市场是解药？",
@@ -30,9 +30,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251031220100720800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国科技公司营收强劲及日元走软带动日本股市上涨",
@@ -156,7 +167,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -185,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 21时33分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 22时22分]"
         },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
