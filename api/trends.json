@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:30:44.827273+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-10-31T17:24:27.183248+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技巨头主宰一切！亚洲股市“巨头依赖症”加深 中国市场是解药？",
@@ -16,22 +16,12 @@
             10,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时30分]"
-        },
-        {
-          "title": "明略科技港股暗盘一度大涨逾130%，发售价每股141港元。",
-          "url": "https://wallstreetcn.com/livenews/2997569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时24分]"
         },
         {
           "title": "美国科技公司营收强劲及日元走软带动日本股市上涨",
@@ -55,6 +45,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时20分]"
+        },
+        {
+          "title": "明略科技港股暗盘一度大涨逾130%，发售价每股141港元。",
+          "url": "https://wallstreetcn.com/livenews/2997569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "中东股市收盘播报｜周四（10月30日），沙特证交所全股指数收跌0.82%——打乱10月27-29日持续上涨的趋势，报11655.85点，本周（连续五个自然日）累计上涨0.38%。 沙特阿美（ARAMCO.AB）收跌0.08%，报25.90沙特里亚尔，本周累涨0.15%、整体持续震荡上行。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.99%——逆转此前四天持续走高的趋势，报12.02沙特里亚尔，本周累跌1.64%。 土耳其伊斯坦布尔证交所全国100指数收跌0.31%，伊斯坦布尔证交所银行指数收涨0.62%。",
@@ -99,7 +101,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -121,7 +123,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "新兴市场股市今年每月都录得上涨，为自1993年以来的首次。",
+          "url": "https://flash.jin10.com/detail/20251031165510995800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -164,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "小米、海信等在浙江成立智屏视界科技公司 注册资本5000万",
@@ -233,8 +246,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 17时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
+          "url": "https://wallstreetcn.com/livenews/2997591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
