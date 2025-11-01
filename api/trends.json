@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T03:17:50.306040+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-02T04:21:25.875001+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
@@ -15,8 +15,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
+        },
+        {
+          "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
+          "url": "https://www.cls.cn/detail/2188647",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -33,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     }
