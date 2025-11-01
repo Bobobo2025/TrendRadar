@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T14:31:38.105568+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-11-01T15:21:48.033170+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -124,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时21分]"
         },
         {
           "title": "小米公司宣布，截至2025年10月31日23:59:59，小米双11全渠道累计支付金额破182亿。",
@@ -147,11 +147,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时21分]"
         },
         {
           "title": "小米汽车：2025年10月，小米汽车交付量持续超过40000台。",
