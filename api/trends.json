@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T07:19:47.409785+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-11-02T09:54:22.491316+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251101221419283800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时54分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -44,8 +45,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时54分]"
         }
       ]
     }
