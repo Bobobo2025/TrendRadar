@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T13:21:34.994688+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-11-02T14:32:53.437110+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,24 @@
           "url": "https://wallstreetcn.com/articles/3758477",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时32分]"
+        },
+        {
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时32分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时20分]"
-        },
-        {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时21分]"
         }
       ]
     },
@@ -70,8 +71,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 14时32分]"
         }
       ]
     }
