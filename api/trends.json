@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-02T16:26:16.695123+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2025-11-02T17:20:17.653451+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
       "match_count": 4,
       "titles": [
+        {
+          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
+          "url": "https://wallstreetcn.com/articles/3758477",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 17时20分]"
+        },
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
           "url": "https://flash.jin10.com/detail/20251101221419283800",
@@ -20,20 +34,6 @@
           "time_info": "[00时23分 ~ 09时54分]"
         },
         {
-          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
-          "url": "https://wallstreetcn.com/articles/3758477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 16时26分]"
-        },
-        {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/1968007806016819893",
           "source": "知乎",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时20分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
