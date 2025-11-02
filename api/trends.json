@@ -1,86 +1,22 @@
 {
-  "generated_at": "2025-11-02T23:20:02.023722+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-11-03T00:25:08.037759+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/1968007806016819893",
           "source": "知乎",
           "ranks": [
-            12,
-            10,
-            9,
-            7,
-            5,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时27分 ~ 23时20分]"
-        },
-        {
-          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
-          "url": "https://wallstreetcn.com/articles/3758477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 17时20分]"
-        },
-        {
-          "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
-          "url": "https://flash.jin10.com/detail/20251101221419283800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时54分]"
-        },
-        {
-          "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
-          "url": "https://www.cls.cn/detail/2188647",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22,
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
