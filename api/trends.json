@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:41:23.625034+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-11-02T21:26:43.999548+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 20时41分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 21时26分]"
         },
         {
           "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
