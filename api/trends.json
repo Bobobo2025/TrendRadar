@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T11:18:27.928433+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-11-02T12:27:20.978912+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
@@ -20,6 +20,17 @@
           "time_info": "[00时23分 ~ 09时54分]"
         },
         {
+          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
+          "url": "https://wallstreetcn.com/articles/3758477",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 12时27分]"
+        },
+        {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
           "url": "https://www.cls.cn/detail/2188647",
           "source": "财联社热门",
@@ -31,15 +42,15 @@
           "time_info": "[04时21分 ~ 06时20分]"
         },
         {
-          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
-          "url": "https://wallstreetcn.com/articles/3758477",
-          "source": "华尔街见闻",
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
           "ranks": [
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -54,11 +65,12 @@
           "ranks": [
             21,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时27分]"
         }
       ]
     }
