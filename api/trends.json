@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T01:20:40.663738+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-04T02:31:18.194025+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "中金：谁是港股资金的主力和增量？",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）全球股市指数-欧洲市场（收盘）",
@@ -48,7 +48,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
