@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T04:27:11.847939+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-04T05:20:44.326056+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251104050623678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌约0.2%，矿业股领跌",
@@ -42,6 +53,17 @@
           "time_info": "[00时26分 ~ 03时18分]"
         },
         {
+          "title": "超2100亿港元，港股前10月IPO募资额领跑全球",
+          "url": "https://wallstreetcn.com/livenews/2998751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "金十图示：2025年11月04日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251104004722923800",
           "source": "金十数据",
@@ -51,6 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/2998754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     }
