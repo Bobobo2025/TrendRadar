@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T21:35:01.725609+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2025-11-03T22:23:46.551461+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "中金：谁是港股资金的主力和增量？",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 22时23分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 22时23分]"
         },
         {
           "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时46分 ~ 21时35分]"
+        },
+        {
+          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球股市指数-欧洲市场（盘初）",
@@ -147,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-03）",
+          "url": "https://flash.jin10.com/detail/20251103214246698800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十数据整理：上周五全球股市走势回顾（2025-11-03）",
