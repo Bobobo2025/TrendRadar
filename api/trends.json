@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T22:23:49.960352+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2025-11-04T23:25:48.461689+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时25分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）全球股市指数-亚太市场（收盘）",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251104230302604800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球股市指数-美洲市场（收盘）",
@@ -179,7 +190,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
@@ -226,6 +237,35 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
+          "url": "https://wallstreetcn.com/livenews/2998969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时22分]"
+        },
+        {
+          "title": "明星科技股普跌，美光科技(MU.O)跌6%，英特尔(INTC.O)、AMD(AMD.O)跌超4%，甲骨文(ORCL.N)、阿里巴巴(BABA.N)跌约3%，英伟达(NVDA.O)跌2.4%。",
+          "url": "https://flash.jin10.com/detail/20251104223357357800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -257,24 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
-          "url": "https://wallstreetcn.com/livenews/2998969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时22分]"
         }
       ]
     },
