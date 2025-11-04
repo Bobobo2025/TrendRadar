@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T19:20:54.006924+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-11-04T20:49:53.500947+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
+          "url": "https://www.cls.cn/detail/2190629",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时49分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球股市指数-美洲市场（收盘）",
@@ -91,18 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时18分]"
-        },
-        {
-          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
-          "url": "https://www.cls.cn/detail/2190629",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时20分]"
         },
         {
           "title": "超2100亿港元，港股前10月IPO募资额领跑全球",
