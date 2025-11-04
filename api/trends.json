@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T18:28:03.141938+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-04T19:20:54.006924+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
@@ -29,7 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -97,11 +97,12 @@
           "url": "https://www.cls.cn/detail/2190629",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时20分]"
         },
         {
           "title": "超2100亿港元，港股前10月IPO募资额领跑全球",
