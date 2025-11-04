@@ -1,320 +1,33 @@
 {
-  "generated_at": "2025-11-04T23:25:48.461689+08:00",
-  "total_titles_processed": 2081,
+  "generated_at": "2025-11-05T00:28:00.320415+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
-          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
+          "title": "非洲股市收盘播报｜南非股市收跌1.7%，贵金属矿业股领跌",
+          "url": "https://wallstreetcn.com/livenews/2999302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时22分]"
-        },
-        {
-          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
-          "url": "https://www.cls.cn/detail/2190629",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时25分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）全球股市指数-亚太市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251104181036748800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "00时28分"
         },
         {
           "title": "金十图示：2025年11月04日（周二）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251104230302604800",
           "source": "金十数据",
           "ranks": [
-            5
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "金十图示：2025年11月03日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251104050623678800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时25分]"
-        },
-        {
-          "title": "赛力斯港股暗盘涨近3%",
-          "url": "https://wallstreetcn.com/livenews/2999096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时26分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收跌约0.2%，矿业股领跌",
-          "url": "https://wallstreetcn.com/livenews/2998660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "券商三季度末持股市值逾660亿元，重仓布局高端制造与科技赛道",
-          "url": "https://wallstreetcn.com/livenews/2998779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "中金：谁是港股资金的主力和增量？",
-          "url": "https://wallstreetcn.com/articles/3758517",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
-        },
-        {
-          "title": "超2100亿港元，港股前10月IPO募资额领跑全球",
-          "url": "https://wallstreetcn.com/livenews/2998751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时25分]"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出896.47亿元，占比4.68%；大单资金净流出320.24亿元，占比1.67%；小单资金净流入659.67亿元，占比3.44%。",
-          "url": "https://flash.jin10.com/detail/20251104150742666800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "港股百度集团涨超5%。公司旗下自动驾驶出行服务平台萝卜快跑公布，截至10月31日，萝卜快跑每周订单量超过25万宗，且100%为全无人订单。",
-          "url": "https://wallstreetcn.com/livenews/2998914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-04）",
-          "url": "https://flash.jin10.com/detail/20251104085627538800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251104102627530800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251104004722923800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-04）",
-          "url": "https://flash.jin10.com/detail/20251104214109676800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
-          "url": "https://wallstreetcn.com/livenews/2998754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时28分]"
-        },
-        {
-          "title": "中概指数收涨超0.2%，阿特斯涨约9.7%，蔚来涨超2.3%，CQQQ跌约0.6%，阿里跌1.6%",
-          "url": "https://wallstreetcn.com/livenews/2998754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
-          "url": "https://wallstreetcn.com/livenews/2998969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时22分]"
-        },
-        {
-          "title": "明星科技股普跌，美光科技(MU.O)跌6%，英特尔(INTC.O)、AMD(AMD.O)跌超4%，甲骨文(ORCL.N)、阿里巴巴(BABA.N)跌约3%，英伟达(NVDA.O)跌2.4%。",
-          "url": "https://flash.jin10.com/detail/20251104223357357800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯视频11月电视剧片单",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%9111%E6%9C%88%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%87%E5%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D5%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D5%26q%3D%2523%25E8%2585%25BE%25E8%25AE%25AF%25E8%25A7%2586%25E9%25A2%259111%25E6%259C%2588%25E7%2594%25B5%25E8%25A7%2586%25E5%2589%25A7%25E7%2589%2587%25E5%258D%2595%2523%26display_time%3D1762230208%26pre_seqid%3D17622302086480253635138&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒指低开0.04%，报26148.07点；恒生科技指数跌0.19%。快手跌1.8%，舜宇光学科技跌1.4%，理想汽车、海尔智家跌超1%；中芯国际涨1%，百度涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/2998865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "京东双11手机榜：苹果登顶销冠，小米摘国产第一",
-          "url": "https://wallstreetcn.com/livenews/2999228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时23分]"
+          "time_info": "00时28分"
         }
       ]
     }
