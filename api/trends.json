@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T16:32:30.031665+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-11-05T17:26:23.100307+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
@@ -15,11 +15,12 @@
             13,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 17时26分]"
         },
         {
           "title": "受科技股拖累，新兴市场股市将创下四月以来最大两日跌幅。",
@@ -28,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -152,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -188,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "日韩股市大跌",
+          "url": "https://www.douyin.com/hot/2295091",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     },
@@ -235,6 +247,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "第一财经再出手,痛击小米销量惨淡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时26分]"
+        },
+        {
           "title": "小米YU7全网首拆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A8%E7%BD%91%E9%A6%96%E6%8B%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3YU7%25E5%2585%25A8%25E7%25BD%2591%25E9%25A6%2596%25E6%258B%2586%2523%26band_rank%3D29%26flag%3D1%26cate%3D5001%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26pos%3D30%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762316871%26pre_seqid%3D1762316871862099600104&launchid=10000360-page_H5",
           "source": "微博",
@@ -246,19 +271,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时29分 ~ 15时22分]"
-        },
-        {
-          "title": "第一财经再出手,痛击小米销量惨淡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时32分]"
         }
       ]
     },
