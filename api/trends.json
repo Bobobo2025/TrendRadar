@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:23:07.633734+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-11-05T14:36:06.231558+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）全球股市指数-美洲市场（收盘）",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "李大霄：中国股市或有强大稳定力量",
+          "url": "https://www.toutiao.com/trending/7569086086249451050/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 14时36分]"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时43分]"
-        },
-        {
-          "title": "李大霄：中国股市或有强大稳定力量",
-          "url": "https://www.toutiao.com/trending/7569086086249451050/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）亚太市场股市指数（盘初）",
@@ -163,6 +164,36 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "第一财经再出手,痛击小米销量惨淡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "小米YU7全网首拆",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A8%E7%BD%91%E9%A6%96%E6%8B%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3YU7%25E5%2585%25A8%25E7%25BD%2591%25E9%25A6%2596%25E6%258B%2586%2523%26band_rank%3D29%26flag%3D1%26cate%3D5001%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26pos%3D30%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762316871%26pre_seqid%3D1762316871862099600104&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 14时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -176,24 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米YU7全网首拆",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3YU7%E5%85%A8%E7%BD%91%E9%A6%96%E6%8B%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3YU7%25E5%2585%25A8%25E7%25BD%2591%25E9%25A6%2596%25E6%258B%2586%2523%26band_rank%3D29%26flag%3D1%26cate%3D5001%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26pos%3D30%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762316871%26pre_seqid%3D1762316871862099600104&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时23分]"
         }
       ]
     }
