@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T19:20:59.590381+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-11-05T20:46:13.961958+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时46分]"
         },
         {
           "title": "受科技股拖累，新兴市场股市将创下四月以来最大两日跌幅。",
@@ -277,11 +277,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 19时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 20时46分]"
         },
         {
           "title": "小米YU7全网首拆",
