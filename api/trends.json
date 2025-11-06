@@ -1,385 +1,50 @@
 {
-  "generated_at": "2025-11-06T23:25:47.192496+08:00",
-  "total_titles_processed": 2101,
+  "generated_at": "2025-11-07T00:30:17.608856+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 18,
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
       "titles": [
         {
-          "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
-          "url": "https://wallstreetcn.com/livenews/3000332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
-        },
-        {
-          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3000356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时24分]"
-        },
-        {
-          "title": "美联储理事米兰：不应当机械地通过政策对股市上涨做出反应。",
-          "url": "https://flash.jin10.com/detail/20251106001831579800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051125442800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "李大霄：中国股市站上新台阶",
-          "url": "https://www.toutiao.com/trending/7569542831543422483/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时45分]"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）全球股市指数-亚太市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251106180821313800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-06）",
-          "url": "https://flash.jin10.com/detail/20251106090654063800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251106230029570800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入11.65亿元，占比0.06%；大单资金净流出112.16亿元，占比0.55%；小单资金净流入120.12亿元，占比0.58%。",
-          "url": "https://flash.jin10.com/detail/20251106150622506800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251106161204842800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3000006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "英国股市创收盘历史新高，博柏利涨超3%",
-          "url": "https://wallstreetcn.com/livenews/3000023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251106004538417800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "华尔街反弹恢复风险偏好，日本股市攀升",
-          "url": "https://flash.jin10.com/detail/20251106084158509800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-06）",
-          "url": "https://flash.jin10.com/detail/20251106083640140800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251106102605365800",
-          "source": "金十数据",
+          "title": "小米通话将于12月3日停止服务",
+          "url": "https://www.douyin.com/hot/2296138",
+          "source": "抖音",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-06）",
-          "url": "https://flash.jin10.com/detail/20251106220221302800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "欧洲股市收涨超0.2%，可再生能源公司维斯塔斯风力技术涨约14.8%，宝马涨超6.8%",
-          "url": "https://wallstreetcn.com/livenews/3000022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "小米YU7全网首拆",
-          "url": "https://www.douyin.com/hot/2295268",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
           "source": "贴吧",
           "ranks": [
-            9,
-            10,
-            13,
-            14,
-            15,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
             23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 23时25分]"
-        },
-        {
-          "title": "根据高盛11月5日发布的报告，其机构经纪主要客户对小米股票的空头仓位在过去一周上升了53%。",
-          "url": "https://wallstreetcn.com/livenews/3000279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时30分]"
-        },
-        {
-          "title": "王化回应小米通话停服：近期将停止运营",
-          "url": "https://wallstreetcn.com/livenews/3000341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时24分]"
-        },
-        {
-          "title": "小米通话将停服",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%AF%9D%E5%B0%86%E5%81%9C%E6%9C%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26pos%3D26%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%2580%259A%25E8%25AF%259D%25E5%25B0%2586%25E5%2581%259C%25E6%259C%258D%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D25%26cate%3D5001%26flag%3D1%26display_time%3D1762393559%26pre_seqid%3D176239355972903428113158&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时17分]"
-        },
-        {
-          "title": "雷军回应小米YU7首拆视频",
-          "url": "https://www.douyin.com/hot/2295486",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 14时35分]"
-        },
-        {
-          "title": "小米通话将于12月3日停止服务",
-          "url": "https://www.cls.cn/detail/2192297",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时17分]"
-        },
-        {
-          "title": "小米通话将于12月3日停止服务",
-          "url": "https://www.douyin.com/hot/2296138",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "小米手机不能打电话？王化火速辟谣",
-          "url": "https://www.toutiao.com/trending/7569530182550162963/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
-          "url": "https://www.cls.cn/detail/2192440",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 15时24分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.15%，报8137.65点。 热门中概股里，晶科能源初步收涨16%，阿特斯太阳能涨13.7%，拼多多、腾讯、蔚来、理想涨超1%，百度、小马智行跌超1%，新东方跌3.3%，小鹏跌4.1%，文远知行跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.04%，中概互联网指数ETF（KWEB）收涨0.77%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨0.88%， 富时中国3倍做多ETF（YINN）收涨2.83%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.02%，中国ETF-iShares MSCI（MCHI）收涨1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3000101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
+      "keyword_group": "港股 港股通 股市",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3000258",
+          "title": "非洲股市收盘播报｜周四（11月6日），南非富时/JSE非洲领先40可交易指数收涨1.26%，至10.26万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3000640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "00时30分"
         }
       ]
     }
