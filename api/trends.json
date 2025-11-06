@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T02:35:35.335223+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-07T03:18:59.919736+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
@@ -65,8 +65,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时18分]"
         }
       ]
     }
