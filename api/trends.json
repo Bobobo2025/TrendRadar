@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T20:45:35.969492+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2025-11-06T21:34:19.619635+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
@@ -222,11 +222,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 20时45分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 21时34分]"
         },
         {
           "title": "根据高盛11月5日发布的报告，其机构经纪主要客户对小米股票的空头仓位在过去一周上升了53%。",
