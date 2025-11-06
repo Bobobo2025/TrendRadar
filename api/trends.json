@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-11-07T00:30:17.608856+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-07T01:24:16.776904+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德国股市收跌超1%，英国股市脱离收盘历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3000667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周四（11月6日），南非富时/JSE非洲领先40可交易指数收涨1.26%，至10.26万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3000640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 2,
@@ -15,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
@@ -26,25 +54,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜周四（11月6日），南非富时/JSE非洲领先40可交易指数收涨1.26%，至10.26万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3000640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时24分]"
         }
       ]
     }
