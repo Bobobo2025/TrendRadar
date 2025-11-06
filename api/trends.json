@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:21:26.379698+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-11-06T09:46:34.192113+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储理事米兰：不应当机械地通过政策对股市上涨做出反应。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时23分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106090654063800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -65,6 +76,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "华尔街反弹恢复风险偏好，日本股市攀升",
+          "url": "https://flash.jin10.com/detail/20251106084158509800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106083640140800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "欧洲股市收涨超0.2%，可再生能源公司维斯塔斯风力技术涨约14.8%，宝马涨超6.8%",
           "url": "https://wallstreetcn.com/livenews/3000022",
           "source": "华尔街见闻-快讯",
@@ -79,7 +112,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米YU7全网首拆",
@@ -91,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 09时46分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
@@ -101,11 +134,34 @@
           "ranks": [
             9,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 09时46分]"
+        },
+        {
+          "title": "小米通话将于12月3日停止服务",
+          "url": "https://www.cls.cn/detail/2192297",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "小米通话将停服",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%AF%9D%E5%B0%86%E5%81%9C%E6%9C%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26pos%3D26%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%2580%259A%25E8%25AF%259D%25E5%25B0%2586%25E5%2581%259C%25E6%259C%258D%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D25%26cate%3D5001%26flag%3D1%26display_time%3D1762393559%26pre_seqid%3D176239355972903428113158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
