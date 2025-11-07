@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:22:24.780578+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-11-07T14:34:30.989721+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 13时22分]"
-        },
-        {
-          "title": "菲律宾股市指数跌幅扩大至1.8%，迈向2020年以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251107131231956800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "菲律宾股市指数下跌1.8%，迈向2020年以来最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3000979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 14时34分]"
         },
         {
           "title": "证券日报：香港新股市场领跑全球具备三大战略支点",
@@ -53,6 +31,18 @@
           "time_info": "07时20分"
         },
         {
+          "title": "菲律宾股市指数跌幅扩大至1.8%，迈向2020年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251107131231956800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时34分]"
+        },
+        {
           "title": "机构分析：美国股市回调反映估值调整，非基本面恶化",
           "url": "https://flash.jin10.com/detail/20251107121616744800",
           "source": "金十数据",
@@ -63,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时22分]"
+        },
+        {
+          "title": "菲律宾股市指数下跌1.8%，迈向2020年以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3000979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周累跌3%，埃及股指连续四天创历史新高本周累涨约4.4%",
@@ -94,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -188,7 +190,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -254,11 +256,12 @@
             23,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时34分]"
         },
         {
           "title": "卢伟冰在德国试驾小米SU7",
