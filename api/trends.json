@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:30:21.830861+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2025-11-07T22:22:44.176709+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107214841680800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "非洲股市收盘播报｜周四（11月6日），南非富时/JSE非洲领先40可交易指数收涨1.26%，至10.26万点上方。",
