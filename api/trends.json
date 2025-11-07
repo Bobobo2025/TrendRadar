@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T16:31:46.294235+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2025-11-07T17:24:54.764681+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 17时24分]"
         },
         {
           "title": "证券日报：香港新股市场领跑全球具备三大战略支点",
@@ -86,7 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
