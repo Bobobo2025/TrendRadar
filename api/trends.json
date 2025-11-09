@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T16:27:21.220583+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-11-09T17:22:43.006860+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             17,
             20,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 17时22分]"
         },
         {
           "title": "荀玉根：股市促消费的作用和建议",
@@ -48,7 +49,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
