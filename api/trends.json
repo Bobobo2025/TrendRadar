@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T15:21:13.787548+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2025-11-09T16:27:21.220583+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             14,
             17,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 16时27分]"
         },
         {
           "title": "荀玉根：股市促消费的作用和建议",
@@ -33,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：腾讯阿里美团京东财报，中国10月经济数据",
+          "url": "https://wallstreetcn.com/articles/3758913",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
