@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T06:22:50.564363+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-11T07:21:52.747107+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年11月10日（周一）全球股市指数-美洲市场（收盘）",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）全球股市指数-欧洲市场（收盘）",
