@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:24:18.139016+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2025-11-12T23:27:15.615295+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
@@ -245,6 +245,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251112230042458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "深交所：将康基医疗调出港股通标的证券名单",
           "url": "https://wallstreetcn.com/livenews/3003059",
           "source": "华尔街见闻-快讯",
@@ -303,7 +314,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -313,8 +324,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时20分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[19时20分 ~ 23时27分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -388,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "小米双十一销售额突破290亿元人民币",
@@ -511,7 +533,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "恒指高开0.22%，报26754.93点；恒生科技指数涨0.26%。小鹏汽车涨超2%，京东健康、携程、网易等涨超1%；蔚来跌超4%，阿里巴巴跌超2%。",
@@ -523,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "中概指数盘初跌超1%，百度与、蔚来、小鹏至少跌2%",
+          "url": "https://wallstreetcn.com/livenews/3003499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
