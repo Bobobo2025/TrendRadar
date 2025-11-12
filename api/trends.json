@@ -1,8 +1,59 @@
 {
-  "generated_at": "2025-11-13T01:22:06.078051+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-13T02:32:14.830675+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 02时32分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 02时32分]"
+        },
+        {
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 02时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 3,
@@ -26,7 +77,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -37,49 +88,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时22分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时22分]"
-        },
-        {
-          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
-          "url": "https://www.cls.cn/detail/2197827",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
