@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T19:21:05.441514+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-11-12T20:47:11.971392+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
@@ -152,7 +152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -218,7 +218,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -240,7 +240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -284,17 +284,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "小米双十一销售额突破290亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3002902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
           "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
           "source": "百度热搜",
@@ -304,8 +293,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时47分]"
+        },
+        {
+          "title": "小米双十一销售额突破290亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3002902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -321,6 +321,17 @@
           "time_info": "[14时34分 ~ 16时31分]"
         },
         {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -331,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "雷军回应小米双11战绩",
