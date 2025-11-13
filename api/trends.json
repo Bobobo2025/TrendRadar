@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-13T14:35:03.178757+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-11-13T15:22:27.145880+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050601991800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
           "url": "https://wallstreetcn.com/articles/3759183",
@@ -28,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 15时22分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050601991800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "非洲股市收盘播报｜周三（11月12日），南非富时/JSE非洲领先40可交易指数收涨1.57%，逼近10.5万点。 尼日利亚证交所全部股指收涨2.88%，脱离2010年3月19日以来最差单日表现——11月11日收跌5.04%。 毛里求斯证交所SEMDEX指数收涨0.43%，肯尼亚内罗毕证交所全股指数收跌0.97%。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入209.94亿元，占比1.03%；大单资金净流出43.37亿元，占比0.21%；小单资金净流出25.27亿元，占比0.12%。",
+          "url": "https://flash.jin10.com/detail/20251113150741777800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-13）",
@@ -125,11 +136,12 @@
             8,
             9,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 15时22分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -195,6 +207,67 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "秘密启动“千问”项目？阿里巴巴：暂不回应",
+          "url": "https://wallstreetcn.com/livenews/3003948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3003905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "阿里巴巴港股持续走高，日内涨超5%。恒生科技指数涨幅扩大至1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3003916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "恒生科技指数转涨，阿里巴巴港股直线拉升，现涨1%，消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3003912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 3,
       "titles": [
@@ -231,34 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3003905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3003903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         }
       ]
     }
