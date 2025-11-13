@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-13T22:22:13.229793+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2025-11-13T23:25:58.095583+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时25分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时25分]"
+        },
         {
           "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
           "url": "https://flash.jin10.com/detail/20251113190559735800",
@@ -17,28 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时22分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时22分]"
         },
         {
           "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
@@ -125,6 +126,17 @@
           "time_info": "[12时28分 ~ 13时23分]"
         },
         {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "恒生科技指数盘初跌1%，腾讯音乐跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3003760",
           "source": "华尔街见闻-快讯",
@@ -145,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
+          "url": "https://www.cls.cn/detail/2199926",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "Benchmark：将腾讯音乐(TME.N)目标价从28美元下调至25美元。",
@@ -271,7 +294,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
@@ -366,6 +389,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251113230015271800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-13）",
           "url": "https://flash.jin10.com/detail/20251113083933714800",
           "source": "金十数据",
@@ -424,7 +458,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。",
@@ -470,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3004251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "阿里巴巴港股持续走高，日内涨超5%。恒生科技指数涨幅扩大至1.5%。",
@@ -524,8 +569,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 22时22分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 23时25分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
