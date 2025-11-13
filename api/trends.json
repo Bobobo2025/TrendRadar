@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T04:26:11.953070+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-14T05:21:27.398236+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -94,7 +94,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周四（11月13日），南非富时/JSE非洲领先40可交易指数收涨1.05%，守住10.65万点，早盘持续上涨，北京时间17:54刷新日高至10.80万点上方，之后逐步回吐涨幅。",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时22分]"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251114050533377800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "意大利银行板块继续创历史新高，德国股市跌超1%",
@@ -134,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -144,11 +155,12 @@
           "ranks": [
             16,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时21分]"
         }
       ]
     },
