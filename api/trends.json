@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:19:18.753283+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-11-14T04:26:11.953070+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -134,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -143,11 +143,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
