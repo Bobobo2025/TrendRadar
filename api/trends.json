@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-14T06:24:43.108178+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-11-14T07:21:23.305439+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
       "match_count": 7,
       "titles": [
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
-        },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
           "url": "https://wallstreetcn.com/articles/3759330",
@@ -28,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -42,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -52,11 +53,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -147,8 +149,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -161,8 +163,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         }
       ]
     },
