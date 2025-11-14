@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:15:53.732166+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-11-14T12:27:06.813560+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时27分]"
         },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时27分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时27分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 02时32分]"
+        },
+        {
+          "title": "旁白｜随意屏蔽新闻报道，腾讯何以成了媒体的“总编辑”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31966353",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持腾讯音乐等。",
@@ -153,7 +164,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -184,8 +195,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时27分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
