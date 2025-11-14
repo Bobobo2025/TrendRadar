@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:34:43.715130+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-11-14T15:21:53.952842+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时21分]"
         },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时21分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -44,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时21分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 15时21分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -145,7 +146,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周四（11月13日），南非富时/JSE非洲领先40可交易指数收涨1.05%，守住10.65万点，早盘持续上涨，北京时间17:54刷新日高至10.80万点上方，之后逐步回吐涨幅。",
@@ -158,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时22分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出879.91亿元，占比4.49%；大单资金净流出310.24亿元，占比1.58%；小单资金净流入692.90亿元，占比3.54%。",
+          "url": "https://flash.jin10.com/detail/20251114150650363800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）全球股市指数-美洲市场（收盘）",
@@ -218,11 +230,12 @@
             10,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时21分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
