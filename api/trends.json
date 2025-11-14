@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:26:04.023704+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2025-11-14T19:19:40.055861+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 18时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "旁白｜随意屏蔽新闻报道，腾讯何以成了媒体的“总编辑”",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 19时19分]"
         },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 18时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -55,11 +55,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 18时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -155,7 +156,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -283,11 +284,12 @@
             18,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 18时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
