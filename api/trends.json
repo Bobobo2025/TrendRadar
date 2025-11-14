@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T13:22:56.006045+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-11-14T14:34:43.715130+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
@@ -67,11 +67,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时34分]"
         },
         {
           "title": "苹果腾讯敲定微信游戏抽成协议",
@@ -103,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -216,11 +217,12 @@
             9,
             10,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
