@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T17:21:03.325486+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-11-15T18:21:39.913613+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -121,11 +121,12 @@
             7,
             8,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时21分]"
         },
         {
           "title": "13F报告显示，高瓴HHLR Advisors Ltd.三季度新进满帮、百度、Sea Ltd.、巴里克矿业等。 增持阿里巴巴、百度、拼多多等。 清仓看准网/Boss直聘、理想汽车、唯品会、WNS、京东等。 减持中通快递、网易、富途控股、逸仙电商等。 重仓拼多多、阿里、富途、Webull、百度、传奇生物、网易等。",
@@ -221,8 +222,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时30分 ~ 18时21分]"
         }
       ]
     },
@@ -286,11 +287,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时21分]"
         }
       ]
     }
