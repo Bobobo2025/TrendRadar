@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T22:19:08.519793+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-11-16T23:20:17.945165+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 23时20分]"
         },
         {
           "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
@@ -46,11 +46,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 23时20分]"
         },
         {
           "title": "中东股市收盘播报｜卡塔尔股指收跌1%",
