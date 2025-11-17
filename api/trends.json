@@ -1,339 +1,33 @@
 {
-  "generated_at": "2025-11-17T23:26:19.857067+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2025-11-18T00:31:09.521644+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
           "url": "https://www.cls.cn/detail/2202642",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 23时26分]"
-        },
-        {
-          "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
-          "url": "https://wallstreetcn.com/livenews/3005321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14,
-            19,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "摩根士丹利：2026年美国股市的表现料优于全球其他地区（ROW）的股票。",
-          "url": "https://flash.jin10.com/detail/20251117151836906800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251117230417874800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
-          "url": "https://flash.jin10.com/detail/20251117150622125800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）全球股市指数-亚太市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251117180637601800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "港股收盘，恒生指数收跌0.71%，恒生科技指数收跌0.96%。地平线机器人跌超4%，康师傅控股涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "印度股市今日料平稳开局 市场关注需求回升与美印贸易谈判",
-          "url": "https://flash.jin10.com/detail/20251117104543181800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251117161255140800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "金十数据整理：上周五全球股市走势回顾（2025-11-17）",
-          "url": "https://flash.jin10.com/detail/20251117083830282800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
-          "url": "https://flash.jin10.com/detail/20251117210242767800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251117102604898800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单发生调整并自2025年11月17日起生效，调入广和通。",
-          "url": "https://wallstreetcn.com/livenews/3005439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
-          "url": "https://wallstreetcn.com/articles/3759474",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时23分]"
-        },
-        {
-          "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
-          "url": "https://wallstreetcn.com/livenews/3005525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
-          "url": "https://wallstreetcn.com/livenews/3005519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "恒指低开0.49%，报26441.70点；恒生科技指数跌0.71%。携程跌4.5%，同程旅行跌超3%，百度跌2.5%，阿里巴巴跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3005464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "阿里巴巴回应千问崩了：我好着呢，状态良好，欢迎来问",
-          "url": "https://wallstreetcn.com/livenews/3005616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "阿里巴巴涨幅扩大至1.3%。恒生科技指数跌幅收窄至0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3005506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "阿里巴巴回应千问崩了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E5%8D%83%E9%97%AE%E5%B4%A9%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26c_type%3D31%26cate%3D5001%26dgr%3D0%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2598%25BF%25E9%2587%258C%25E5%25B7%25B4%25E5%25B7%25B4%25E5%259B%259E%25E5%25BA%2594%25E5%258D%2583%25E9%2597%25AE%25E5%25B4%25A9%25E4%25BA%2586%2523%26band_rank%3D15%26pos%3D15%26flag%3D1%26display_time%3D1763368351%26pre_seqid%3D17633683514420780189103&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
-          "url": "https://flash.jin10.com/detail/20251117103913637800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "阿里巴巴已申请注册多个千问商标",
-          "url": "https://wallstreetcn.com/livenews/3005550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "花旗：阿里巴巴股价的任何回调都是加仓机会",
-          "url": "https://wallstreetcn.com/livenews/3005450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "阿里巴巴港股转涨，盘初一度跌超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3005498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "零跑汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "零跑汽车：第三季度净利润为1.5亿元",
-          "url": "https://wallstreetcn.com/livenews/3005824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时46分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "零跑汽车：第三季度的汽车总交付量为17.39万台",
-          "url": "https://flash.jin10.com/detail/20251117184749296800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜周一（11月17日），南非富时/JSE非洲领先40可交易指数收涨0.23%，逼近10.5万点。",
+          "url": "https://wallstreetcn.com/livenews/3005957",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "零跑汽车(09863.HK)2025年Q3营收194.5亿元，去年同期98.6亿元。零跑汽车(09863.HK)2025年Q3净盈利1.5亿元，去年同期净亏损6.9亿元。",
-          "url": "https://flash.jin10.com/detail/20251117184848928800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "00时31分"
         }
       ]
     },
@@ -346,12 +40,11 @@
           "url": "https://www.toutiao.com/trending/7572860166506151978/",
           "source": "今日头条",
           "ranks": [
-            14,
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时46分 ~ 21时34分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
