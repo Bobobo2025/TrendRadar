@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:34:21.147647+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2025-11-17T22:23:24.484342+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
@@ -161,17 +161,6 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "摩根士丹利：2026年美国股市的表现料优于全球其他地区（ROW）的股票。",
-          "url": "https://flash.jin10.com/detail/20251117151836906800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
           "url": "https://www.cls.cn/detail/2202642",
           "source": "财联社热门",
@@ -182,8 +171,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时23分]"
+        },
+        {
+          "title": "摩根士丹利：2026年美国股市的表现料优于全球其他地区（ROW）的股票。",
+          "url": "https://flash.jin10.com/detail/20251117151836906800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
@@ -258,7 +258,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
