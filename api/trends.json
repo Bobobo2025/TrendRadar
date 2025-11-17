@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T14:35:10.478584+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-11-17T15:22:59.218655+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -121,7 +121,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
@@ -137,6 +137,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "摩根士丹利：2026年美国股市的表现料优于全球其他地区（ROW）的股票。",
+          "url": "https://flash.jin10.com/detail/20251117151836906800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
+          "url": "https://flash.jin10.com/detail/20251117150622125800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "印度股市今日料平稳开局 市场关注需求回升与美印贸易谈判",
