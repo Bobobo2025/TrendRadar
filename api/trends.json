@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T20:46:43.756235+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-17T21:34:21.147647+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
@@ -143,7 +143,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
@@ -178,11 +178,12 @@
           "ranks": [
             11,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
@@ -249,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117210242767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）亚太市场股市指数（盘初）",
@@ -323,11 +335,12 @@
           "url": "https://www.toutiao.com/trending/7572860166506151978/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时34分]"
         }
       ]
     }
