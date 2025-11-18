@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T03:19:21.546527+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-19T04:27:13.735829+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1974042951152793272",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "高管养水军?小米舆论战炸锅全网",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "小米三季度净利润113.11亿",
@@ -56,7 +57,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -81,6 +82,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
