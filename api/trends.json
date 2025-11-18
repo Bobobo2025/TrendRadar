@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T17:25:46.707699+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-11-18T18:26:57.338469+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
@@ -24,11 +24,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时26分]"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251118180805525800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "东京股市日经股指一度跌超3%",
@@ -218,8 +230,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
+          "url": "https://wallstreetcn.com/livenews/3006444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
           "url": "https://www.zhihu.com/question/1974042951152793272",
@@ -227,11 +250,12 @@
           "ranks": [
             18,
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时26分]"
         },
         {
           "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
@@ -255,6 +279,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "高管养水军?小米舆论战炸锅全网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：第三季度汽车交付总量108796辆",
+          "url": "https://wallstreetcn.com/livenews/3006423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
+          "url": "https://wallstreetcn.com/livenews/3006422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
+          "url": "https://wallstreetcn.com/livenews/3006421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
+          "url": "https://wallstreetcn.com/livenews/3006413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "小米su7路面超车发生侧滑",
@@ -294,6 +395,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯控股于11月18日斥资6.4亿港元回购101.3万股。",
+          "url": "https://wallstreetcn.com/livenews/3006426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
