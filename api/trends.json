@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-19T09:45:01.667112+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-11-19T11:14:26.483368+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
+          "url": "https://wallstreetcn.com/articles/3759635",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 11时14分]"
+        },
         {
           "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
           "url": "https://www.zhihu.com/question/1974042951152793272",
@@ -23,40 +37,17 @@
           "time_info": "[00时30分 ~ 09时45分]"
         },
         {
-          "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
-          "url": "https://wallstreetcn.com/articles/3759635",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时45分]"
-        },
-        {
           "title": "高管养水军?小米舆论战炸锅全网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
           "source": "贴吧",
           "ranks": [
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时45分]"
-        },
-        {
-          "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3006836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 11时14分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -68,8 +59,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 11时14分]"
+        },
+        {
+          "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
+          "url": "https://wallstreetcn.com/livenews/3006836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "小米三季度净利润113.11亿",
@@ -85,6 +87,17 @@
           "time_info": "[00时30分 ~ 07时21分]"
         },
         {
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "三季度如期实现盈利 小米卢伟冰：汽车业务2026年非常有挑战、毛利率或不及今年",
           "url": "https://www.cls.cn/detail/2204172",
           "source": "财联社热门",
@@ -94,12 +107,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "Jefferies下调小米目标价，称公司息税前利润不及预期",
+          "url": "https://wallstreetcn.com/livenews/3006877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "小米净利增八成背后",
+          "url": "https://www.toutiao.com/trending/7574214371480440358/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "小米盘中一度跌超6%，目前跌幅收窄至3.5%。此前小米公布三季度财报，花旗调低目标价。",
+          "url": "https://wallstreetcn.com/livenews/3006860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -126,13 +172,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "金十图示：2025年11月19日（周三）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251119102519920800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-19）",
           "url": "https://flash.jin10.com/detail/20251119084138482800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
