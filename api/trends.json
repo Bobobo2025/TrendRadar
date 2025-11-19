@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T12:28:14.207269+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2025-11-19T13:23:29.469318+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时23分]"
         },
         {
           "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
@@ -44,11 +44,12 @@
             8,
             7,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时23分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 12时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 13时23分]"
         },
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -97,19 +98,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时23分]"
         },
         {
           "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
           "url": "https://www.cls.cn/detail/2204599",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "三季度如期实现盈利 小米卢伟冰：汽车业务2026年非常有挑战、毛利率或不及今年",
@@ -132,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "小米集团股价跌破40港元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "小米净利增八成背后",
@@ -268,11 +281,12 @@
           "url": "https://wallstreetcn.com/livenews/3006926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时23分]"
         }
       ]
     }
