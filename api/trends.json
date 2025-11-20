@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T13:22:40.115769+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-11-20T14:33:48.506706+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约1.6%，金银矿业股领跑",
@@ -149,11 +149,12 @@
           "ranks": [
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 14时33分]"
         },
         {
           "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
