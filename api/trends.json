@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T20:44:03.761987+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-11-21T21:31:13.122876+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
@@ -218,7 +218,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时35分]"
+        },
+        {
+          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 21时31分]"
         },
         {
           "title": "小米回应“潜水手表不能潜水”",
@@ -246,15 +257,15 @@
           "time_info": "[11时13分 ~ 13时23分]"
         },
         {
-          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
+          "title": "小米公关部总经理王化确认转岗武汉区域总部，徐洁云“回归”接任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32015299",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时43分 ~ 20时44分]"
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "小米回应“潜水手表不能潜水”",
@@ -351,7 +362,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
