@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T12:27:22.077971+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-11-21T13:23:18.674230+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时23分]"
         },
         {
           "title": "东京股市日经股指一度跌超1200点",
@@ -38,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时23分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周跌约1.5%，埃及股指创历史新高后回落累涨约0.3%",
@@ -84,9 +86,50 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
+          "url": "https://wallstreetcn.com/livenews/3008417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "小米回应“潜水手表不能潜水”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E6%BD%9C%E6%B0%B4%E6%89%8B%E8%A1%A8%E4%B8%8D%E8%83%BD%E6%BD%9C%E6%B0%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "小米汽车长沙一门店中央空调现明火",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%95%BF%E6%B2%99%E4%B8%80%E9%97%A8%E5%BA%97%E4%B8%AD%E5%A4%AE%E7%A9%BA%E8%B0%83%E7%8E%B0%E6%98%8E%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -115,35 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米回应“潜水手表不能潜水”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E6%BD%9C%E6%B0%B4%E6%89%8B%E8%A1%A8%E4%B8%8D%E8%83%BD%E6%BD%9C%E6%B0%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
-          "title": "小米汽车长沙一门店中央空调现明火",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%95%BF%E6%B2%99%E4%B8%80%E9%97%A8%E5%BA%97%E4%B8%AD%E5%A4%AE%E7%A9%BA%E8%B0%83%E7%8E%B0%E6%98%8E%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
         }
       ]
     },
