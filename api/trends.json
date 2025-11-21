@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:21:16.486934+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-11-21T09:44:31.395144+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -97,6 +97,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米汽车长沙一门店中央空调现明火",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%95%BF%E6%B2%99%E4%B8%80%E9%97%A8%E5%BA%97%E4%B8%AD%E5%A4%AE%E7%A9%BA%E8%B0%83%E7%8E%B0%E6%98%8E%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     }
