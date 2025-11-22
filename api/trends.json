@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T07:20:40.457880+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-11-22T09:40:57.724345+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://wallstreetcn.com/articles/3759848",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时40分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（11月21日），南非富时/JSE非洲领先40可交易指数收跌2.09%，逼近10.2万点，跳空低开后低位震荡，本周累计下跌2.29%。 本周，毛里求斯证交所SEMDEX指数累跌2.11%，尼日利亚证交所全部股指累跌2.26%——周一盘中显著跳水、后续持续震荡下行，肯尼亚内罗毕证交所全股指数累涨0.26%。",
@@ -95,11 +96,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时40分]"
         },
         {
           "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
@@ -107,11 +109,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时40分]"
         }
       ]
     },
