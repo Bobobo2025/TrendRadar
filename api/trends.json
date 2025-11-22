@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T11:06:53.982969+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2025-11-22T12:25:47.549555+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
@@ -112,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时25分]"
         },
         {
           "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
@@ -123,11 +123,12 @@
             11,
             13,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时25分]"
         }
       ]
     },
