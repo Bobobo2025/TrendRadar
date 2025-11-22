@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T20:39:40.614097+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-22T21:25:51.062188+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "达里欧解读“泡沫何时破裂”：股市大泡沫+大贫富差距=巨大的危险",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时40分]"
+        },
+        {
+          "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
+          "url": "https://www.zhihu.com/question/1975608470024777738",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
@@ -124,9 +135,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时25分]"
         },
         {
           "title": "小米汽车“挖孔机盖”案再引关注",
@@ -209,11 +220,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时25分]"
         }
       ]
     }
