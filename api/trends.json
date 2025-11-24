@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T21:35:50.781738+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2025-11-24T22:24:18.459297+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 22时24分]"
         },
         {
           "title": "减持韩国股市，外资转投中国ETF",
@@ -102,6 +102,17 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
+          "title": "摩根士丹利策略师Wilson认为美国股市回调即将结束",
+          "url": "https://wallstreetcn.com/livenews/3009642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "亚洲股市有望高开",
           "url": "https://flash.jin10.com/detail/20251124065525369800",
           "source": "金十数据",
@@ -144,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "印度央行：全球股市过度狂热情绪引发的担忧依然存在。",
+          "url": "https://flash.jin10.com/detail/20251124212636063800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
@@ -272,6 +294,19 @@
           "time_info": "[11时26分 ~ 13时24分]"
         },
         {
+          "title": "雷军增持小米260万股",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时24分]"
+        },
+        {
           "title": "狂蹭小米博流量,造谣者慌了!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
           "source": "贴吧",
@@ -281,20 +316,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时35分]"
-        },
-        {
-          "title": "雷军增持小米260万股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "小米集团：控股股东雷军斥资超1亿港元增持本公司股份",
