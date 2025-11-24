@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T00:26:27.603089+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-25T01:21:54.134504+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "据知情人士透露，英国财政大臣Reeves将在其预算案中把年度现金个人储蓄账户限额削减至12,000英镑，此举旨在推动储蓄流入英国股市。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3009684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（11月24日），南非富时/JSE非洲领先40可交易指数收涨0.37%，报10.3万点。 日线图上，南非股指自11月13日涨至10.8万点创盘中历史新高、按10.7万点创收盘历史新高以来，持续回调。",
           "url": "https://wallstreetcn.com/livenews/3009679",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（盘初）",
@@ -65,19 +67,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "1亿增持和8亿回购还是托不住小米股价",
           "url": "https://www.toutiao.com/trending/7576258091109322259/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -87,8 +90,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         }
       ]
     }
