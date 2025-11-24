@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T12:36:07.794752+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-11-24T13:24:30.629400+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "减持韩国股市，外资转投中国ETF",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "港股半导体股下跌，华虹半导体跌超11%，中芯国际跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3009362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.7%，埃及股指涨超0.4%",
@@ -65,6 +76,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "韩国股市由涨转跌，回吐先前1.66%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3009350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
           "url": "https://wallstreetcn.com/livenews/3009238",
           "source": "华尔街见闻-快讯",
@@ -90,7 +112,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -141,11 +163,23 @@
           "source": "微博",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时24分]"
+        },
+        {
+          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
+          "url": "https://www.cls.cn/detail/2208647",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
