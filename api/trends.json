@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T20:48:24.729190+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-11-24T21:35:50.781738+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 21时35分]"
         },
         {
           "title": "减持韩国股市，外资转投中国ETF",
@@ -277,11 +277,24 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
+        },
+        {
+          "title": "雷军增持小米260万股",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时35分]"
         },
         {
           "title": "小米集团：控股股东雷军斥资超1亿港元增持本公司股份",
@@ -294,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 20时48分]"
-        },
-        {
-          "title": "雷军增持小米260万股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "小米集团：雷军增持260万股B类普通股",
