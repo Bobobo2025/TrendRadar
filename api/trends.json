@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T17:28:15.404393+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-11-24T18:27:10.307249+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759974",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时27分]"
         },
         {
           "title": "减持韩国股市，外资转投中国ETF",
@@ -170,7 +171,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -226,8 +227,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 18时27分]"
+        },
+        {
+          "title": "樊振东来深圳当小米一日店长了",
+          "url": "https://www.douyin.com/hot/2316307",
+          "source": "抖音",
+          "ranks": [
+            30,
+            23,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 18时27分]"
         },
         {
           "title": "狂蹭小米博流量,后续代价咋承担?",
@@ -256,24 +272,21 @@
           "time_info": "[11时26分 ~ 13时24分]"
         },
         {
-          "title": "樊振东来深圳当小米一日店长了",
-          "url": "https://www.douyin.com/hot/2316307",
-          "source": "抖音",
+          "title": "狂蹭小米博流量,造谣者慌了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
+          "source": "贴吧",
           "ranks": [
-            30,
-            23,
-            24,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 17时28分]"
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         }
       ]
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "育碧股价涨幅扩大至9.3%，公司此前宣布腾讯完成对Vantage Studios的投资。",
@@ -296,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "港交所文件显示：腾讯控股于11月24日回购了100万股股票，耗资6.357亿港元。",
+          "url": "https://flash.jin10.com/detail/20251124173632357800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "Prosus首席执行官：相信腾讯将持续创造价值并保持增长。",
@@ -321,7 +345,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
