@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T02:35:13.824415+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-11-25T03:16:59.755336+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "据知情人士透露，英国财政大臣Reeves将在其预算案中把年度现金个人储蓄账户限额削减至12,000英镑，此举旨在推动储蓄流入英国股市。（英国金融时报）",
@@ -61,7 +61,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -79,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -90,8 +90,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "1亿增持和8亿回购还是托不住小米股价",
@@ -99,11 +99,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时16分]"
         }
       ]
     }
