@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T19:20:54.519636+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-11-25T20:47:52.293198+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
@@ -172,7 +172,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "蔚来汽车(NIO.N)：2025年第三季度净亏损为34.805亿元人民币（约合4.889亿美元），同比降31.2%，环比下降30.3%。",
@@ -264,6 +264,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "蔚来财报",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5%E8%B4%A2%E6%8A%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "蔚来汽车(NIO.N)：预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
           "url": "https://flash.jin10.com/detail/20251125180939166800",
           "source": "金十数据",
@@ -292,7 +303,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -300,62 +311,78 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3760096",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
         {
           "title": "阿里巴巴：截至2025年9月30日止三个月，即时零售业务收入为人民币229.06亿元（32.17亿美元），同比增长60%，主要是得益于2025年4月底推出的「淘宝闪购」所带来的订单量增长。",
           "url": "https://wallstreetcn.com/livenews/3010184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "阿里巴巴集团首席财务官徐宏：过去4个季度，我们在AI+云基础设施的资本开支约1200亿元人民币",
           "url": "https://wallstreetcn.com/livenews/3010183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "阿里巴巴美股盘前涨近5%，公司第二财季营收超预估，且公司第二财季云智能集团收入398.2亿元人民币，也超出预估的379.9亿元人民币。",
           "url": "https://wallstreetcn.com/livenews/3010180",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "蚂蚁集团第二财季为阿里巴巴贡献了3.84亿美元利润。",
           "url": "https://wallstreetcn.com/livenews/3010172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "阿里巴巴第二财季营收2,478.0亿元人民币，预估2,452亿元人民币。 阿里巴巴第二财季调整后每ADS收益4.36元人民币，预估6.34元人民币。 第二财季调整后息税折旧及摊销前利润172.6亿元人民币，预估193亿元人民币。 第二财季调整后净利润103.5亿元人民币，预估168亿元人民币。 第二财季阿里国际数字商业集团收入348.0亿元人民币，预估378.5亿元人民币。 第二财季云智能集团收入398.2亿元人民币，预估379.9亿元人民币。 第二财季中国电商事业集团收入1,325.8亿元人民币，预估1,285.3亿元人民币。 阿里巴巴盘前拉升涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3010169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "阿里巴巴(09988.HK)：蚂蚁集团的季度利润同比增长10.3%，至83.7亿元人民币。",
@@ -364,7 +391,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -375,7 +402,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -386,7 +413,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -397,7 +424,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -408,7 +435,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -419,7 +446,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -443,23 +470,12 @@
             25,
             27,
             29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 19时20分]"
-        },
-        {
-          "title": "雷军增持小米260万股",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
             28,
-            26
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 20时47分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -472,8 +488,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 20时47分]"
+        },
+        {
+          "title": "雷军增持小米260万股",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "雷军斥资1亿港元增持小米",
@@ -532,11 +560,12 @@
           "url": "https://wallstreetcn.com/livenews/3010187",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "小米公益基金会再捐款5500万",
@@ -545,7 +574,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
