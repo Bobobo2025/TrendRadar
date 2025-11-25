@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T02:35:03.441503+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-11-26T03:20:15.725691+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米股价暴跌35%背后有何隐情",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时20分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -66,8 +66,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时20分]"
+        },
+        {
+          "title": "雷军回应小米再捐5500万",
+          "url": "https://www.douyin.com/hot/2317701",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         }
       ]
     },
@@ -83,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时20分]"
         }
       ]
     }
