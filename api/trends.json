@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T22:23:53.339568+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-11-25T23:26:16.741660+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 23时26分]"
         },
         {
           "title": "阿里巴巴(09988.HK)：将“积极”投资于人工智能能力的提升，不排除在已承诺的三年3800亿元人民币投资之外进行额外投资。考虑到客户需求的旺盛，此前提及的3800亿元人民币投资可能显得偏小。",
@@ -132,7 +133,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -198,7 +199,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -220,7 +221,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -234,12 +235,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.28%，标普500指数跌0.06%，纳指跌0.39%。谷歌母公司Alphabet涨2%，此前报道称，谷歌正与Meta商讨一项价值数十亿美元的协议，计划自2027年起向Meta的数据中心供应定制AI芯片。英伟达(NVDA.O)跌4%。阿里巴巴(BABA.N)涨2%。",
+          "url": "https://flash.jin10.com/detail/20251125223046114800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
@@ -337,6 +349,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "金十图示：2025年11月25日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251125230055987800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-25）",
           "url": "https://flash.jin10.com/detail/20251125083849690800",
           "source": "金十数据",
@@ -379,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "美国股市延续跌势，纳指跌幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251125224622120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（盘初）",
@@ -556,7 +590,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -566,11 +600,12 @@
             4,
             5,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时22分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时26分]"
         },
         {
           "title": "狂蹭小米博流量,造谣者慌了!",
@@ -668,6 +703,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
+          "title": "小米集团股价大涨",
+          "url": "https://www.douyin.com/hot/2317568",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "小米公益基金会再捐款5500万",
