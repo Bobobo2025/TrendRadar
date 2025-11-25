@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T12:29:22.201160+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2025-11-25T13:24:11.497970+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时24分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-25）",
@@ -136,11 +137,12 @@
             11,
             13,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时24分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -186,11 +188,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时24分]"
         }
       ]
     },
