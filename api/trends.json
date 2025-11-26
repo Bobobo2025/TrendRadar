@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T21:37:08.311844+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2025-11-26T22:24:55.876275+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
@@ -208,11 +208,12 @@
             9,
             11,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 22时24分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -226,11 +227,12 @@
             20,
             21,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 21时37分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 22时24分]"
         },
         {
           "title": "雷军回应小米再捐5500万",
