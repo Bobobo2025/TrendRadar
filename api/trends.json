@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T02:30:10.619530+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-27T03:18:41.684581+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "金十图示：2025年11月27日（周四）全球股市指数-欧洲市场（收盘）",
@@ -61,7 +61,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
@@ -76,22 +76,24 @@
           "url": "https://flash.jin10.com/detail/20251127021140906800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时18分]"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
           "url": "https://wallstreetcn.com/livenews/3011016",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时18分]"
         }
       ]
     },
@@ -107,8 +109,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -118,8 +120,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时18分]"
         }
       ]
     },
@@ -155,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时18分]"
         }
       ]
     }
