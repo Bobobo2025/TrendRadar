@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T00:30:39.604543+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-27T01:21:22.085619+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -15,30 +15,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "希腊股市重新涨向2010年1月顶部",
           "url": "https://wallstreetcn.com/livenews/3010964",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨1.4%，金矿股领跑",
           "url": "https://wallstreetcn.com/livenews/3010962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251127004527695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -54,8 +67,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -65,8 +78,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         }
       ]
     },
@@ -79,11 +92,12 @@
           "url": "https://wallstreetcn.com/livenews/3010961",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         }
       ]
     },
@@ -96,11 +110,12 @@
           "url": "https://www.zhihu.com/question/1977081679454630577",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
         }
       ]
     }
