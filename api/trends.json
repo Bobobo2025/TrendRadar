@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T11:15:37.332893+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-27T12:28:24.508653+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时20分 ~ 11时15分]"
+          "appearance_count": 8,
+          "time_info": "[05时20分 ~ 12时28分]"
         },
         {
           "title": "韩国央行：给潜在的降息留下了空间。 出口增长可能放缓。 密切关注国内外政策情况的变化。 有必要对首尔的房价风险保持警惕。 韩元兑美元下跌的部分原因是居民的海外证券投资，以及外国投资者的国内股市净抛售。 对房价上涨的预期仍然很高。",
@@ -128,8 +128,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 12时28分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -149,7 +149,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
@@ -228,11 +228,12 @@
             6,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 12时28分]"
         }
       ]
     }
