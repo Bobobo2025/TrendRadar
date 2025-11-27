@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T12:28:24.508653+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-11-27T13:24:01.839465+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -128,8 +128,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -232,8 +232,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时24分]"
         }
       ]
     }
