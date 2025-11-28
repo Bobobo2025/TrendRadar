@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-28T17:24:50.099894+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-11-28T18:26:05.988889+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251128180402789800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-28）",
           "url": "https://flash.jin10.com/detail/20251128091341192800",
