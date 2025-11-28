@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T21:32:36.392651+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2025-11-28T22:23:07.182894+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
@@ -141,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -198,6 +198,18 @@
           "time_info": "[19时20分 ~ 20时45分]"
         },
         {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://www.douyin.com/hot/2320102",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
           "url": "https://wallstreetcn.com/livenews/3011921",
           "source": "华尔街见闻-快讯",
@@ -208,18 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时22分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://www.douyin.com/hot/2320102",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时32分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
