@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T22:23:07.182894+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2025-11-28T23:24:04.046904+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2025年11月28日（周五）亚太市场股市指数（收盘）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251128230552403800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "非洲股市收盘播报｜周四（11月27日），南非富时/JSE非洲领先40可交易指数收跌1.31%，至10.3万点下方。 毛里求斯证交所SEMDEX指数收跌0.04%，尼日利亚证交所全部股指收涨0.12%，肯尼亚内罗毕证交所全股指数收跌0.79%。",
@@ -160,7 +171,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小公司硬刚小米抄袭!胜诉再索赔",
@@ -222,6 +233,17 @@
           "time_info": "[14时35分 ~ 15时22分]"
         },
         {
+          "title": "雷军发布小米购置税补贴重要提示",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
           "title": "小米成毛利率提升最快车企",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%88%90%E6%AF%9B%E5%88%A9%E7%8E%87%E6%8F%90%E5%8D%87%E6%9C%80%E5%BF%AB%E8%BD%A6%E4%BC%81%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -236,7 +258,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "恒指高开0.25%，报26011.06点；恒生科技指数涨0.43%。中芯国际涨1.8%，哔哩哔哩涨近1%，华虹半导体、阿里巴巴涨0.8%。中铝国际高开6%，公司联合体中标青铜峡电解槽升级改造项目。",
@@ -249,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 11时13分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.11%，标普500指数涨0.17%，纳指涨0.35%。甲骨文(ORCL.N)跌2%，报道称多家银行正商谈再向该公司和数据中心建设商VANTAGE提供380亿美元贷款；阿里巴巴(BABA.N)跌0.7%。霸王茶姬(CHA.O)涨3%。闪存龙头闪迪股价跳涨6%，此前两个交易日累计下跌超过5%。",
+          "url": "https://flash.jin10.com/detail/20251128223032429800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     }
