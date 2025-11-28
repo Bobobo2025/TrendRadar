@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T04:25:22.373593+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-11-29T05:19:49.556324+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时19分]"
         }
       ]
     },
@@ -122,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时19分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -134,11 +135,12 @@
             21,
             25,
             26,
-            27
+            27,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时19分]"
         }
       ]
     }
