@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T05:19:49.556324+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-11-29T06:21:22.146940+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -123,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
