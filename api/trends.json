@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T14:35:45.607914+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-11-28T15:22:53.984788+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -149,19 +149,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 15时22分]"
         },
         {
           "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
           "url": "https://wallstreetcn.com/livenews/3011921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时22分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
