@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T12:27:38.942513+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-28T13:23:40.056317+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -149,8 +149,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时23分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
@@ -159,7 +159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
