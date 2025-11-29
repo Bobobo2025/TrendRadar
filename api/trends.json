@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T19:18:08.750493+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-29T20:42:22.421950+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -107,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 20时42分]"
         },
         {
           "title": "雷军发布小米购置税补贴重要提示",
@@ -182,11 +182,12 @@
             4,
             6,
             17,
-            26
+            26,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 20时42分]"
         }
       ]
     },
