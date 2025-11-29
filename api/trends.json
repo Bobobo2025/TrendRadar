@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T12:27:30.398852+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-11-29T13:22:14.702399+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
@@ -109,6 +109,18 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "碰撞轮毂飞!竟是小米保命绝招",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时22分]"
+        },
+        {
           "title": "雷军回应小米汽车续航测试",
           "url": "https://www.douyin.com/hot/2320102",
           "source": "抖音",
@@ -123,18 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
         }
       ]
     },
