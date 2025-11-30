@@ -1,118 +1,44 @@
 {
-  "generated_at": "2025-11-30T23:21:11.602313+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-01T00:26:58.639389+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "弃帅保车?小米启动去雷军化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
           "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            3,
-            7,
-            8,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时36分 ~ 23时21分]"
-        },
-        {
-          "title": "华为苹果小米三台ProMax谁更耐摔",
-          "url": "https://www.douyin.com/hot/2321311",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            9,
-            11,
-            12,
-            13,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 19时18分]"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            11,
-            17,
-            18,
-            19,
-            16,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时26分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "小米汽车：11月新增17家门店",
           "url": "https://wallstreetcn.com/livenews/3012538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            10,
-            11,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
         {
-          "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
-          "url": "https://wallstreetcn.com/articles/3760379",
-          "source": "华尔街见闻",
+          "title": "碰撞轮毂飞!竟是小米保命绝招",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
+          "source": "贴吧",
           "ranks": [
-            9,
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待中国股市“慢牛”行情",
-          "url": "https://www.toutiao.com/trending/7578180574511107626/",
-          "source": "今日头条",
-          "ranks": [
-            27
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "00时26分"
         }
       ]
     }
