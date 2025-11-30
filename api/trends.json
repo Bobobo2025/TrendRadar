@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:20:24.503540+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2025-11-30T16:27:16.130838+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             17,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "华为苹果小米三台ProMax谁更耐摔",
@@ -33,11 +34,12 @@
             6,
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 16时27分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -45,11 +47,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时27分]"
         }
       ]
     },
@@ -68,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时27分]"
         }
       ]
     },
