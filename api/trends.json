@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:42:21.695371+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-11-30T21:28:49.879030+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 21时28分]"
         },
         {
           "title": "华为苹果小米三台ProMax谁更耐摔",
@@ -51,11 +52,12 @@
             17,
             18,
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 21时28分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -63,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时28分]"
         }
       ]
     },
