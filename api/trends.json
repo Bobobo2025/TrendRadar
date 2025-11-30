@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:21:13.695401+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-30T18:21:53.807918+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 18时21分]"
         },
         {
           "title": "华为苹果小米三台ProMax谁更耐摔",
@@ -32,11 +32,12 @@
             9,
             11,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 18时21分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -52,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 18时21分]"
         }
       ]
     },
