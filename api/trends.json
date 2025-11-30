@@ -1,12 +1,43 @@
 {
-  "generated_at": "2025-11-30T16:27:16.130838+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-11-30T17:21:13.695401+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 3,
       "titles": [
+        {
+          "title": "弃帅保车?小米启动去雷军化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时21分]"
+        },
+        {
+          "title": "华为苹果小米三台ProMax谁更耐摔",
+          "url": "https://www.douyin.com/hot/2321311",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            6,
+            8,
+            9,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 17时21分]"
+        },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
@@ -21,38 +52,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时27分]"
-        },
-        {
-          "title": "华为苹果小米三台ProMax谁更耐摔",
-          "url": "https://www.douyin.com/hot/2321311",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 16时27分]"
-        },
-        {
-          "title": "弃帅保车?小米启动去雷军化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 16时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时21分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时21分]"
         }
       ]
     },
