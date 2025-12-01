@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T06:25:41.934867+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-12-02T07:22:18.470483+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
@@ -70,8 +70,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时22分]"
         },
         {
           "title": "人民日报谈小米集团高质量发展",
@@ -80,7 +80,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
@@ -97,7 +97,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
