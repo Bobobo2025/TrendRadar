@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:38:06.993177+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-12-01T15:26:20.438863+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             11,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时26分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -29,11 +30,26 @@
             22,
             23,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时26分]"
+        },
+        {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            28,
+            13,
+            21,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 15时26分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -48,28 +64,16 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
-          "ranks": [
-            28,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 14时38分]"
-        },
-        {
           "title": "小米汽车将开放“现车选购”",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 15时26分]"
         },
         {
           "title": "小米汽车“现车选购”即将开启",
@@ -86,7 +90,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "菲律宾股市上涨1.5%，至6,110.92点，创自10月21日以来新高。",
@@ -100,13 +104,24 @@
           "time_info": "10时04分"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出31.25亿元，占比0.17%；大单资金净流出76.28亿元，占比0.41%；小单资金净流入62.81亿元，占比0.34%。",
+          "url": "https://flash.jin10.com/detail/20251201150656410800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "港股TATA健康复牌大涨超700%。",
           "url": "https://wallstreetcn.com/livenews/3012815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
