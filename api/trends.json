@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:12:10.735969+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-12-01T13:31:16.779596+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -17,8 +17,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时31分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -30,8 +30,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时31分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -50,11 +50,34 @@
           "url": "https://www.douyin.com/hot/2322868",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 13时31分]"
+        },
+        {
+          "title": "小米汽车“现车选购”即将开启",
+          "url": "https://www.toutiao.com/trending/7578719989142834726/",
+          "source": "今日头条",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "小米汽车将开放“现车选购”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         }
       ]
     },
@@ -80,7 +103,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
