@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T02:36:36.580425+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2025-12-03T03:22:00.878903+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -55,19 +55,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%96%91%E4%BC%BC%E9%9B%86%E4%BD%93%E9%81%AD%E9%81%87%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -77,8 +78,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     }
