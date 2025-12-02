@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T19:23:17.751359+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-12-02T20:49:50.558356+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -147,7 +147,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -172,8 +172,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时49分]"
+        },
+        {
+          "title": "雷军突然开卖现车 小米彻底摊牌了",
+          "url": "https://www.toutiao.com/trending/7579141283130641926/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时49分]"
         },
         {
           "title": "小米SU7撞坏上百米隔离带 10余车受损",
@@ -199,19 +212,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "雷军突然开卖现车 小米彻底摊牌了",
-          "url": "https://www.toutiao.com/trending/7579141283130641926/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时23分]"
-        },
-        {
           "title": "车主苦等5个月等来小米YU7运损车",
           "url": "https://www.toutiao.com/trending/7578133755190722610/",
           "source": "今日头条",
@@ -222,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时24分]"
+        },
+        {
+          "title": "小米高管疑似集体遭遇短信轰炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%96%91%E4%BC%BC%E9%9B%86%E4%BD%93%E9%81%AD%E9%81%87%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "小米汽车：截至今日，自2024年4月3日以来，小米汽车累计交付已超过50万台。 11月交付量持续超过4万台，2025年的交付量已超过了年初设定全年目标：35万台。",
@@ -366,7 +377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
