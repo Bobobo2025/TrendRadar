@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T19:21:28.984827+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2025-12-03T20:50:50.146368+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -189,11 +189,12 @@
             16,
             17,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 19时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 20时50分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -233,8 +234,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 20时50分]"
         },
         {
           "title": "腾讯电视剧道歉",
