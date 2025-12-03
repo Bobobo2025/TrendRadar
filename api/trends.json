@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T03:21:12.559661+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-12-04T04:28:28.035553+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "小米辣涨到28元1斤 市民：顶两斤肉",
@@ -56,11 +56,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 04时28分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时28分]"
         }
       ]
     }
