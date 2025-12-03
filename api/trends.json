@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T12:31:45.152170+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-12-03T13:22:55.633870+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -149,11 +149,12 @@
           "ranks": [
             7,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时22分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -193,18 +194,30 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
           "url": "https://www.zhihu.com/question/1979307864435684578",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 13时22分]"
+        },
+        {
+          "title": "腾讯电视剧道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%94%B5%E8%A7%86%E5%89%A7%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     }
