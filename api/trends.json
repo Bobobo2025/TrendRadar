@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:25:25.084332+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2025-12-03T23:27:27.532046+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2025年12月03日（周三）亚太市场股市指数（收盘）",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251203230028357800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -195,8 +206,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 23时27分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -236,8 +247,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 23时27分]"
         },
         {
           "title": "腾讯电视剧道歉",
