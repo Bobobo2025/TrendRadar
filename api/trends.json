@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:22:55.633870+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-12-03T14:36:18.397824+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -150,11 +150,12 @@
             7,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -205,19 +206,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时36分]"
         },
         {
           "title": "腾讯电视剧道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%94%B5%E8%A7%86%E5%89%A7%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时36分]"
         }
       ]
     }
