@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T16:33:44.555029+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2025-12-04T17:28:42.628982+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -129,7 +129,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -220,7 +220,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
@@ -236,6 +236,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时20分]"
+        },
+        {
+          "title": "港交所：腾讯控股(00700.HK)12月4日以6.357亿港元回购100万股。",
+          "url": "https://flash.jin10.com/detail/20251204172712576800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
