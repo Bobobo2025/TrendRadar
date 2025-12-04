@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:28:37.759061+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-12-04T19:23:03.975022+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时21分]"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251204182235851800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出321.57亿元，占比2.08%；大单资金净流出209.93亿元，占比1.36%；小单资金净流入327.86亿元，占比2.12%。",
@@ -273,7 +284,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
