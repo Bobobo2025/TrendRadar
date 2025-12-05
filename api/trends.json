@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T14:36:15.978032+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-05T15:24:30.755799+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月04日（周四）全球股市指数-欧洲市场（收盘）",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时37分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入123.17亿元，占比0.71%；大单资金净流出26.98亿元，占比0.16%；小单资金净流入78.97亿元，占比0.46%。",
+          "url": "https://flash.jin10.com/detail/20251205150613824800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-05）",
