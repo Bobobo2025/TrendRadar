@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:12:23.829616+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2025-12-06T12:26:04.551067+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2221638",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 12时26分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球股市指数-欧洲市场（收盘）",
