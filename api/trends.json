@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:26:12.714622+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2025-12-08T14:38:55.664871+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 14时38分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.4%，埃及股指涨超0.6%连续三天创收盘历史新高",
