@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T12:36:40.749381+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-12-08T13:26:12.714622+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "从“怀疑”到“认可独特价值”，华尔街看好中国股市明年继续上涨",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时25分 ~ 09时49分]"
+        },
+        {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时26分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.4%，埃及股指涨超0.6%连续三天创收盘历史新高",
@@ -33,16 +46,15 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
-          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
-          "url": "https://www.cls.cn/detail/2222232",
-          "source": "财联社热门",
+          "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时36分]"
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-08）",
@@ -133,11 +145,12 @@
           "url": "https://wallstreetcn.com/livenews/3016689",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时26分]"
         }
       ]
     }
