@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:24:01.021800+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-12-09T14:37:10.103668+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
@@ -136,7 +137,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米三款新车齐曝光",
@@ -149,8 +150,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 14时37分]"
+        },
+        {
+          "title": "小米三款新车齐曝光",
+          "url": "https://www.toutiao.com/trending/7581327910171279396/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，百度跌超3%，哔哩哔哩跌近3%，华虹半导体、中芯国际、小米等跌超2%。",
