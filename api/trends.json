@@ -1,60 +1,12 @@
 {
-  "generated_at": "2025-12-09T23:28:40.905043+08:00",
-  "total_titles_processed": 2126,
+  "generated_at": "2025-12-10T00:41:43.098065+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 17时27分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251209004727207800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "澜起科技港股上市获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3017626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
         {
           "title": "近期港股为何在三地中走得更弱？",
           "url": "https://wallstreetcn.com/articles/3761002",
@@ -63,360 +15,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时50分 ~ 23时28分]"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251209161424912800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
-        },
-        {
-          "title": "港股歌礼制药股价飙升，因口服减肥药取得积极顶线数据",
-          "url": "https://wallstreetcn.com/livenews/3017377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时24分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（12月8日），南非富时/JSE非洲领先40可交易指数收跌1.57%，逼近10.3万点，北京时间15:00大致平开，随后持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3017069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "金十图示：2025年12月08日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251209050633287800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-12-09）",
-          "url": "https://flash.jin10.com/detail/20251209091045763800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "00时41分"
         },
         {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出617.91亿元，占比3.25%；大单资金净流出309.55亿元，占比1.63%；小单资金净流入532.15亿元，占比2.79%。",
-          "url": "https://flash.jin10.com/detail/20251209150638287800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251209180141096800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "分析人士认为，当前A股市场或仍处于超跌修复演绎中，赚钱效应回暖后交投情绪有望进一步回升，跨年行情有望徐徐展开。（中证报）",
-          "url": "https://wallstreetcn.com/livenews/3017189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "汇丰：模型显示欧元被低估 股市成新驱动因素",
-          "url": "https://flash.jin10.com/detail/20251209220659981800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-12-09）",
-          "url": "https://flash.jin10.com/detail/20251209084016618800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251209230243298800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
-          "url": "https://wallstreetcn.com/livenews/3017538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251209102840232800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "兆易创新港股上市获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3017660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "摩根大通：新兴市场将受益于美元走弱或持稳。预计2026年新兴市场股市表现将优于发达市场。",
-          "url": "https://flash.jin10.com/detail/20251209204138347800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
-          "url": "https://wallstreetcn.com/livenews/3017238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "英国股市收跌超0.2%，在德法意英四国里表现最差",
-          "url": "https://wallstreetcn.com/livenews/3017085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "小米三款新车齐曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            8,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时37分]"
-        },
-        {
-          "title": "小米集团：12月9日回购720万股B类股，耗资约3亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3017587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "小米三款新车齐曝光",
-          "url": "https://www.toutiao.com/trending/7581327910171279396/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
-          "title": "小米集团(01810.HK)12月9日以2.971亿港元回购720万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20251209175458955800",
-          "source": "金十数据",
+          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "00时41分"
         },
         {
-          "title": "恒生科技指数日内跌幅扩大至1%，百度跌超3%，哔哩哔哩跌近3%，华虹半导体、中芯国际、小米等跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3017307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "小米中国区近期开启一系列人事调整，涉及手机、汽车、大家电等核心运营类岗位。此次的调整跟小米近期中国区业绩“承压”有关。（界面新闻）",
-          "url": "https://wallstreetcn.com/livenews/3017292",
-          "source": "华尔街见闻-快讯",
+          "title": "国际清算银行警告「黄金与股市走势趋同，可能是泡沫信号，要警惕市场突然回调」，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1981647390378309560",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "小米三折叠通过认证",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%8A%98%E5%8F%A0%E9%80%9A%E8%BF%87%E8%AE%A4%E8%AF%81%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "雷军转发小米安全辅助驾驶实测",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BD%AC%E5%8F%91%E5%B0%8F%E7%B1%B3%E5%AE%89%E5%85%A8%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E5%AE%9E%E6%B5%8B%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯控股：12月9日以6.357亿港元回购110万股股份。",
-          "url": "https://wallstreetcn.com/livenews/3017573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "腾讯控股(00700.HK)12月9日以6.357亿港元回购110万股股份。",
-          "url": "https://flash.jin10.com/detail/20251209173212790800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车：L4级自动驾驶的实现将是汽车行业真正的“iPhone 4时刻”，理想预计三年内推出首款L4级自动驾驶汽车",
-          "url": "https://wallstreetcn.com/livenews/3017719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3017543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时41分"
         }
       ]
     }
