@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T22:26:31.935237+08:00",
-  "total_titles_processed": 2035,
+  "generated_at": "2025-12-10T23:29:19.700674+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "近期港股为何在三地中走得更弱？",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 23时29分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 17时28分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251210230124865800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -85,7 +97,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -253,7 +265,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
@@ -262,7 +274,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -273,7 +285,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -282,11 +294,34 @@
           "url": "https://wallstreetcn.com/livenews/3018493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时29分]"
+        },
+        {
+          "title": "报道：META使用了阿里巴巴的通义千问（QWEN）来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时29分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%；Meta Platforms盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
