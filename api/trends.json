@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T20:51:18.542847+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2025-12-10T21:39:48.709697+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时39分]"
+        },
+        {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
           "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 17时28分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时51分]"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -162,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 20时51分]"
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 21时39分]"
         },
         {
           "title": "小米将承担门店调整损失约2726万元",
