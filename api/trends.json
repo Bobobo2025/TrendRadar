@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:51:07.186722+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-12-10T11:25:37.531339+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "近期港股为何在三地中走得更弱？",
@@ -55,6 +55,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "金十图示：2025年12月10日（周三）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251210102708124800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251210004615907800",
           "source": "金十数据",
@@ -64,6 +75,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米将承担门店调整损失约2726万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "小米将关闭部分低效且亏损门店",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E5%85%B3%E9%97%AD%E9%83%A8%E5%88%86%E4%BD%8E%E6%95%88%E4%B8%94%E4%BA%8F%E6%8D%9F%E9%97%A8%E5%BA%97%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     }
