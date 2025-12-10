@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:25:37.531339+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-12-10T12:35:55.642431+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 09时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 12时35分]"
         },
         {
           "title": "国际清算银行警告「黄金与股市走势趋同，可能是泡沫信号，要警惕市场突然回调」，对此你怎么看？",
@@ -61,7 +61,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -80,18 +80,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米将承担门店调整损失约2726万元",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
         },
         {
           "title": "小米将关闭部分低效且亏损门店",
@@ -100,9 +101,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "小米将承担门店调整损失约2726万元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     }
