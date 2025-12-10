@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T04:28:42.251625+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-11T05:25:19.473571+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -16,8 +16,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时25分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050829553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）全球股市指数-欧洲市场（收盘）",
@@ -64,11 +75,12 @@
           "source": "微博",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时25分]"
         }
       ]
     }
