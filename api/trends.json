@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:39:48.709697+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2025-12-10T22:26:31.935237+08:00",
+  "total_titles_processed": 2035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "近期港股为何在三地中走得更弱？",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时26分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，摩尔线程涨超20%，算力硬件走弱，贵金属走强，港股指数转涨，有色大涨",
@@ -162,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 21时39分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 22时26分]"
         },
         {
           "title": "小米将承担门店调整损失约2726万元",
@@ -237,6 +248,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
