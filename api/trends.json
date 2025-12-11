@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:38:04.368378+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-12-11T15:26:55.169727+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -18,8 +18,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时26分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
+          "url": "https://flash.jin10.com/detail/20251211150644676800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）全球股市指数-美洲市场（收盘）",
