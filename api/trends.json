@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:26:55.169727+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-12-11T16:33:44.318519+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时33分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
@@ -28,7 +28,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -76,6 +76,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251211161145018800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "业内：中国股市未来长牛",
+          "url": "https://www.toutiao.com/trending/7582441576064880134/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）全球股市指数-亚太市场（盘初）",
