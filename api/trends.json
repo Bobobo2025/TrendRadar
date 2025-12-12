@@ -1,504 +1,111 @@
 {
-  "generated_at": "2025-12-12T23:26:31.984133+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2025-12-13T00:29:57.901282+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 17,
+      "match_count": 5,
       "titles": [
         {
-          "title": "被小米投诉的村支书已清空账号",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            16,
-            7,
-            5,
-            13,
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时33分 ~ 23时26分]"
-        },
-        {
-          "title": "村支书卖小米被小米法务投诉下架",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%B3%95%E5%8A%A1%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            8,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 14时37分]"
-        },
-        {
-          "title": "被小米投诉村支书发视频道歉",
-          "url": "https://www.toutiao.com/trending/7582923410054090286/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时49分 ~ 23时26分]"
-        },
-        {
-          "title": "小米公司辟谣不让卖小米",
-          "url": "https://www.toutiao.com/trending/7582893873320431158/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 22时21分]"
-        },
-        {
-          "title": "小米17卖爆最大功臣竟然是副屏功能",
-          "url": "https://www.toutiao.com/trending/7582801250219986482/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            2,
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时28分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时49分 ~ 23时26分]"
-        },
-        {
-          "title": "小米公司回应不让卖小米",
-          "url": "https://www.cls.cn/detail/2228016",
+          "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
+          "url": "https://www.cls.cn/detail/2228075",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时49分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时49分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "小米从“一车难求”转向“现车选购”",
-          "url": "https://www.toutiao.com/trending/7582264558287634474/",
+          "title": "小米回应“小米公司不让卖小米”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "被小米投诉村支书发视频道歉",
+          "url": "https://www.toutiao.com/trending/7582923410054090286/",
           "source": "今日头条",
           "ranks": [
-            6,
-            8,
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "当地政府回应“小米不让卖小米”",
-          "url": "https://www.toutiao.com/trending/7582210637078659099/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
-        },
-        {
-          "title": "威海荣成滕家镇回应“主播卖农产品小米被小米公司投诉下架”",
-          "url": "https://news.ifeng.com/c/8p1TsrfaU7k",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时33分]"
-        },
-        {
-          "title": "小米公司辟谣不让卖小米",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
+          "title": "被小米投诉的村支书已清空账号",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时21分]"
-        },
-        {
-          "title": "雷军小米投诉村支书小米不如握手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B0%8F%E7%B1%B3%E4%B8%8D%E5%A6%82%E6%8F%A1%E6%89%8B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
-        },
-        {
-          "title": "村支书卖小米被投诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "小米公司不让卖小米？小米最新回应：彻头彻尾的歪曲与污蔑",
-          "url": "https://wallstreetcn.com/livenews/3019953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "雷军回应小米上架准新车",
-          "url": "https://wallstreetcn.com/livenews/3019645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-12-12）",
-          "url": "https://flash.jin10.com/detail/20251212091239305800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨超1.1%，贵金属矿业股领跑",
-          "url": "https://wallstreetcn.com/livenews/3019329",
+          "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨1.06%，至10.6万点下方，本周累计上涨0.89%。 本周，毛里求斯证交所SEMDEX指数累跌1.51%、整体“平开之后”持续走低，尼日利亚证交所全部股指累涨1.63%、12月11-12日走高，肯尼亚内罗毕证交所全股指数累跌0.82%。",
+          "url": "https://wallstreetcn.com/livenews/3020065",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050633392800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "杰富瑞：日本股市2026年前景具有强劲吸引力",
-          "url": "https://flash.jin10.com/detail/20251212105158547800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251212161130463800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "全球股市涨幅扩大，科技股拖累美股指期货，铜银续创新高，现货黄金重新站上4300美元",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "错判股市上涨 对冲基金经理全力押注基建股年内仍狂赚79%",
-          "url": "https://flash.jin10.com/detail/20251212212935447800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251212180115865800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251212102833605800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-12-12）",
-          "url": "https://flash.jin10.com/detail/20251212083720163800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "港股保险股走高，中国太平涨近5%，中国人寿、中国太保涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3019637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "港股芯片股走低，华虹半导体跌超5%，中芯国际跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3019541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "分析师：泰国提前大选提振股市 泰铢受影响或有限",
-          "url": "https://flash.jin10.com/detail/20251212111602388800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "特朗普称赞股市再创新高",
-          "url": "https://flash.jin10.com/detail/20251211234650410800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯回应“微信群崩了”",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E2%80%9C%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%B4%A9%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            20,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时27分 ~ 23时26分]"
-        },
-        {
-          "title": "腾讯回应微信群崩了：已恢复",
-          "url": "https://www.toutiao.com/trending/7582894691750776363/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
-        },
-        {
-          "title": "腾讯视频星光大赏",
-          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时26分]"
-        },
-        {
-          "title": "南向资金追踪｜近半年来首现周度净流出 加仓小米和美团减持腾讯及阿里",
-          "url": "https://www.cls.cn/detail/2228191",
-          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "腾讯微信团队就“微信群崩了”致歉：服务器轻微抖动，已恢复。",
-          "url": "https://wallstreetcn.com/livenews/3019815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3019507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.09%，报7773.37点，美股早盘实现V形反转，日内一般的时间处于微幅上涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
-          "url": "https://wallstreetcn.com/livenews/3019299",
-          "source": "华尔街见闻-快讯",
+          "title": "美国股市面临最高法院关税合法性裁决考验",
+          "url": "https://flash.jin10.com/detail/20251212233240283800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南向资金追踪｜近半年来首现周度净流出 加仓小米和美团减持腾讯及阿里",
+          "url": "https://www.cls.cn/detail/2228191",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
