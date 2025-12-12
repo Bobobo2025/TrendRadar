@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:37:17.599434+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2025-12-12T22:21:55.470434+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
@@ -17,22 +17,12 @@
             7,
             5,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 21时37分]"
-        },
-        {
-          "title": "被小米投诉村支书发视频道歉",
-          "url": "https://www.toutiao.com/trending/7582923410054090286/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 22时21分]"
         },
         {
           "title": "村支书卖小米被小米法务投诉下架",
@@ -49,6 +39,31 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
+          "title": "小米公司辟谣不让卖小米",
+          "url": "https://www.toutiao.com/trending/7582893873320431158/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时21分]"
+        },
+        {
+          "title": "被小米投诉村支书发视频道歉",
+          "url": "https://www.toutiao.com/trending/7582923410054090286/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时21分]"
+        },
+        {
           "title": "小米17卖爆最大功臣竟然是副屏功能",
           "url": "https://www.toutiao.com/trending/7582801250219986482/",
           "source": "今日头条",
@@ -63,28 +78,42 @@
           "time_info": "[14时37分 ~ 17时28分]"
         },
         {
-          "title": "小米公司辟谣不让卖小米",
-          "url": "https://www.toutiao.com/trending/7582893873320431158/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时50分]"
-        },
-        {
           "title": "小米回应“小米公司不让卖小米”",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             8,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时21分]"
+        },
+        {
+          "title": "小米公司回应不让卖小米",
+          "url": "https://www.cls.cn/detail/2228016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时21分]"
+        },
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 22时21分]"
         },
         {
           "title": "小米从“一车难求”转向“现车选购”",
@@ -98,30 +127,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时37分 ~ 16时33分]"
-        },
-        {
-          "title": "小米公司回应不让卖小米",
-          "url": "https://www.cls.cn/detail/2228016",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 21时37分]"
-        },
-        {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 21时37分]"
         },
         {
           "title": "当地政府回应“小米不让卖小米”",
@@ -166,8 +171,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时21分]"
         },
         {
           "title": "雷军小米投诉村支书小米不如握手",
@@ -283,7 +288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -426,11 +431,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 21时37分]"
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时21分]"
         },
         {
           "title": "腾讯回应微信群崩了：已恢复",
