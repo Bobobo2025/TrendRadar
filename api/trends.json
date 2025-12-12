@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:28:35.565592+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2025-12-12T18:27:47.049664+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-12）",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251212180115865800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "金十图示：2025年12月12日（周五）亚太市场股市指数（盘初）",
@@ -134,7 +145,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "村支书卖小米被小米法务投诉下架",
@@ -165,6 +176,17 @@
           "time_info": "[14时37分 ~ 17时28分]"
         },
         {
+          "title": "小米公司辟谣不让卖小米",
+          "url": "https://www.toutiao.com/trending/7582893873320431158/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "小米从“一车难求”转向“现车选购”",
           "url": "https://www.toutiao.com/trending/7582264558287634474/",
           "source": "今日头条",
@@ -178,6 +200,19 @@
           "time_info": "[14时37分 ~ 16时33分]"
         },
         {
+          "title": "被小米投诉的村支书已清空账号",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
+        },
+        {
           "title": "威海荣成滕家镇回应“主播卖农产品小米被小米公司投诉下架”",
           "url": "https://news.ifeng.com/c/8p1TsrfaU7k",
           "source": "凤凰网",
@@ -189,18 +224,6 @@
           "time_info": "[15时25分 ~ 16时33分]"
         },
         {
-          "title": "被小米投诉的村支书已清空账号",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时28分]"
-        },
-        {
           "title": "村支书卖小米被投诉",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -210,6 +233,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "当地政府回应“小米不让卖小米”",
+          "url": "https://www.toutiao.com/trending/7582210637078659099/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "小米公司辟谣不让卖小米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "雷军回应小米上架准新车",
@@ -276,8 +321,19 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "腾讯回应“微信群崩了”",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E2%80%9C%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
         {
           "title": "腾讯视频星光大赏",
           "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&t=31&band_rank=8&Refer=top",
@@ -289,6 +345,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时51分 ~ 11时26分]"
+        },
+        {
+          "title": "腾讯回应微信群崩了：已恢复",
+          "url": "https://www.toutiao.com/trending/7582894691750776363/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "腾讯微信团队就“微信群崩了”致歉：服务器轻微抖动，已恢复。",
+          "url": "https://wallstreetcn.com/livenews/3019815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     }
