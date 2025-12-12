@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T12:36:07.375963+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-12T13:25:22.034055+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -93,7 +93,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -174,8 +174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "村支书卖小米被投诉",
