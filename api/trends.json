@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T04:26:38.614330+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-12-13T05:21:08.263107+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -37,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "小米回应“小米公司不让卖小米”",
@@ -52,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "被小米投诉的村支书已清空账号",
@@ -63,11 +64,12 @@
             19,
             25,
             29,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "村支书卖小米被投诉 玩梗边界在哪",
@@ -137,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         }
       ]
     }
