@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T01:22:28.631070+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-13T02:36:13.163589+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "被小米投诉村支书发视频道歉",
+          "url": "https://www.toutiao.com/trending/7582923410054090286/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "小米回应“小米公司不让卖小米”",
@@ -39,19 +52,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "被小米投诉村支书发视频道歉",
-          "url": "https://www.toutiao.com/trending/7582923410054090286/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "被小米投诉的村支书已清空账号",
@@ -59,22 +61,24 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "村支书卖小米被投诉 玩梗边界在哪",
           "url": "https://www.toutiao.com/trending/7582926658399637055/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时36分]"
         }
       ]
     },
@@ -101,7 +105,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -127,11 +131,12 @@
           "url": "https://www.cls.cn/detail/2228191",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时36分]"
         }
       ]
     }
