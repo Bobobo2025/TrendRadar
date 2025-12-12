@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:33:40.230637+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-12T17:28:35.565592+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -157,11 +157,12 @@
           "ranks": [
             13,
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 17时28分]"
         },
         {
           "title": "小米从“一车难求”转向“现车选购”",
@@ -188,6 +189,18 @@
           "time_info": "[15时25分 ~ 16时33分]"
         },
         {
+          "title": "被小米投诉的村支书已清空账号",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时28分]"
+        },
+        {
           "title": "村支书卖小米被投诉",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E6%8A%95%E8%AF%89%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -208,17 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "被小米投诉的村支书已清空账号",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         }
       ]
     },
