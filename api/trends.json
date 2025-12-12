@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:26:00.449457+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-12T12:36:07.375963+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-12）",
@@ -49,7 +49,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -82,9 +82,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "分析师：泰国提前大选提振股市 泰铢受影响或有限",
+          "url": "https://flash.jin10.com/detail/20251212111602388800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "特朗普称赞股市再创新高",
@@ -159,11 +170,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 12时36分]"
         },
         {
           "title": "村支书卖小米被投诉",
