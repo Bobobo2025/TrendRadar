@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-14T00:28:02.254487+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-14T01:19:52.305067+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "小米现车开售后二手行情崩塌",
+          "url": "https://www.toutiao.com/trending/7583167861523529754/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     }
