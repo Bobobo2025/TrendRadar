@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T22:20:55.583175+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-13T23:21:56.193664+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 03时19分]"
+        },
+        {
+          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
