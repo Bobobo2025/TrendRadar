@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:23:06.027422+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2025-12-13T18:23:15.507558+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             12,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 17时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
