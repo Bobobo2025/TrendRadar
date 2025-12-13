@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T04:25:05.306225+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-14T05:20:16.421909+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "小米现车开售后二手行情崩塌",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 05时20分]"
         }
       ]
     }
