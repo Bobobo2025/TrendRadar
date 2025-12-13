@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-13T07:22:51.043895+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-12-13T09:45:17.118821+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时45分]"
+        },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
           "url": "https://www.cls.cn/detail/2228075",
@@ -20,17 +34,18 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
+          "title": "小米回应“小米公司不让卖小米”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            13,
-            12
+            14,
+            15,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时45分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -41,19 +56,6 @@
             14,
             20,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            18
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -87,13 +89,35 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 03时19分]"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
+          "url": "https://wallstreetcn.com/articles/3761243",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨1.06%，至10.6万点下方，本周累计上涨0.89%。 本周，毛里求斯证交所SEMDEX指数累跌1.51%、整体“平开之后”持续走低，尼日利亚证交所全部股指累涨1.63%、12月11-12日走高，肯尼亚内罗毕证交所全股指数累跌0.82%。",
           "url": "https://wallstreetcn.com/livenews/3020065",
@@ -152,7 +176,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -169,11 +193,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时45分]"
         }
       ]
     }
