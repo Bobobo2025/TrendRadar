@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:18:50.647925+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-12-13T12:28:55.559244+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             12,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时28分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
@@ -80,6 +81,18 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时28分]"
+        },
+        {
           "title": "村支书卖小米被投诉 玩梗边界在哪",
           "url": "https://www.toutiao.com/trending/7582926658399637055/",
           "source": "今日头条",
@@ -91,17 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 03时19分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时18分]"
         }
       ]
     },
