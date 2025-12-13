@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T15:23:54.627709+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-13T16:29:05.166698+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 16时29分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
@@ -65,6 +65,19 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 16时29分]"
+        },
+        {
           "title": "被小米投诉的村支书已清空账号",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
           "source": "百度热搜",
@@ -79,18 +92,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 15时23分]"
         },
         {
           "title": "村支书卖小米被投诉 玩梗边界在哪",
