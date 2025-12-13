@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T06:21:30.168071+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-14T07:21:07.571928+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             13,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 07时21分]"
         },
         {
           "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
@@ -30,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 07时21分]"
         }
       ]
     },
@@ -46,9 +47,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         }
       ]
     }
