@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:33:51.138246+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-12-14T15:21:41.915165+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 14时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "探访“小米公司不让卖小米”涉事村庄",
@@ -63,7 +63,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "分析师：越南银行间利率创2022年以来新高，和贷款利率上行风险冲击到股市近期表现",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
+          "url": "https://wallstreetcn.com/articles/3761350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }
