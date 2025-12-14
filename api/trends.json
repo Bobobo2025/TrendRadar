@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:23:28.612649+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2025-12-14T18:23:22.741037+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "探访“小米公司不让卖小米”涉事村庄",
@@ -130,11 +130,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时23分]"
         }
       ]
     }
