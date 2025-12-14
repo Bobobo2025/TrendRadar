@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T22:20:49.861951+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2025-12-14T23:22:00.246389+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米现车开售后二手行情崩塌",
@@ -36,6 +36,17 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时27分 ~ 19时19分]"
+        },
+        {
+          "title": "小米汽车突然变道闯红灯",
+          "url": "https://www.toutiao.com/trending/7583269383649542186/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "探访“小米公司不让卖小米”涉事村庄",
@@ -112,11 +123,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 23时22分]"
         }
       ]
     },
