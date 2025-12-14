@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T15:21:41.915165+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2025-12-14T16:29:30.500434+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时29分]"
         },
         {
           "title": "探访“小米公司不让卖小米”涉事村庄",
@@ -78,6 +78,17 @@
           "time_info": "[06时21分 ~ 09时57分]"
         },
         {
+          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
+          "url": "https://wallstreetcn.com/articles/3761350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时29分]"
+        },
+        {
           "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
           "url": "https://wallstreetcn.com/articles/3761325",
           "source": "华尔街见闻",
@@ -87,17 +98,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "当美国股市走向“邀请制”：私募交易催生越来越多巨无霸私企，普通散户被“拒之门外”",
-          "url": "https://wallstreetcn.com/articles/3761350",
-          "source": "华尔街见闻",
+          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
+          "url": "https://www.zhihu.com/question/1982864642054250698",
+          "source": "知乎",
           "ranks": [
-            10
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "零跑汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "零跑汽车：杜绝任何形式的价格欺诈和不正当竞争行为",
+          "url": "https://wallstreetcn.com/livenews/3020358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
