@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:22:10.221928+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-15T20:53:03.303610+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时54分 ~ 20时53分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市收跌约1.2%，埃及股指涨约0.1%创收盘历史新高",
@@ -147,7 +147,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
