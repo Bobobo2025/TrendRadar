@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T02:36:35.355938+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2025-12-16T03:22:54.586081+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）全球股市指数-欧洲市场（收盘）",
@@ -53,11 +53,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时22分]"
         }
       ]
     }
