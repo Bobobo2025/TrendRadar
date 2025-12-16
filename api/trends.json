@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T21:41:23.184857+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-12-16T22:28:18.431176+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时26分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时26分 ~ 22时28分]"
         },
         {
           "title": "美国财长贝森特谈论股市，重申国会议员必须停止股票交易行为。",
@@ -124,6 +124,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216220157083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "金十图示：2025年12月16日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251216004544572800",
           "source": "金十数据",
@@ -185,7 +196,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -268,8 +279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时26分 ~ 21时41分]"
+          "appearance_count": 28,
+          "time_info": "[01时26分 ~ 22时28分]"
         },
         {
           "title": "一小米新车主还未开出园区便撞倒人，交警已介入",
@@ -283,8 +294,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时27分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[11时27分 ~ 22时28分]"
         },
         {
           "title": "如何看待杭州一小米用户提车，在离开交付中心时误触刹车撞倒汽车销售？",
