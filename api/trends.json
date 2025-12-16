@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:23:14.043932+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2025-12-16T20:52:00.793228+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时26分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时26分 ~ 20时52分]"
         },
         {
           "title": "美国财长贝森特谈论股市，重申国会议员必须停止股票交易行为。",
@@ -141,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -257,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时26分 ~ 19时23分]"
+          "appearance_count": 25,
+          "time_info": "[01时26分 ~ 20时52分]"
         },
         {
           "title": "一小米新车主还未开出园区便撞倒人，交警已介入",
@@ -271,8 +271,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时27分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[11时27分 ~ 20时52分]"
         },
         {
           "title": "如何看待杭州一小米用户提车，在离开交付中心时误触刹车撞倒汽车销售？",
