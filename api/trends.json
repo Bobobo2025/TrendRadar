@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T06:23:13.125552+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2025-12-18T07:23:05.334515+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 06时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）全球股市指数-美洲市场（收盘）",
@@ -83,6 +83,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3022607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3022607",
           "source": "华尔街见闻-快讯",
@@ -92,17 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3022607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         }
       ]
     },
@@ -119,8 +120,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时23分]"
         }
       ]
     }
