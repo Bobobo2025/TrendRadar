@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:49:40.633175+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2025-12-18T21:38:50.168523+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,18 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "外资行：中国股市撕掉不可投资标签",
+          "url": "https://www.toutiao.com/trending/7584391748689526825/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时38分]"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）亚太市场股市指数（收盘）",
           "url": "https://flash.jin10.com/detail/20251218180329416800",
           "source": "金十数据",
@@ -123,17 +135,6 @@
           "time_info": "16时33分"
         },
         {
-          "title": "外资行：中国股市撕掉不可投资标签",
-          "url": "https://www.toutiao.com/trending/7584391748689526825/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "金十图示：2025年12月18日（周四）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251218102955039800",
           "source": "金十数据",
@@ -170,7 +171,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -260,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "小米",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
