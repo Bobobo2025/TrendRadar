@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T21:38:50.168523+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2025-12-18T22:26:41.225548+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -135,6 +135,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218220135518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251218102955039800",
           "source": "金十数据",
@@ -171,7 +182,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -202,6 +213,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时23分 ~ 15时25分]"
+        },
+        {
+          "title": "小米交付中心车祸被撞者已离世",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%BA%A4%E4%BB%98%E4%B8%AD%E5%BF%83%E8%BD%A6%E7%A5%B8%E8%A2%AB%E6%92%9E%E8%80%85%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "小米新车主未开出园区撞人致死",
@@ -241,6 +263,18 @@
           "time_info": "[09时47分 ~ 11时23分]"
         },
         {
+          "title": "小米",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时26分]"
+        },
+        {
           "title": "AI天才少女罗福莉小米首秀",
           "url": "https://www.toutiao.com/trending/7584807839307140654/",
           "source": "今日头条",
@@ -261,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "小米",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
@@ -327,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "小米辣暴涨至约70元一公斤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%BE%A3%E6%9A%B4%E6%B6%A8%E8%87%B3%E7%BA%A670%E5%85%83%E4%B8%80%E5%85%AC%E6%96%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
