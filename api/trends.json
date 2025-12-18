@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T22:26:41.225548+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2025-12-18T23:26:36.949217+08:00",
+  "total_titles_processed": 2152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时33分 ~ 16时33分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251218230030616800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
@@ -44,6 +55,19 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
+          "title": "外资行：中国股市撕掉不可投资标签",
+          "url": "https://www.toutiao.com/trending/7584391748689526825/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 23时26分]"
+        },
+        {
           "title": "恒生指数公司推出恒生港股通电子主题指数",
           "url": "https://wallstreetcn.com/livenews/3023067",
           "source": "华尔街见闻-快讯",
@@ -66,18 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "外资行：中国股市撕掉不可投资标签",
-          "url": "https://www.toutiao.com/trending/7584391748689526825/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时38分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）亚太市场股市指数（收盘）",
@@ -141,7 +153,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -221,7 +233,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -358,7 +370,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -366,7 +378,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -416,12 +428,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时26分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
@@ -445,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "合肥市委书记费高云与宁德时代董事长曾毓群、蔚来董事长李斌举行工作会谈",
+          "url": "https://wallstreetcn.com/livenews/3023208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
