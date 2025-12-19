@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:24:32.125747+08:00",
-  "total_titles_processed": 2160,
+  "generated_at": "2025-12-19T23:26:19.516051+08:00",
+  "total_titles_processed": 2265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国中免A股盘中触及涨停，港股涨超8%。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 02时36分]"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251219230408752800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "港股收盘：恒生指数收涨0.75%，恒生科技指数收涨1.12%，小鹏汽车涨超7%。",
