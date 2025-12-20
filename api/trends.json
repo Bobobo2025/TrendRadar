@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:22:53.593718+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-12-20T19:19:09.346127+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             12,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "高盛：股市年底前仍有进一步上行空间",
