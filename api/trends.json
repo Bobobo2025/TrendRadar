@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-22T01:19:55.201117+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-12-22T02:32:00.525124+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
+          "url": "https://wallstreetcn.com/livenews/3024450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Bobobo2025/TrendRadar/img/news.jpg"
 }
