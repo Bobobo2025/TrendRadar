@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T22:25:04.431883+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-22T23:26:03.902689+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时27分 ~ 22时25分]"
+          "appearance_count": 11,
+          "time_info": "[15时27分 ~ 23时26分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时27分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251222230140260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
@@ -268,11 +279,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 22时25分]"
+          "appearance_count": 7,
+          "time_info": "[20时48分 ~ 23时26分]"
         },
         {
           "title": "腾讯控股：12月22日耗资6.356亿港元回购100万股股份。",
