@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:20:24.342203+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2025-12-23T04:27:17.416286+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
           "url": "https://www.cls.cn/detail/2236392",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 04时27分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
@@ -132,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         }
       ]
     }
