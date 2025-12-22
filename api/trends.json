@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T15:27:24.655207+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-12-22T16:34:33.449724+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
@@ -34,13 +34,24 @@
           "time_info": "[02时32分 ~ 07时21分]"
         },
         {
+          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流入8.77亿元，占比0.05%；大单资金净流出127.21亿元，占比0.68%；小单资金净流入113.98亿元，占比0.61%。",
           "url": "https://flash.jin10.com/detail/20251222150638041800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时43分]"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
+          "url": "https://wallstreetcn.com/articles/3761811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时34分]"
         },
         {
           "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
@@ -81,15 +103,15 @@
           "time_info": "[12时43分 ~ 13时27分]"
         },
         {
-          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
-          "url": "https://wallstreetcn.com/articles/3761811",
-          "source": "华尔街见闻",
+          "title": "港股恒指年内飙涨33%创五年最佳 多家机构预测明年突破30000点",
+          "url": "https://www.cls.cn/detail/2236211",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "16时34分"
         },
         {
           "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
@@ -127,11 +149,12 @@
             7,
             11,
             12,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时34分]"
         },
         {
           "title": "小米17Ultra星空绿",
