@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:27:57.775137+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-12-22T14:39:05.449492+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时39分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
@@ -103,11 +103,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时39分]"
         },
         {
           "title": "小米17Ultra星空绿",
