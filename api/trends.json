@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:21:54.554891+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-12-23T20:50:30.349560+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "url": "https://wallstreetcn.com/articles/3761889",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时50分]"
         },
         {
           "title": "高盛再次唱多中国股市 逻辑是什么",
@@ -218,7 +219,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "必胜客败北,索尼硬刚腾讯获和解",
@@ -243,11 +244,12 @@
             22,
             24,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时50分]"
         },
         {
           "title": "腾讯12月23日回购价值6.358亿港元的股票。",
@@ -260,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
+          "title": "腾讯将于3月18日召开董事会会议，以批准全年业绩及公告。",
+          "url": "https://wallstreetcn.com/livenews/3025576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
