@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T22:24:43.960790+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-12-23T23:26:27.369290+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 23时26分]"
         },
         {
           "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
@@ -51,7 +51,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251223230105459800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "中金公司海外与港股策略首席分析师刘刚：中国资产轮动本质是过剩的流动性在追逐稀缺的有回报资产",
@@ -261,8 +272,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[15时26分 ~ 23时26分]"
         },
         {
           "title": "腾讯12月23日回购价值6.358亿港元的股票。",
