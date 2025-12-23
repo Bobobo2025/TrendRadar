@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-24T03:20:15.655154+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-24T04:26:40.128267+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 6,
       "titles": [
+        {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时26分]"
+        },
         {
           "title": "金十图示：2025年12月24日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251224004522856800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
         },
         {
           "title": "欧洲股市收涨约0.4%",
@@ -91,8 +91,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时26分]"
         }
       ]
     }
