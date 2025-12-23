@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T09:52:18.257448+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-12-23T11:38:30.912221+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -86,7 +86,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -181,11 +181,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348240&amp;topic_name=%E5%BF%85%E8%83%9C%E5%AE%A2%E8%B4%A5%E5%8C%97%2C%E7%B4%A2%E5%B0%BC%E7%A1%AC%E5%88%9A%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%92%8C%E8%A7%A3",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米17Ultra首发徕卡2亿真光变镜头",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E9%A6%96%E5%8F%91%E5%BE%95%E5%8D%A12%E4%BA%BF%E7%9C%9F%E5%85%89%E5%8F%98%E9%95%9C%E5%A4%B4%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     }
