@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T12:38:38.502687+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2025-12-24T13:27:09.101443+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球股市指数-欧洲市场（收盘）",
@@ -29,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "多地股市今日提前收市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20251224120442097800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
         },
         {
           "title": "欧洲股市收涨约0.4%",
@@ -65,6 +54,18 @@
           "time_info": "[09时50分 ~ 11时26分]"
         },
         {
+          "title": "多地股市今日提前收市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251224120442097800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时27分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收涨约0.6%创历史新高，成分股英美资源涨3.5%领跑，金银矿业股表现垫底",
           "url": "https://wallstreetcn.com/livenews/3025693",
           "source": "华尔街见闻-快讯",
@@ -76,6 +77,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
+          "url": "https://wallstreetcn.com/livenews/3025981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-美洲市场（收盘）",
@@ -114,17 +127,6 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
-          "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
-          "url": "https://wallstreetcn.com/livenews/3025981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
           "title": "“重估中国资产”共识扩大，外资机构看多2026年中国股市",
           "url": "https://wallstreetcn.com/livenews/3025788",
           "source": "华尔街见闻-快讯",
@@ -142,7 +144,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -182,6 +184,35 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大厂对决,索尼硬刚腾讯获和解",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348240&amp;topic_name=%E5%A4%A7%E5%8E%82%E5%AF%B9%E5%86%B3%2C%E7%B4%A2%E5%B0%BC%E7%A1%AC%E5%88%9A%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%92%8C%E8%A7%A3",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时50分]"
+        },
+        {
+          "title": "6成Top 10券商将大数据平台迁移至腾讯云",
+          "url": "https://wallstreetcn.com/livenews/3026003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -195,24 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大厂对决,索尼硬刚腾讯获和解",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348240&amp;topic_name=%E5%A4%A7%E5%8E%82%E5%AF%B9%E5%86%B3%2C%E7%B4%A2%E5%B0%BC%E7%A1%AC%E5%88%9A%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%92%8C%E8%A7%A3",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 09时50分]"
         }
       ]
     }
