@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:26:52.001916+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-12-24T12:38:38.502687+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时38分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球股市指数-欧洲市场（收盘）",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "多地股市今日提前收市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251224120442097800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "欧洲股市收涨约0.4%",
@@ -103,6 +114,17 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
+          "url": "https://wallstreetcn.com/livenews/3025981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "“重估中国资产”共识扩大，外资机构看多2026年中国股市",
           "url": "https://wallstreetcn.com/livenews/3025788",
           "source": "华尔街见闻-快讯",
@@ -114,13 +136,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "澳大利亚股市圣诞前夕提前收市 收盘下跌0.38%",
+          "url": "https://flash.jin10.com/detail/20251224112644579800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "中国复旦微电港股一度涨5.5%，第一大股东将成为上海国企。",
           "url": "https://wallstreetcn.com/livenews/3025921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -131,7 +164,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
