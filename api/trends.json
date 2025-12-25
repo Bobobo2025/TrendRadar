@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T03:19:04.513784+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-26T04:26:50.266463+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "小米17 Ultra起售价6999元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Ultra%E8%B5%B7%E5%94%AE%E4%BB%B76999%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "小米17Ultra",
@@ -26,24 +40,12 @@
             10,
             18,
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时19分]"
-        },
-        {
-          "title": "小米17 Ultra起售价6999元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Ultra%E8%B5%B7%E5%94%AE%E4%BB%B76999%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "小米17 Ultra定价6999元起",
@@ -76,11 +78,12 @@
           "url": "https://www.douyin.com/hot/2347642",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 04时26分]"
         }
       ]
     },
@@ -97,8 +100,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
@@ -109,8 +112,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时26分]"
         },
         {
           "title": "中东股市收盘播报｜以色列股市周四收跌超3.1%本周沙特股指涨超0.7%",
@@ -122,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时26分]"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
