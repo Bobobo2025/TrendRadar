@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:52:12.506717+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2025-12-25T11:38:50.172907+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
@@ -76,7 +76,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -87,9 +87,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251225103647534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
