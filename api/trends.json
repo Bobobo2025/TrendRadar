@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T09:51:56.777357+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-12-26T11:27:44.739858+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米17 Ultra价格6999元起",
@@ -31,11 +31,12 @@
             15,
             10,
             16,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "小米17Ultra",
@@ -55,6 +56,21 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "小米17 Ultra首发测评",
+          "url": "https://www.douyin.com/hot/2347642",
+          "source": "抖音",
+          "ranks": [
+            26,
+            23,
+            21,
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时18分 ~ 11时27分]"
+        },
+        {
           "title": "小米17 Ultra定价6999元起",
           "url": "https://www.toutiao.com/trending/7587536138282372662/",
           "source": "今日头条",
@@ -69,29 +85,27 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "小米17 Ultra首发测评",
-          "url": "https://www.douyin.com/hot/2347642",
-          "source": "抖音",
-          "ranks": [
-            26,
-            23,
-            21,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 09时51分]"
-        },
-        {
           "title": "卢伟冰将7999元小米新机口误成799",
           "url": "https://www.toutiao.com/trending/7587944818110811694/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时27分]"
+        },
+        {
+          "title": "卢伟冰口误：7999元小米新机成799元",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%8F%A3%E8%AF%AF%EF%BC%9A7999%E5%85%83%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E6%88%90799%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时27分"
         },
         {
           "title": "卢伟冰发布小米汽车最新交付成绩",
@@ -110,17 +124,29 @@
           "url": "https://www.douyin.com/hot/2347634",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时27分]"
+        },
+        {
+          "title": "卢伟冰将7999元小米新机口误成799",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%B0%867999%E5%85%83%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E5%8F%A3%E8%AF%AF%E6%88%90799%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时27分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛：中国股市赚钱逻辑彻底变了",
@@ -206,9 +232,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251226103329106800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }
