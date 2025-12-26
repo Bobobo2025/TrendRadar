@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T16:32:16.095553+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-12-26T17:26:28.525589+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -102,7 +102,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -265,6 +265,17 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "小米17 Ultra起售价6999元，较上代机型涨价500元",
+          "url": "https://wallstreetcn.com/articles/3762083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 17时26分]"
+        },
+        {
           "title": "小米17 Ultra支持在iPhone上操控",
           "url": "https://www.douyin.com/hot/2347634",
           "source": "抖音",
@@ -275,17 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时27分]"
-        },
-        {
-          "title": "小米17 Ultra起售价6999元，较上代机型涨价500元",
-          "url": "https://wallstreetcn.com/articles/3762083",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "卢伟冰将7999元小米新机口误成799",
