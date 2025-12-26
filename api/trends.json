@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T06:22:59.386306+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-12-27T07:22:37.062775+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3027463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "优信集团与蔚来资本等签署5000万美元融资协议",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3027463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初涨0.44%。 热门中概股叮咚买菜涨8.46%，小鹏涨3.78%，理想涨2.59%，蔚来涨1.1%，阿特斯太阳能、百胜中国、百度、阿里巴巴、贝壳、京东、华住、万国数据等至多涨0.74%。 再鼎医药跌1.83%，文远知行跌1.93%，小马智行跌3.89%。",
