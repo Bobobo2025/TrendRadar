@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:24:06.956006+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2025-12-27T19:19:25.403622+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32257429",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时19分]"
         },
         {
           "title": "小米造了台能打电话的徕卡",
@@ -30,6 +31,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 17时24分]"
+        },
+        {
+          "title": "小米17Ultra徕卡版有什么不一样",
+          "url": "https://www.douyin.com/hot/2347928",
+          "source": "抖音",
+          "ranks": [
+            28,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "卢伟冰将7999元小米新机口误成799",
@@ -54,18 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 12时35分]"
-        },
-        {
-          "title": "小米17Ultra徕卡版有什么不一样",
-          "url": "https://www.douyin.com/hot/2347928",
-          "source": "抖音",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "吴彦祖开箱小米17Ultra徕卡版",
