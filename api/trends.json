@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T19:19:25.403622+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2025-12-27T20:44:25.044320+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 20时44分]"
         },
         {
           "title": "小米造了台能打电话的徕卡",
@@ -39,11 +40,12 @@
           "ranks": [
             28,
             25,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 20时44分]"
         },
         {
           "title": "卢伟冰将7999元小米新机口误成799",
