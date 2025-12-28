@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T22:22:23.985310+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2025-12-28T23:22:23.882930+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             8,
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时22分]"
         },
         {
           "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
@@ -40,11 +41,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时22分]"
         },
         {
           "title": "小米联合创始人拟减持不超20亿美元",
@@ -53,7 +55,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -86,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 23时22分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股市收跌1%，逼近2023年10月下旬收盘位，埃及股指涨超0.8%",
@@ -95,11 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时22分]"
         }
       ]
     },
