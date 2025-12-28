@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-28T15:23:04.337059+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2025-12-28T16:31:19.908769+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 1,
