@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T14:37:20.441693+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-12-30T15:25:58.495047+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出387.72亿元，占比1.81%；大单资金净流出214.58亿元，占比1%；小单资金净流入399.37亿元，占比1.86%。",
+          "url": "https://flash.jin10.com/detail/20251230150812117800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
         {
           "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
           "url": "https://wallstreetcn.com/articles/3762226",
@@ -72,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "日韩股市年度收官：KOSPI指数创26年最大涨幅 日经站稳5万点",
+          "url": "https://flash.jin10.com/detail/20251230143546489800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "百度港股持续走高，目前涨超7%。",
