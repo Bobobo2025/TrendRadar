@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T03:19:21.552452+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-31T04:27:34.508306+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.cls.cn/detail/2244340",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762287",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时35分]"
-        },
-        {
-          "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762287",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）全球股市指数-欧洲市场（收盘）",
@@ -115,8 +116,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "小米明年或推4款新车",
