@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T03:19:25.674748+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-01T04:26:44.500104+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.01%，报2120.71点，2025年累计上涨将近44.30%。 希腊股市连续六个季度走强，并连续五年上涨。",
@@ -40,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
         },
         {
           "title": "南亚股市收盘播报｜巴基斯坦股市2025年涨超51%，和斯里兰卡股市连续三年走强",
