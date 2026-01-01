@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T18:26:32.350310+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-01T19:21:01.406018+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             4,
             11,
             15,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时21分]"
         },
         {
           "title": "蔚来公司12月交付新车48,135台，再创历史新高",
@@ -50,11 +51,12 @@
           "ranks": [
             5,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时21分]"
         },
         {
           "title": "蔚来12月交付新车48135台 再创历史新高",
@@ -62,11 +64,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "蔚来品牌换电体系一月将新增超4200块长续航电池包",
@@ -143,7 +146,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "港股2025年终盘点：恒指涨近28%领跑全球、华虹大涨240%，阿里领衔互联网反攻、南向资金狂买1.4万亿",
@@ -227,6 +230,17 @@
           "time_info": "[01时21分 ~ 03时19分]"
         },
         {
+          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
+          "url": "https://wallstreetcn.com/articles/3762416",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时21分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
           "url": "https://wallstreetcn.com/livenews/3029419",
           "source": "华尔街见闻-快讯",
@@ -273,11 +287,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
