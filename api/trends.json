@@ -1,451 +1,51 @@
 {
-  "generated_at": "2026-01-01T23:25:05.137559+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-01-02T00:31:23.752351+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "蔚来公司12月交付新车48,135台，再创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3029591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            13,
-            17,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 21时35分]"
-        },
-        {
-          "title": "蔚来汽车：2025年12月交付48,135辆汽车，同比增长54.6%。2025年第四季度交付124,807辆汽车，同比增长71.7%。",
-          "url": "https://flash.jin10.com/detail/20260101160110608800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "蔚来品牌换电体系一月份将新增超4200块长续航电池包",
-          "url": "https://wallstreetcn.com/livenews/3029584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            15,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时21分]"
-        },
-        {
-          "title": "蔚来12月交付新车48135台 再创历史新高",
-          "url": "https://flash.jin10.com/detail/20260101160110608800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时48分]"
-        },
-        {
-          "title": "蔚来品牌换电体系一月将新增超4200块长续航电池包",
-          "url": "https://flash.jin10.com/detail/20260101142304316800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时26分]"
-        },
-        {
-          "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
-          "url": "https://www.cls.cn/detail/2246180",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时24分 ~ 23时25分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3029407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "蔚来",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "蔚来官宣1月购车政策",
-          "url": "https://www.toutiao.com/trending/7590233328813362730/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "港股2025年终盘点：恒指涨近28%领跑全球、华虹大涨240%，阿里领衔互联网反攻、南向资金狂买1.4万亿",
-          "url": "https://wallstreetcn.com/articles/3762299",
-          "source": "华尔街见闻",
+          "title": "中东股市收盘播报｜沙特股指新年首日涨超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3029631",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
           "url": "https://wallstreetcn.com/articles/3762416",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时20分 ~ 23时25分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "中东股市收盘播报｜沙特股市2025年累跌将近13%，埃及股指涨超40%，土耳其里拉贬值超21%",
-          "url": "https://wallstreetcn.com/livenews/3029453",
-          "source": "华尔街见闻-快讯",
+          "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
+          "url": "https://www.cls.cn/detail/2246180",
+          "source": "财联社热门",
           "ranks": [
-            1,
             6,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 05时21分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.01%，报2120.71点，2025年累计上涨将近44.30%。 希腊股市连续六个季度走强，并连续五年上涨。",
-          "url": "https://wallstreetcn.com/livenews/3029428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "金十整理：2025年收官，股市、贵金属亮眼，原油黯淡",
-          "url": "https://flash.jin10.com/detail/20260101061019368800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050532723800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "南亚股市收盘播报｜巴基斯坦股市2025年涨超51%，和斯里兰卡股市连续三年走强",
-          "url": "https://wallstreetcn.com/livenews/3029431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
-          "url": "https://wallstreetcn.com/livenews/3029419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "欧洲股市2025年累涨超16%，欧元区蓝筹股累涨超18%",
-          "url": "https://wallstreetcn.com/livenews/3029433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
-        },
-        {
-          "title": "金十年度回顾：2025全球股市涨幅榜——除了纳斯达克，还有哪些暗马？",
-          "url": "https://flash.jin10.com/detail/20260101092457065800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金十整理：造车新势力最新成绩单——小米12月交付量站上5万 赛力斯再创单月交付新高",
-          "url": "https://flash.jin10.com/detail/20260101161336403800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时48分]"
-        },
-        {
-          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
-          "url": "https://wallstreetcn.com/livenews/3029559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时26分]"
-        },
-        {
-          "title": "小米汽车12月交付量超5万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A612%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%855%E4%B8%87%E5%8F%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
-        },
-        {
-          "title": "小米回应YU7配置调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94YU7%E9%85%8D%E7%BD%AE%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "小米汽车12月交付量超5万台",
-          "url": "https://www.toutiao.com/trending/7590232411074514442/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
-        },
-        {
-          "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
-          "url": "https://flash.jin10.com/detail/20260101090520861800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
-          "url": "https://wallstreetcn.com/livenews/3029522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
-          "url": "https://flash.jin10.com/detail/20260101112910886800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "理想汽车累计交付量突破150万",
-          "url": "https://www.toutiao.com/trending/7590250534280449574/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
-          "url": "https://wallstreetcn.com/livenews/3029536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "零跑汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "零跑汽车：2025年全年交付59.66万台，同比增长103%",
-          "url": "https://flash.jin10.com/detail/20260101090734394800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "零跑汽车全系12月交付达60423台，同比增长42%；2025年全年累计交付达596555台，同比增长103%。",
-          "url": "https://wallstreetcn.com/livenews/3029523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
