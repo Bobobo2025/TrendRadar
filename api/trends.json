@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:25:58.759252+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-01-02T19:21:32.620235+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 19时21分]"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 19时21分]"
         },
         {
           "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
@@ -69,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
@@ -81,30 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时25分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260102180343888800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "港股2026年首个交易日大涨，背后有多重原因",
-          "url": "https://wallstreetcn.com/livenews/3029806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "南亚股市收盘播报｜莫迪将按香烟长度征收消费税，印度烟草股ITC跌9.7%，巴基斯坦股市创历史新高",
@@ -144,6 +122,18 @@
           "time_info": "[09时55分 ~ 11时43分]"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260102180343888800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
+        },
+        {
           "title": "港股创新药概念股持续走高，晶泰控股涨超6%，恒瑞医药涨超5%，四环医药涨超4%，信达生物、药明生物涨超3%，百济神州涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3029745",
           "source": "华尔街见闻-快讯",
@@ -154,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 15时27分]"
+        },
+        {
+          "title": "港股2026年首个交易日大涨，背后有多重原因",
+          "url": "https://wallstreetcn.com/livenews/3029806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
           "title": "港股2026年开门红：百度大涨9%",
@@ -324,8 +326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时54分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时54分 ~ 19时21分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -337,8 +339,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 18时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 19时21分]"
         },
         {
           "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
@@ -369,7 +371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -414,11 +416,12 @@
           "url": "https://wallstreetcn.com/livenews/3029807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
         }
       ]
     },
@@ -437,8 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 19时21分]"
         }
       ]
     }
