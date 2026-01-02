@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T17:27:57.062659+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-01-02T18:25:58.759252+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 18时25分]"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时25分]"
         },
         {
           "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
@@ -68,20 +68,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时25分]"
         },
         {
           "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时25分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260102180343888800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "港股2026年首个交易日大涨，背后有多重原因",
+          "url": "https://wallstreetcn.com/livenews/3029806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "18时25分"
         },
         {
           "title": "南亚股市收盘播报｜莫迪将按香烟长度征收消费税，印度烟草股ITC跌9.7%，巴基斯坦股市创历史新高",
@@ -133,6 +156,19 @@
           "time_info": "[14时38分 ~ 15时27分]"
         },
         {
+          "title": "港股2026年开门红：百度大涨9%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A12026%E5%B9%B4%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%9A%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A89%25",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时25分]"
+        },
+        {
           "title": "韩国菲律宾股市指数上涨1%，至6,115点。",
           "url": "https://flash.jin10.com/detail/20260102133411307800",
           "source": "金十数据",
@@ -166,18 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "港股2026年开门红：百度大涨9%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A12026%E5%B9%B4%E5%BC%80%E9%97%A8%E7%BA%A2%EF%BC%9A%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A89%25",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时27分]"
         },
         {
           "title": "兴业证券：2026年港股市场将延续牛市格局，行情节奏如“火炬登山”般震荡上行",
@@ -287,7 +311,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "12月电车成绩单：小米首破5万大关，蔚来、鸿蒙智行交付再创新高，零跑同增超四成",
@@ -300,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 17时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 18时25分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -313,8 +337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 17时27分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 18时25分]"
         },
         {
           "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
@@ -337,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "美股热门中概股盘前普涨，网易(NTES.O)涨6.1%，蔚来汽车(NIO.N)涨5.5%，阿里巴巴(BABA.N)涨4.13%，理想汽车(LI.O)涨近3%，京东(JD.O)、台积电(TSM.N)、拼多多(PDD.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260102172348617800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -371,6 +406,23 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯控股于1月2日以6.358亿港元回购102.9万股股票。",
+          "url": "https://wallstreetcn.com/livenews/3029807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
       "match_count": 1,
       "titles": [
@@ -385,8 +437,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 18时25分]"
         }
       ]
     }
