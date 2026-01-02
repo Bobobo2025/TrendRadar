@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:28:38.181620+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-02T14:38:03.219434+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -35,6 +35,30 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时38分]"
+        },
+        {
+          "title": "港股创新药概念股持续走高，晶泰控股涨超6%，恒瑞医药涨超5%，四环医药涨超4%，信达生物、药明生物涨超3%，百济神州涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3029745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "南亚股市收盘播报｜莫迪将按香烟长度征收消费税，印度烟草股ITC跌9.7%，巴基斯坦股市创历史新高",
           "url": "https://wallstreetcn.com/livenews/3029634",
           "source": "华尔街见闻-快讯",
@@ -60,16 +84,15 @@
           "time_info": "[09时55分 ~ 11时43分]"
         },
         {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
+          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
+          "url": "https://wallstreetcn.com/articles/3762441",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时28分]"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "百度集团港股大涨超8%。此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
@@ -131,6 +154,28 @@
           "time_info": "[12时43分 ~ 12时44分]"
         },
         {
+          "title": "港股今日全线大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%82%A1%E4%BB%8A%E6%97%A5%E5%85%A8%E7%BA%BF%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "韩国菲律宾股市指数上涨1%，至6,115点。",
+          "url": "https://flash.jin10.com/detail/20260102133411307800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "2026年第一个交易日，港股高开",
           "url": "https://wallstreetcn.com/livenews/3029693",
           "source": "华尔街见闻-快讯",
@@ -157,8 +202,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 14时38分]"
         },
         {
           "title": "12月电车成绩单：小米首破5万大关，蔚来、鸿蒙智行交付再创新高，零跑同增超四成",
@@ -170,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 14时38分]"
         },
         {
           "title": "蔚来李斌新年全员信：即将迎来第100万辆量产车，2026年将加大下沉市场布局",
@@ -207,11 +252,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时38分]"
         }
       ]
     },
@@ -224,11 +270,12 @@
           "url": "https://www.zhihu.com/question/1990172846333325720",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 14时38分]"
         }
       ]
     }
