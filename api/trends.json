@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T01:20:37.759817+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-04T02:32:26.993293+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             5,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "小米辟谣变焦环造假",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "小米YU7为何采用长车头",
@@ -111,19 +112,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
           "url": "https://www.cls.cn/detail/2246281",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         }
       ]
     }
