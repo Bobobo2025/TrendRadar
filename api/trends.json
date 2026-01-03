@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:24:05.389219+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-03T18:24:08.869388+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -19,27 +19,16 @@
           "time_info": "[00时29分 ~ 16时31分]"
         },
         {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时24分]"
-        },
-        {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
           "url": "https://www.cls.cn/detail/2246357",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 18时24分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -51,6 +40,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 18时24分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -200,11 +202,12 @@
             1,
             6,
             12,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "小米辟谣17Ultra徕卡版变焦环造假",
@@ -232,11 +235,12 @@
             6,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 18时24分]"
         },
         {
           "title": "蔚来李斌：计划2026年换电站总数超4600座",
