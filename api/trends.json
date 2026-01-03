@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T02:32:26.993293+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-01-04T03:18:37.948217+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             9,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "小米辟谣变焦环造假",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "小米YU7为何采用长车头",
@@ -48,11 +49,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "雷军公开小米汽车年交付量",
@@ -112,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -124,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
