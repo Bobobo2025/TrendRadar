@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:25:08.009352+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-01-03T12:35:02.341310+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时35分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
           "url": "https://www.cls.cn/detail/2246281",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时35分]"
         },
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时35分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -106,6 +107,19 @@
           "time_info": "[00时29分 ~ 03时16分]"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260103084335455800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时35分]"
+        },
+        {
           "title": "希腊股市涨超1.7%，创2010年1月份以来收盘新高",
           "url": "https://wallstreetcn.com/livenews/3029891",
           "source": "华尔街见闻-快讯",
@@ -130,18 +144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时26分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260103084335455800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时25分]"
         },
         {
           "title": "德国股市收涨0.2%，西班牙股指涨约1.1%、与意大利银行板块创收盘历史新高",
@@ -217,8 +219,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时35分]"
         }
       ]
     },
