@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:31:15.876865+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-03T17:24:05.389219+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -199,11 +199,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时24分]"
         },
         {
           "title": "小米辟谣17Ultra徕卡版变焦环造假",
@@ -234,8 +235,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "蔚来李斌：计划2026年换电站总数超4600座",
