@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:24:08.869388+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-01-03T19:19:32.136963+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -175,7 +175,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
@@ -220,6 +220,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时16分]"
+        },
+        {
+          "title": "雷军现场直播拆小米YU7",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%8B%86%E5%B0%8F%E7%B1%B3YU7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
