@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-04T03:18:37.948217+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-01-04T04:26:19.501925+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 8,
       "titles": [
+        {
+          "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
+          "url": "https://www.zhihu.com/question/1990855994700423814",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
         {
           "title": "雷军回应小米超强钢争议",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%BC%BA%E9%92%A2%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top",
@@ -22,17 +33,6 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
-          "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
-          "url": "https://www.zhihu.com/question/1990855994700423814",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
           "title": "小米辟谣变焦环造假",
           "url": "https://www.douyin.com/hot/2355926",
           "source": "抖音",
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "小米YU7为何采用长车头",
@@ -111,11 +111,12 @@
           "url": "https://www.cls.cn/detail/2246357",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -126,8 +127,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
