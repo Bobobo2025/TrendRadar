@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:35:02.341310+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-01-03T13:24:37.229945+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -113,11 +113,12 @@
           "ranks": [
             10,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "希腊股市涨超1.7%，创2010年1月份以来收盘新高",
@@ -216,11 +217,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时24分]"
         }
       ]
     },
