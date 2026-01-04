@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:45:09.917599+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-01-04T21:32:17.359562+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 21时32分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -78,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时32分]"
         },
         {
           "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
@@ -209,11 +209,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时32分]"
         },
         {
           "title": "中东股市收盘播报｜周日（1月4日），卡塔尔证交所指数收涨0.21%，报10785.36点。 科威特证交所超级市场价格回报指数收跌0.71%，报9431.03点，逼近12月2日收盘位9370.92点，12月14日涨至9756.75点创盘中历史新高、按9715.05点创收盘历史最高以来，持续回落。",
@@ -228,6 +229,17 @@
           "time_info": "[19时19分 ~ 20时45分]"
         },
         {
+          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时32分]"
+        },
+        {
           "title": "A股市场将于1月5日正常开市",
           "url": "https://www.toutiao.com/trending/7590264111125479467/",
           "source": "今日头条",
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时23分]"
-        },
-        {
-          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
         }
       ]
     },
@@ -262,11 +263,12 @@
           "ranks": [
             25,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时32分]"
         }
       ]
     }
