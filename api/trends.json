@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T14:36:18.148213+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-04T15:24:11.377754+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 10时04分]"
+        },
+        {
+          "title": "小米通过直播拆车、集中回应「200 瞬间刹停」「小字营销」等争议，能有效扭转舆论吗？用户的诉求是什么？",
+          "url": "https://www.zhihu.com/question/1990913770948683335",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时24分]"
         },
         {
           "title": "小米辟谣变焦环造假",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "小米通过直播拆车、集中回应「200 瞬间刹停」「小字营销」等争议，能有效扭转舆论吗？用户的诉求是什么？",
-          "url": "https://www.zhihu.com/question/1990913770948683335",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时36分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
