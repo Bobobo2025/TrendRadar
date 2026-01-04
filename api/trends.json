@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T13:28:51.137169+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-01-04T14:36:18.148213+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://www.zhihu.com/question/1990913770948683335",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时36分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
@@ -81,23 +82,23 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
+          "title": "小米辟谣「小米 17 Ultra 徕卡版变焦环造假」，公布变焦环结构原理，怎样看待这一回应？",
+          "url": "https://www.zhihu.com/question/1990730441259444046",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时36分]"
+        },
+        {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
           "url": "https://www.douyin.com/hot/2356675",
           "source": "抖音",
           "ranks": [
             18,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时28分]"
-        },
-        {
-          "title": "小米辟谣「小米 17 Ultra 徕卡版变焦环造假」，公布变焦环结构原理，怎样看待这一回应？",
-          "url": "https://www.zhihu.com/question/1990730441259444046",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
