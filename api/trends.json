@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:22:58.007994+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-01-06T04:29:28.587015+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "亚太股市爆发",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
@@ -79,11 +79,12 @@
           "ranks": [
             16,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "小米回应网传KOL合作：跟相关KOL有过接触，立即终止可能进行的任何形式合作。（澎湃）",
@@ -111,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         }
       ]
     }
