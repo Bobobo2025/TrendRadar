@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-06T00:31:38.095936+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:26:02.207567+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 3,
       "titles": [
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨0.5%，金银矿业股领跑",
-          "url": "https://wallstreetcn.com/livenews/3030986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
         {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
           "url": "https://wallstreetcn.com/articles/3762497",
@@ -26,15 +15,27 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "亚太股市爆发",
           "url": "https://www.toutiao.com/trending/7591827352909254194/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股市收涨0.5%，金银矿业股领跑",
+          "url": "https://wallstreetcn.com/livenews/3030986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -51,11 +52,24 @@
           "url": "https://www.douyin.com/hot/2358389",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
+          "url": "https://www.zhihu.com/question/1991644899557208954",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "小米回应网传KOL合作：跟相关KOL有过接触，立即终止可能进行的任何形式合作。（澎湃）",
@@ -63,17 +77,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
-          "url": "https://www.zhihu.com/question/1991644899557208954",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -93,8 +96,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     }
