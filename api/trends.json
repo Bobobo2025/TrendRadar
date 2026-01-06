@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:36:21.521742+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-07T03:20:10.973605+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1991814689013850864",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "12个部门联手整治股市",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 03时20分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
@@ -89,8 +91,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 03时20分]"
         },
         {
           "title": "小米发布处罚声明",
@@ -103,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
-          "url": "https://www.zhihu.com/question/1992010161733199440",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 02时36分]"
         },
         {
           "title": "小米回应终止与万能的大熊合作",
