@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T06:25:01.391675+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-01-07T07:24:12.487667+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             14,
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时24分]"
         },
         {
           "title": "12个部门联手整治股市",
@@ -35,8 +36,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 07时24分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
@@ -90,7 +91,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
@@ -111,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 07时24分]"
         },
         {
           "title": "计划投放KOL遭粉丝抵制 小米通报",
@@ -122,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时24分]"
         },
         {
           "title": "小米发布处罚声明",
@@ -189,7 +190,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
