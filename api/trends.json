@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T01:29:31.698968+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-08T02:37:56.872019+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1991822368646067112",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市跌约0.8%脱离收盘历史最高位，矿业股表现垫底",
@@ -37,7 +38,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -52,11 +53,12 @@
           "url": "https://www.zhihu.com/question/1992154128378512258",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -66,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "雷军回应小米KOL投放争议",
@@ -77,8 +79,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         }
       ]
     }
