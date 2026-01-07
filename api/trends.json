@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T19:23:26.701385+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-07T20:52:32.680231+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时54分 ~ 20时52分]"
         },
         {
           "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 20时52分]"
         },
         {
           "title": "小米新一代SU7预计4月份上市 预售价22.99万元起",
@@ -140,6 +140,18 @@
           "time_info": "[12时43分 ~ 16时35分]"
         },
         {
+          "title": "小米重罚KOL事件相关人员，听劝还是妥协？",
+          "url": "https://news.ifeng.com/c/8piqo3OOev7",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时52分]"
+        },
+        {
           "title": "小米称此次事件严重伤害米粉感情",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%AD%A4%E6%AC%A1%E4%BA%8B%E4%BB%B6%E4%B8%A5%E9%87%8D%E4%BC%A4%E5%AE%B3%E7%B1%B3%E7%B2%89%E6%84%9F%E6%83%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -165,27 +177,17 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "小米重罚KOL事件相关人员，听劝还是妥协？",
-          "url": "https://news.ifeng.com/c/8piqo3OOev7",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
           "url": "https://www.cls.cn/detail/2250706",
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时52分]"
         },
         {
           "title": "博主：小米是时候切断和粉丝的脐带了",
@@ -339,6 +341,18 @@
           "time_info": "[09时54分 ~ 13时28分]"
         },
         {
+          "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
+          "url": "https://www.zhihu.com/question/1991822368646067112",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时52分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股指涨超1.9%，首次收于11万点关口上方，贵金属概念股领跑",
           "url": "https://wallstreetcn.com/livenews/3031781",
           "source": "华尔街见闻-快讯",
@@ -361,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时28分]"
-        },
-        {
-          "title": "怎么感觉全世界的股市都在创新高，发生了什么？",
-          "url": "https://www.zhihu.com/question/1991822368646067112",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "中际旭创最早将于1月提交港股上市申请。（IFR）",
@@ -568,7 +571,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
