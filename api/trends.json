@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T06:24:18.021432+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-01-08T07:23:55.538993+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时23分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市跌约0.8%脱离收盘历史最高位，矿业股表现垫底",
@@ -82,11 +83,12 @@
             8,
             10,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时23分]"
         },
         {
           "title": "雷军回应小米KOL投放争议",
@@ -96,11 +98,12 @@
             20,
             12,
             9,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时23分]"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
