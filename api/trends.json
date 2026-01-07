@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T14:38:37.802076+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-01-07T15:28:27.772054+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -22,17 +22,6 @@
           "time_info": "[01时25分 ~ 07时24分]"
         },
         {
-          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
-          "url": "https://www.zhihu.com/question/1992010161733199440",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
-        },
-        {
           "title": "计划投放KOL遭粉丝抵制 小米通报",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时28分]"
         },
         {
           "title": "小米SU7",
@@ -60,11 +61,26 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时28分]"
+        },
+        {
+          "title": "小米新一代SU7预计4月份上市 预售价22.99万元起",
+          "url": "https://www.cls.cn/detail/2249960",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
+          "time_info": "[11时41分 ~ 15时28分]"
         },
         {
           "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
@@ -78,21 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
-        },
-        {
-          "title": "小米新一代SU7预计4月份上市 预售价22.99万元起",
-          "url": "https://www.cls.cn/detail/2249960",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时28分]"
         },
         {
           "title": "小米新一代SU7起售价22.99万元",
@@ -101,11 +104,12 @@
           "ranks": [
             5,
             19,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时28分]"
         },
         {
           "title": "小米称此次事件严重伤害米粉感情",
@@ -140,8 +144,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时28分]"
+        },
+        {
+          "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
+          "url": "https://www.zhihu.com/question/1992154128378512258",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时38分]"
+          "time_info": "[14时38分 ~ 15时28分]"
         },
         {
           "title": "博主：小米是时候切断和粉丝的脐带了",
@@ -164,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
-          "url": "https://www.zhihu.com/question/1992154128378512258",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "小米回应终止与万能的大熊合作",
@@ -202,7 +207,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -275,6 +280,17 @@
           "time_info": "[12时43分 ~ 13时28分]"
         },
         {
+          "title": "中际旭创最早将于1月提交港股上市申请。（IFR）",
+          "url": "https://wallstreetcn.com/livenews/3032217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260107004522566800",
           "source": "金十数据",
@@ -284,6 +300,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出633.24亿元，占比2.22%；大单资金净流出343.72亿元，占比1.2%；小单资金净流入576.26亿元，占比2.02%。",
+          "url": "https://flash.jin10.com/detail/20260107150652315800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "据知情人士，鸣鸣很忙开始评估投资者对其5亿美元港股IPO的兴趣。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3032213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "沙特阿拉伯股市指数（TASI）在早盘交易中上涨2%。此前，沙特宣布其资本市场向所有类型的外国投资者开放。",
+          "url": "https://flash.jin10.com/detail/20260107150325846800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "英国股市涨超1.4%",
@@ -373,6 +422,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车宣布，2026年第1周上线140座理想超充站，累计上线数突破3900座。截至1月4日，理想超充已布局全国286个城市。",
+          "url": "https://wallstreetcn.com/livenews/3032223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
