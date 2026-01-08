@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T20:52:33.588163+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-01-08T21:43:07.754226+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
@@ -217,6 +217,22 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
+          "title": "小米前高管王腾宣布创业",
+          "url": "https://www.douyin.com/hot/2360658",
+          "source": "抖音",
+          "ranks": [
+            23,
+            26,
+            21,
+            19,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 21时43分]"
+        },
+        {
           "title": "王腾从小米离开后成立新公司",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%BB%8E%E5%B0%8F%E7%B1%B3%E7%A6%BB%E5%BC%80%E5%90%8E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -238,21 +254,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 03时23分]"
-        },
-        {
-          "title": "小米前高管王腾宣布创业",
-          "url": "https://www.douyin.com/hot/2360658",
-          "source": "抖音",
-          "ranks": [
-            23,
-            26,
-            21,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时52分]"
         },
         {
           "title": "小米前高管王腾成立新公司",
