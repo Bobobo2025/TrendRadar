@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:28:38.272690+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-01-08T19:23:57.886041+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -98,7 +98,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -240,6 +240,21 @@
           "time_info": "[00时34分 ~ 03时23分]"
         },
         {
+          "title": "小米前高管王腾宣布创业",
+          "url": "https://www.douyin.com/hot/2360658",
+          "source": "抖音",
+          "ranks": [
+            23,
+            26,
+            21,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时23分]"
+        },
+        {
           "title": "小米前高管王腾成立新公司",
           "url": "https://www.toutiao.com/trending/7592803705355767339/",
           "source": "今日头条",
@@ -254,20 +269,6 @@
           "time_info": "[11时42分 ~ 14时38分]"
         },
         {
-          "title": "小米前高管王腾宣布创业",
-          "url": "https://www.douyin.com/hot/2360658",
-          "source": "抖音",
-          "ranks": [
-            23,
-            26,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时28分]"
-        },
-        {
           "title": "为什么小米一次博主合作能掀起这么大的风波？有人把品牌类比为养成系偶像，小米应该如何处理和米粉的关系？",
           "url": "https://www.zhihu.com/question/1992206863790466453",
           "source": "知乎",
@@ -276,8 +277,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 19时23分]"
         }
       ]
     },
@@ -320,7 +321,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -331,7 +332,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
