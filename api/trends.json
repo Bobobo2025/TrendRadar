@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T02:37:06.555865+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-01-10T03:22:37.309872+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1992892734177039752",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨超0.9%，矿业股表现突出，嘉能可涨超10%领跑",
