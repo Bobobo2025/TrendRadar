@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T01:26:22.588704+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-10T02:37:06.555865+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨超0.9%，矿业股表现突出，嘉能可涨超10%领跑",
@@ -37,7 +37,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
