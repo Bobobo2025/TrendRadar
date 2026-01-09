@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T17:31:48.352153+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-09T18:27:37.285180+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "金十图示：2026年01月09日（周五）全球股市指数-欧洲市场（盘初）",
@@ -19,6 +19,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出346.28亿元，占比1.11%；大单资金净流出323.29亿元，占比1.04%；小单资金净流入488.50亿元，占比1.56%。",
           "url": "https://flash.jin10.com/detail/20260109150620930800",
           "source": "金十数据",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260109180517729800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "掘金港股，基金经理看好结构性机会",
@@ -75,6 +97,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/1992892734177039752",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "港股收盘，恒生指数收涨0.32%，恒生科技指数收涨0.15%。MiniMax上市首日收涨约109%，智谱收涨超20%。山东黄金涨超6%，老铺黄金涨超5%。",
@@ -132,17 +166,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "沪指 16 连阳站稳 4100 点，市场成交额第五次突破 3 万亿大关，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/1992892734177039752",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "韩国方面表示，2025年12月外国对本地股市的净投资额增加1.52万亿韩元，而11月为减少13.37万亿韩元；12月外国对本地债券的净投资额增加7.89万亿韩元，而11月为增加16.25万亿韩元。",
           "url": "https://flash.jin10.com/detail/20260109050227552800",
           "source": "金十数据",
@@ -179,7 +202,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米17官宣降价",
@@ -206,6 +229,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 05时25分]"
+        },
+        {
+          "title": "港交所文件显示，小米集团(01810.HK)于1月9日以1.513亿港元回购400万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20260109181643650800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "小米17官宣降价",
@@ -254,6 +288,35 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯娱乐白皮书",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%A8%B1%E4%B9%90%E7%99%BD%E7%9A%AE%E4%B9%A6%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时38分]"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：1月9日回购103.9万股，耗资约6.4亿港元。",
+          "url": "https://flash.jin10.com/detail/20260109180147344800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴",
       "match_count": 2,
       "titles": [
@@ -297,24 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯娱乐白皮书",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%A8%B1%E4%B9%90%E7%99%BD%E7%9A%AE%E4%B9%A6%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时38分]"
         }
       ]
     }
