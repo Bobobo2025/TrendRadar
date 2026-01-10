@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:24:08.840249+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-10T18:24:21.102561+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -124,11 +124,12 @@
           "ranks": [
             2,
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时24分]"
         },
         {
           "title": "王腾离开小米后成立新公司「今日宜休」，将研发睡眠健康相关产品，如何看待这一创业选择？你看好吗？",
@@ -136,11 +137,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时24分]"
         },
         {
           "title": "小米CEO雷军：下个阶段会加大YU7推广。",
@@ -148,11 +150,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "小米汽车25年销量涨幅近300%",
