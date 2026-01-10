@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T06:23:24.680351+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-11T07:22:33.151714+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             12,
             14,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "消费者买到xiaonnri电视 小米回应",
@@ -30,11 +31,12 @@
             15,
             23,
             20,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时22分]"
         }
       ]
     }
