@@ -1,315 +1,66 @@
 {
-  "generated_at": "2026-01-12T23:29:53.256659+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-01-13T00:31:49.540481+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 19,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "德国股市再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3035465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时36分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
           "url": "https://wallstreetcn.com/articles/3763061",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时54分 ~ 23时29分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3034700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时27分]"
-        },
-        {
-          "title": "港股兆易创新暗盘涨超36%，最高报225港元。",
-          "url": "https://wallstreetcn.com/livenews/3035123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时36分]"
-        },
-        {
-          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
-          "url": "https://wallstreetcn.com/livenews/3035033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时31分]"
-        },
-        {
-          "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
-          "url": "https://flash.jin10.com/detail/20260111202605827800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "杭州“六小龙”之一强脑科技据悉以保密形式提交港股IPO申请。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3035029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时31分]"
-        },
-        {
-          "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
-          "url": "https://wallstreetcn.com/livenews/3035115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时36分]"
-        },
-        {
-          "title": "港股午盘：百度集团涨超4%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260112161223387800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "小鹏汽车据悉聘请银行筹备其飞行汽车业务在港股上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3035028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "股市好了，李鬼多了，券商打假“持续营业”，提醒五类诈骗套路",
-          "url": "https://www.cls.cn/detail/2254107",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260112230211126800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出346.98亿元，占比0.96%；大单资金净流出357.37亿元，占比0.99%；小单资金净流入442.17亿元，占比1.23%。",
-          "url": "https://flash.jin10.com/detail/20260112150637530800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "港股开年增持忙，除了股东、高管，基石投资者也加码",
-          "url": "https://wallstreetcn.com/livenews/3034781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "00时31分"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
-          "url": "https://flash.jin10.com/detail/20260112214500163800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-01-12）",
-          "url": "https://flash.jin10.com/detail/20260112090543576800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国第一大饺子云吞品牌「袁记云饺」冲刺港股IPO",
-          "url": "https://wallstreetcn.com/livenews/3035222",
+          "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
+          "url": "https://wallstreetcn.com/livenews/3035448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "00时31分"
         },
         {
-          "title": "股市连阳背后的底层逻辑",
-          "url": "https://www.toutiao.com/trending/7594373394531880467/",
-          "source": "今日头条",
+          "title": "强脑科技提交港股IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3035437",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米17",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B317&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时53分]"
-        },
-        {
-          "title": "被传离职？小米总裁卢伟冰发文：今天上班",
-          "url": "https://wallstreetcn.com/livenews/3034997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "小米17背屏支持查看股票行情",
-          "url": "https://wallstreetcn.com/livenews/3034908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
-          "url": "https://wallstreetcn.com/livenews/3035153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时29分]"
-        },
-        {
-          "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
-          "url": "https://flash.jin10.com/detail/20260112170224589800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iShares MSCI中国ETF上涨1.6%，iShares中国大盘股ETF上涨1.5%。热门中概股延续涨势，阿里巴巴(BABA.N)涨超7%、小鹏汽车(XPEV.N)涨超4%、蔚来汽车(NIO.N)涨近4%。",
-          "url": "https://flash.jin10.com/detail/20260112225556093800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
+          "time_info": "00时31分"
         }
       ]
     },
@@ -318,15 +69,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
+          "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
+          "url": "https://wallstreetcn.com/livenews/3035444",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时01分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴(BABA.N)涨幅扩大至10%，纳斯达克中国金龙指数现涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260112235640015800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     }
