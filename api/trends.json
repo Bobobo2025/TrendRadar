@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:37:32.065735+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-13T03:23:09.388415+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时23分]"
+        },
+        {
+          "title": "A股16连阳，港股为何不涨？",
+          "url": "https://wallstreetcn.com/articles/3763061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时23分]"
         },
         {
           "title": "德国股市再创收盘历史新高",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
-        },
-        {
-          "title": "A股16连阳，港股为何不涨？",
-          "url": "https://wallstreetcn.com/articles/3763061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
