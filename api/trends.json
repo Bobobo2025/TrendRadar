@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-12T13:32:58.529265+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-01-12T14:41:20.405009+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
+          "url": "https://wallstreetcn.com/livenews/3035033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
         {
           "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3034700",
@@ -20,6 +31,18 @@
           "time_info": "[00时28分 ~ 04时27分]"
         },
         {
+          "title": "A股16连阳，港股为何不涨？",
+          "url": "https://wallstreetcn.com/articles/3763061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 14时41分]"
+        },
+        {
           "title": "兴业证券：新兴市场股市市值与企业盈利上升空间刚刚打开",
           "url": "https://flash.jin10.com/detail/20260111202605827800",
           "source": "金十数据",
@@ -31,17 +54,6 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
-          "title": "A股16连阳，港股为何不涨？",
-          "url": "https://wallstreetcn.com/articles/3763061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时32分]"
-        },
-        {
           "title": "港股午盘：百度集团涨超4%",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%854%25",
           "source": "百度热搜",
@@ -51,6 +63,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 13时32分]"
+        },
+        {
+          "title": "杭州“六小龙”之一强脑科技据悉以保密形式提交港股IPO申请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3035029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "小鹏汽车据悉聘请银行筹备其飞行汽车业务在港股上市。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3035028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "股市好了，李鬼多了，券商打假“持续营业”，提醒五类诈骗套路",
@@ -88,6 +122,34 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "被传离职？小米总裁卢伟冰发文：今天上班",
+          "url": "https://wallstreetcn.com/livenews/3034997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "小米17背屏支持查看股票行情",
+          "url": "https://wallstreetcn.com/livenews/3034908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -101,23 +163,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 10时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米17背屏支持查看股票行情",
-          "url": "https://wallstreetcn.com/livenews/3034908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
         }
       ]
     }
