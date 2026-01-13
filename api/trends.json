@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:29:12.103088+08:00",
-  "total_titles_processed": 1979,
+  "generated_at": "2026-01-13T23:29:34.350813+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260113230125321800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）全球股市指数-美洲市场（收盘）",
@@ -263,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时27分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时27分 ~ 23时29分]"
         }
       ]
     },
