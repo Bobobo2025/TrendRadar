@@ -1,236 +1,33 @@
 {
-  "generated_at": "2026-01-14T23:29:59.589132+08:00",
-  "total_titles_processed": 2202,
+  "generated_at": "2026-01-15T00:35:39.592212+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 23时29分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260114161135909800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "00时35分"
         },
         {
-          "title": "2026年以来南向资金持续流入，机构人士：港股有望震荡上行",
-          "url": "https://wallstreetcn.com/livenews/3036448",
+          "title": "非洲股市收盘播报｜南非股市大致收平，哈莫尼跌约3.4%，百威英博、嘉能可至多涨3.7%",
+          "url": "https://wallstreetcn.com/livenews/3037195",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "花旗上调陆港股市基准指数目标位 看好盈利前景改善",
-          "url": "https://wallstreetcn.com/livenews/3036650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时27分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）全球股市指数-亚太市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260114180216668800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.56%，恒生科技指数收涨0.66%，阿里健康涨近19%，携程跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3036808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "携程港股在集合竞价阶段快速下挫，现跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3036807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-01-14）",
-          "url": "https://flash.jin10.com/detail/20260114090234545800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "三井住友信托：日本若提前大选或利好股市",
-          "url": "https://flash.jin10.com/detail/20260114105851007800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260114004522433800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（1月13日），南非富时/JSE非洲领先40可交易指数收涨0.73%，逼近11.32万点，继续创收盘历史新高，最近三个交易日累计上涨3.76%。",
-          "url": "https://wallstreetcn.com/livenews/3036276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
-          "url": "https://wallstreetcn.com/livenews/3036624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时49分]"
-        },
-        {
-          "title": "恒指高开0.46%，报26971.97点；恒生科技指数涨0.42%。阿里巴巴涨超2%，快手涨近2%，百度涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3036533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.5%。 热门中概股携程跌18%，创2022年10月以来最差盘中表现。 拼多多跌3.37%，新东方跌2.68%，网易跌2.62%，理想跌2.6%，蔚来跌2.2%，百度、文远知行涨超0.6%，阿里巴巴涨2.3%，小马智行涨4.9%。",
-          "url": "https://wallstreetcn.com/livenews/3037135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯控股(00700.HK)于1月14日斥资6.36亿港元回购100万股。",
-          "url": "https://flash.jin10.com/detail/20260114184803630800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            4,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米二手SU7 Ultra35万没人要",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BA%8C%E6%89%8BSU7%20Ultra35%E4%B8%87%E6%B2%A1%E4%BA%BA%E8%A6%81&t=31&band_rank=15&Refer=top",
-          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时35分"
         }
       ]
     }
