@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:59:25.964290+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-01-14T11:53:59.509922+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026年以来南向资金持续流入，机构人士：港股有望震荡上行",
@@ -25,9 +25,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "三井住友信托：日本若提前大选或利好股市",
+          "url": "https://flash.jin10.com/detail/20260114105851007800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
@@ -54,6 +65,34 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
+          "url": "https://wallstreetcn.com/livenews/3036624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "恒指高开0.46%，报26971.97点；恒生科技指数涨0.42%。阿里巴巴涨超2%，快手涨近2%，百度涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3036533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "理想汽车",
       "match_count": 1,
       "titles": [
@@ -75,19 +114,19 @@
       ]
     },
     {
-      "keyword_group": "阿里巴巴",
+      "keyword_group": "小米 小米汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒指高开0.46%，报26971.97点；恒生科技指数涨0.42%。阿里巴巴涨超2%，快手涨近2%，百度涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3036533",
-          "source": "华尔街见闻-快讯",
+          "title": "小米二手SU7 Ultra35万没人要",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BA%8C%E6%89%8BSU7%20Ultra35%E4%B8%87%E6%B2%A1%E4%BA%BA%E8%A6%81&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "11时53分"
         }
       ]
     }
