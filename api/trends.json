@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T17:32:58.907236+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-01-14T18:29:44.970140+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（盘初）",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时32分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "花旗上调陆港股市基准指数目标位 看好盈利前景改善",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时27分]"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260114180216668800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "港股收盘：恒生指数收涨0.56%，恒生科技指数收涨0.66%，阿里健康涨近19%，携程跌超6%。",
