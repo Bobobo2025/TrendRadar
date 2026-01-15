@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T22:28:31.140461+08:00",
-  "total_titles_processed": 2120,
+  "generated_at": "2026-01-15T23:30:19.650318+08:00",
+  "total_titles_processed": 2222,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -112,6 +112,56 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "雷军：新一代小米SU7将提供9款配色",
+          "url": "https://wallstreetcn.com/livenews/3038027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "雷军直播聊新一代小米SU7",
+          "url": "https://www.toutiao.com/trending/7594761361217994803/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "雷军：新一代小米SU7将提供9款配色",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%B0%86%E6%8F%90%E4%BE%9B9%E6%AC%BE%E9%85%8D%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "小米YU7全系推出7年低息购车：首付4.99万元起，月供2593元起",
+          "url": "https://wallstreetcn.com/livenews/3038023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 2,
       "titles": [
@@ -136,34 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "雷军：新一代小米SU7将提供9款配色",
-          "url": "https://wallstreetcn.com/livenews/3038027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "小米YU7全系推出7年低息购车：首付4.99万元起，月供2593元起",
-          "url": "https://wallstreetcn.com/livenews/3038023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         }
       ]
     },
