@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T07:20:47.972962+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-01-15T09:54:46.397747+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时54分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-美洲市场（收盘）",
@@ -50,7 +50,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
