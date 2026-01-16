@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T12:43:07.548265+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-16T13:29:15.384672+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -136,7 +136,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "雷军聊新一代小米SU7",
@@ -153,8 +153,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时29分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时24分]"
+        },
+        {
+          "title": "雷军回应“小米二手车崩盘”",
+          "url": "https://www.toutiao.com/trending/7595072909161529387/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "新一代小米SU7九款颜色公布",
