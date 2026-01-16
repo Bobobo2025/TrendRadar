@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T11:42:50.576103+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-01-16T12:43:07.548265+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -149,11 +149,12 @@
             14,
             15,
             20,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时43分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
