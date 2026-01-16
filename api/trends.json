@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:22:53.170069+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-01-16T20:51:39.599352+08:00",
+  "total_titles_processed": 1840,
   "failed_sources": [],
   "trends": [
     {
@@ -220,7 +220,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -231,11 +231,12 @@
           "ranks": [
             18,
             12,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 20时51分]"
         },
         {
           "title": "小米、OPPO、vivo、传音四家手机厂商下调全年出货预期",
