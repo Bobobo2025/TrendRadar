@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T09:56:45.031859+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-01-16T11:42:50.576103+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -73,7 +73,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -106,7 +106,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -117,7 +117,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -148,11 +148,12 @@
             8,
             14,
             15,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 09时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 11时42分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -234,7 +235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
