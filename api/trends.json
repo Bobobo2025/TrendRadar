@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:27:45.536518+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-01-16T16:34:41.780557+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出486.02亿元，占比1.61%；大单资金净流出201.65亿元，占比0.67%；小单资金净流入413.12亿元，占比1.37%。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.29%，恒生科技指数收跌0.11%。港股半导体股普涨，兆易创新涨超16%，华虹半导体涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3038614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国总统特朗普称赞今日股市创新高。",
@@ -165,8 +176,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 16时34分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -178,6 +189,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时24分]"
+        },
+        {
+          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
+          "url": "https://www.zhihu.com/question/1994725124583215822",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时34分]"
         },
         {
           "title": "雷军回应“小米二手车崩盘”",
@@ -211,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
-          "url": "https://www.zhihu.com/question/1994725124583215822",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     },
