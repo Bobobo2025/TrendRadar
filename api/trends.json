@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T20:51:39.599352+08:00",
-  "total_titles_processed": 1840,
+  "generated_at": "2026-01-16T21:40:29.936812+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
@@ -214,6 +214,21 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
+          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
+          "url": "https://www.zhihu.com/question/1994725124583215822",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            15,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 21时40分]"
+        },
+        {
           "title": "小米集团：2026年已累计回购超14亿港元",
           "url": "https://wallstreetcn.com/livenews/3038740",
           "source": "华尔街见闻-快讯",
@@ -223,20 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
-        },
-        {
-          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
-          "url": "https://www.zhihu.com/question/1994725124583215822",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时51分]"
         },
         {
           "title": "小米、OPPO、vivo、传音四家手机厂商下调全年出货预期",
