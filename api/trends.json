@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T07:23:30.843703+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-17T09:51:00.067698+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260117050530478800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 09时51分]"
         },
         {
           "title": "金十图示：2026年01月17日（周六）全球股市指数-欧洲市场（收盘）",
