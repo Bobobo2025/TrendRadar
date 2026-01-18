@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T05:21:22.652420+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-01-19T06:23:05.841745+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市周日收涨约0.9%，埃及股市涨1.4%创收盘历史新高",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             12,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时23分]"
         },
         {
           "title": "巴菲特：我不知道股市下周下月明年怎么走，直到戴上格雷厄姆教给我的“眼镜”",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "A 股市场宽基 ETF 异常放量，单日流出规模连刷记录，主力资金是「撤退还是调仓」，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1995818826248515623",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
