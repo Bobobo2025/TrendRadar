@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-18T07:22:21.224771+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-18T10:03:16.396719+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
+          "url": "https://www.zhihu.com/question/1995538757940707758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Bobobo2025/TrendRadar/img/news.jpg"
 }
