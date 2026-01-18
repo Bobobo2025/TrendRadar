@@ -1,104 +1,39 @@
 {
-  "generated_at": "2026-01-18T23:22:47.809484+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-19T00:28:47.811297+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
-          "url": "https://wallstreetcn.com/livenews/3039180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            8,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时25分]"
-        },
-        {
-          "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
-          "url": "https://flash.jin10.com/detail/20260118140641430800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "巴菲特：我不知道股市下周下月明年怎么走，直到戴上格雷厄姆教给我的“眼镜”",
           "url": "https://wallstreetcn.com/livenews/3039271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时22分]"
-        },
-        {
-          "title": "银河证券：A股市场长牛、慢牛基础进一步夯实",
-          "url": "https://flash.jin10.com/detail/20260118180625220800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时32分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
-          "url": "https://www.zhihu.com/question/1995538757940707758",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            8,
-            5,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 17时24分]"
-        },
         {
           "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
           "url": "https://flash.jin10.com/detail/20260118224930026800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时22分"
+          "time_info": "00时28分"
         }
       ]
     }
