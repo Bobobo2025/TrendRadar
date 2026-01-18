@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:31:35.960562+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-01-18T17:24:48.578883+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时24分]"
         },
         {
           "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
@@ -27,11 +28,12 @@
           "ranks": [
             1,
             5,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时24分]"
         }
       ]
     },
@@ -48,11 +50,12 @@
             10,
             8,
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 17时24分]"
         }
       ]
     }
