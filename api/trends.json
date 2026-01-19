@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T07:22:51.947512+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-19T10:01:45.852997+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市周日收涨约0.9%，埃及股市涨1.4%创收盘历史新高",
@@ -42,7 +42,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -51,11 +51,23 @@
           "url": "https://www.zhihu.com/question/1995818826248515623",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 10时01分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119091532073800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "港股再融资迎开门红，近30家公司集中“补血”",
@@ -64,9 +76,54 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价腾讯出的知识库 Ima？",
+          "url": "https://www.zhihu.com/question/1889469794492864194",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "腾讯、淘宝入股智驾研发商至简动力",
+          "url": "https://wallstreetcn.com/livenews/3039390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指日内跌幅扩大至1%。阿里巴巴跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3039403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
