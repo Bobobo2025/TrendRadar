@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T10:01:45.852997+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-01-19T11:58:05.176435+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -65,7 +65,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -104,9 +104,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
+          "url": "https://flash.jin10.com/detail/20260118224930026800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "小米新SU7刷新24小时耐力挑战纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%88%B7%E6%96%B024%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E6%8C%91%E6%88%98%E7%BA%AA%E5%BD%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 11时58分]"
         }
       ]
     },
@@ -121,27 +150,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
-          "url": "https://flash.jin10.com/detail/20260118224930026800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
         }
       ]
     }
