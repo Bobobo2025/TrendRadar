@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:56:35.848286+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-01-20T21:51:19.359925+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出1068.43亿元，占比3.85%；大单资金净流出393.53亿元，占比1.42%；小单资金净流入782.21亿元，占比2.82%。",
@@ -152,11 +163,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8A%9B%E6%8C%BA%E9%99%88%E6%98%9F%E6%97%AD%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "恒指低开0.07%，报26544.90点；恒生科技指数跌0.22%。百度跌超2%，腾讯控股、小米集团跌超1%。",
