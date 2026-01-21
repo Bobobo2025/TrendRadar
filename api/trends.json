@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:36:57.305518+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-01-21T17:36:54.967378+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -110,7 +110,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -174,8 +174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 17时36分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.45%，报7608.38点。 热门中概股里，小马智行初步收跌6.4%，小米跌5%，文远知行跌4.4%，比亚迪、小鹏、腾讯跌超3%，百度涨超0.3%。 ETF中，中国科技指数ETF（CQQQ）收跌2.87%，中概互联网指数ETF（KWEB）收跌2.07%。 XtrackersHarvest中证50（ASHS）收跌0.48%，德银嘉实沪深300指数ETF（ASHR）收跌0.24%。",
@@ -218,11 +218,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 17时36分]"
         }
       ]
     }
