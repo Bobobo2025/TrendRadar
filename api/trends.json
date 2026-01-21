@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:49:06.945242+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-01-21T13:31:53.597244+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时31分]"
         },
         {
           "title": "全球股市全线下跌 金银“狂飙”再刷历史高位 | 环球市场",
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）全球股市指数-美洲市场（收盘）",
