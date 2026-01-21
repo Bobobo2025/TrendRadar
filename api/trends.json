@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-22T04:35:09.611564+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-01-22T05:31:42.770244+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2026年01月21日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050534372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
         {
           "title": "欧洲股市大致收平，特朗普在达沃斯淡化武力抢夺格陵兰的风险",
           "url": "https://wallstreetcn.com/livenews/3041417",
@@ -40,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨约2.2%。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，CQQQ涨3.4%，ASHS涨2.3%，KWEB涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3041515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
