@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T02:38:05.976260+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-23T03:28:16.117348+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 03时28分]"
         },
         {
           "title": "德法意股市收涨超1%，丹麦股市涨超3.4%",
@@ -77,11 +77,12 @@
           "url": "https://www.zhihu.com/question/1997421644105347588",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 03时28分]"
         }
       ]
     },
@@ -94,11 +95,12 @@
           "url": "https://www.zhihu.com/question/1997364733414696491",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 03时28分]"
         }
       ]
     }
