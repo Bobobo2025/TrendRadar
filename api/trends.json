@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:45:59.522256+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-01-23T22:29:24.046556+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
+          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "金十图示：2026年01月23日（周五）亚太市场股市指数（收盘）",
@@ -232,11 +243,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E6%96%B0%E5%A2%9E%E6%B0%B8%E4%B8%8D%E5%90%88%E4%BD%9C%E5%85%AC%E5%8F%B8%E5%90%8D%E5%8D%95%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "去年腾讯20余人涉嫌犯罪被移送警方",
