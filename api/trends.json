@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:24:48.648447+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-01-23T20:54:24.666924+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
@@ -212,8 +212,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时54分]"
         },
         {
           "title": "腾讯集团：2025年九十余人因触犯“腾讯高压线”被解聘",
@@ -312,7 +312,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
