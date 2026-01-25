@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:23:57.099956+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-01-25T10:06:33.745661+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 10时06分]"
         },
         {
           "title": "小米二手车价格崩盘了吗",
