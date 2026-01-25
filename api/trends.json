@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T02:34:26.955151+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-01-26T03:19:51.603032+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "腾讯官宣发10亿现金红包",
@@ -28,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "腾讯元宝推出春节分10亿现金活动",
@@ -39,8 +39,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         }
       ]
     }
