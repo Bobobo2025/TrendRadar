@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:19:51.603032+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-01-26T04:28:18.329393+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             13,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "腾讯官宣发10亿现金红包",
           "url": "https://flash.jin10.com/detail/20260125210552948800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "腾讯元宝推出春节分10亿现金活动",
@@ -39,8 +41,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     }
