@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T06:24:04.962948+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-01-26T07:23:43.540027+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "腾讯元宝推出春节分10亿现金活动",
@@ -57,11 +57,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 07时23分]"
         }
       ]
     }
