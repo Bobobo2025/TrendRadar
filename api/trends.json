@@ -1,8 +1,161 @@
 {
-  "generated_at": "2026-01-26T21:48:15.468587+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-01-26T22:32:03.620184+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
+          "title": "高盛策略师警告：全球股市“风暴”正在酝酿 回调或一触即发",
+          "url": "https://www.cls.cn/detail/2269547",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 21时48分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260126161130460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126221652476800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出1216.26亿元，占比3.74%；大单资金净流出452.17亿元，占比1.39%；小单资金净流入814.40亿元，占比2.51%。",
+          "url": "https://flash.jin10.com/detail/20260126150631413800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时31分]"
+        },
+        {
+          "title": "港股九方智投控股午后走低，一度跌超34%。",
+          "url": "https://wallstreetcn.com/livenews/3043722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3043814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "MSCI调整在即，印尼股市16周来首现外资撤离",
+          "url": "https://flash.jin10.com/detail/20260126154046923800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260126180106368800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "港股九方智投控股午后持续下挫，跌幅扩大至30%。",
+          "url": "https://wallstreetcn.com/livenews/3043708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126091018473800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
     {
       "keyword_group": "腾讯",
       "match_count": 12,
@@ -151,151 +304,21 @@
       ]
     },
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 14时41分]"
-        },
-        {
-          "title": "高盛策略师警告：全球股市“风暴”正在酝酿 回调或一触即发",
-          "url": "https://www.cls.cn/detail/2269547",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时48分]"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260126161130460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出1216.26亿元，占比3.74%；大单资金净流出452.17亿元，占比1.39%；小单资金净流入814.40亿元，占比2.51%。",
-          "url": "https://flash.jin10.com/detail/20260126150631413800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时31分]"
-        },
-        {
-          "title": "港股九方智投控股午后走低，一度跌超34%。",
-          "url": "https://wallstreetcn.com/livenews/3043722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3043814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "MSCI调整在即，印尼股市16周来首现外资撤离",
-          "url": "https://flash.jin10.com/detail/20260126154046923800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260126180106368800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "港股九方智投控股午后持续下挫，跌幅扩大至30%。",
-          "url": "https://wallstreetcn.com/livenews/3043708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-01-26）",
-          "url": "https://flash.jin10.com/detail/20260126091018473800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
       "match_count": 3,
       "titles": [
+        {
+          "title": "小米店员自信展示手机防摔功能",
+          "url": "https://www.toutiao.com/trending/7599573669404803115/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 22时32分]"
+        },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
@@ -308,17 +331,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 07时23分]"
-        },
-        {
-          "title": "小米店员自信展示手机防摔功能",
-          "url": "https://www.toutiao.com/trending/7599573669404803115/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 21时48分]"
         },
         {
           "title": "港交所文件：小米集团(01810.HK)于1月26日以1.404亿港元回购400万股B类股份。",
