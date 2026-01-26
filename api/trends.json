@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:35:11.073614+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-01-26T14:41:52.443703+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
@@ -34,6 +34,19 @@
           "time_info": "[00时29分 ~ 05时22分]"
         },
         {
+          "title": "腾讯发10亿，百度发5亿！两巨头春节狂“撒钱”",
+          "url": "https://www.cls.cn/detail/2268951",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
           "title": "腾讯官宣发10亿现金红包",
           "url": "https://flash.jin10.com/detail/20260125210552948800",
           "source": "金十数据",
@@ -46,16 +59,26 @@
           "time_info": "[00时29分 ~ 04时28分]"
         },
         {
-          "title": "腾讯发10亿，百度发5亿！两巨头春节狂“撒钱”",
-          "url": "https://www.cls.cn/detail/2268951",
-          "source": "财联社热门",
+          "title": "腾讯神秘AI项目曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%A5%9E%E7%A7%98AI%E9%A1%B9%E7%9B%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
             10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 13时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "腾讯马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/livenews/3043716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
@@ -78,12 +101,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "腾讯发布混元图像3.0图生图，元宝同步上线",
+          "url": "https://wallstreetcn.com/livenews/3043690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -93,8 +127,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
+          "title": "港股九方智投控股午后走低，一度跌超34%。",
+          "url": "https://wallstreetcn.com/livenews/3043722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "港股九方智投控股午后持续下挫，跌幅扩大至30%。",
+          "url": "https://wallstreetcn.com/livenews/3043708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-01-26）",
