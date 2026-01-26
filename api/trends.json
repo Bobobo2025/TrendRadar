@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:55:13.927958+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-01-26T21:48:15.468587+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -166,17 +166,6 @@
           "time_info": "[12时17分 ~ 14时41分]"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260126161130460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "高盛策略师警告：全球股市“风暴”正在酝酿 回调或一触即发",
           "url": "https://www.cls.cn/detail/2269547",
           "source": "财联社热门",
@@ -187,8 +176,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 21时48分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260126161130460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -317,8 +317,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 21时48分]"
         },
         {
           "title": "港交所文件：小米集团(01810.HK)于1月26日以1.404亿港元回购400万股B类股份。",
