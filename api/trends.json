@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-27T05:28:32.462404+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-27T06:26:33.274934+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时26分]"
+        },
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260127010319347800",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时33分]"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050542615800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
@@ -68,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 06时26分]"
         }
       ]
     },
