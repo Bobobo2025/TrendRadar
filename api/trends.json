@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:57:07.139373+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-01-27T21:52:29.316439+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯元宝春节将发 10 亿元红包，欲复刻 11 年前微信红包盛况，当下这一策略还行得通吗？",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时09分 ~ 16时37分]"
+        },
+        {
+          "title": "马化腾称腾讯已从美团京东投资中退出",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E7%A7%B0%E8%85%BE%E8%AE%AF%E5%B7%B2%E4%BB%8E%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%8A%95%E8%B5%84%E4%B8%AD%E9%80%80%E5%87%BA%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
