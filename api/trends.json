@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:31:30.953507+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-28T02:43:27.644681+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时43分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -69,11 +69,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时43分]"
         }
       ]
     }
