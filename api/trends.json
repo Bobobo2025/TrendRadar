@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T12:10:11.575140+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-01-27T13:31:35.711037+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -103,19 +103,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时26分 ~ 12时10分]"
+          "appearance_count": 9,
+          "time_info": "[03时26分 ~ 13时31分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
           "url": "https://www.cls.cn/detail/2270597",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时31分]"
         }
       ]
     },
