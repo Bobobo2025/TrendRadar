@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:26:12.415191+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-01-28T20:57:01.619691+08:00",
+  "total_titles_processed": 1919,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             6,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时47分 ~ 19时26分]"
+          "appearance_count": 15,
+          "time_info": "[12时47分 ~ 20时57分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -153,7 +154,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
