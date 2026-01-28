@@ -1,394 +1,61 @@
 {
-  "generated_at": "2026-01-28T23:37:50.947487+08:00",
-  "total_titles_processed": 2189,
+  "generated_at": "2026-01-29T00:41:41.350671+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 26,
+      "match_count": 3,
       "titles": [
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时47分 ~ 22时34分]"
-        },
-        {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时21分]"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260128050538432800",
+          "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129003312980800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "00时41分"
         },
         {
-          "title": "韩国股市市值达到3.25万亿美元，超过德国。",
-          "url": "https://wallstreetcn.com/livenews/3045115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "公募加大布局港股力度，首只千亿级份额港股主题ETF诞生",
-          "url": "https://wallstreetcn.com/livenews/3045015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "南亚股市收盘播报｜印度股市收涨0.5%，卢比反弹超0.2%，10年期印债收益率涨超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3044951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时27分]"
-        },
-        {
-          "title": "港股三大运营商集体走高，中国电信涨超5%，中国联通涨近5%，中国移动涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3045289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时40分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128213140703800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时34分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市收涨约1%，埃及股指涨约0.7%继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3044941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时27分]"
-        },
-        {
-          "title": "印尼股市恢复交易，下跌8.2%。",
-          "url": "https://wallstreetcn.com/livenews/3045367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20260128093741134800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "香港外汇基金全年投资收益3,310亿港元。 香港外汇基金全年香港股票投资收益339亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3045422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出435.98亿元，占比1.47%；大单资金净流出251.05亿元，占比0.85%；小单资金净流入396.28亿元，占比1.34%。",
-          "url": "https://flash.jin10.com/detail/20260128150722891800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "拆解股市“财经大V”骗局：三层套路构建“收割闭环”",
-          "url": "https://wallstreetcn.com/livenews/3045537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260128004834899800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260128161430093800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "港股IPO发行活跃，生态优化提升国际竞争力",
-          "url": "https://wallstreetcn.com/livenews/3045024",
+          "title": "希腊股市涨超1.4%，创2009年以来收盘新高",
+          "url": "https://wallstreetcn.com/livenews/3045696",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "00时41分"
         },
         {
-          "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
-          "url": "https://wallstreetcn.com/livenews/3045669",
+          "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
+          "url": "https://wallstreetcn.com/livenews/3045694",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "港股上市公司回购热度持续，机构称市场有望震荡上行",
-          "url": "https://wallstreetcn.com/livenews/3045019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（1月27日），南非富时/JSE非洲领先40可交易指数收跌0.93%，报逼近11.60万点。",
-          "url": "https://wallstreetcn.com/livenews/3044887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260128180130446800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "市场消息：印尼股市交易将在暂停30分钟后恢复。",
-          "url": "https://flash.jin10.com/detail/20260128144856822800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "港股地产股拉升，绿城中国涨超8%，万科企业涨超4%，龙湖地产涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3045340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "印尼股市跌幅一度扩大至8%，触发市场暂停交易。",
-          "url": "https://flash.jin10.com/detail/20260128144706274800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "印尼股市跌幅扩大至8%，触发市场暂停交易，MSCI将暂停指数调整并敦促监管解决股权集中问题",
-          "url": "https://wallstreetcn.com/livenews/3045337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "马化腾：腾讯已退出京东美团投资",
           "url": "https://www.toutiao.com/trending/7599442998715514930/",
           "source": "今日头条",
           "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时37分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3044983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "马化腾称腾讯已从美团京东投资中退出",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E7%A7%B0%E8%85%BE%E8%AE%AF%E5%B7%B2%E4%BB%8E%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%8A%95%E8%B5%84%E4%B8%AD%E9%80%80%E5%87%BA%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.48%，报7866.61点。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3044983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米店员展示手机防摔功能：真碎了",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%BA%97%E5%91%98%E5%B1%95%E7%A4%BA%E6%89%8B%E6%9C%BA%E9%98%B2%E6%91%94%E5%8A%9F%E8%83%BD%EF%BC%9A%E7%9C%9F%E7%A2%8E%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            9,
-            7,
-            6,
-            8,
-            10,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 11时51分]"
-        },
-        {
-          "title": "雷军：小米SU7 Ultra将正式入驻GT7",
-          "url": "https://wallstreetcn.com/livenews/3045616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时34分]"
+          "time_info": "00时41分"
         }
       ]
     }
