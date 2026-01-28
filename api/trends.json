@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T14:40:52.964906+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-28T15:30:34.225341+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时21分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时30分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（收盘）",
@@ -65,19 +78,6 @@
           "time_info": "[03时29分 ~ 04时27分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时40分]"
-        },
-        {
           "title": "港股三大运营商集体走高，中国电信涨超5%，中国联通涨近5%，中国移动涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3045289",
           "source": "华尔街见闻-快讯",
@@ -102,6 +102,17 @@
           "time_info": "[03时29分 ~ 04时27分]"
         },
         {
+          "title": "印尼股市恢复交易，下跌8.2%。",
+          "url": "https://wallstreetcn.com/livenews/3045367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260128093741134800",
           "source": "金十数据",
@@ -113,6 +124,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出435.98亿元，占比1.47%；大单资金净流出251.05亿元，占比0.85%；小单资金净流入396.28亿元，占比1.34%。",
+          "url": "https://flash.jin10.com/detail/20260128150722891800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260128004834899800",
           "source": "金十数据",
@@ -122,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "港股IPO发行活跃，生态优化提升国际竞争力",
@@ -155,6 +188,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "市场消息：印尼股市交易将在暂停30分钟后恢复。",
+          "url": "https://flash.jin10.com/detail/20260128144856822800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "港股地产股拉升，绿城中国涨超8%，万科企业涨超4%，龙湖地产涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3045340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "印尼股市跌幅一度扩大至8%，触发市场暂停交易。",
+          "url": "https://flash.jin10.com/detail/20260128144706274800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "印尼股市跌幅扩大至8%，触发市场暂停交易，MSCI将暂停指数调整并敦促监管解决股权集中问题",
+          "url": "https://wallstreetcn.com/livenews/3045337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         }
       ]
     },
