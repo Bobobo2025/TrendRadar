@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:50:41.559188+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-01-30T14:55:21.625701+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -148,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 14时55分]"
         },
         {
           "title": "香港恒生指数开盘跌0.65%，恒生科技指数跌0.88%。紫金矿业跌3.51%。快手、阿里巴巴低开。",
@@ -190,11 +190,12 @@
           "url": "https://www.zhihu.com/question/1999568077138973825",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时55分]"
         }
       ]
     }
