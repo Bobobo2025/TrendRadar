@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T17:42:06.727293+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-01-30T18:38:20.685099+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -100,6 +100,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "金十图示：2026年01月30日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260130180115106800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国总统特朗普称赞股市上涨。",
           "url": "https://flash.jin10.com/detail/20260130004846125800",
           "source": "金十数据",
@@ -173,11 +184,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 18时38分]"
         },
         {
           "title": "理想汽车高管确认切入人形机器人",
@@ -207,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 18时38分]"
         },
         {
           "title": "香港恒生指数开盘跌0.65%，恒生科技指数跌0.88%。紫金矿业跌3.51%。快手、阿里巴巴低开。",
