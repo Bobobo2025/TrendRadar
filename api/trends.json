@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T05:25:29.228494+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-01T06:27:13.101905+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         }
       ]
     }
