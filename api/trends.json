@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T18:29:52.931376+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-02-01T19:24:46.857231+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[17时34分 ~ 18时29分]"
         },
         {
+          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
+          "url": "https://flash.jin10.com/detail/20260201171429390800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时24分]"
+        },
+        {
           "title": "印度股市扩大跌幅，印度NIFTY50指数跌超2%，国防指数跌超8%，公有银行指数跌6%，金融服务指数、汽车指数跌2.5%，油气指数下跌2.1%。",
           "url": "https://flash.jin10.com/detail/20260201150604487800",
           "source": "金十数据",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时39分 ~ 17时34分]"
-        },
-        {
-          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
-          "url": "https://flash.jin10.com/detail/20260201171429390800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时29分]"
         },
         {
           "title": "印度提高股票衍生品交易税 印度股市应声下跌",
@@ -109,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 19时24分]"
         },
         {
           "title": "腾讯元宝App升至苹果商店免费App第一名，此前宣布10亿现金红包活动开启。",
@@ -120,11 +121,12 @@
             3,
             14,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 19时24分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -132,11 +134,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时24分]"
         },
         {
           "title": "腾讯元宝10亿现金红包今日开抢，领取需下载元宝App",
@@ -219,11 +222,12 @@
           "ranks": [
             3,
             10,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时24分]"
         }
       ]
     },
