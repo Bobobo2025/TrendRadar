@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:27:51.701230+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-02-02T02:39:28.832843+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "营口一小米SU7充电时冒烟最终起火",
@@ -27,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -38,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -55,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -66,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     }
