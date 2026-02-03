@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T03:49:49.698132+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-04T04:41:04.134393+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时41分]"
         },
         {
           "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
