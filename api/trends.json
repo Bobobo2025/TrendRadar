@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:43:48.193254+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-02-03T19:37:01.334368+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -127,7 +127,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -215,7 +215,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -229,6 +229,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "雷军回应小米汽车交付量下滑",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时32分]"
+        },
+        {
+          "title": "小米高管称“已转行卖车”",
+          "url": "https://www.toutiao.com/trending/7602355727260385286/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时53分]"
+        },
+        {
+          "title": "据港交所文件，小米集团(01810.HK)于2月3日以1.043亿港元回购300万B类股份。",
+          "url": "https://flash.jin10.com/detail/20260203185129297800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -257,39 +299,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "雷军回应小米汽车交付量下滑",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时44分 ~ 07时32分]"
-        },
-        {
-          "title": "小米高管称“已转行卖车”",
-          "url": "https://www.toutiao.com/trending/7602355727260385286/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时53分]"
+          "time_info": "[17时45分 ~ 19时37分]"
         }
       ]
     }
