@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T06:32:15.818382+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-02-05T07:31:44.676172+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "节前港股市场风格切换 部分公募基金从高估值科技板块向防御型资产转移",
+          "url": "https://wallstreetcn.com/livenews/3050152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
           "url": "https://wallstreetcn.com/livenews/3050010",
@@ -92,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 07时31分]"
         },
         {
           "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
@@ -106,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
@@ -117,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
@@ -128,11 +139,12 @@
             15,
             10,
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "小米回应辽宁营口SU7起火",
