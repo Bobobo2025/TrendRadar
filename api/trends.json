@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-02-05T00:59:52.463791+08:00",
-  "total_titles_processed": 305,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-02-05T01:49:37.298862+08:00",
+  "total_titles_processed": 370,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
@@ -17,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时49分]"
         },
         {
           "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
@@ -28,30 +26,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时49分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时49分]"
         },
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时49分]"
         }
       ]
     },
@@ -60,24 +60,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
+          "url": "https://wallstreetcn.com/livenews/3050010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时49分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260205004559955800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
-          "url": "https://wallstreetcn.com/livenews/3050010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -88,7 +89,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         }
