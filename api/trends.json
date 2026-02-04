@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:56:09.145235+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-02-05T03:40:31.287346+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时40分]"
         },
         {
           "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
@@ -88,20 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时56分]"
-        },
-        {
-          "title": "小米回应辽宁营口起火事件",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时40分]"
         },
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -110,11 +98,25 @@
           "ranks": [
             12,
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 03时40分]"
+        },
+        {
+          "title": "小米回应辽宁营口起火事件",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时40分]"
         },
         {
           "title": "小米回应辽宁营口SU7起火",
