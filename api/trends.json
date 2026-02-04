@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T13:52:22.174836+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-02-04T14:57:13.495072+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
+          "title": "港股內房股走强，融创中国涨近9%，龙光集团涨超6%，万科企业涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3049583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时57分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周二（2月3日），南非富时/JSE非洲领先40可交易指数收涨1.36%，逼近11.25万点，约翰内斯堡盘初急剧拉升，随后持续高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3049218",
           "source": "华尔街见闻-快讯",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
-        },
-        {
-          "title": "港股內房股走强，融创中国涨近9%，龙光集团涨超6%，万科企业涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3049583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）全球股市指数-欧洲市场（收盘）",
@@ -199,6 +200,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 10时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
+          "url": "https://www.zhihu.com/question/2002050148193280634",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
         }
       ]
     }
