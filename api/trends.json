@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:49:37.298862+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-02-05T02:56:09.145235+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
-          "url": "https://www.zhihu.com/question/2002050148193280634",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时49分]"
-        },
-        {
-          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
-          "url": "https://www.zhihu.com/question/2001947052247109768",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时49分]"
-        },
-        {
-          "title": "小米回应辽宁营口起火事件",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时49分]"
-        },
-        {
-          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
@@ -83,6 +31,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
+          "url": "https://flash.jin10.com/detail/20260205014132918800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "希腊股市自2009年以来首次收于2400点关口上方",
           "url": "https://wallstreetcn.com/livenews/3049998",
           "source": "华尔街见闻-快讯",
@@ -92,6 +51,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260205013852825800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
+          "url": "https://www.zhihu.com/question/2002050148193280634",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 02时56分]"
+        },
+        {
+          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2001947052247109768",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 02时56分]"
+        },
+        {
+          "title": "小米回应辽宁营口起火事件",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 02时56分]"
+        },
+        {
+          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时56分]"
+        },
+        {
+          "title": "小米回应辽宁营口SU7起火",
+          "url": "https://www.toutiao.com/trending/7602962650787597870/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         }
       ]
     }
