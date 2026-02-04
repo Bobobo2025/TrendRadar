@@ -1,377 +1,96 @@
 {
-  "generated_at": "2026-02-04T23:47:19.874699+08:00",
-  "total_titles_processed": 2129,
-  "failed_sources": [],
+  "generated_at": "2026-02-05T00:59:52.463791+08:00",
+  "total_titles_processed": 305,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "希腊股市自2009年以来首次收于2400点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3049998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "南亚股市收盘播报｜印度股市收涨超2.5%，卢比涨超1.3%，政府融资成本跌超4个基点",
-          "url": "https://wallstreetcn.com/livenews/3049161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时56分]"
-        },
-        {
-          "title": "港股內房股走强，融创中国涨近9%，龙光集团涨超6%，万科企业涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3049583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时57分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（2月3日），南非富时/JSE非洲领先40可交易指数收涨1.36%，逼近11.25万点，约翰内斯堡盘初急剧拉升，随后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3049218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时56分]"
-        },
-        {
-          "title": "港交所CEO回应港股IPO严控保荐质量",
-          "url": "https://wallstreetcn.com/livenews/3049762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260204012215037800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "希腊股市创2009年以来收盘新高",
-          "url": "https://wallstreetcn.com/livenews/3049216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.05%，恒生科技指数收跌1.84%",
-          "url": "https://wallstreetcn.com/livenews/3049715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260204050618438800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260204180107408800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204090715115800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出645.02亿元，占比2.6%；大单资金净流出297.15亿元，占比1.2%；小单资金净流入476.61亿元，占比1.92%。",
-          "url": "https://flash.jin10.com/detail/20260204150628257800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "欧洲股市大致收平",
-          "url": "https://wallstreetcn.com/livenews/3049230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
           "url": "https://www.zhihu.com/question/2002050148193280634",
           "source": "知乎",
           "ranks": [
-            13,
-            12,
-            7,
-            6,
-            5,
-            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时56分 ~ 23时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时59分]"
         },
         {
           "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
           "url": "https://www.zhihu.com/question/2001947052247109768",
           "source": "知乎",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 23时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时59分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
-            20,
-            22,
-            16
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 23时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 00时59分]"
         },
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            14
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时42分 ~ 23时47分]"
-        },
-        {
-          "title": "小米通报辽宁营口起火事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时05分]"
-        },
-        {
-          "title": "小米SU7 Ultra专属销售团队“解散”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3SU7+Ultra%E4%B8%93%E5%B1%9E%E9%94%80%E5%94%AE%E5%9B%A2%E9%98%9F%E2%80%9C%E8%A7%A3%E6%95%A3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时47分]"
-        },
-        {
-          "title": "小米SU7 Ultra专属销售团队“解散”",
-          "url": "https://www.toutiao.com/trending/7602611928603754538/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关。（澎湃）",
-          "url": "https://wallstreetcn.com/livenews/3049861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时59分"
         }
       ]
     },
     {
-      "keyword_group": "腾讯",
+      "keyword_group": "港股 港股通 股市",
       "match_count": 3,
       "titles": [
         {
-          "title": "腾讯混元AI Infra核心技术开源",
-          "url": "https://wallstreetcn.com/livenews/3049846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "存储“超级周期”再添注脚：三星+SK海力士>腾讯+阿里",
-          "url": "https://www.cls.cn/detail/2279552",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "恒指低开0.14%，报26797.05点；恒生科技指数跌0.87%。美团、快手、腾讯控股、华虹半导体、比亚迪股份等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3049437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
-          "url": "https://wallstreetcn.com/livenews/3049276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时41分]"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260204021929360800",
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260205004559955800",
           "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "00时59分"
         },
         {
-          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
-          "url": "https://wallstreetcn.com/livenews/3049196",
+          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
+          "url": "https://wallstreetcn.com/livenews/3050010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时59分"
+        },
         {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
-          "url": "https://wallstreetcn.com/livenews/3049324",
+          "title": "希腊股市自2009年以来首次收于2400点关口上方",
+          "url": "https://wallstreetcn.com/livenews/3049998",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "零跑汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "零跑汽车员工吐槽年会 董事长回应",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "time_info": "00时59分"
         }
       ]
     }
