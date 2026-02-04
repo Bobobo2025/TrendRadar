@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:35:41.494730+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-02-04T21:05:45.386719+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
@@ -146,7 +146,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
@@ -157,11 +157,24 @@
             12,
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[14时56分 ~ 21时05分]"
+        },
+        {
+          "title": "小米通报辽宁营口起火事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时05分]"
         },
         {
           "title": "小米SU7 Ultra专属销售团队“解散”",
@@ -176,15 +189,15 @@
           "time_info": "[15时48分 ~ 16时47分]"
         },
         {
-          "title": "小米通报辽宁营口起火事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2001947052247109768",
+          "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时05分"
         },
         {
           "title": "小米SU7 Ultra专属销售团队“解散”",
@@ -196,6 +209,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "小米回应辽宁营口起火事件",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3049861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         }
       ]
     },
@@ -210,7 +245,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
