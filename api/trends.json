@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:42:44.093143+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-02-04T13:52:22.174836+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "南亚股市收盘播报｜印度股市收涨超2.5%，卢比涨超1.3%，政府融资成本跌超4个基点",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "港股內房股走强，融创中国涨近9%，龙光集团涨超6%，万科企业涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3049583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）全球股市指数-欧洲市场（收盘）",
