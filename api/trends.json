@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:40:31.287346+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-05T04:38:22.362621+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
           "url": "https://www.zhihu.com/question/2002050148193280634",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
@@ -88,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -102,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时38分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
@@ -115,8 +116,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "小米回应辽宁营口SU7起火",
