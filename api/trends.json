@@ -1,274 +1,22 @@
 {
-  "generated_at": "2026-02-05T23:43:45.455128+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-02-06T00:54:26.198004+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 19时38分]"
-        },
-        {
-          "title": "节前港股市场风格切换 部分公募基金从高估值科技板块向防御型资产转移",
-          "url": "https://wallstreetcn.com/livenews/3050152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "贝莱德基金王晓京：港股仍具备一定吸引力",
-          "url": "https://wallstreetcn.com/livenews/3050617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
-          "url": "https://wallstreetcn.com/livenews/3050010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时49分]"
-        },
-        {
-          "title": "2026春节股市放假时间休市安排",
-          "url": "https://www.toutiao.com/trending/7602919330120695827/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
-        },
-        {
-          "title": "A股市场迎来调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050538146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260205004559955800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260205180320577800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260205161131891800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "瑞银：预计年底全球股市将上涨约10%，建议分散配置至中国、日本和欧洲",
-          "url": "https://wallstreetcn.com/livenews/3050354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.14%，恒生科技指数收涨0.74%",
-          "url": "https://wallstreetcn.com/livenews/3050500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
-          "url": "https://flash.jin10.com/detail/20260205014132918800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260205230421252800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "希腊股市自2009年以来首次收于2400点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3049998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20260205013852825800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "蔚来 NIO",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
-          "url": "https://flash.jin10.com/detail/20260205223029069800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
-          "url": "https://wallstreetcn.com/livenews/3050580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "中概指数涨1.2%，蔚来涨超7%，理想涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3050755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时43分]"
-        },
-        {
-          "title": "蔚来美股盘前涨超8.6%，公司预计2025年第四季度经调整经营利润约7亿元至12亿元。",
-          "url": "https://wallstreetcn.com/livenews/3050576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前涨幅扩大至10%，公司预计2025年第四季度经调整经营利润为7亿元-12亿元。",
-          "url": "https://flash.jin10.com/detail/20260205181243228800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "蔚来美股盘前涨超9%，公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元",
-          "url": "https://wallstreetcn.com/livenews/3050574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
         {
           "title": "如何评价蔚来四季度首次盈利？",
           "url": "https://www.zhihu.com/question/2002811539418284205",
           "source": "知乎",
           "ranks": [
-            11
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时54分"
         },
         {
           "title": "成立11年首次实现单季盈利！蔚来：2025年四季度调整经营利润7亿至12亿元",
@@ -277,237 +25,43 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前拉升，现涨5%。",
-          "url": "https://flash.jin10.com/detail/20260205180243355800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 9,
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
       "titles": [
         {
-          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时59分 ~ 19时38分]"
-        },
-        {
-          "title": "小米 SU7 一年半跑了 26.5 万公里，电池一年半健康度掉 5.5%，这算正常损耗吗？",
-          "url": "https://www.zhihu.com/question/2002050148193280634",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时31分]"
-        },
-        {
-          "title": "雷军称第一代小米 SU7 已停售，此举背后有哪些考量？",
-          "url": "https://www.zhihu.com/question/2001947052247109768",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时31分]"
-        },
-        {
-          "title": "小米回应辽宁营口起火事件",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10,
-            14,
-            12,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 12时50分]"
-        },
-        {
-          "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
-          "url": "https://wallstreetcn.com/livenews/3050579",
+          "title": "欧洲股市收跌约1.3%",
+          "url": "https://wallstreetcn.com/livenews/3050796",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时44分"
-        },
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
         {
           "title": "小米首次进入中国500强前十",
           "url": "https://www.douyin.com/hot/2390549",
           "source": "抖音",
           "ranks": [
-            8,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时08分 ~ 23时43分]"
-        },
-        {
-          "title": "小米回应辽宁营口SU7起火",
-          "url": "https://www.toutiao.com/trending/7602962650787597870/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 02时56分]"
-        },
-        {
-          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3050420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "小米YU7现身美国高速公路",
-          "url": "https://www.toutiao.com/trending/7602805186335817791/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
-          "url": "https://wallstreetcn.com/livenews/3050550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时44分]"
-        },
-        {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 21时08分]"
-        },
-        {
-          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
-          "url": "https://wallstreetcn.com/livenews/3050340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时58分]"
-        },
-        {
-          "title": "腾讯游戏2026年寒假限玩日历发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F2026%E5%B9%B4%E5%AF%92%E5%81%87%E9%99%90%E7%8E%A9%E6%97%A5%E5%8E%86%E5%8F%91%E5%B8%83%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "腾讯游戏：开始灰度测试成长守护平台AI相关功能",
-          "url": "https://wallstreetcn.com/livenews/3050511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里巴巴大模型品牌统一为千问",
-          "url": "https://wallstreetcn.com/livenews/3050366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "00时54分"
         }
       ]
     }
