@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T03:39:31.564442+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-02-06T04:37:48.904081+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时37分]"
         },
         {
           "title": "成立11年首次实现单季盈利！蔚来：2025年四季度调整经营利润7亿至12亿元",
@@ -62,11 +62,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时37分]"
         }
       ]
     }
