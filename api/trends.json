@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:38:07.302251+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-02-05T21:08:39.401411+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -179,7 +179,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 02时56分]"
+        },
+        {
+          "title": "小米首次进入中国500强前十",
+          "url": "https://www.douyin.com/hot/2390549",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
@@ -368,8 +379,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 21时08分]"
         },
         {
           "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
