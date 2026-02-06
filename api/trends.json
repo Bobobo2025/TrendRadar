@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T10:22:58.899640+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-02-06T12:49:41.277887+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧洲股市收跌约1.3%",
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时26分]"
+        },
+        {
+          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -130,7 +141,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
