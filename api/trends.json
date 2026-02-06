@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:47:06.178327+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-06T18:43:20.691677+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时59分 ~ 17时47分]"
+        },
+        {
+          "title": "金十图示：2026年02月06日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260206180219517800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
+          "url": "https://www.cls.cn/detail/2282576",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 18时43分]"
         },
         {
           "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
@@ -41,19 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
-          "url": "https://www.cls.cn/detail/2282576",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时47分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（收盘）",
