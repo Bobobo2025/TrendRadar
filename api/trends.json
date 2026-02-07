@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:40:38.727027+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-02-07T13:44:19.373967+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
+          "url": "https://flash.jin10.com/detail/20260207095445721800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时44分]"
+        },
+        {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
           "url": "https://wallstreetcn.com/livenews/3051647",
           "source": "华尔街见闻-快讯",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时29分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
-          "url": "https://flash.jin10.com/detail/20260207095445721800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时40分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约1.4%，成分股安格鲁阿山帝黄金涨约4.7%领跑",
@@ -148,11 +149,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时44分]"
         }
       ]
     }
