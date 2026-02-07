@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:36:19.840420+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-02-07T17:34:34.713172+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,40 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            6,
+            17,
+            16,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 17时34分]"
+        },
+        {
+          "title": "印度贸易部长戈亚尔：根据印美贸易协定，大米、小麦、糖、小米、香蕉等水果、柑橘类水果、青豆和油籽等商品没有关税豁免。",
+          "url": "https://flash.jin10.com/detail/20260207164715829800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -137,28 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 12时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            6,
-            17,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 16时36分]"
         }
       ]
     }
