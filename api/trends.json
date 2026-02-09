@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:56:18.061172+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-02-09T23:59:50.125512+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年02月09日（周一）亚太市场股市指数（盘初）",
@@ -86,6 +86,17 @@
           "time_info": "16时58分"
         },
         {
+          "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260209230204688800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
           "url": "https://wallstreetcn.com/livenews/3052078",
           "source": "华尔街见闻-快讯",
@@ -95,6 +106,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "民调显示：葡萄牙社会党候选人NtóNio José Seguro将以压倒性优势赢得总统选举。",
+          "url": "https://flash.jin10.com/detail/20260209040142099800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
+          "url": "https://wallstreetcn.com/livenews/3052284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌1%。 热门中概股蔚来跌5.4%，理想跌3.6%，新东方跌3.2%，百胜中国跌1.5%，万国数据跌1.4%，小鹏跌1.2%，名创优品涨1.1%，文远知行涨1.6%，金山云涨2.5%，小马智行涨3.2%，世纪互联涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3052394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
@@ -135,35 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "民调显示：葡萄牙社会党候选人NtóNio José Seguro将以压倒性优势赢得总统选举。",
-          "url": "https://flash.jin10.com/detail/20260209040142099800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3052284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         }
       ]
     },
