@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T03:18:54.855355+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T04:43:05.860012+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 04时43分]"
         },
         {
           "title": "意大利银行板块收涨超3%，创收盘历史新高，丹麦股市涨2%",
