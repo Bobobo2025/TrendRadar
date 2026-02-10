@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T10:38:19.130352+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-02-10T13:06:52.805908+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时18分 ~ 10时38分]"
+          "appearance_count": 10,
+          "time_info": "[03时18分 ~ 13时06分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）全球股市指数-美洲市场（收盘）",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "分析师：马来西亚改革有望提振股市 维持2026年底KLCI指数目标为1772点",
+          "url": "https://flash.jin10.com/detail/20260210121530879800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "意大利银行板块收涨超3%，创收盘历史新高，丹麦股市涨2%",
@@ -86,6 +97,34 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯混元推出0.3B端侧模型",
+          "url": "https://wallstreetcn.com/livenews/3052701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "腾讯元宝春节红包玩法升级，“元宝派”内可掉落红包",
+          "url": "https://wallstreetcn.com/livenews/3052696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴",
       "match_count": 1,
       "titles": [
@@ -96,7 +135,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
