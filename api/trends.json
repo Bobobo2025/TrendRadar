@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T03:08:37.090072+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-11T04:48:07.977614+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时48分]"
         },
         {
           "title": "纳斯达克金龙中国指数一度涨超1.09%。 中概股叮咚买菜涨11.99%，腾讯音乐涨超4%，再鼎医药、理想涨超3%，新东方涨2.1%，世纪互联、阿里巴巴至多涨1.8%。 ETF中，CQQQ涨0.06%，KWEB跌0.03%，ASHR跌0.22%，ASHS跌0.40%。",
@@ -57,11 +57,12 @@
           "url": "https://www.toutiao.com/trending/7605232752681553414/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时48分]"
         }
       ]
     }
