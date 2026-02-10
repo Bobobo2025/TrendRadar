@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T18:07:43.784682+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-02-10T19:53:20.917317+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
@@ -166,8 +177,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 18时07分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 19时53分]"
         },
         {
           "title": "腾讯混元推出0.3B端侧模型",
