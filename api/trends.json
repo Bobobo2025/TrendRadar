@@ -1,11 +1,85 @@
 {
-  "generated_at": "2026-02-11T15:05:34.311995+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-02-11T16:54:41.452333+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050703550800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211004541669800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "李大霄解读日本股市大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260211161210784800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "雷军宣布初代小米SU7正式停产",
@@ -45,6 +119,17 @@
           "time_info": "[10时35分 ~ 15时05分]"
         },
         {
+          "title": "小米集团一度涨超5%",
+          "url": "https://www.toutiao.com/trending/7605486236584644123/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "雷军：小米汽车工厂有六七百台机器人",
           "url": "https://www.toutiao.com/trending/7605427131748765210/",
           "source": "今日头条",
@@ -69,60 +154,8 @@
       ]
     },
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050703550800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211004541669800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "李大霄解读日本股市大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -137,13 +170,24 @@
           "time_info": "[01时05分 ~ 07时41分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "腾讯：与特斯拉合作升级座舱体验，上线“微信互联”、“目的地服务”功能",
           "url": "https://wallstreetcn.com/livenews/3053474",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
