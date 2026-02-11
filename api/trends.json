@@ -1,306 +1,39 @@
 {
-  "generated_at": "2026-02-11T22:56:58.558680+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-02-12T00:06:09.857614+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050703550800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
-          "url": "https://www.cls.cn/detail/2286766",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211004541669800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "据港交所文件，沃尔核材将港股上市价格定在每股20.09港元。",
-          "url": "https://wallstreetcn.com/livenews/3053606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211180248490800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "MSCI降级预警致印尼股市千亿市值蒸发 国有社保基金称拟增持股票",
-          "url": "https://flash.jin10.com/detail/20260211175549841800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3053571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "受非农就业数据超预期提振，欧洲股市延续涨势。",
-          "url": "https://flash.jin10.com/detail/20260211220245369800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "李大霄解读日本股市大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260211161210784800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "雷军宣布初代小米SU7正式停产",
-          "url": "https://www.toutiao.com/trending/7605232752681553414/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            17,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时41分]"
-        },
-        {
-          "title": "小米盘中持续拉升，现涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3053390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "小米集团一度涨超5%",
-          "url": "https://www.toutiao.com/trending/7605486236584644123/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时57分]"
-        },
-        {
-          "title": "雷军宣布初代小米SU7正式停产",
-          "url": "https://www.douyin.com/hot/2396484",
-          "source": "抖音",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 15时05分]"
-        },
-        {
-          "title": "小米车主遭特斯拉车主别车辱骂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%BD%A6%E4%B8%BB%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%88%AB%E8%BD%A6%E8%BE%B1%E9%AA%82%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 19时49分]"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人",
-          "url": "https://www.toutiao.com/trending/7605427131748765210/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "雷军揭秘小米电机突破两万转背后技术",
-          "url": "https://www.toutiao.com/trending/7605078925622919178/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "腾讯",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
           "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
           "ranks": [
-            11,
-            5,
-            6,
-            7,
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时54分 ~ 22时56分]"
-        },
-        {
-          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
-          "url": "https://www.zhihu.com/question/2002714528765457419",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时41分]"
-        },
-        {
-          "title": "腾讯：与特斯拉合作升级座舱体验，上线“微信互联”、“目的地服务”功能",
-          "url": "https://wallstreetcn.com/livenews/3053474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数一度涨超1.09%。 中概股叮咚买菜涨11.99%，腾讯音乐涨超4%，再鼎医药、理想涨超3%，新东方涨2.1%，世纪互联、阿里巴巴至多涨1.8%。 ETF中，CQQQ涨0.06%，KWEB跌0.03%，ASHR跌0.22%，ASHS跌0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3053153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3053240",
+          "title": "非洲股市收盘播报｜周三（2月11日），南非富时/JSE非洲领先40可交易指数收涨0.75%，报11.4万点。 国际货币基金组织（IMF）认为，在面临错综复杂的风险之际，南非取得进展，但为了引导通胀预期回落，可能还得在更长时期内维持更高的政策利率。",
+          "url": "https://wallstreetcn.com/livenews/3053850",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            30
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "恒指高开0.23%，报27246.18点；恒生科技指数涨0.21%。腾讯音乐涨超3%，商汤涨超2%，哔哩哔哩、蔚来、快手等涨超1%；中芯国际跌2.4%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3053342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "00时06分"
         }
       ]
     }
