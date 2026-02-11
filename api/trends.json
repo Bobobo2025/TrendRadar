@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:56:25.448115+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-02-11T19:49:00.186322+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -123,7 +123,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "雷军宣布初代小米SU7正式停产",
@@ -175,6 +175,17 @@
           "time_info": "[10时35分 ~ 15时05分]"
         },
         {
+          "title": "小米车主遭特斯拉车主别车辱骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%BD%A6%E4%B8%BB%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%88%AB%E8%BD%A6%E8%BE%B1%E9%AA%82%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 19时49分]"
+        },
+        {
           "title": "雷军：小米汽车工厂有六七百台机器人",
           "url": "https://www.toutiao.com/trending/7605427131748765210/",
           "source": "今日头条",
@@ -220,11 +231,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 19时49分]"
         },
         {
           "title": "腾讯：与特斯拉合作升级座舱体验，上线“微信互联”、“目的地服务”功能",
