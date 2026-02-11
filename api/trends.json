@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:57:32.161132+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-11T18:56:25.448115+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
@@ -38,7 +38,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -60,9 +60,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211180248490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "MSCI降级预警致印尼股市千亿市值蒸发 国有社保基金称拟增持股票",
+          "url": "https://flash.jin10.com/detail/20260211175549841800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
@@ -197,11 +219,12 @@
           "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时56分]"
         },
         {
           "title": "腾讯：与特斯拉合作升级座舱体验，上线“微信互联”、“目的地服务”功能",
