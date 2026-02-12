@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:42:20.078609+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-02-12T21:14:26.674503+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -132,8 +132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时30分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时30分 ~ 21时14分]"
         },
         {
           "title": "小米开源首代机器人VLA大模型",
@@ -160,6 +160,19 @@
           "time_info": "[15时54分 ~ 17时54分]"
         },
         {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 21时14分]"
+        },
+        {
           "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
           "url": "https://wallstreetcn.com/livenews/3054181",
           "source": "华尔街见闻-快讯",
@@ -184,18 +197,6 @@
           "time_info": "[18时52分 ~ 19时42分]"
         },
         {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时42分]"
-        },
-        {
           "title": "雷军：小米YU 7今年1月份销量37869台",
           "url": "https://wallstreetcn.com/livenews/3054323",
           "source": "华尔街见闻-快讯",
@@ -213,7 +214,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
