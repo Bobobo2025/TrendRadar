@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:51:42.256455+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-02-13T16:48:21.242655+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
@@ -43,6 +43,17 @@
           "time_info": "[06时36分 ~ 07时33分]"
         },
         {
+          "title": "港股收盘：恒生指数收跌1.72% 智谱大涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3055007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
           "url": "https://wallstreetcn.com/livenews/3054623",
           "source": "华尔街见闻-快讯",
@@ -54,13 +65,24 @@
           "time_info": "01时03分"
         },
         {
+          "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260213161146578800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出690.40亿元，占比3.48%；大单资金净流出322.99亿元，占比1.63%；小单资金净流入555.31亿元，占比2.8%。",
           "url": "https://flash.jin10.com/detail/20260213150807143800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -104,7 +126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
