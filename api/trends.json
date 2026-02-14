@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T19:26:00.238578+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-14T20:55:22.166055+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -109,22 +109,24 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时34分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时34分 ~ 20时55分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610083",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时55分]"
         }
       ]
     },
