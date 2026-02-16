@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:32:39.898940+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-17T07:32:56.545396+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时32分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
@@ -90,7 +90,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
