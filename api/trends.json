@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:56:41.965329+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-16T19:42:48.442187+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时42分]"
         },
         {
           "title": "港股有色金属板块多数走强，洛阳钼业(03993.HK)涨约7%，灵宝黄金(03330.HK)涨超6%、 中国有色矿业(01258.HK)、山东黄金(01787.HK)涨超5%。",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "港股三大指数均收涨",
+          "url": "https://www.douyin.com/hot/2402867",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时42分]"
         },
         {
           "title": "港股内房股多数下跌，融创中国(01918.HK)、万科企业(02202.HK)跌近5%，绿城中国(03900.HK)、越秀地产(00123.HK)跌约2%。",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时07分 ~ 17时58分]"
-        },
-        {
-          "title": "港股三大指数均收涨",
-          "url": "https://www.douyin.com/hot/2402867",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 18时56分]"
         },
         {
           "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
