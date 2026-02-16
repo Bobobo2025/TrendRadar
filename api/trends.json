@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T03:34:18.937022+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-02-17T04:36:24.542312+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时36分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
@@ -29,8 +30,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时36分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -67,8 +68,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 04时36分]"
         },
         {
           "title": "欧洲股市收涨超0.1%，软件公司达索系统跌超10.4%",
@@ -79,8 +80,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 04时36分]"
         }
       ]
     }
