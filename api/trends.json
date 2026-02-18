@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-18T15:52:48.571062+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-18T16:51:29.958416+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2026年02月18日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260218161358065800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
         {
           "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
           "url": "https://www.cls.cn/detail/2290780",
