@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T14:02:04.287752+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-02-19T15:50:52.859483+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年02月18日（周三）全球股市指数-美洲市场（收盘）",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "地缘局势升温推高金银油，黄金站上5000美元，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "英国股市创收盘历史新高",
