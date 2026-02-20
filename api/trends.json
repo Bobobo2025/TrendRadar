@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T01:40:11.354238+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-21T02:54:16.914732+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时54分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨1%，尼日利亚股指本周涨超6.9%",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时54分]"
         },
         {
           "title": "金十图示：2026年02月21日（周六）全球股市指数-欧洲市场（收盘）",
@@ -49,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         }
