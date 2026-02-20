@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T22:41:35.615119+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-02-20T23:39:54.879493+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 22时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 23时39分]"
         },
         {
           "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
@@ -106,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -243,8 +243,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 23时39分]"
         },
         {
           "title": "股市暴跌导致Atlassian亿万富翁身家缩水三分之一",
@@ -311,7 +311,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
