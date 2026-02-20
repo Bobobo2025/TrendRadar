@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T15:54:15.933399+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-20T16:44:21.557856+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
@@ -44,6 +44,17 @@
           "time_info": "[12时49分 ~ 13时56分]"
         },
         {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型、机器人、存储逆势大涨，智谱大涨近37%",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "金十图示：2026年02月19日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260220050609355800",
           "source": "金十数据",
@@ -66,6 +77,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "港股收评：恒指、科指全日承压 智谱日内大涨逾42%",
+          "url": "https://flash.jin10.com/detail/20260220161801898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "港股存储概念股走强，澜起科技(06809.HK)上涨8%，兆易创新(03986.HK)涨3.45%。",
           "url": "https://flash.jin10.com/detail/20260220095939347800",
           "source": "金十数据",
@@ -75,6 +97,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "金十图示：2026年02月20日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260220161731619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
+          "url": "https://wallstreetcn.com/livenews/3056870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时44分]"
         },
         {
           "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
@@ -88,18 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
-          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
-          "url": "https://wallstreetcn.com/livenews/3056870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时54分]"
         },
         {
           "title": "港股机器人概念股集体大涨，越疆(02432.HK)涨超21%，优必选(09880.HK)涨6.59%。",
@@ -175,6 +209,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
+          "url": "https://wallstreetcn.com/livenews/3056892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "港股马年首个交易日收盘，恒指收跌1.10%，科指收跌2.91%。人工智能及机器人概念股全天走强，智谱(02513.HK)日内大涨42.72%，股价最高报725港元，总市值突破3200亿港元，MINIMAX-WP(00100.HK)收涨14.52%。",
+          "url": "https://flash.jin10.com/detail/20260220161008259800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
