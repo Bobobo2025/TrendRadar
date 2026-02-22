@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:29:37.505129+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-22T23:28:53.696254+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,34 @@
       ]
     },
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
+          "url": "https://flash.jin10.com/detail/20260222224916288800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "巴西股市被热捧：1月大涨17%、外资流入超去年全年、投资大佬重仓",
+          "url": "https://wallstreetcn.com/articles/3765946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -62,23 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西股市被热捧：1月大涨17%、外资流入超去年全年、投资大佬重仓",
-          "url": "https://wallstreetcn.com/articles/3765946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
         }
       ]
     }
