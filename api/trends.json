@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T04:13:28.603636+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-02-24T04:57:46.625394+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时57分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时57分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）全球股市指数-欧洲市场（收盘）",
