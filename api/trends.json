@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T10:28:43.203499+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-02-23T13:01:25.118852+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -22,15 +22,38 @@
           "time_info": "[00时35分 ~ 06时28分]"
         },
         {
+          "title": "华泰证券港股策略：科技和周期耗材仍是清晰主线",
+          "url": "https://wallstreetcn.com/livenews/3057356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
           "url": "https://wallstreetcn.com/livenews/3057331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时01分]"
+        },
+        {
+          "title": "巴西股市被热捧：1月大涨17%、外资流入超去年全年、投资大佬重仓",
+          "url": "https://wallstreetcn.com/articles/3765946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "13时01分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日港股正常开市，南、北向交易关闭，沪深及北交所、国内期货交易所休市。",
@@ -39,7 +62,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -50,9 +73,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "泰国股市最高上涨1.5%，至1501.96点，创下自2024年10月18日以来的新高。",
+          "url": "https://flash.jin10.com/detail/20260223112631783800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来换电单日总量超17.7万次",
+          "url": "https://www.toutiao.com/trending/7609886630417272358/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
