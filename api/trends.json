@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:01:13.303214+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-02-23T20:01:32.245020+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[14时12分 ~ 20时01分]"
         },
         {
           "title": "华泰证券港股策略：科技和周期耗材仍是清晰主线",
@@ -100,7 +101,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -142,8 +143,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 19时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时57分 ~ 20时01分]"
         },
         {
           "title": "蔚来换电单日总量超17.7万次",
