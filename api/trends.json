@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-02-25T00:04:31.240789+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T01:57:48.268393+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米起诉自媒体侵权，获赔500万",
-          "url": "https://www.cls.cn/detail/2293852",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "小米新一代SU7赤霞红亮相",
-          "url": "https://www.douyin.com/hot/2410023",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（2月24日），南非富时/JSE非洲领先40可交易指数收涨0.13%，逼近11.7万点。",
@@ -45,6 +17,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260225012013265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "小米新一代SU7赤霞红亮相",
+          "url": "https://www.douyin.com/hot/2410023",
+          "source": "抖音",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
         }
       ]
     }
