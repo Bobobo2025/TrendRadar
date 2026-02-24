@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T14:07:26.050001+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-02-24T15:52:44.338143+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -124,11 +124,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时52分]"
         },
         {
           "title": "国家是否应开办字节大学，腾讯大学，阿里大学，拼多多大学，美团大学等高校教书育人?",
@@ -176,7 +177,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -186,11 +187,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时52分]"
         },
         {
           "title": "小米新一代SU7赤霞红亮相",
@@ -198,11 +200,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时52分]"
         }
       ]
     },
