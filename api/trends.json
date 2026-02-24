@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:43:07.567773+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-02-24T22:10:33.586784+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩国股市“领涨全球”的秘密武器：当总统“曾经是韭菜”",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-24）",
+          "url": "https://flash.jin10.com/detail/20260224214157271800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -150,11 +161,12 @@
             20,
             21,
             23,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 19时43分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 22时10分]"
         },
         {
           "title": "小米申请“小米智能存储”商标",
@@ -229,7 +241,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国家是否应开办字节大学、腾讯大学、阿里大学、拼多多大学、美团大学等高校教书育人?",
@@ -245,6 +257,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时54分 ~ 19时43分]"
+        },
+        {
+          "title": "腾讯天美被曝关闭蒙特利尔研发工作室",
+          "url": "https://wallstreetcn.com/livenews/3058171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "国家是否应开办字节大学，腾讯大学，阿里大学，拼多多大学，美团大学等高校教书育人?",
