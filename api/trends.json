@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T22:10:33.586784+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-02-24T22:54:04.350930+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -141,7 +141,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         }
@@ -162,11 +162,12 @@
             21,
             23,
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 22时10分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 22时54分]"
         },
         {
           "title": "小米申请“小米智能存储”商标",
@@ -265,7 +266,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
