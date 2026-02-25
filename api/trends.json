@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:18:35.448535+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-02-26T04:39:42.085280+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时39分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时39分]"
         },
         {
           "title": "腾讯元宝道歉",
@@ -78,19 +78,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时39分]"
         },
         {
           "title": "腾讯元宝致歉拜年海报出现“脏话”：模型异常输出导致，已紧急校正并优化",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653593",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时39分]"
         }
       ]
     },
@@ -108,8 +109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 04时39分]"
         }
       ]
     }
