@@ -1,383 +1,100 @@
 {
-  "generated_at": "2026-02-25T21:11:45.357270+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-02-26T00:08:46.519633+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 19,
+      "keyword_group": "腾讯",
+      "match_count": 3,
       "titles": [
         {
-          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
-          "url": "https://www.cls.cn/detail/2294203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 16时54分]"
-        },
-        {
-          "title": "韩国通过又一改革法案，强制注销库存股以提振股市估值",
-          "url": "https://flash.jin10.com/detail/20260225164157326800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "特朗普：股市创下历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3058481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "马年股市四大机会与风险",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（2月24日），南非富时/JSE非洲领先40可交易指数收涨0.13%，逼近11.7万点。",
-          "url": "https://wallstreetcn.com/livenews/3058235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时59分 ~ 21时11分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050553581800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时37分]"
-        },
-        {
-          "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
-          "url": "https://wallstreetcn.com/livenews/3058382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出177.82亿元，占比0.72%；大单资金净流出226.89亿元，占比0.92%；小单资金净流入267.53亿元，占比1.09%。",
-          "url": "https://flash.jin10.com/detail/20260225150713467800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "美国总统特朗普：股市创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260225102233481800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "港股大模型概念股跌幅扩大，MINIMAX-WP跌超16%，智谱跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3058469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225012013265800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260225161154181800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225180756494800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
-          "url": "https://flash.jin10.com/detail/20260225031254647800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "阶跃星辰据悉计划在港股IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3058752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "加拿大小盘股指涨超1.9%，和巴西股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3058371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
-          "url": "https://wallstreetcn.com/livenews/3058448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "一份末日式的AI报告搅动美国股市",
-          "url": "https://www.toutiao.com/trending/7610728625494560310/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
-          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "title": "腾讯天美蒙特利尔工作室被曝 5 年 0 作品解散，明明是大厂都很精明，为何当初想投资这种摸鱼的老外工作室?",
+          "url": "https://www.zhihu.com/question/2009427191889408931",
           "source": "知乎",
           "ranks": [
-            4,
-            2,
-            6,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 20时15分]"
-        },
-        {
-          "title": "小米法拉利保时捷纽北对决",
-          "url": "https://www.douyin.com/hot/2410935",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            2,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 20时15分]"
-        },
-        {
-          "title": "小米起诉自媒体侵权，获赔500万",
-          "url": "https://www.cls.cn/detail/2293852",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 10时27分]"
-        },
-        {
-          "title": "小米新一代SU7赤霞红亮相",
-          "url": "https://www.douyin.com/hot/2410023",
-          "source": "抖音",
-          "ranks": [
-            24,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时37分]"
-        },
-        {
-          "title": "小米集团(01810.HK)：公司于2月25日以约1亿港元回购了280万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20260225182806561800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "腾讯元宝致歉拜年海报出现“脏话”：模型异常输出导致，已紧急校正并优化",
-          "url": "https://wallstreetcn.com/livenews/3058737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时59分]"
-        },
-        {
-          "title": "腾讯元宝向用户道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%85%83%E5%AE%9D%E5%90%91%E7%94%A8%E6%88%B7%E9%81%93%E6%AD%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时59分]"
+          "time_info": "00时08分"
         },
         {
           "title": "腾讯元宝道歉",
           "url": "https://www.cls.cn/detail/2294950",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 21时11分]"
+          "appearance_count": 1,
+          "time_info": "00时08分"
         },
         {
-          "title": "曝腾讯关闭天美海外工作室",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E8%85%BE%E8%AE%AF%E5%85%B3%E9%97%AD%E5%A4%A9%E7%BE%8E%E6%B5%B7%E5%A4%96%E5%B7%A5%E4%BD%9C%E5%AE%A4",
-          "source": "bilibili 热搜",
+          "title": "腾讯元宝致歉拜年海报出现“脏话”：模型异常输出导致，已紧急校正并优化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653593",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时08分"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 3,
       "titles": [
         {
-          "title": "被小米起诉判赔500万元的自媒体账号，实控人为蔚来李斌？知情人士回应：假的",
-          "url": "https://wallstreetcn.com/livenews/3058868",
+          "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3058966",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 21时11分]"
+          "appearance_count": 1,
+          "time_info": "00时08分"
         },
         {
-          "title": "纳斯达克金龙中国指数涨超1.1%。刷新日高。 热门中概股万国数据涨6.40%，小鹏涨6%，世纪互联、大全新能源涨5.2%，百度跌0.79%，蔚来跌1.89%。 ETF中，KWEB目前跌0.08%，CQQQ跌0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3058295",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            21
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时40分]"
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "马年股市四大机会与风险",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军揭幕新一代小米 SU7「赤霞红」，新车预计 2026 年 4 月上市，你对这款车有哪些期待？",
+          "url": "https://www.zhihu.com/question/2009569124448232152",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
         }
       ]
     }
