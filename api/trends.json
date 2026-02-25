@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T05:37:49.826431+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-02-26T06:37:17.760448+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时37分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
@@ -37,11 +37,12 @@
           "ranks": [
             26,
             27,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 06时37分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）全球股市指数-美洲市场（收盘）",
@@ -50,7 +51,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -81,19 +82,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时37分]"
         },
         {
           "title": "腾讯元宝道歉",
           "url": "https://www.cls.cn/detail/2294950",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时37分]"
         },
         {
           "title": "腾讯元宝致歉拜年海报出现“脏话”：模型异常输出导致，已紧急校正并优化",
@@ -101,11 +103,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时37分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.47%，报7545.55点。 热门中概股里，阿特斯太阳能初步收跌5.3%，新东方跌5.1%，大全新能源跌2.9%，小鹏跌2.7%，万国数据跌2.4%，网易、理想跌超1%，阿里、腾讯至多跌约0.5%，唯品会涨1.9%，亚朵涨2.5%，贝壳涨3%，老虎证券涨4.2%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.26%，XtrackersHarvest中证50（ASHS）收涨2.26%。 中概互联网指数ETF（KWEB）收跌0.03%，中国科技指数ETF（CQQQ）收涨0.41%。",
@@ -114,7 +117,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
@@ -135,8 +138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时37分]"
         }
       ]
     }
