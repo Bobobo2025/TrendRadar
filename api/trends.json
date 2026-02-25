@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T12:56:14.794510+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-25T14:04:05.295488+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
+          "url": "https://www.cls.cn/detail/2294203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 14时04分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（2月24日），南非富时/JSE非洲领先40可交易指数收涨0.13%，逼近11.7万点。",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时37分]"
-        },
-        {
-          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
-          "url": "https://www.cls.cn/detail/2294203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时56分]"
         },
         {
           "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
@@ -137,6 +138,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 14时04分]"
+        },
+        {
           "title": "小米起诉自媒体侵权，获赔500万",
           "url": "https://www.cls.cn/detail/2293852",
           "source": "财联社热门",
@@ -150,16 +163,15 @@
           "time_info": "[00时04分 ~ 10时27分]"
         },
         {
-          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
-          "url": "https://www.zhihu.com/question/2009733369261466626",
-          "source": "知乎",
+          "title": "小米法拉利保时捷纽北对决",
+          "url": "https://www.douyin.com/hot/2410935",
+          "source": "抖音",
           "ranks": [
-            4,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时04分]"
         },
         {
           "title": "小米新一代SU7赤霞红亮相",
@@ -173,17 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时37分]"
-        },
-        {
-          "title": "小米法拉利保时捷纽北对决",
-          "url": "https://www.douyin.com/hot/2410935",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
         }
       ]
     },
