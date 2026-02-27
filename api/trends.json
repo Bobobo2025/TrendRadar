@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:51:54.720353+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-27T16:44:34.313291+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -42,13 +42,24 @@
           "time_info": "[05时36分 ~ 06时37分]"
         },
         {
+          "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260227161216043800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出278.52亿元，占比1.12%；大单资金净流出201.21亿元，占比0.81%；小单资金净流入266.69亿元，占比1.07%。",
           "url": "https://flash.jin10.com/detail/20260227150759441800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -117,7 +128,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
@@ -140,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "腾讯感谢爱奇艺宣传逐玉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%84%9F%E8%B0%A2%E7%88%B1%E5%A5%87%E8%89%BA%E5%AE%A3%E4%BC%A0%E9%80%90%E7%8E%89%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     }
