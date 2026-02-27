@@ -1,45 +1,33 @@
 {
-  "generated_at": "2026-02-27T23:40:12.421223+08:00",
-  "total_titles_processed": 2021,
+  "generated_at": "2026-02-28T00:43:55.067159+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227004633762800",
-          "source": "金十数据",
+          "title": "欧洲股市本周涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "00时43分"
         },
         {
-          "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
-          "url": "https://flash.jin10.com/detail/20260227153351294800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜南非股市涨超1.5%创收盘历史新高，本周涨超4.7%",
+          "url": "https://wallstreetcn.com/livenews/3060408",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050838676800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时37分]"
+          "time_info": "00时43分"
         },
         {
           "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
@@ -49,200 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时41分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260227161216043800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出278.52亿元，占比1.12%；大单资金净流出201.21亿元，占比0.81%；小单资金净流入266.69亿元，占比1.07%。",
-          "url": "https://flash.jin10.com/detail/20260227150759441800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260227180338495800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260227230030433800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
-          "url": "https://flash.jin10.com/detail/20260227090934122800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "法国股市收涨超0.7%，英国、西班牙股市继续创收盘历史新高，英伟达拖累荷兰股市走低",
-          "url": "https://wallstreetcn.com/livenews/3059689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3059763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌幅扩大至1%。 热门中概股世纪互联跌6.23%，晶科能源跌4.5%，阿特斯太阳能跌4.11%，奇富科技跌2.97%，陆控跌2.59%，蔚来跌2.36%，万国数据跌2.25%。",
-          "url": "https://wallstreetcn.com/livenews/3060374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3059763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "恒生科技指数盘中再次转跌，此前一度涨0.9%。华虹半导体、蔚来跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3059941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "腾讯感谢爱奇艺宣传逐玉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%84%9F%E8%B0%A2%E7%88%B1%E5%A5%87%E8%89%BA%E5%AE%A3%E4%BC%A0%E9%80%90%E7%8E%89%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            6,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时35分]"
-        },
-        {
-          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3059902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "恒生科技指数涨逾1%。商汤涨逾7%，金蝶国际、哔哩哔哩涨逾3%，腾讯控股涨2.7%，美团涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3059960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
-          "url": "https://wallstreetcn.com/livenews/3060163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
-          "url": "https://wallstreetcn.com/livenews/3060301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "00时43分"
         }
       ]
     }
