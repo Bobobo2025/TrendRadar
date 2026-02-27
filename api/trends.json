@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:44:51.327165+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-02-27T18:41:22.055078+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "金十图示：2026年02月27日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260227180338495800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
@@ -136,11 +147,12 @@
           "source": "微博",
           "ranks": [
             24,
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时41分]"
         },
         {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
@@ -177,7 +189,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
