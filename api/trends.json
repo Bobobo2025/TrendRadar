@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:59:24.356062+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-02-27T15:51:54.720353+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
@@ -19,6 +19,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
+          "url": "https://flash.jin10.com/detail/20260227153351294800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260227050838676800",
           "source": "金十数据",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时37分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出278.52亿元，占比1.12%；大单资金净流出201.21亿元，占比0.81%；小单资金净流入266.69亿元，占比1.07%。",
+          "url": "https://flash.jin10.com/detail/20260227150759441800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
