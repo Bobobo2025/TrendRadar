@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:41:18.831566+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2026-02-27T23:40:12.421223+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（收盘）",
@@ -86,6 +86,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "金十图示：2026年02月27日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260227230030433800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-02-27）",
           "url": "https://flash.jin10.com/detail/20260227090934122800",
           "source": "金十数据",
@@ -111,7 +122,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
@@ -123,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌幅扩大至1%。 热门中概股世纪互联跌6.23%，晶科能源跌4.5%，阿特斯太阳能跌4.11%，奇富科技跌2.97%，陆控跌2.59%，蔚来跌2.36%，万国数据跌2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3060374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
