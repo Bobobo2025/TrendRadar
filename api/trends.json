@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T20:52:19.644068+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-02-28T21:38:59.259705+08:00",
+  "total_titles_processed": 1953,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[10时04分 ~ 19时22分]"
+        },
+        {
+          "title": "小米YU9",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU9&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时38分]"
         },
         {
           "title": "小米超跑",
@@ -58,19 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时35分]"
-        },
-        {
-          "title": "小米YU9",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU9&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时52分]"
         },
         {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
@@ -154,11 +155,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时38分]"
         },
         {
           "title": "英国股市本周涨超2%，意大利银行板块累跌超2%",
