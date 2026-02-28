@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T14:43:04.166603+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-02-28T15:29:44.833984+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 15时29分]"
         },
         {
           "title": "小米超跑",
@@ -33,6 +33,19 @@
           "time_info": "[12时17分 ~ 13时35分]"
         },
         {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 15时29分]"
+        },
+        {
           "title": "小米汽车或将推出超跑车型",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%B6%85%E8%B7%91%E8%BD%A6%E5%9E%8B",
           "source": "百度热搜",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时35分]"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 14时43分]"
         },
         {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "小米超跑谍照曝光",
+          "url": "https://www.toutiao.com/trending/7611632431296237098/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
