@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:30:37.824008+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-28T18:27:29.542717+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             13,
             12,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 18时27分]"
         },
         {
           "title": "小米超跑",
@@ -63,11 +64,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU9&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
