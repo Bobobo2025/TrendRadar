@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T16:34:01.099824+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-02-28T17:30:37.824008+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时30分]"
         },
         {
           "title": "小米超跑",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时35分]"
+        },
+        {
+          "title": "小米YU9",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU9&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
