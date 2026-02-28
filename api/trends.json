@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:29:44.833984+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-02-28T16:34:01.099824+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 16时34分]"
         },
         {
           "title": "小米超跑",
@@ -86,7 +87,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
