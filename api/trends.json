@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T04:29:42.197995+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:24:33.217242+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "小米超跑正式亮相",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "小米憋大招,概念超跑登场",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "小米发布会",
@@ -51,11 +51,12 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "小米卢伟冰：未来五年将追加近2000亿元研发投入",
@@ -63,11 +64,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时24分]"
         },
         {
           "title": "小米17 Ultra国际起售价超1.2万",
@@ -75,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时24分]"
         },
         {
           "title": "小米滑板车",
@@ -117,11 +120,12 @@
           "ranks": [
             3,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时24分]"
         },
         {
           "title": "美以袭击伊朗对股市有何影响",
@@ -134,8 +138,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 05时24分]"
         }
       ]
     }
