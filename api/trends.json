@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T00:31:53.762286+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T01:23:52.266273+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米超跑亮相",
@@ -15,19 +15,43 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "小米憋大招,概念超跑登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时23分"
         },
         {
           "title": "小米超跑正式亮相",
           "url": "https://www.douyin.com/hot/2414918",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "小米滑板车",
@@ -37,19 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "小米超跑好帅",
@@ -73,11 +86,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%82%A1%E5%B8%82%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
         }
       ]
     }
