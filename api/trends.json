@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:27:51.208219+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-03-01T23:27:32.137947+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "小米发布会",
@@ -67,11 +67,12 @@
             17,
             18,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时23分 ~ 22时27分]"
+          "appearance_count": 27,
+          "time_info": "[01时23分 ~ 23时27分]"
         },
         {
           "title": "小米 Vision GT 概念超跑 MWC 首发亮相，有哪些看点？",
