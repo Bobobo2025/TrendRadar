@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-03-01T12:57:08.519457+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-03-01T13:55:03.708197+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 11,
       "titles": [
-        {
-          "title": "小米超跑正式亮相",
-          "url": "https://www.douyin.com/hot/2414918",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1,
-            5,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时57分]"
-        },
         {
           "title": "小米超跑亮相",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E8%B6%85%E8%B7%91%E4%BA%AE%E7%9B%B8&t=31&band_rank=2&Refer=top",
@@ -37,17 +22,20 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
-          "title": "小米憋大招,概念超跑登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
+          "title": "小米超跑正式亮相",
+          "url": "https://www.douyin.com/hot/2414918",
+          "source": "抖音",
           "ranks": [
+            6,
+            1,
             5,
-            7,
-            13
+            2,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 13时55分]"
         },
         {
           "title": "小米发布会",
@@ -62,6 +50,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时26分]"
+        },
+        {
+          "title": "小米憋大招,概念超跑登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 13时55分]"
+        },
+        {
+          "title": "小米 Vision GT 概念超跑 MWC 首发亮相，有哪些看点？",
+          "url": "https://www.zhihu.com/question/2010990691338183466",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 13时55分]"
         },
         {
           "title": "小米滑板车",
@@ -105,17 +119,6 @@
           "time_info": "[03时23分 ~ 06时26分]"
         },
         {
-          "title": "小米 Vision GT 概念超跑 MWC 首发亮相，有哪些看点？",
-          "url": "https://www.zhihu.com/question/2010990691338183466",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 12时57分]"
-        },
-        {
           "title": "雷军：小米Vision GT明日发布",
           "url": "https://wallstreetcn.com/livenews/3061037",
           "source": "华尔街见闻-快讯",
@@ -156,6 +159,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 13时55分]"
+        },
+        {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
           "url": "https://www.zhihu.com/question/1950611259528549544",
           "source": "知乎",
@@ -165,17 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
-          "url": "https://www.zhihu.com/question/1950611259528549544",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         }
       ]
     },
@@ -189,11 +193,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时55分]"
         },
         {
           "title": "理想汽车：2026年2月交付26,421辆汽车。",
