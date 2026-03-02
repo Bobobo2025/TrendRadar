@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T12:51:07.470772+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-03-02T13:55:38.194305+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时55分]"
         },
         {
           "title": "惠灵顿开盘：新西兰股市低开1%",
@@ -64,7 +65,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -75,7 +76,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -86,7 +87,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -116,7 +117,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
