@@ -1,287 +1,50 @@
 {
-  "generated_at": "2026-03-02T23:44:31.700274+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-03-03T00:53:56.814480+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2000141859201233248",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时24分]"
-        },
-        {
-          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "新西兰股市低开1%",
-          "url": "https://wallstreetcn.com/livenews/3061294",
+          "title": "中东股市收盘播报｜沙特阿美收涨超1.6%，卡塔尔股市跌约4.3%，土耳其银行板块重挫约7.5%",
+          "url": "https://wallstreetcn.com/livenews/3062053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时53分"
         },
         {
-          "title": "泰国股市SET指数跌3.2%，至1479.45点，为2025年4月8日以来最大日内跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3061724",
+          "title": "非洲股市收盘播报｜南非富时收跌超1.2%，瑞士历峰跌超5.7%，英美公司跌超3%",
+          "url": "https://wallstreetcn.com/livenews/3062034",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "沙特股市大幅下跌",
-          "url": "https://www.douyin.com/hot/2415530",
-          "source": "抖音",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 15时02分]"
-        },
-        {
-          "title": "惠灵顿开盘：新西兰股市低开1%",
-          "url": "https://wallstreetcn.com/livenews/3061294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "中国充电桩“一哥”进军港股",
-          "url": "https://www.toutiao.com/trending/7612602052757163526/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时44分]"
-        },
-        {
-          "title": "巴基斯坦股市下挫9.6%，触发停牌。",
-          "url": "https://flash.jin10.com/detail/20260302122502344800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "巴基斯坦股市下跌9.6%，触发暂停交易。",
-          "url": "https://wallstreetcn.com/livenews/3061507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "以色列特拉维夫股市开盘上涨3%；以色列新谢克尔兑美元汇率持平于3.12。",
-          "url": "https://flash.jin10.com/detail/20260302162534674800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "中东冲突波及股市，印度股指抹去美印达成贸易协议后的涨幅",
-          "url": "https://flash.jin10.com/detail/20260302121408613800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "卡塔尔股市指数早盘下跌3.3%。",
-          "url": "https://flash.jin10.com/detail/20260302144854804800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "金十图示：2026年03月02日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260302161225545800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
-          "url": "https://www.cls.cn/detail/2299535",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 23时44分]"
-        },
-        {
-          "title": "小米憋大招,概念超跑登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时24分]"
-        },
-        {
-          "title": "你还在用小米14吗",
-          "url": "https://www.toutiao.com/trending/7612308425465298980/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时05分]"
-        },
-        {
-          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
-          "url": "https://wallstreetcn.com/livenews/3061787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时47分]"
-        },
         {
           "title": "如何评价小米 2026 年 3 月第一个交易日的跌幅超过 5%？",
           "url": "https://www.zhihu.com/question/2011749920147776170",
           "source": "知乎",
           "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时44分]"
-        },
-        {
-          "title": "大和：将小米集团(01810.HK)目标价从55港元下调至45港元。",
-          "url": "https://flash.jin10.com/detail/20260302120904331800",
-          "source": "金十数据",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛将阿里巴巴纳入亚太地区“确信名单”",
-          "url": "https://flash.jin10.com/detail/20260302191950629800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "恒生科技指数日内跌超3%，商汤跌7.8%，小米、中芯国际、百度、阿里巴巴等跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3061433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数盘初跌2.4%。 热门中概股再鼎医药跌7.2%，文远知行跌7%，小马智行、阿特斯太阳能跌6%，金山云跌5.4%，蔚来跌2.8%，阿里巴巴跌2.6%，百度跌1.9%，拼多多跌1.6%。 ETF中，CQQQ跌2.55%，KWEB跌2.40%，ASHS跌0.33%，ASHR跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3061998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时53分"
         }
       ]
     }
