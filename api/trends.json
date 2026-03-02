@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:44:47.500420+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2026-03-02T23:44:31.700274+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
@@ -81,6 +81,17 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "中国充电桩“一哥”进军港股",
+          "url": "https://www.toutiao.com/trending/7612602052757163526/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时44分]"
+        },
+        {
           "title": "巴基斯坦股市下挫9.6%，触发停牌。",
           "url": "https://flash.jin10.com/detail/20260302122502344800",
           "source": "金十数据",
@@ -145,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        },
-        {
-          "title": "中国充电桩“一哥”进军港股",
-          "url": "https://www.toutiao.com/trending/7612602052757163526/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         }
       ]
     },
@@ -171,11 +171,12 @@
             6,
             4,
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 22时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时44分]"
         },
         {
           "title": "小米憋大招,概念超跑登场",
@@ -219,11 +220,12 @@
           "url": "https://www.zhihu.com/question/2011749920147776170",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时44分]"
         },
         {
           "title": "大和：将小米集团(01810.HK)目标价从55港元下调至45港元。",
@@ -263,6 +265,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数盘初跌2.4%。 热门中概股再鼎医药跌7.2%，文远知行跌7%，小马智行、阿特斯太阳能跌6%，金山云跌5.4%，蔚来跌2.8%，阿里巴巴跌2.6%，百度跌1.9%，拼多多跌1.6%。 ETF中，CQQQ跌2.55%，KWEB跌2.40%，ASHS跌0.33%，ASHR跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3061998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     }
