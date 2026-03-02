@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T19:34:26.282965+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-03-02T21:05:13.057671+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -172,11 +172,24 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时34分]"
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 21时05分]"
+        },
+        {
+          "title": "你还在用小米14吗",
+          "url": "https://www.toutiao.com/trending/7612308425465298980/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 21时05分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 18时47分]"
-        },
-        {
-          "title": "你还在用小米14吗",
-          "url": "https://www.toutiao.com/trending/7612308425465298980/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时34分]"
         },
         {
           "title": "大和：将小米集团(01810.HK)目标价从55港元下调至45港元。",
@@ -225,7 +227,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
