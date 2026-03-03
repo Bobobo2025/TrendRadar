@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T07:29:45.452952+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-03T10:26:37.264496+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价小米 2026 年 3 月第一个交易日的跌幅超过 5%？",
@@ -77,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时29分]"
+        },
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
