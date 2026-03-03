@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T16:45:39.684075+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-03-03T17:46:19.084847+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 16时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 17时46分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧全球股市抛售，韩股暴跌7%，债市普跌，油价涨金银跌",
@@ -28,7 +28,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -63,8 +63,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时46分]"
+        },
+        {
+          "title": "韩国股市暴跌触发熔断",
+          "url": "https://www.douyin.com/hot/2417350",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时45分]"
+          "time_info": "[15时45分 ~ 17时46分]"
         },
         {
           "title": "中国充电桩“一哥”进军港股",
@@ -77,18 +89,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 03时38分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断",
-          "url": "https://www.douyin.com/hot/2417350",
-          "source": "抖音",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时45分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
@@ -177,7 +177,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -222,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 17时46分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
@@ -243,11 +243,12 @@
           "url": "https://www.douyin.com/hot/2417553",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时46分]"
         },
         {
           "title": "小米汽车公布车牌定制专利",
@@ -301,7 +302,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
