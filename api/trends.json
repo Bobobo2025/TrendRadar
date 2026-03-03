@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:26:37.264496+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-03T12:49:11.727622+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国充电桩“一哥”进军港股",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 03时38分]"
+        },
+        {
+          "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
+          "url": "https://www.cls.cn/detail/2300746",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "网易港股盘中一度上涨近4%，周一公司公告称，正在评估在香港转换为“双重主要上市”地位的影响。",
+          "url": "https://wallstreetcn.com/livenews/3062376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "非洲股市收盘播报｜南非富时收跌超1.2%，瑞士历峰跌超5.7%，英美公司跌超3%",
@@ -102,11 +124,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 12时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3062398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "12时49分"
         }
       ]
     }
