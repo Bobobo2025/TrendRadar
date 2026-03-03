@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:46:19.084847+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-03-03T18:43:03.136531+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
@@ -18,8 +18,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时46分]"
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 18时43分]"
+        },
+        {
+          "title": "韩国股市暴跌触发熔断",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 18时43分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧全球股市抛售，韩股暴跌7%，债市普跌，油价涨金银跌",
@@ -56,18 +69,6 @@
         },
         {
           "title": "韩国股市暴跌触发熔断",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 17时46分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断",
           "url": "https://www.douyin.com/hot/2417350",
           "source": "抖音",
           "ranks": [
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 03时38分]"
+        },
+        {
+          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
+          "url": "https://www.zhihu.com/question/2012136408408680393",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
@@ -147,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "欧洲主要股市延续跌势，德国DAX指数日内大跌4%，欧洲斯托克50指数跌3.7%，英国富时100指数、法国CAC40指数跌3%。",
+          "url": "https://flash.jin10.com/detail/20260303183302902800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "中东冲突阴云未散 日韩股市大幅收跌",
