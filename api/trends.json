@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:35:39.131883+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-03-03T21:04:06.010007+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时48分 ~ 21时04分]"
         },
         {
           "title": "韩国股市暴跌触发熔断",
@@ -29,11 +30,12 @@
             26,
             14,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 21时04分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧全球股市抛售，韩股暴跌7%，债市普跌，油价涨金银跌",
@@ -69,6 +71,17 @@
           "time_info": "15时45分"
         },
         {
+          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
+          "url": "https://www.zhihu.com/question/2012136408408680393",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 21时04分]"
+        },
+        {
           "title": "韩国股市暴跌触发熔断",
           "url": "https://www.douyin.com/hot/2417350",
           "source": "抖音",
@@ -79,17 +92,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时45分 ~ 17时46分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
-          "url": "https://www.zhihu.com/question/2012136408408680393",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时35分]"
         },
         {
           "title": "中国充电桩“一哥”进军港股",
@@ -138,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时31分]"
+        },
+        {
+          "title": "全球股市黑色星期二",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%8C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "日韩股市集体大幅收跌",
