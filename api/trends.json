@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:45:51.250152+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-03-03T16:45:39.684075+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊战火持续震动亚太股市：日韩股市双双重挫 Kospi一度跌超4%",
@@ -14,11 +14,34 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧全球股市抛售，韩股暴跌7%，债市普跌，油价涨金银跌",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "日韩股市集体大跌",
+          "url": "https://www.toutiao.com/trending/7612858421670317577/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -27,9 +50,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "韩国股市暴跌触发熔断",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时45分]"
         },
         {
           "title": "中国充电桩“一哥”进军港股",
@@ -45,15 +80,15 @@
         },
         {
           "title": "韩国股市暴跌触发熔断",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD",
-          "source": "百度热搜",
+          "url": "https://www.douyin.com/hot/2417350",
+          "source": "抖音",
           "ranks": [
-            26,
+            11,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时45分]"
+          "time_info": "[15时45分 ~ 16时45分]"
         },
         {
           "title": "加拿大股市继续创收盘历史新高",
@@ -68,6 +103,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "股市",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时45分]"
+        },
+        {
           "title": "金十图示：2026年03月02日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260303050826799800",
           "source": "金十数据",
@@ -78,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时31分]"
-        },
-        {
-          "title": "韩国股市暴跌触发熔断",
-          "url": "https://www.douyin.com/hot/2417350",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "日韩股市集体大幅收跌",
@@ -113,17 +149,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "股市",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "中东冲突阴云未散 日韩股市大幅收跌",
           "url": "https://flash.jin10.com/detail/20260303143245686800",
           "source": "金十数据",
@@ -146,6 +171,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "金十图示：2026年03月03日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260303161342553800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "非洲股市收盘播报｜南非富时收跌超1.2%，瑞士历峰跌超5.7%，英美公司跌超3%",
           "url": "https://wallstreetcn.com/livenews/3062034",
           "source": "华尔街见闻-快讯",
@@ -160,7 +196,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价小米 2026 年 3 月第一个交易日的跌幅超过 5%？",
@@ -182,11 +218,12 @@
           "ranks": [
             17,
             16,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
@@ -200,6 +237,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时29分]"
+        },
+        {
+          "title": "小米Vision GT概念车实拍",
+          "url": "https://www.douyin.com/hot/2417553",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "小米汽车公布车牌定制专利",
@@ -239,6 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "零跑汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘：恒生指数收跌1.12%，恒生科技指数收跌2.26%。油气股、航运股逆势上涨，大众公用涨近62%，中国石油股份涨逾5%，中国海洋石油涨逾3%；科网股普跌，零跑汽车跌7%，华虹半导体跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3062580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     }
