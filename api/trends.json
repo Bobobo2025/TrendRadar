@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T21:02:54.757824+08:00",
-  "total_titles_processed": 1900,
+  "generated_at": "2026-03-04T22:41:02.551387+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
@@ -21,6 +21,21 @@
           "time_info": "[12时42分 ~ 18时40分]"
         },
         {
+          "title": "日韩股市崩了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            14,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时39分 ~ 22时41分]"
+        },
+        {
           "title": "伊朗局势冲击波席卷亚洲市场，韩股创金融危机来最大跌幅，日经225跌4%，泰国股市停牌",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时39分]"
-        },
-        {
-          "title": "日韩股市崩了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 21时02分]"
         },
         {
           "title": "韩国股市暴跌 连续2天触发临时停牌",
@@ -71,6 +72,20 @@
           "time_info": "[13时46分 ~ 13时47分]"
         },
         {
+          "title": "中国石油A股市值重回第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 22时41分]"
+        },
+        {
           "title": "中石油时隔七年重夺A股市值冠军",
           "url": "https://www.toutiao.com/trending/7612223959422337066/",
           "source": "今日头条",
@@ -81,19 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
-          "title": "中国石油A股市值重回第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 21时02分]"
         },
         {
           "title": "全球股市全线暴跌",
@@ -118,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时40分 ~ 19时33分]"
+        },
+        {
+          "title": "韩国股市为何暴跌",
+          "url": "https://www.toutiao.com/trending/7613347641446911529/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "金十图示：2026年03月04日（周三）亚太市场股市指数",
@@ -302,7 +315,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
