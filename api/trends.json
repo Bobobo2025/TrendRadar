@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:40:22.632889+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-03-04T19:33:25.552757+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时33分]"
         },
         {
           "title": "中石油时隔七年重夺A股市值冠军",
@@ -85,11 +86,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9A%E8%82%A1%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时33分]"
         },
         {
           "title": "全球股市全线暴跌",
@@ -104,13 +106,25 @@
           "time_info": "[14时52分 ~ 15时39分]"
         },
         {
+          "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
+          "url": "https://www.cls.cn/detail/2302075",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时33分]"
+        },
+        {
           "title": "金十图示：2026年03月04日（周三）亚太市场股市指数",
           "url": "https://flash.jin10.com/detail/20260304180402196800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -168,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        },
-        {
-          "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
-          "url": "https://www.cls.cn/detail/2302075",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "韩国金融监管机构与执政党将于周四举行会议，讨论近期股市走势及应对措施。",
@@ -327,8 +330,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "小米计划每年推出一款新的智能手机处理器芯片。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3063605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
         {
           "title": "小米Vision GT概念车实拍",
           "url": "https://www.douyin.com/hot/2417553",
@@ -340,6 +354,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 07时31分]"
+        },
+        {
+          "title": "小米确立芯片年更计划 软硬一体化战略再加速",
+          "url": "https://flash.jin10.com/detail/20260304191229715800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
