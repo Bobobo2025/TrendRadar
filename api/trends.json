@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:49:37.562162+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-03-05T23:54:25.927592+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时47分 ~ 22时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时47分 ~ 23时54分]"
         },
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 三星电子大涨13%，现货白银短线跳水，油价维持涨势",
@@ -246,7 +246,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         }
@@ -269,8 +269,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 22时49分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 23时54分]"
         }
       ]
     },
