@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T07:33:57.194289+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-05T10:23:34.653346+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "墨西哥股市收涨2.9%，巴西股指涨超1.4%",
@@ -62,9 +62,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "股市崩盘！韩国：若波动加剧，将积极启动100万亿韩元的市场稳定计划",
+          "url": "https://wallstreetcn.com/articles/3766700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "全球最牛股市遭遇史上最大暴跌 韩国监管亮出百万亿“稳市弹药”",
+          "url": "https://www.cls.cn/detail/2302718",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
