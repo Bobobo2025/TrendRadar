@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T03:36:41.134161+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-07T04:36:08.356264+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时36分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
