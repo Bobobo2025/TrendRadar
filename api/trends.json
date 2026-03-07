@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:41:08.088677+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-03-07T22:27:56.135910+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时27分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -27,11 +27,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时27分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -153,8 +154,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时27分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
