@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T04:29:46.842893+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-03-08T05:25:01.350424+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -27,11 +27,12 @@
             27,
             26,
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗股市继续暂停交易",
