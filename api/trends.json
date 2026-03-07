@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-08T01:25:15.727792+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-03-08T02:38:24.327618+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗宣布关闭股市，总统称绝不可能无条件投降，向邻国致歉，不再攻击邻国，迪拜机场暂停运营，目前局势如何？",
           "url": "https://www.zhihu.com/question/2013656466511393980",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "伊朗宣布关闭股市",
@@ -24,11 +25,23 @@
           "source": "今日头条",
           "ranks": [
             27,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "伊朗股市继续暂停交易",
+          "url": "https://www.douyin.com/hot/2422310",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     },
@@ -43,7 +56,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         }
