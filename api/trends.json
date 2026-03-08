@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T20:55:05.588918+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-08T21:42:25.777339+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗宣布关闭股市，总统称绝不可能无条件投降，向邻国致歉，不再攻击邻国，迪拜机场暂停运营，目前局势如何？",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 17时33分]"
+        },
+        {
+          "title": "中东股市收盘播报｜沙特股市收涨超2.1%，阿美涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3065860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
