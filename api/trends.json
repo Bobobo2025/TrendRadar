@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T05:36:10.453908+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-03-10T06:32:58.599649+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）全球股市指数-美洲市场（收盘）",
@@ -98,22 +99,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "巨头集体下场，阿里、字节之后，腾讯也推出了自家“小龙虾”！",
           "url": "https://wallstreetcn.com/articles/3767033",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "腾讯大厦排队“养虾”成风景",
@@ -125,8 +128,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         }
       ]
     },
@@ -142,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         }
       ]
     }
