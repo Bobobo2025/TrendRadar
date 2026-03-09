@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T02:57:44.358747+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-03-10T03:43:23.470708+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时43分]"
         },
         {
           "title": "日韩股市为何大跌",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时43分]"
         },
         {
           "title": "巨头集体下场，阿里、字节之后，腾讯也推出了自家“小龙虾”！",
@@ -88,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时43分]"
         },
         {
           "title": "腾讯大厦排队“养虾”成风景",
@@ -97,11 +97,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时43分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时43分]"
         }
       ]
     }
