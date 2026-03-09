@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T01:06:22.378955+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-03-10T02:57:44.358747+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时57分]"
         },
         {
           "title": "日韩股市为何大跌",
@@ -36,7 +36,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
@@ -73,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2307677",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时57分]"
         },
         {
           "title": "巨头集体下场，阿里、字节之后，腾讯也推出了自家“小龙虾”！",
@@ -87,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时57分]"
         },
         {
           "title": "腾讯大厦排队“养虾”成风景",
@@ -99,8 +100,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时57分]"
         }
       ]
     },
@@ -116,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时57分]"
         }
       ]
     }
