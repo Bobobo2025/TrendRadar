@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T21:07:04.734104+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2026-03-10T22:53:10.609829+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时55分 ~ 21时07分]"
+          "appearance_count": 12,
+          "time_info": "[14时55分 ~ 22时53分]"
         },
         {
           "title": "蔚来李斌：超快充再快也没有换电快",
@@ -445,8 +445,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "小米高管回应宝马销售拉踩言论",
+          "url": "https://www.toutiao.com/trending/7615154710743580678/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
+        },
         {
           "title": "港交所公告：小米集团(01810.HK)3月10日以1亿港元回购300万股B类股。",
           "url": "https://flash.jin10.com/detail/20260310191235885800",
