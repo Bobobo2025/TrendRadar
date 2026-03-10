@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:32:20.343781+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-03-11T06:32:12.754038+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             4,
             7,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时32分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
@@ -50,7 +51,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -117,7 +118,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -135,8 +136,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时48分 ~ 06时32分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -144,11 +145,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[03时41分 ~ 06时32分]"
         }
       ]
     }
