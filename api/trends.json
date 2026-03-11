@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:58:48.293108+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-03-11T15:49:54.441885+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -21,6 +21,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 07时31分]"
+        },
+        {
+          "title": "蔚来汽车总裁秦力洪：伊朗危机对蔚来汽车运营和原材料成本的影响微乎其微。",
+          "url": "https://flash.jin10.com/detail/20260311153611378800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "蔚来汽车总裁秦力洪：蔚来汽车正为未来两到三年的海外扩张奠定基础，今年的目标是在海外销售数千辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260311153555386800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "如何看待蔚来 2025 年四季度及全年财报？四季度实现首次季度盈利，得益于哪些因素影响？",
@@ -62,7 +84,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -76,12 +98,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "比亚迪闪充能终结蔚来的换电模式吗",
+          "url": "https://www.toutiao.com/trending/7615467320462593590/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
@@ -90,9 +123,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 15时49分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "15时49分"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -123,7 +167,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
