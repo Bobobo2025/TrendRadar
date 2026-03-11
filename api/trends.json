@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:49:54.441885+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-03-11T16:47:32.220032+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -29,9 +29,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "蔚来李斌：内存等原材料涨价对高端车型或带来近万元影响 公司暂无调价计划",
+          "url": "https://wallstreetcn.com/livenews/3067951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "蔚来汽车总裁秦力洪：蔚来汽车正为未来两到三年的海外扩张奠定基础，今年的目标是在海外销售数千辆汽车。",
@@ -40,7 +51,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -89,6 +100,17 @@
           "time_info": "14时58分"
         },
         {
+          "title": "野村：将蔚来汽车(NIO.N)目标价从8.40美元下调至6.60美元。",
+          "url": "https://flash.jin10.com/detail/20260311162202379800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -106,7 +128,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
@@ -124,19 +146,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 16时47分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时47分]"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
