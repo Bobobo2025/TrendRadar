@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-12T05:37:09.440181+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-03-12T06:31:04.852860+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 4,
       "titles": [
+        {
+          "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
+          "url": "https://flash.jin10.com/detail/20260312045725183800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时31分]"
+        },
         {
           "title": "金十图示：2026年03月11日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260312040653166800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
-          "url": "https://flash.jin10.com/detail/20260312045725183800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌约2%，哈莫尼跌约11.1%，领跌金银矿业股",
@@ -66,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时31分]"
         },
         {
           "title": "如何看待因腾讯技术漏洞，粉丝集体「一秒刷完电视剧」推高热度引发的「喝汤」狂欢？反映出影视行业哪些问题？",
@@ -77,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时31分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -136,8 +137,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时31分]"
         }
       ]
     }
