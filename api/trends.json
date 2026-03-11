@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T17:46:51.361557+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-03-11T18:43:14.967464+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -149,8 +149,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 18时43分]"
         },
         {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
@@ -160,19 +160,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 18时43分]"
         },
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
           "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 18时43分]"
         },
         {
           "title": "腾讯再推“养虾”新措施，上线“中国专供”SkillHub",
@@ -181,7 +182,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -276,7 +277,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -284,7 +285,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宝马销售疑贬小米：180天造的车不敢开",
@@ -310,6 +311,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时41分 ~ 07时31分]"
+        },
+        {
+          "title": "小米集团(01810.HK)3月11日回购300.6万股B类股，耗资约1亿港元。",
+          "url": "https://flash.jin10.com/detail/20260311181554127800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     }
