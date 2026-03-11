@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T06:31:04.852860+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-03-12T07:29:50.527002+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时29分]"
         },
         {
           "title": "如何看待因腾讯技术漏洞，粉丝集体「一秒刷完电视剧」推高热度引发的「喝汤」狂欢？反映出影视行业哪些问题？",
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时29分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -134,11 +134,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时29分]"
         }
       ]
     }
