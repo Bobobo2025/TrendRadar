@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:34:21.043631+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-03-12T21:06:43.258907+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时06分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -167,7 +168,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -228,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "腾讯推出OpenClaw安全工具箱",
+          "url": "https://wallstreetcn.com/livenews/3068943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
