@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:42:33.404141+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-03-12T19:34:21.043631+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "15时52分"
         },
         {
+          "title": "霍尔木兹海峡危局升级，油价一度飙升10%重返100美元，全球股市下跌，铝价创四年新高",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时34分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
           "url": "https://flash.jin10.com/detail/20260312045725183800",
           "source": "金十数据",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "霍尔木兹海峡危局升级，油价一度飙升10%重返100美元，全球股市下跌，铝价创四年新高",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "港股半导体股走强，华虹半导体涨超7%，中芯国际涨超2%。",
@@ -103,7 +104,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -412,7 +413,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
