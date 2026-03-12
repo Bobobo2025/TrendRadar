@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:06:43.258907+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-03-12T22:53:08.016142+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "机构：中东冲突与油价波动威胁亚洲股市",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时42分 ~ 21时06分]"
+        },
+        {
+          "title": "油价重燃连累股市 化肥巨头连续第二日走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2311247",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -237,7 +248,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
