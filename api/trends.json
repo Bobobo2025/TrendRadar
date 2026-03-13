@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T10:22:43.567513+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-03-13T12:47:15.906324+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "小米SU7靛石绿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E9%9D%9B%E7%9F%B3%E7%BB%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis与小米、小鹏洽谈欧洲协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3069033",
@@ -101,7 +112,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -118,7 +129,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -129,7 +140,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -164,7 +175,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
