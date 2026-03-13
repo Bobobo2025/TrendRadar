@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T22:44:18.914910+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-03-13T23:46:04.021386+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时46分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）亚太市场股市指数",
@@ -118,7 +118,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
