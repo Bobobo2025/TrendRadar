@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T13:08:49.918217+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-03-15T15:02:22.105075+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             4,
             10,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时02分]"
         },
         {
           "title": "【早报】伊朗提出停战条件；腾讯“龙虾”全国免费安装",
@@ -31,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 15时02分]"
         }
       ]
     },
@@ -46,11 +47,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时02分]"
         }
       ]
     }
