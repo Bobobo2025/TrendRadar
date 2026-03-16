@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T13:19:14.665827+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-16T15:22:52.034469+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2313638",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时22分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收涨超0.2%，埃及股市跌超1.8%",
@@ -70,7 +71,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -96,11 +97,12 @@
           "url": "https://www.zhihu.com/question/2015389671794896944",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时22分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
@@ -137,7 +139,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -154,7 +156,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -165,7 +167,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
