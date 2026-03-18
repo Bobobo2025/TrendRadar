@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T14:08:58.520097+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-03-18T15:55:19.106808+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -25,9 +25,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "高盛对冲基金主管：市场环境\"几乎史无前例\"，股市低估下行尾部风险",
+          "url": "https://wallstreetcn.com/articles/3767752",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时55分]"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时17分]"
-        },
-        {
-          "title": "高盛对冲基金主管：市场环境\"几乎史无前例\"，股市低估下行尾部风险",
-          "url": "https://wallstreetcn.com/articles/3767752",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 14时08分]"
         },
         {
           "title": "港股上市公司回购活跃度持续",
@@ -86,6 +87,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "百度港股拉升，现涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3072213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "港股港口运输股震荡走高，中远海能(01138.HK)涨超5%，东方海外国际(00316.HK)、中远海控(01919.HK)、中远海发(02866.HK)、中国外运(00598.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260318095320430800",
           "source": "金十数据",
@@ -95,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出48.37亿元，占比0.24%；大单资金净流出144.99亿元，占比0.71%；小单资金净流入268.91亿元，占比1.31%。",
+          "url": "https://flash.jin10.com/detail/20260318150705262800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "港股午评：恒指收跌0.17%，芯片股走强",
@@ -125,9 +148,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "港股大模型股持续走高，MINIMAX涨幅扩大至超27%，智谱涨超20%。",
+          "url": "https://wallstreetcn.com/livenews/3072191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "德国股市收涨约0.7%，意大利股市涨超1.2%",
@@ -247,7 +281,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -269,7 +303,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -280,7 +314,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
