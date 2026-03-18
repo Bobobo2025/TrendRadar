@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:53:38.773987+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2026-03-18T21:19:14.123933+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "腾讯年报披露：人均年薪超112万",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 21时19分]"
         },
         {
           "title": "腾讯控股(00700.HK)：2025年，本公司于联交所以总代价约800亿港元（未计开支）购回合共153,41.5万股股份。购回的股份其后已被注销。",
@@ -87,6 +88,18 @@
           "time_info": "16时55分"
         },
         {
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 21时19分]"
+        },
+        {
           "title": "腾讯控股(00700.HK)：董事会建议2025年派发末期股息每股5.30港元（2024年为每股4.50港元）。",
           "url": "https://flash.jin10.com/detail/20260318163829083800",
           "source": "金十数据",
@@ -146,6 +159,17 @@
           "time_info": "[16时55分 ~ 17时58分]"
         },
         {
+          "title": "腾讯电话会：核心业务在AI时代具备强大韧性，智能体将催生去中心化新生态，今年AI投资至少翻倍",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
           "title": "腾讯：2025年腾讯云实现规模化盈利",
           "url": "https://wallstreetcn.com/livenews/3072279",
           "source": "华尔街见闻-快讯",
@@ -180,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时58分]"
+        },
+        {
+          "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "腾讯控股第四季度营收1,943.7亿元人民币，市场预估1,940.7亿元人民币； 第四季度调整后净利润646.9亿元人民币，市场预估649.3亿元人民币； 第四季度营业利润603.4亿元人民币，市场预估604.5亿元人民币； 第四季度金融科技及企业服务业务收入608亿元人民币，市场预估611.7亿元人民币； 第四季度增值服务业务收入899亿元人民币，市场预估887.8亿元人民币； 2025年净利润2,248.4亿元人民币，市场预估2,221.6亿元人民币。",
@@ -234,7 +269,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -281,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
-        },
-        {
-          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
-          "url": "https://www.zhihu.com/question/2017627475413262735",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "腾讯控股(00700.HK)：我们通过在游戏中部署AI，加速了内容制作，改善了用户体验并提升了我们的营销效益。",
@@ -410,7 +434,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -451,8 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 21时19分]"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
