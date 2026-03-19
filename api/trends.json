@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:33:35.638778+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-03-19T10:31:42.058604+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -29,11 +29,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时31分]"
         },
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -84,12 +85,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "腾讯控股跌超5%，此前称将缩减股票回购规模。",
+          "url": "https://wallstreetcn.com/livenews/3072824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "花旗：将腾讯控股(00700.HK)目标价从783.00港元上调至787.00港元。",
+          "url": "https://flash.jin10.com/detail/20260319100223232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "恒指低开1.82%，恒生科技指数跌2.10%，腾讯跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3072806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "加拿大股市收跌约1.9%，两年期加债收益率涨超9个基点",
@@ -128,6 +162,28 @@
           "time_info": "01时04分"
         },
         {
+          "title": "港股石油股震荡走高，延长石油国际(00346.HK)涨超8%，中国海洋石油(00883.HK)涨超5%，中国石油股份(00857.HK)涨超2%，中海油田服务(02883.HK)、昆仑能源(00135.HK)跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319100646871800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "港股大模型股回调，智谱(02513.HK)跌超7%，MINIMAX-W(00100.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260319100504504800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "金十图示：2026年03月18日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260319040601942800",
           "source": "金十数据",
@@ -153,7 +209,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米“蛟龙底盘”命名引争议",
@@ -166,6 +222,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 04时44分]"
+        },
+        {
+          "title": "小米大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "小米汽车 舒淇",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
