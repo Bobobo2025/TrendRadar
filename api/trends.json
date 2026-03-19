@@ -1,8 +1,202 @@
 {
-  "generated_at": "2026-03-19T18:43:51.825322+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-03-19T19:38:21.721182+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
+          "url": "https://www.zhihu.com/question/2017762947045295328",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时38分]"
+        },
+        {
+          "title": "小米上线三款自研大模型",
+          "url": "https://www.toutiao.com/trending/7618780734119202330/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时38分]"
+        },
+        {
+          "title": "小米超强钢获得国家级科技一等奖",
+          "url": "https://www.toutiao.com/trending/7618129522013847561/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 15时49分]"
+        },
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "舒淇代言小米汽车 SU7谐音梗成真",
+          "url": "https://www.toutiao.com/trending/7618063303169261587/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 17时49分]"
+        },
+        {
+          "title": "雷军官宣舒淇成小米汽车品牌代言人",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E8%88%92%E6%B7%87%E6%88%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            17,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 17时49分]"
+        },
+        {
+          "title": "小米连发3款大模型",
+          "url": "https://www.douyin.com/hot/2436060",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时38分]"
+        },
+        {
+          "title": "小米“蛟龙底盘”命名引争议",
+          "url": "https://www.toutiao.com/trending/7618590568309853732/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时44分]"
+        },
+        {
+          "title": "小米汽车 舒淇",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 12时57分]"
+        },
+        {
+          "title": "新一代小米SU7小订达十几万",
+          "url": "https://www.douyin.com/hot/2436419",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "小米新SU7发布会请来半个车圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "舒淇官宣代言小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2017200053643650106",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "小米大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "宇树王兴兴现身小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%8E%8B%E5%85%B4%E5%85%B4%E7%8E%B0%E8%BA%AB%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "小米春季新品发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 14,
@@ -17,8 +211,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时38分]"
         },
         {
           "title": "若羽臣回应港交所招股书失效：港股IPO仍在有序推进中",
@@ -69,6 +263,18 @@
           "time_info": "[15时49分 ~ 16时47分]"
         },
         {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时38分]"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260319004529742800",
           "source": "金十数据",
@@ -102,17 +308,6 @@
           "time_info": "10时31分"
         },
         {
-          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
-          "url": "https://www.cls.cn/detail/2318052",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "港股大模型股回调，智谱(02513.HK)跌超7%，MINIMAX-W(00100.HK)跌超5%。",
           "url": "https://flash.jin10.com/detail/20260319100504504800",
           "source": "金十数据",
@@ -141,7 +336,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -184,8 +379,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 18时43分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 19时38分]"
         },
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -223,11 +418,12 @@
             5,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时38分]"
         },
         {
           "title": "腾讯年报披露：人均年薪超112万",
@@ -318,147 +514,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
-          "url": "https://www.zhihu.com/question/2017762947045295328",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时43分]"
-        },
-        {
-          "title": "小米上线三款自研大模型",
-          "url": "https://www.toutiao.com/trending/7618780734119202330/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时43分]"
-        },
-        {
-          "title": "小米超强钢获得国家级科技一等奖",
-          "url": "https://www.toutiao.com/trending/7618129522013847561/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时49分]"
-        },
-        {
-          "title": "舒淇代言小米汽车 SU7谐音梗成真",
-          "url": "https://www.toutiao.com/trending/7618063303169261587/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 17时49分]"
-        },
-        {
-          "title": "雷军官宣舒淇成小米汽车品牌代言人",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E8%88%92%E6%B7%87%E6%88%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            17,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 17时49分]"
-        },
-        {
-          "title": "小米连发3款大模型",
-          "url": "https://www.douyin.com/hot/2436060",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时43分]"
-        },
-        {
-          "title": "小米“蛟龙底盘”命名引争议",
-          "url": "https://www.toutiao.com/trending/7618590568309853732/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时44分]"
-        },
-        {
-          "title": "小米汽车 舒淇",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时57分]"
-        },
-        {
-          "title": "舒淇官宣代言小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2017200053643650106",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "小米大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
