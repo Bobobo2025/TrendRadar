@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:38:21.721182+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-03-19T21:11:23.400419+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 16,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时57分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 21时11分]"
         },
         {
           "title": "小米上线三款自研大模型",
@@ -27,11 +27,35 @@
             4,
             6,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时57分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 21时11分]"
+        },
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时11分]"
+        },
+        {
+          "title": "小米新一代SU7发布会",
+          "url": "https://www.douyin.com/hot/2436478",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "小米超强钢获得国家级科技一等奖",
@@ -46,15 +70,37 @@
           "time_info": "[12时57分 ~ 15时49分]"
         },
         {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "title": "小米新SU7起售价21.99万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E8%B5%B7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E5%85%83%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "21时11分"
+        },
+        {
+          "title": "小米新一代SU7售价21.99万起",
+          "url": "https://www.toutiao.com/trending/7618812290389475337/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "小米连发3款大模型",
+          "url": "https://www.douyin.com/hot/2436060",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 21时11分]"
         },
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
@@ -84,17 +130,6 @@
           "time_info": "[12时57分 ~ 17时49分]"
         },
         {
-          "title": "小米连发3款大模型",
-          "url": "https://www.douyin.com/hot/2436060",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 19时38分]"
-        },
-        {
           "title": "小米“蛟龙底盘”命名引争议",
           "url": "https://www.toutiao.com/trending/7618590568309853732/",
           "source": "今日头条",
@@ -105,6 +140,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 04时44分]"
+        },
+        {
+          "title": "小米新SU7发布会请来半个车圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时11分]"
         },
         {
           "title": "小米汽车 舒淇",
@@ -119,26 +166,70 @@
           "time_info": "[10时31分 ~ 12时57分]"
         },
         {
+          "title": "小米CEO：未来三年将在人工智能领域投入超过600亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3073352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "新一代小米SU7小订达十几万",
           "url": "https://www.douyin.com/hot/2436419",
           "source": "抖音",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
         {
-          "title": "小米新SU7发布会请来半个车圈",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AF%B7%E6%9D%A5%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%23&t=31&band_rank=8&Refer=top",
+          "title": "小米笔记本",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "21时11分"
+        },
+        {
+          "title": "小米新一代SU7售价21.99万起",
+          "url": "https://www.douyin.com/hot/2436584",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "新一代小米SU7全系涨价4000",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%85%A8%E7%B3%BB%E6%B6%A8%E4%BB%B74000",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "小米新一代SU7采用车外机械拉手",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E9%87%87%E7%94%A8%E8%BD%A6%E5%A4%96%E6%9C%BA%E6%A2%B0%E6%8B%89%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "舒淇官宣代言小米汽车",
@@ -150,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
@@ -174,13 +276,35 @@
           "time_info": "10时31分"
         },
         {
+          "title": "小米发布会把半个车圈请来了",
+          "url": "https://www.douyin.com/hot/2436612",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "新一代小米 SU7 发布，全系搭载 V6s Plus 超级电机，最高续航达 902km，还有哪些看点？",
+          "url": "https://www.zhihu.com/question/2018016098444863053",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "宇树王兴兴现身小米发布会",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%8E%8B%E5%85%B4%E5%85%B4%E7%8E%B0%E8%BA%AB%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -191,7 +315,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -199,7 +323,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
@@ -211,8 +335,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 21时11分]"
+        },
+        {
+          "title": "教授：股市跌破4000点也会很快回来",
+          "url": "https://www.toutiao.com/trending/7618195250993053734/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "若羽臣回应港交所招股书失效：港股IPO仍在有序推进中",
@@ -251,6 +386,19 @@
           "time_info": "[07时02分 ~ 07时33分]"
         },
         {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时11分]"
+        },
+        {
           "title": "油价上涨如何影响全球股市",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82",
           "source": "bilibili 热搜",
@@ -261,18 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时49分 ~ 16时47分]"
-        },
-        {
-          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
-          "url": "https://www.cls.cn/detail/2318052",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时38分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）全球股市指数-欧洲市场",
@@ -295,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "港股石油股震荡走高，延长石油国际(00346.HK)涨超8%，中国海洋石油(00883.HK)涨超5%，中国石油股份(00857.HK)涨超2%，中海油田服务(02883.HK)、昆仑能源(00135.HK)跟涨。",
@@ -352,6 +499,28 @@
           "time_info": "04时44分"
         },
         {
+          "title": "亚太股市再度跳水 A股结构分化",
+          "url": "https://www.toutiao.com/trending/7618879790426226742/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-19）",
+          "url": "https://flash.jin10.com/detail/20260319204334933800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌",
           "url": "https://wallstreetcn.com/livenews/3072563",
           "source": "华尔街见闻-快讯",
@@ -361,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "欧洲股市持续下跌，法国CAC指数下跌2%，至7809.02点；英国富时100指数下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3073319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
@@ -379,8 +559,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 19时38分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 21时11分]"
         },
         {
           "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
@@ -419,11 +599,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时57分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 21时11分]"
         },
         {
           "title": "腾讯年报披露：人均年薪超112万",
@@ -556,6 +737,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李斌：蔚来自研芯片量产已超55万颗",
+          "url": "https://flash.jin10.com/detail/20260319204305784800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     }
