@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-20T17:44:54.053686+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-03-20T18:41:41.429417+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
       "match_count": 27,
       "titles": [
+        {
+          "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796782",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 18时41分]"
+        },
         {
           "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
           "url": "https://www.zhihu.com/question/2018050979702989965",
@@ -15,24 +29,12 @@
             2,
             1,
             3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 17时44分]"
-        },
-        {
-          "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796782",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            4,
-            1
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时33分 ~ 17时44分]"
+          "time_info": "[10时23分 ~ 18时41分]"
         },
         {
           "title": "小米新一代SU7售价21.99万起",
@@ -93,11 +95,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 18时41分]"
         },
         {
           "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
@@ -221,6 +224,18 @@
           "time_info": "[05时02分 ~ 07时33分]"
         },
         {
+          "title": "新一代小米 SU7 发布，售价 21.99-30.39 万，怎样看待这一定价？预计销量会如何？",
+          "url": "https://www.zhihu.com/question/2018060318748664695",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时41分]"
+        },
+        {
           "title": "小米笔记本",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -245,18 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 05时39分]"
-        },
-        {
-          "title": "新一代小米 SU7 发布，售价 21.99-30.39 万，怎样看待这一定价？预计销量会如何？",
-          "url": "https://www.zhihu.com/question/2018060318748664695",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时44分]"
         },
         {
           "title": "新一代小米SU7全网首试",
@@ -310,7 +313,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -362,7 +365,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -386,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗冲击在亚洲减弱，但印度股市波动性仍高",
+          "url": "https://flash.jin10.com/detail/20260320181153264800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
@@ -439,7 +453,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -488,6 +502,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "金十图示：2026年03月20日（周五）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260320180237481800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "A股源杰科技涨幅扩大至12%，股价突破1060元，反超寒武纪，跃居A股市场第二高价股。",
           "url": "https://flash.jin10.com/detail/20260320094044493800",
           "source": "金十数据",
@@ -497,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "懂车帝据悉聘请花旗和高盛安排港股IPO事宜。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3074012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "港股恒生指数、恒生科技指数盘初拉升双双翻红，李宁(02331.HK)涨超12.5%，地平线机器人(09660.HK)涨超6.5%，吉利汽车(00175.HK)涨超4%，宁德时代(03750.HK)涨超3.8%。",
@@ -535,7 +571,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -569,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "阿里巴巴第三财季营收 2848.43 亿元，千问 App MAU 突破 3 亿，如何评价其业绩表现？",
+          "url": "https://www.zhihu.com/question/2018025148444358163",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "阿里巴巴业绩报告要点总结",
@@ -628,11 +675,12 @@
             15,
             18,
             20,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 18时41分]"
         },
         {
           "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
@@ -652,11 +700,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时41分]"
         },
         {
           "title": "腾讯发布 2025 第四季度财报，净利润同比增长 17%，有哪些亮点值得关注？",
