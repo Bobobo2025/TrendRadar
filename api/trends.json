@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T06:32:20.407837+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-03-21T07:32:30.374406+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时36分 ~ 07时32分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市本周累跌超4.8%",
@@ -66,11 +66,23 @@
             8,
             5,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时32分]"
+        },
+        {
+          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
+          "url": "https://wallstreetcn.com/articles/3767973",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时32分]"
         },
         {
           "title": "小米汽车回应为何不公布大定数字",
@@ -82,17 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
-          "url": "https://wallstreetcn.com/articles/3767973",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         }
       ]
     },
@@ -108,8 +109,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时32分]"
         },
         {
           "title": "如何评价《王者荣耀世界》前瞻直播公开的游戏内容，它能成为腾讯游戏的新一代旗舰吗？",
