@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T12:28:48.698012+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-03-21T13:43:38.329915+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 13时43分]"
         },
         {
           "title": "小米汽车回应为何不公布大定数字",
