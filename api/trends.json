@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T02:41:13.007081+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-03-23T03:29:33.760432+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时29分]"
         },
         {
           "title": "外国投资者逃离日本股市",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时29分]"
         }
       ]
     }
