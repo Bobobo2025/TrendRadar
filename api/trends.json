@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:49:04.284472+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-03-22T22:32:15.562605+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8F%91%E5%A3%B0+%E5%85%B3%E4%B9%8E%E8%82%A1%E5%B8%82%E5%80%BA%E5%B8%82%E4%BA%BA%E6%B0%91%E5%B8%81",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 22时32分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国成品油调价、博鳌亚洲论坛、港股重磅财报、欧美PMI数据",
@@ -53,7 +54,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
@@ -109,11 +110,12 @@
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 22时32分]"
         },
         {
           "title": "小米SU7Pro一充跑通京沪",
