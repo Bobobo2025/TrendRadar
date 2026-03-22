@@ -1,147 +1,50 @@
 {
-  "generated_at": "2026-03-22T23:31:16.622454+08:00",
-  "total_titles_processed": 1439,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-03-23T00:35:14.310059+08:00",
+  "total_titles_processed": 315,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
-          "url": "https://wallstreetcn.com/articles/3768062",
-          "source": "华尔街见闻",
+          "title": "中国股市债市规模均位居全球第二",
+          "url": "https://www.douyin.com/hot/2439787",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            7,
-            6,
-            4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 16时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8F%91%E5%A3%B0+%E5%85%B3%E4%B9%8E%E8%82%A1%E5%B8%82%E5%80%BA%E5%B8%82%E4%BA%BA%E6%B0%91%E5%B8%81",
           "source": "百度热搜",
           "ranks": [
-            27,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时48分 ~ 23时31分]"
-        },
-        {
-          "title": "提醒：3月22日，沙特、埃及、卡塔尔、科威特股市休市。",
-          "url": "https://wallstreetcn.com/livenews/3074523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
-        },
-        {
-          "title": "中国股市债市规模均位居全球第二",
-          "url": "https://www.douyin.com/hot/2439787",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时31分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国成品油调价、博鳌亚洲论坛、港股重磅财报、欧美PMI数据",
-          "url": "https://flash.jin10.com/detail/20260322205006282800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "腾讯张军回应微信龙虾插件",
-          "url": "https://flash.jin10.com/detail/20260322112704222800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 14时56分]"
-        },
-        {
-          "title": "腾讯视频收集逐玉盗版线索",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%94%B6%E9%9B%86%E9%80%90%E7%8E%89%E7%9B%97%E7%89%88%E7%BA%BF%E7%B4%A2%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "如何评价腾讯新游《粒粒的小人国》一测表现？",
-          "url": "https://www.zhihu.com/question/2017970187895324794",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时48分 ~ 23时31分]"
-        },
-        {
-          "title": "小米SU7Pro一充跑通京沪",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7Pro%E4%B8%80%E5%85%85%E8%B7%91%E9%80%9A%E4%BA%AC%E6%B2%AA&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     }
