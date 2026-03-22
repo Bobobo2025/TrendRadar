@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T01:29:03.356187+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-03-23T02:41:13.007081+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国股市债市规模均位居全球第二",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 02时41分]"
+        },
+        {
+          "title": "外国投资者逃离日本股市",
+          "url": "https://www.toutiao.com/trending/7619109342752620607/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 02时41分]"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
@@ -42,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 02时41分]"
         }
       ]
     }
