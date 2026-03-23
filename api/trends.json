@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T13:06:00.762389+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-03-23T15:15:30.734319+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国股市债市规模均位居全球第二",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 10时31分]"
+        },
+        {
+          "title": "又双双重挫！美伊战火中，为何日韩股市沦为最大“受害者”？",
+          "url": "https://www.cls.cn/detail/2320913",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 15时15分]"
         },
         {
           "title": "分析师：情绪冰点后A股市场或迎反弹",
@@ -36,17 +48,6 @@
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "又双双重挫！美伊战火中，为何日韩股市沦为最大“受害者”？",
-          "url": "https://www.cls.cn/detail/2320913",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -82,8 +83,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时15分]"
+        },
+        {
+          "title": "三大股指低开，沪指跌破 3900 点，如何看待 3 月 23 日 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2019346563617564443",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时06分]"
+          "time_info": "[13时05分 ~ 15时15分]"
         },
         {
           "title": "外国投资者逃离日本股市",
@@ -97,15 +110,16 @@
           "time_info": "[02时40分 ~ 02时41分]"
         },
         {
-          "title": "三大股指低开，沪指跌破 3900 点，如何看待 3 月 23 日 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/2019346563617564443",
-          "source": "知乎",
+          "title": "股市",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            26,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[10时31分 ~ 15时15分]"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
@@ -130,15 +144,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "股市",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "地缘冲突加剧市场担忧 日韩股市大幅收跌",
+          "url": "https://flash.jin10.com/detail/20260323143228713800",
+          "source": "金十数据",
           "ranks": [
-            26
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "15时15分"
         },
         {
           "title": "A股比亚迪持续拉升，现涨幅扩大至5%；港股比亚迪股份(01211.HK)现涨1.45%。",
@@ -158,7 +172,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
@@ -166,7 +180,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -191,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时15分]"
         },
         {
           "title": "小米汽车回应新一代SU7“底盘软”",
@@ -223,7 +237,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -234,9 +248,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "新一代小米SU7锁单量已超3万辆",
+          "url": "https://www.toutiao.com/trending/7619312885918993963/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "雷军：小米新一代SU7锁单超过3万台",
@@ -245,7 +270,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
@@ -262,7 +287,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
