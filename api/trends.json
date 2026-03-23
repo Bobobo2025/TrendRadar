@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T21:14:07.335587+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-03-23T22:58:52.880407+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,18 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普最后通牒还剩24小时，贝森特表态“先升级再缓和”，亚洲股市重挫、黄金一度跌超3%",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -97,17 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时05分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "外国投资者逃离日本股市",
@@ -183,7 +184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -194,7 +195,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -259,11 +260,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时14分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时58分]"
         },
         {
           "title": "小米汽车回应新一代SU7“底盘软”",
