@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T17:01:56.559855+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-23T18:11:52.479189+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 18时11分]"
         },
         {
           "title": "分析师：情绪冰点后A股市场或迎反弹",
@@ -183,6 +183,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 18时11分]"
+        },
+        {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
@@ -195,18 +207,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 17时01分]"
         },
         {
           "title": "小米汽车回应新一代SU7“底盘软”",
