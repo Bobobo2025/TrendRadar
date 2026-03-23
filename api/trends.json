@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T15:15:30.734319+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-03-23T17:01:56.559855+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 17时01分]"
         },
         {
           "title": "分析师：情绪冰点后A股市场或迎反弹",
@@ -150,7 +150,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -205,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 17时01分]"
         },
         {
           "title": "小米汽车回应新一代SU7“底盘软”",
@@ -259,7 +259,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
