@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T16:56:59.856145+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-03-24T17:59:54.561556+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
@@ -114,7 +114,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -158,9 +158,179 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
+          "url": "https://www.zhihu.com/question/2019371641231079064",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时40分]"
+        },
+        {
+          "title": "小米集团：2026年1月1日至2026年3月20日，小米的股票回购金额达港币约47亿元，即约1.3亿股股票。",
+          "url": "https://wallstreetcn.com/livenews/3075847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "既然小米都能把电机释放到 1500 匹，那些老电车厂能做到吗，比如比亚迪和特斯拉，能做到为什么不做？",
+          "url": "https://www.zhihu.com/question/14563180731",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时02分]"
+        },
+        {
+          "title": "小米集团：预估未来五年累计研发开支将超过人民币2000亿元",
+          "url": "https://wallstreetcn.com/livenews/3075842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
+          "url": "https://wallstreetcn.com/livenews/3075834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团第四季度营收1,169.2亿元人民币，市场预估1,163亿元人民币。 第四季度调整后净利润63.5亿元人民币，市场预估57.8亿元人民币。 第四季度毛利率20.8％，市场预估20.9％。 第四季度智能手机收入443.4亿元人民币。 第四季度汽车交付总量145115辆；全年汽车交付总量411082辆。 全年营收4,572.9亿元人民币，市场预估4,607.9亿元人民币。 全年调整后净利润391.7亿元人民币，市场预估391.2亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3075833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团：2025年智能大家电收入创历史新高，同比增长23.1%",
+          "url": "https://flash.jin10.com/detail/20260324174018955800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团：2025年IoT与生活消费产品业务收入同比增长18.3%，达到历史新高",
+          "url": "https://flash.jin10.com/detail/20260324173719369800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米：2026年将全力冲刺交付55万辆小米汽车的目标",
+          "url": "https://flash.jin10.com/detail/20260324173657439800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团：第四季度经调整净利润63.49亿元，同比下降23.7%",
+          "url": "https://flash.jin10.com/detail/20260324173433830800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "小米集团：预估未来五年累计研发开支将超过人民币2000亿元",
+          "url": "https://flash.jin10.com/detail/20260324173212644800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯卖空股数近三日骤降6成 南向资金逆势“扫货”或确立短期底部",
+          "url": "https://www.cls.cn/detail/2322554",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260324153218445800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "南向资金今日大幅净卖出273.61亿元。港股通（沪）方面，盈富基金、南方恒生科技分别获净卖出85.25亿港元、37.01亿港元；腾讯控股净买入额居首，金额为5.85亿港元；港股通（深）方面，盈富基金、恒生中国企业分别获净卖出45.46亿港元、25.45亿港元；泡泡玛特净买入额居首，金额为6.48亿港元。",
+          "url": "https://flash.jin10.com/detail/20260324173107666800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
@@ -191,55 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
-          "url": "https://www.zhihu.com/question/2019371641231079064",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 04时40分]"
-        },
-        {
-          "title": "既然小米都能把电机释放到 1500 匹，那些老电车厂能做到吗，比如比亚迪和特斯拉，能做到为什么不做？",
-          "url": "https://www.zhihu.com/question/14563180731",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260324153218445800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
         }
       ]
     },
