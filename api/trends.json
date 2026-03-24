@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:18:26.321568+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2026-03-24T23:02:40.382991+08:00",
+  "total_titles_processed": 1895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -125,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -174,6 +174,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "金十图示：2026年03月24日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260324220803373800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "港股收盘，恒指收涨2.79%，科指收涨2.51%；老铺黄金(06181.HK)涨超16%，药明康德(02359.HK)涨超10%，华润啤酒(00291.HK)、康师傅控股(00322.HK)均涨超9%；中国海洋石油(00883.HK)、宁德时代(03750.HK)均跌3%。",
           "url": "https://flash.jin10.com/detail/20260324160905775800",
           "source": "金十数据",
@@ -190,6 +201,17 @@
       "keyword_group": "小米 小米汽车",
       "match_count": 16,
       "titles": [
+        {
+          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
+          "url": "https://www.zhihu.com/question/2019829332076418709",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时02分]"
+        },
         {
           "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
           "url": "https://www.zhihu.com/question/2019371641231079064",
@@ -214,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
-        },
-        {
-          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
-          "url": "https://www.zhihu.com/question/2019829332076418709",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "小米集团：2026年1月1日至2026年3月20日，小米的股票回购金额达港币约47亿元，即约1.3亿股股票。",
@@ -395,7 +406,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -406,7 +417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
