@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T07:36:16.846621+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-25T10:28:45.657484+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年03月25日（周三）全球股市指数-欧洲市场",
@@ -19,6 +19,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "A股港股涨幅扩大，创业板指日内涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "金十图示：2026年03月24日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260325040552881800",
           "source": "金十数据",
@@ -30,13 +41,24 @@
           "time_info": "04时44分"
         },
         {
+          "title": "Momenta港股秘密递表 预计年内上市",
+          "url": "https://flash.jin10.com/detail/20260325100218895800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "3月以来南向资金逆势净流入港股，防御板块成配置核心",
           "url": "https://wallstreetcn.com/livenews/3076242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -66,7 +88,7 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "峰学蔚来总经理称学员员工权益均有保障",
@@ -106,6 +128,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "张雪峰离世，峰学蔚来总经理称学员员工权益均有保障，但招牌是创始人，公司靠什么活下去？留下的员工怎么办？",
+          "url": "https://www.zhihu.com/question/2020047523465621982",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.43%，报6771.27点。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.63%，中概互联网指数ETF（KWEB）收跌0.56%。 德银嘉实沪深300指数ETF（ASHR）收跌0.40%，XtrackersHarvest中证50（ASHS）收涨0.38%。",
           "url": "https://wallstreetcn.com/livenews/3076182",
           "source": "华尔街见闻-快讯",
@@ -143,6 +176,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 07时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指高开0.87%，报25280.52点；恒生科技指数涨0.99%。商汤涨3.1%，理想汽车涨近3%，联想集团涨2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3076297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普全球市场财智：阿里巴巴(09988.HK)的市场份额之争将冲击EBITDA。",
+          "url": "https://flash.jin10.com/detail/20260325095750891800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
