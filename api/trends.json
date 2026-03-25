@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:54:34.278185+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-03-25T19:44:02.958855+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -361,8 +361,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 19时44分]"
         },
         {
           "title": "雷军称新一代小米 SU7 推出「准现车」方案，一周到五周内快速交付，这能彻底解决小米「交付慢」痛点吗？",
@@ -370,11 +370,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时44分]"
         }
       ]
     },
