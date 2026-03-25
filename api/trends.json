@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T01:06:13.597505+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-26T02:59:45.367165+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
@@ -33,7 +33,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "老头乐起诉小米汽车",
@@ -43,8 +43,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 02时59分]"
+        },
+        {
+          "title": "雷军称新一代小米 SU7 推出「准现车」方案，一周到五周内快速交付，这能彻底解决小米「交付慢」痛点吗？",
+          "url": "https://www.zhihu.com/question/2019382129511850696",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     }
