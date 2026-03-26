@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:14:07.705473+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-03-26T17:02:55.709103+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年03月26日（周四）全球股市指数-欧洲市场",
@@ -25,9 +25,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "专家：现在是买进中国股市最好时机",
+          "url": "https://www.toutiao.com/trending/7620334525928095785/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）亚太市场股市指数（盘初）",
