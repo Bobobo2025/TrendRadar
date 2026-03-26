@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T21:22:52.070830+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-03-26T23:08:33.368654+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年03月26日（周四）全球股市指数-欧洲市场",
@@ -102,9 +102,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "美国总统特朗普：油价和股市下跌并没有那么“严重”。",
+          "url": "https://flash.jin10.com/detail/20260326225402436800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
@@ -124,6 +135,19 @@
           "time_info": "[01时05分 ~ 07时38分]"
         },
         {
+          "title": "20人老头乐工厂称已与小米汽车和解",
+          "url": "https://www.toutiao.com/trending/7621355934992252947/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 23时08分]"
+        },
+        {
           "title": "雷军称新一代小米 SU7 推出「准现车」方案，一周到五周内快速交付，这能彻底解决小米「交付慢」痛点吗？",
           "url": "https://www.zhihu.com/question/2019382129511850696",
           "source": "知乎",
@@ -133,18 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时42分]"
-        },
-        {
-          "title": "20人老头乐工厂称已与小米汽车和解",
-          "url": "https://www.toutiao.com/trending/7621355934992252947/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时52分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
