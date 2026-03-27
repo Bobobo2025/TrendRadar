@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T03:00:03.997594+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-28T03:46:31.053253+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 03时46分]"
         },
         {
           "title": "“老头乐”企业向小米致歉",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 03时46分]"
         }
       ]
     },
