@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T22:53:49.668980+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-03-27T23:56:50.445400+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
@@ -119,11 +119,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时59分 ~ 22时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时59分 ~ 23时56分]"
         },
         {
           "title": "老头乐向小米汽车致歉",
@@ -132,7 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
