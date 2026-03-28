@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T12:55:56.294950+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-03-28T14:00:00.364944+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 14时00分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）全球股市指数-美洲市场",
