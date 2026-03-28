@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T10:27:59.855190+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-03-28T12:55:56.294950+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[04时43分 ~ 07时36分]"
         },
         {
+          "title": "美国消费者信心跌至三个月低点 最富裕阶层也因股市重挫遭受打击",
+          "url": "https://www.cls.cn/detail/2327642",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时55分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260328040904040800",
           "source": "金十数据",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时38分]"
-        },
-        {
-          "title": "美国消费者信心跌至三个月低点 最富裕阶层也因股市重挫遭受打击",
-          "url": "https://www.cls.cn/detail/2327642",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时27分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（3月27日），南非富时/JSE非洲领先40可交易指数收跌0.97%，没能守住10.4万点，本周累计上涨1.78%。",
@@ -121,7 +122,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
