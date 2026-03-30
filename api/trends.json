@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:47:02.252239+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-03-30T17:16:11.925085+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             16,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 15时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 17时16分]"
         },
         {
           "title": "日韩股市集体大跌",
@@ -30,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 17时16分]"
         },
         {
           "title": "港股IPO活力持续释放，科技赛道成资本“新宠”",
@@ -50,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 17时16分]"
         },
         {
           "title": "中东股市收盘播报｜科威特股市周日收跌0.6%，卡塔尔股指跌约1%，埃及股指跌约1.3%",
@@ -74,7 +76,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -96,7 +98,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
