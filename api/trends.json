@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:01:44.277744+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-03-31T03:15:08.342052+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "金十图示：2026年03月30日（周一）全球股市指数-欧洲市场",
@@ -42,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 03时15分]"
         }
       ]
     }
