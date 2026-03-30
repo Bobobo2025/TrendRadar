@@ -1,209 +1,33 @@
 {
-  "generated_at": "2026-03-30T23:06:39.280470+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-03-31T01:15:54.328894+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            16,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 17时16分]"
-        },
         {
           "title": "日韩股市集体大跌",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时46分 ~ 23时06分]"
-        },
-        {
-          "title": "又一个“黑色星期一”？中东战争升级震动亚太市场 日韩股市双双重挫",
-          "url": "https://www.cls.cn/detail/2328475",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时05分]"
-        },
-        {
-          "title": "港股IPO活力持续释放，科技赛道成资本“新宠”",
-          "url": "https://wallstreetcn.com/livenews/3078790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "01时15分"
         },
         {
-          "title": "中东股市收盘播报｜科威特股市周日收跌0.6%，卡塔尔股指跌约1%，埃及股指跌约1.3%",
-          "url": "https://wallstreetcn.com/livenews/3078702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260330151133012800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260330102604414800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出270.70亿元，占比1.41%；大单资金净流出161.09亿元，占比0.84%；小单资金净流入212.69亿元，占比1.11%。",
-          "url": "https://flash.jin10.com/detail/20260330150617099800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "高盛：市场悲观情绪接近极限 一旦战争局势降温股市或大幅反弹",
-          "url": "https://wallstreetcn.com/livenews/3079251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "港股开盘恒生指数跌1.68%",
-          "url": "https://www.douyin.com/hot/2448265",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "港股比亚迪股份逆转早盘跌势，转为上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3078879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "港股半导体股集体下跌，天数智芯(09903.HK)、澜起科技(06809.HK)、英诺赛科(02577.HK)跌超6%，华虹半导体(01347.HK)、中芯国际(00981.HK)跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260330101640634800",
+          "title": "金十图示：2026年03月30日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260330234115568800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260330220049386800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3078908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "恒生科技指数跌超3%，成份股中，蔚来汽车(09866.HK)跌超6%，小鹏集团(09868.HK)跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260330103002370800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股手游股多数下跌，金山软件(03888.HK)、哔哩哔哩(09626.HK)跌超4%，腾讯控股(00700.HK)跌超3%，中手游(00302.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260330101952241800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时15分"
         }
       ]
     },
@@ -212,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "港交所公告：小米集团(01810.HK)3月30日以1.616亿港元回购500万股B类股。",
-          "url": "https://flash.jin10.com/detail/20260330184921443800",
-          "source": "金十数据",
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "01时15分"
         }
       ]
     }
