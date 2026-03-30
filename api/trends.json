@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T22:23:14.711570+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-03-30T23:06:39.280470+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时46分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 23时06分]"
         },
         {
           "title": "又一个“黑色星期一”？中东战争升级震动亚太市场 日韩股市双双重挫",
@@ -155,7 +156,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
