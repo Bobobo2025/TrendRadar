@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:20:03.756738+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-03-31T17:04:30.231109+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             16,
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[01时15分 ~ 17时04分]"
         },
         {
           "title": "金十图示：2026年03月31日（周二）全球股市指数-欧洲市场（盘初）",
@@ -31,7 +32,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
