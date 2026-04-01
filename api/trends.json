@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:09:46.147447+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-04-01T19:01:51.136002+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "港股小鹏集团(09868.HK)尾盘扩大涨幅，现涨超5%。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时27分 ~ 17时09分]"
+        },
+        {
+          "title": "全球股市史诗级暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "金十图示：2026年03月31日（周二）全球股市指数-美洲市场（收盘）",
@@ -93,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260401181046538800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -154,7 +176,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
@@ -211,7 +233,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -253,6 +275,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯控股(00700.HK)：4月1日耗资约3亿港元回购60.3万股。",
+          "url": "https://flash.jin10.com/detail/20260401182334181800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
