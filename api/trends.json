@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-01T10:49:27.381258+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-04-01T13:28:02.588464+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "亚洲股市全线大涨！美伊齐释和平意愿 全球开启“反弹模式”",
+          "url": "https://www.cls.cn/detail/2331553",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
         {
           "title": "金十图示：2026年03月31日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260401040555546800",
@@ -47,7 +58,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -64,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -75,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -94,8 +105,36 @@
       ]
     },
     {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3080631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "港股汽车股午后走强，蔚来-SW(09866.HK)、岚图汽车(07489.HK)涨超10%，零跑汽车(09863.HK)涨超6%，理想汽车(02015.HK)、吉利汽车(00175.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260401131427281800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米汽车：2026年3月，小米汽车交付量超过20000台， 新一代SU7，自3月23日开启交付起，累计交付已超7000台。",
@@ -104,9 +143,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3080607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车(02015.HK)：即日起至4月30日（含）下单理想MEGA，可享受限时5年0息方案。",
+          "url": "https://flash.jin10.com/detail/20260401125645844800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     }
