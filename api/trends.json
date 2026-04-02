@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-04-03T01:52:29.496433+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-04-03T03:16:32.591284+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯版“龙虾”一日两崩 腾讯云致歉补偿1000Credits",
-          "url": "https://www.cls.cn/detail/2333702",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）全球股市指数-欧洲市场",
@@ -35,6 +17,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "3月份对冲基金以13年来最快的速度撤离全球股市",
+          "url": "https://flash.jin10.com/detail/20260403022129035800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯版“龙虾”一日两崩 腾讯云致歉补偿1000Credits",
+          "url": "https://www.cls.cn/detail/2333702",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时16分]"
         }
       ]
     },
