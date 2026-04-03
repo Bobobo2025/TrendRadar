@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:40:00.019628+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-04-03T21:10:11.331169+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -124,11 +124,12 @@
             14,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 21时10分]"
         },
         {
           "title": "受存储芯片价格影响，小米调整REDMI部分产品建议零售价",
