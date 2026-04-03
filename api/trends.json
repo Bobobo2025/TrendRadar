@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:53:24.695352+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-04-03T19:40:00.019628+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
@@ -104,7 +104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -123,11 +123,12 @@
             9,
             14,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时07分 ~ 18时53分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时39分]"
         },
         {
           "title": "受存储芯片价格影响，小米调整REDMI部分产品建议零售价",
