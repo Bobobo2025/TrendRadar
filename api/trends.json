@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:37:24.618664+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-04-04T19:32:24.856670+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时32分]"
         },
         {
           "title": "公开质疑小米引热议 私募大佬深夜回应",
