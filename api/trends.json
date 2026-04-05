@@ -1,95 +1,8 @@
 {
-  "generated_at": "2026-04-05T23:36:54.763884+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-04-06T00:40:32.108159+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "高盛对冲基金业务主管：对“多空”都没信心，但股市的全面考验还没来",
-          "url": "https://wallstreetcn.com/articles/3769242",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时43分]"
-        },
-        {
-          "title": "同比增长489% 一季度港股IPO融资近1100港元",
-          "url": "https://flash.jin10.com/detail/20260405100153322800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（4月5日），卡塔尔证交所指数收跌0.65%，报10160.38点，整体呈现出长尾L形走势。 科威特证交所超级市场价格回报指数收跌0.40%，报9032.40点。 沙特股市目前微幅上涨不到0.10%。",
-          "url": "https://wallstreetcn.com/livenews/3082607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "同比增长489%，一季度港股IPO融资近1100港元",
-          "url": "https://wallstreetcn.com/livenews/3082518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 13时15分]"
-        },
-        {
-          "title": "中东股市收盘播报｜卡塔尔股市收跌超0.6%，埃及股指涨约1.9%",
-          "url": "https://wallstreetcn.com/livenews/3082607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时38分]"
-        },
-        {
-          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
-          "url": "https://wallstreetcn.com/livenews/3082533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
-          "url": "https://flash.jin10.com/detail/20260405113406239800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        }
-      ]
-    },
     {
       "keyword_group": "腾讯",
       "match_count": 1,
@@ -99,14 +12,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
           "source": "贴吧",
           "ranks": [
-            2,
-            1,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时48分 ~ 23时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
