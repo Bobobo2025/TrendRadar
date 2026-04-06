@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-07T06:40:22.350722+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-04-07T07:39:22.502665+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "今年以来港股IPO募资总额超千亿港元",
+          "url": "https://wallstreetcn.com/livenews/3083015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
         {
           "title": "金十图示：2026年04月06日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260407040542797800",
