@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-04-06T10:44:16.125886+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-04-06T13:28:02.833481+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日韩股市高开 芯片股集体拉升",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E9%AB%98%E5%BC%80+%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "日韩股市高开 芯片股集体拉升",
+          "url": "https://www.toutiao.com/trending/7625430446989705257/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SuperJunior致歉",
+          "url": "https://s.weibo.com/weibo?q=%23SuperJunior%E8%87%B4%E6%AD%89%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        }
+      ]
+    },
     {
       "keyword_group": "腾讯",
       "match_count": 1,
@@ -17,23 +62,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 10时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日韩股市高开 芯片股集体拉升",
-          "url": "https://www.toutiao.com/trending/7625430446989705257/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
         }
       ]
     }
