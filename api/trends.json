@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:58:03.101075+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-04-08T23:18:50.508221+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,17 @@
           "time_info": "[06时41分 ~ 07时40分]"
         },
         {
+          "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2338327",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时18分]"
+        },
+        {
           "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时25分]"
-        },
-        {
-          "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2338327",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "A股存储芯片概念局部拉升，大为股份直线涨停，朗科科技、金太阳、神工股份、开普云、大港股份、华海诚科跟涨。",
