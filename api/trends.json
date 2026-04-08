@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T20:01:57.925186+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-04-08T21:58:03.101075+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "停火协议达成如何影响股市",
@@ -15,11 +15,12 @@
             6,
             8,
             10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 20时01分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 21时58分]"
         },
         {
           "title": "A股市场缩量上涨，机构建议关注两大主线",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "停火消息引发全球股市释然冲高 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2338327",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "A股存储芯片概念局部拉升，大为股份直线涨停，朗科科技、金太阳、神工股份、开普云、大港股份、华海诚科跟涨。",
