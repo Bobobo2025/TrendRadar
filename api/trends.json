@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-08T15:25:10.383170+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-04-08T17:05:17.008493+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 8,
       "titles": [
+        {
+          "title": "停火协议达成如何影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时05分]"
+        },
         {
           "title": "A股市场缩量上涨，机构建议关注两大主线",
           "url": "https://wallstreetcn.com/livenews/3083749",
@@ -23,17 +35,6 @@
           "title": "报复性反弹！美伊“停火两周”，全球股市急涨，金价重上4830关口，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
-        },
-        {
-          "title": "停火协议达成如何影响股市",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
@@ -59,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
