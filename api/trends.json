@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:05:17.008493+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-08T19:01:56.153611+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时01分]"
         },
         {
           "title": "A股市场缩量上涨，机构建议关注两大主线",
@@ -139,6 +140,34 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯：Buddy全系产品内置模型已支持GLM-5.1",
+          "url": "https://flash.jin10.com/detail/20260408123442413800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "腾讯上线国内首个浏览器“龙虾”QBotClaw",
+          "url": "https://wallstreetcn.com/livenews/3084259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -153,23 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯：Buddy全系产品内置模型已支持GLM-5.1",
-          "url": "https://flash.jin10.com/detail/20260408123442413800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         }
       ]
     },
