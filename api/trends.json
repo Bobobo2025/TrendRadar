@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-04-10T10:46:02.119042+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-04-10T13:28:24.466533+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "keyword_group": "阿里巴巴",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "阿里巴巴、美团参投，诺瓦聚变12亿天使轮融资刷新民营核聚变纪录",
+          "url": "https://wallstreetcn.com/livenews/3085582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "中信证券：维持阿里巴巴买入评级",
+          "url": "https://flash.jin10.com/detail/20260410125259457800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "港股阿里巴巴(09988.HK)震荡上行涨近3%，消息面上，阿里AI视频大模型HappyHorse预计一周后对外发布。",
+          "url": "https://flash.jin10.com/detail/20260410102445186800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3085564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "HappyHorse由阿里巴巴ATH研发",
+          "url": "https://flash.jin10.com/detail/20260410122812968800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港股国泰君安国际(01788.HK)涨超20%，云锋金融(00376.HK)涨近12%，申万宏源香港(06806.HK)涨超11.5%，消息面上，香港首批稳定币牌照今天下午公布。",
+          "url": "https://flash.jin10.com/detail/20260410131335510800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
         {
           "title": "韩国央行行长李昌镛：2025年底韩元汇率接近1500系散户投资者海外股市投资增加.",
           "url": "https://flash.jin10.com/detail/20260410103343928800",
@@ -14,7 +86,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -36,7 +108,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
@@ -44,18 +116,19 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "蔚来 ES9 发布会宣传了多个「技术之最」，其中哪些是真正顶尖的产品力，哪些只是噱头？",
           "url": "https://www.zhihu.com/question/2025670504049111564",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 10时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
@@ -67,23 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "港股阿里巴巴(09988.HK)震荡上行涨近3%，消息面上，阿里AI视频大模型HappyHorse预计一周后对外发布。",
-          "url": "https://flash.jin10.com/detail/20260410102445186800",
-          "source": "金十数据",
+          "title": "蔚来ES9开启预售",
+          "url": "https://www.toutiao.com/trending/7626949765531455014/",
+          "source": "今日头条",
           "ranks": [
-            22
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "13时28分"
         }
       ]
     }
