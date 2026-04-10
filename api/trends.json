@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:50:45.961583+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-11T07:38:48.821258+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 07时38分]"
         },
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
           "url": "https://wallstreetcn.com/articles/3769646",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时50分]"
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时38分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（4月10日），南非富时/JSE非洲领先40可交易指数收涨0.69%，逼近11.15万点，本周累计上涨2.66%。",
@@ -105,11 +106,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时38分]"
         },
         {
           "title": "雷军回应小米冰淇淋",
@@ -120,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时38分]"
         }
       ]
     },
