@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:58:49.630990+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-04-10T19:55:20.860803+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 19时55分]"
         },
         {
           "title": "韩国央行行长李昌镛：2025年底韩元汇率接近1500系散户投资者海外股市投资增加.",
@@ -80,7 +80,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -105,6 +105,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小米食堂发布小米冰激凌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时13分]"
+        },
+        {
+          "title": "雷军回应小米冰淇淋",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时55分]"
+        },
+        {
+          "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
+          "url": "https://www.zhihu.com/question/2025963750629423063",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "小米集团(01810.HK)于4月10日以1.857亿港元回购600万股B类普通股。",
+          "url": "https://flash.jin10.com/detail/20260410183459151800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "小米食堂说冰淇淋机快冒烟了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E8%AF%B4%E5%86%B0%E6%B7%87%E6%B7%8B%E6%9C%BA%E5%BF%AB%E5%86%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "小米冰淇淋真有小米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%E7%9C%9F%E6%9C%89%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
@@ -166,58 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "小米食堂发布小米冰激凌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 17时13分]"
-        },
-        {
-          "title": "雷军回应小米冰淇淋",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时58分]"
-        },
-        {
-          "title": "小米集团(01810.HK)于4月10日以1.857亿港元回购600万股B类普通股。",
-          "url": "https://flash.jin10.com/detail/20260410183459151800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "小米冰淇淋真有小米",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%E7%9C%9F%E6%9C%89%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
         }
       ]
     },
