@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:41:25.483665+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-04-11T06:50:45.961583+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时50分]"
         },
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 06时50分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（4月10日），南非富时/JSE非洲领先40可交易指数收涨0.69%，逼近11.15万点，本周累计上涨2.66%。",
@@ -104,11 +104,12 @@
           "url": "https://www.zhihu.com/question/2025963750629423063",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时50分]"
         },
         {
           "title": "雷军回应小米冰淇淋",
@@ -119,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时50分]"
         }
       ]
     },
