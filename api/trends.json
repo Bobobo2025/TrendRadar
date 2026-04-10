@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T22:51:35.916992+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2026-04-10T23:57:21.835712+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 22时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 23时57分]"
+        },
+        {
+          "title": "新兴市场股市有望创下新冠疫情以来最大单周涨幅",
+          "url": "https://wallstreetcn.com/livenews/3085979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时57分]"
         },
         {
           "title": "韩国央行行长李昌镛：2025年底韩元汇率接近1500系散户投资者海外股市投资增加.",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
-        },
-        {
-          "title": "新兴市场股市有望创下新冠疫情以来最大单周涨幅",
-          "url": "https://wallstreetcn.com/livenews/3085979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "港股收盘：宁德时代大涨超9%",
@@ -115,7 +116,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -148,6 +149,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
+          "url": "https://www.zhihu.com/question/2025963750629423063",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 23时57分]"
+        },
+        {
           "title": "小米食堂发布小米冰激凌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -158,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时46分 ~ 17时13分]"
-        },
-        {
-          "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
-          "url": "https://www.zhihu.com/question/2025963750629423063",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 22时51分]"
         },
         {
           "title": "雷军回应小米冰淇淋",
@@ -192,20 +194,21 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时57分]"
         },
         {
           "title": "小米2026年米粉节开启 首周电池换新量同比增长超80%",
           "url": "https://wallstreetcn.com/livenews/3085974",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时57分]"
         },
         {
           "title": "小米集团(01810.HK)于4月10日以1.857亿港元回购600万股B类普通股。",
