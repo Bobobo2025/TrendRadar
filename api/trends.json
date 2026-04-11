@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T14:06:03.594277+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-04-11T15:52:34.096899+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时58分 ~ 14时06分]"
+          "appearance_count": 12,
+          "time_info": "[02时58分 ~ 15时52分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）全球股市指数-美洲市场",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时52分]"
+        },
+        {
+          "title": "“停火”后股市大涨，但华尔街的预期已变了",
+          "url": "https://wallstreetcn.com/articles/3769733",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "金十图示：2026年04月10日（周五）全球股市指数-欧洲市场",
