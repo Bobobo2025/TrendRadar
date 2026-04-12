@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T15:18:31.977769+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-04-12T16:53:32.028683+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://flash.jin10.com/detail/20260412150154102800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时53分]"
         },
         {
           "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
@@ -39,19 +40,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 16时53分]"
         },
         {
           "title": "卡塔尔股市指数早盘下跌1%。",
           "url": "https://flash.jin10.com/detail/20260412144020402800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时53分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 16时53分]"
         },
         {
           "title": "小米正式调价",
@@ -100,7 +103,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
