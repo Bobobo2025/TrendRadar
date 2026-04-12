@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T16:53:32.028683+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-12T17:50:08.628218+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时50分]"
         },
         {
           "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
@@ -79,11 +80,12 @@
           "ranks": [
             4,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 17时50分]"
         },
         {
           "title": "小米正式调价",
@@ -128,6 +130,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 05时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《王者荣耀世界》未来会怎么样？你认为腾讯这次出手到底是什么用意？是在赌开放世界的下一个 10 年么？",
+          "url": "https://www.zhihu.com/question/2025836028427087907",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         }
       ]
     },
