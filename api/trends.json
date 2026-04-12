@@ -1,11 +1,63 @@
 {
-  "generated_at": "2026-04-12T13:27:08.388754+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-04-12T15:18:31.977769+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“停火”后股市大涨，但华尔街的预期已变了",
+          "url": "https://wallstreetcn.com/articles/3769733",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
+        },
+        {
+          "title": "沙特阿拉伯股市指数早盘下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260412150154102800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
+          "url": "https://wallstreetcn.com/articles/3769746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时18分]"
+        },
+        {
+          "title": "卡塔尔股市指数早盘下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260412144020402800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
@@ -23,11 +75,12 @@
           "url": "https://www.zhihu.com/question/2025491195443311364",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 15时18分]"
         },
         {
           "title": "小米正式调价",
@@ -39,35 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“停火”后股市大涨，但华尔街的预期已变了",
-          "url": "https://wallstreetcn.com/articles/3769733",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
-          "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
-          "url": "https://wallstreetcn.com/articles/3769746",
-          "source": "华尔街见闻",
+          "title": "郑丽文探访小米汽车工厂",
+          "url": "https://www.douyin.com/hot/2463571",
+          "source": "抖音",
           "ranks": [
-            9
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
