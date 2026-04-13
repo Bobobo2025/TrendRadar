@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T00:16:59.057472+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-04-14T02:05:17.177650+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时05分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-欧洲市场",
