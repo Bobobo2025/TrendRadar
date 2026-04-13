@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:47:55.262140+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-14T07:46:28.266525+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3769786",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时46分]"
         },
         {
           "title": "霍尔木兹风险再起 油价大涨 美欧股市齐跌 | 今夜看点",
@@ -26,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[04时07分 ~ 07时46分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-欧洲市场",
