@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:06:11.118861+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-04-14T21:47:47.793186+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2343966",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-欧洲市场",
