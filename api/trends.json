@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T17:23:09.838450+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-04-16T19:07:07.993734+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
@@ -125,6 +125,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何评价腾讯音乐与周杰伦成功续约，并称赞为华语流行音乐的定义者和开创者？",
+          "url": "https://www.zhihu.com/question/2027705670661600470",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时07分]"
+        },
+        {
           "title": "腾讯张军：腾讯今天正式发布并开源混元3D世界模型2.0",
           "url": "https://flash.jin10.com/detail/20260416103925628800",
           "source": "金十数据",
@@ -134,18 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "如何评价腾讯音乐与周杰伦成功续约，并称赞为华语流行音乐的定义者和开创者？",
-          "url": "https://www.zhihu.com/question/2027705670661600470",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。",
@@ -211,6 +212,34 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米食堂3天卖2000多只冰淇淋",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%823%E5%A4%A9%E5%8D%962000%E5%A4%9A%E5%8F%AA%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "小米史上最大电池手机曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "理想汽车",
       "match_count": 1,
       "titles": [
@@ -241,23 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米史上最大电池手机曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     }
