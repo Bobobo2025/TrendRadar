@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:07:07.993734+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-04-16T21:52:14.747291+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -213,8 +213,19 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
+          "url": "https://www.zhihu.com/question/2027778862646408771",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
+        },
         {
           "title": "小米食堂3天卖2000多只冰淇淋",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%823%E5%A4%A9%E5%8D%962000%E5%A4%9A%E5%8F%AA%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=26&Refer=top",
