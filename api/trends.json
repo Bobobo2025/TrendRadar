@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T04:50:36.658533+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-04-18T05:44:57.500187+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 05时44分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超1.3%。 热门中概股里，小马智行涨6.8%，再鼎医药涨3.7%，金山云涨3.6%，阿里巴巴涨3.1%，拼多多涨2.3%，文远知行、腾讯、百度、新东方至少涨1.5%。 ETF中，CQQQ涨2.8%，ASHS涨1.9%，KWEB涨1.6%，ASHR涨0.9%。 富时A50夜盘涨幅扩大至0.6%",
@@ -59,9 +59,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时44分]"
         }
       ]
     },
@@ -75,11 +75,12 @@
           "source": "微博",
           "ranks": [
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时04分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时04分 ~ 05时44分]"
         }
       ]
     }
