@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T13:10:23.089347+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-04-18T15:13:20.656251+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米新SU7续航",
@@ -29,9 +29,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时13分]"
+        },
+        {
+          "title": "雷军不建议有司机的大老板买小米",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%9C%89%E5%8F%B8%E6%9C%BA%E7%9A%84%E5%A4%A7%E8%80%81%E6%9D%BF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "15时13分"
         },
         {
           "title": "小米公布人事任命：胡峥楠、宋钢加盟集团汽车部",
@@ -40,7 +51,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
