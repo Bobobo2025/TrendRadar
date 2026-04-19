@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:39:47.770217+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-04-20T07:40:14.312619+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "持股市值不到7万元成公司第8大股东",
@@ -30,14 +30,14 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米徐洁云喊话造谣者",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 03时43分]"
+        },
+        {
+          "title": "小米回应网传“雷军被堵车里维权”",
+          "url": "https://www.toutiao.com/trending/7630482857168735750/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
         }
       ]
     }
