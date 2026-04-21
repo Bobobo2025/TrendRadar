@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-04-21T13:31:57.869481+08:00",
-  "total_titles_processed": 1010,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-04-21T16:18:43.138979+08:00",
+  "total_titles_processed": 1175,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
@@ -90,6 +88,34 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待小米「龙虾」Xiaomi miclaw 首批通过中国信通院手机端智能助手（Claw）评估？",
+          "url": "https://www.zhihu.com/question/2029547864192237751",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "小米澎湃OS3核心升级汇总",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS3%E6%A0%B8%E5%BF%83%E5%8D%87%E7%BA%A7%E6%B1%87%E6%80%BB%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -104,23 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米澎湃OS3核心升级汇总",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS3%E6%A0%B8%E5%BF%83%E5%8D%87%E7%BA%A7%E6%B1%87%E6%80%BB%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         }
       ]
     }
