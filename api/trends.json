@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T21:49:58.665437+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-04-23T23:56:45.700808+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
@@ -77,11 +77,51 @@
           "url": "https://www.zhihu.com/question/2030589948001084304",
           "source": "知乎",
           "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时56分]"
+        },
+        {
+          "title": "张坤一季度调整重仓格局，茅台取代腾讯成头号重仓股，强调“已看到国内经济内生企稳的曙光”",
+          "url": "https://www.cls.cn/detail/2353506",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米首次登顶全球开源大模型第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%A1%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时56分"
+        },
+        {
+          "title": "如何评价 小米 MiMo V2.5 的发布和 Token Plan 更新？",
+          "url": "https://www.zhihu.com/question/2030441793607746308",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -116,23 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 小米 MiMo V2.5 的发布和 Token Plan 更新？",
-          "url": "https://www.zhihu.com/question/2030441793607746308",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     }
