@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:56:36.573559+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-24T05:50:33.518843+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时50分]"
         },
         {
           "title": "张坤一季度调整重仓格局，茅台取代腾讯成头号重仓股，强调“已看到国内经济内生企稳的曙光”",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时50分]"
         }
       ]
     },
@@ -46,7 +46,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
@@ -63,7 +63,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
