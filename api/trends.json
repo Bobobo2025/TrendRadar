@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:59:51.214130+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-04-24T22:02:34.722867+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "港股芯片股快速拉升，华虹半导体涨超7%，中芯国际涨超5%。",
@@ -116,12 +116,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-24）",
+          "url": "https://flash.jin10.com/detail/20260424212455353800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "股市涨势越猛波动越高，美银直言泡沫风险再度抬头！",
+          "url": "https://flash.jin10.com/detail/20260424212359710800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军官宣小米YU7GT5月底发布",
@@ -202,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "小米高管称所有岗位都可能被AI替代",
+          "url": "https://www.toutiao.com/trending/7632268659670453770/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -250,7 +283,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
