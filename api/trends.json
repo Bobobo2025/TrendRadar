@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-25T19:41:13.679858+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-04-25T21:10:25.080206+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 4,
       "titles": [
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 21时10分]"
+        },
         {
           "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260425040623846800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 07时42分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 19时41分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -98,8 +98,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 21时10分]"
         },
         {
           "title": "北京车展小米展台排长队",
@@ -131,6 +131,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 10时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "公募一季度重仓了哪些境外股？腾讯、阿里、美团和小米重仓持有合计超千亿",
+          "url": "https://www.cls.cn/detail/2355671",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
