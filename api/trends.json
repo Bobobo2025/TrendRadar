@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T15:22:00.353457+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-04-25T16:57:09.580301+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时58分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "中东股市收盘播报｜周五（4月24日），迪拜金融市场综合指数收涨0.69%，报5854.19点，本周累计下跌2.23%，整体持续震荡走低。 阿布扎比证券市场综合指数收涨0.43%，报9788.84点，本周累跌1.33%。",
@@ -56,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 16时57分]"
         },
         {
           "title": "北京车展小米展台排长队",
