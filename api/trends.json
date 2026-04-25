@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:56:48.749907+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-04-25T18:48:29.290891+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时48分]"
         },
         {
           "title": "英国央行警告：股市估值过高，恐将迎来“调整”",
@@ -60,6 +60,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "理想汽车怎么做到不用备胎",
+          "url": "https://www.toutiao.com/trending/7632258049084702762/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时48分]"
+        },
+        {
           "title": "理想汽车(LI.O)高管：将把欧洲和东南亚地区视为公司的下一个出口市场。",
           "url": "https://flash.jin10.com/detail/20260425104326399800",
           "source": "金十数据",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
-        },
-        {
-          "title": "理想汽车怎么做到不用备胎",
-          "url": "https://www.toutiao.com/trending/7632258049084702762/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         }
       ]
     },
@@ -93,11 +94,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 18时48分]"
         },
         {
           "title": "北京车展小米展台排长队",
