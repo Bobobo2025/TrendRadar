@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T10:39:33.186663+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-04-25T13:14:44.375264+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,36 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北京车展小米展台排长队",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%8F%B0%E6%8E%92%E9%95%BF%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 07时42分]"
+        },
+        {
+          "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
+          "url": "https://www.zhihu.com/question/2010916446084015187",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -62,6 +92,23 @@
       ]
     },
     {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车(LI.O)高管：将把欧洲和东南亚地区视为公司的下一个出口市场。",
+          "url": "https://flash.jin10.com/detail/20260425104326399800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴",
       "match_count": 1,
       "titles": [
@@ -76,25 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北京车展小米展台排长队",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%8F%B0%E6%8E%92%E9%95%BF%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 07时42分]"
         }
       ]
     }
