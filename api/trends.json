@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:42:27.561425+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-04-27T05:41:00.052004+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 05时41分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市继续创收盘历史新高，阿曼股指连跌六天",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 05时41分]"
         },
         {
           "title": "造谣“雷军被堵车内维权”，小米：李某华被行拘10日",
@@ -56,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 05时41分]"
         }
       ]
     },
@@ -71,11 +71,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 05时41分]"
         }
       ]
     }
