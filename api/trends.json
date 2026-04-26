@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T15:44:13.032095+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-04-26T17:05:00.744107+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
@@ -28,19 +28,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 17时05分]"
         },
         {
           "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时05分]"
+        },
+        {
+          "title": "小米公司报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         }
       ]
     },
