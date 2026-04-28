@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T19:47:46.244760+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-28T22:13:32.932512+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 22时13分]"
         },
         {
           "title": "腾讯云升级全栈企业级Agent能力 多款AI产品首发",
@@ -143,11 +144,12 @@
           "ranks": [
             12,
             10,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 22时13分]"
         }
       ]
     },
