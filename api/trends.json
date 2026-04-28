@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T04:19:27.719232+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-29T06:01:47.128681+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         }
@@ -37,18 +37,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "腾讯客服回应朋友圈排版变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时19分]"
-        },
-        {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
@@ -56,8 +44,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 06时01分]"
+        },
+        {
+          "title": "腾讯客服回应朋友圈排版变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 06时01分]"
         }
       ]
     },
@@ -100,11 +101,12 @@
           "ranks": [
             14,
             28,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 06时01分]"
         }
       ]
     }
