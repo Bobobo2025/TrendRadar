@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T06:01:47.128681+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-29T07:06:04.689331+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时06分]"
         },
         {
           "title": "腾讯客服回应朋友圈排版变了",
@@ -54,11 +54,12 @@
           "ranks": [
             2,
             4,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时06分]"
         }
       ]
     },
@@ -105,8 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时06分]"
         }
       ]
     }
