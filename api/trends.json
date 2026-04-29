@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-04-29T07:06:04.689331+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-29T11:26:27.205061+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "腾讯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时06分]"
+        },
+        {
+          "title": "腾讯客服回应朋友圈排版变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时06分]"
+        },
+        {
+          "title": "腾讯ima发布全新Agent模式“copilot”",
+          "url": "https://flash.jin10.com/detail/20260429105829547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港股锂电池股震荡走高，超威动力(00951.HK)涨超12%，中创新航(03931.HK)、天齐锂业(09696.HK)、天能动力(00819.HK)、赣锋锂业(01772.HK)等个股跟涨；宁德时代(03750.HK)连日走低跌超1%，比亚迪电子(00285.HK)跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260429111147799800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260428235029165800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "金十图示：2026年04月28日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260428235006634800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "蔚来 NIO",
       "match_count": 2,
@@ -29,65 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 07时06分]"
-        },
-        {
-          "title": "腾讯客服回应朋友圈排版变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%E5%8F%98%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            4,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 07时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260428235029165800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "金十图示：2026年04月28日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260428235006634800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
         }
       ]
     },
