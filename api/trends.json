@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T00:43:31.801906+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-30T02:18:30.469240+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 02时18分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 02时18分]"
         },
         {
           "title": "英国股市收跌超1.1%，丹麦股指跌超1.8%，意大利银行板块跌超0.5%",
