@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T17:11:27.758891+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-04-29T19:40:41.218609+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 19时40分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -26,9 +26,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 19时40分]"
         },
         {
           "title": "港股锂电池股震荡走高，超威动力(00951.HK)涨超12%，中创新航(03931.HK)、天齐锂业(09696.HK)、天能动力(00819.HK)、赣锋锂业(01772.HK)等个股跟涨；宁德时代(03750.HK)连日走低跌超1%，比亚迪电子(00285.HK)跌近2%。",
@@ -123,7 +123,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -145,7 +145,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
