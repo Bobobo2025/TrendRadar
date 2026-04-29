@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T02:18:30.469240+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-04-30T04:12:05.683445+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时12分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时12分]"
         },
         {
           "title": "英国股市收跌超1.1%，丹麦股指跌超1.8%，意大利银行板块跌超0.5%",
@@ -41,6 +41,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3096924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     }
