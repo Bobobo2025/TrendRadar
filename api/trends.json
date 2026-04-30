@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T19:39:41.009222+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-04-30T22:02:50.490851+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2359089",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 22时02分]"
         },
         {
           "title": "港股芯片股探底回升，天数智芯(09903.HK)涨超14%，壁仞科技(06082.HK)涨超8%，中芯国际(00981.HK)涨超6%，华虹半导体(01347.HK)、澜起科技(06809.HK)、中兴通讯(00763.HK)等个股跟涨。",
