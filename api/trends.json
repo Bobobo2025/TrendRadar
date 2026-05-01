@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T21:24:02.429056+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-05-01T22:58:45.732181+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 21时24分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 22时58分]"
         },
         {
           "title": "小米汽车4月交付量超3万台",
