@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:09:08.958812+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-05-01T21:24:02.429056+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -69,6 +69,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
+          "url": "https://www.zhihu.com/question/2020055937386328647",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 21时24分]"
+        },
+        {
           "title": "小米汽车4月交付量超3万台",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -79,18 +92,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 17时48分]"
-        },
-        {
-          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
-          "url": "https://www.zhihu.com/question/2020055937386328647",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时09分]"
         },
         {
           "title": "2026年4月，小米汽车交付量超过30000台。",
