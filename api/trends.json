@@ -1,125 +1,39 @@
 {
-  "generated_at": "2026-05-02T23:50:58.699886+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-05-03T00:53:07.612086+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月01日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260502040605158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时56分 ~ 10时53分]"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3098055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时56分]"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
-          "url": "https://wallstreetcn.com/livenews/3098055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 08时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
-          "url": "https://www.zhihu.com/question/2033553770588714004",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 23时50分]"
-        },
-        {
-          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
-          "url": "https://www.zhihu.com/question/2020055937386328647",
-          "source": "知乎",
-          "ranks": [
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时56分]"
-        },
-        {
-          "title": "新一代小米SU7锁单超7万台",
-          "url": "https://wallstreetcn.com/livenews/3098102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 15时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
           "url": "https://www.cls.cn/detail/2361886",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            10,
-            9,
-            12,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 23时50分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3098037",
-          "source": "华尔街见闻-快讯",
+          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
+          "url": "https://www.zhihu.com/question/2033553770588714004",
+          "source": "知乎",
           "ranks": [
-            18
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时53分]"
         }
       ]
     }
