@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-04T11:27:54.893085+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-05-04T14:41:05.983500+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士市值首破1000万亿韩元，恒科指大涨近3%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "港股宁德时代(03750.HK)午后涨超5%，成交额超30亿港元。",
+          "url": "https://flash.jin10.com/detail/20260504141554381800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "巴菲特场外访谈警告股市“赌场化”：投机风气已达顶峰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095220",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时41分]"
+        },
         {
           "title": "AI狂潮继续！亚太股市攀至近历史高位，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨超3%",
           "url": "https://wallstreetcn.com/articles/3771519",
@@ -14,18 +48,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "巴菲特场外访谈警告股市“赌场化”：投机风气已达顶峰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095220",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -36,9 +59,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "港股物业服务及管理股部分上涨，恒大物业(06666.HK)涨超9%，世茂服务(00873.HK)涨超6%，万物云(02602.HK)、时代邻里(09928.HK)跟涨。",
+          "url": "https://flash.jin10.com/detail/20260504140006313800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "香港外汇基金第一季度投资收益345亿港元。 香港外汇基金第一季度债券投资收益246亿港元，香港股票投资亏损50亿港元。",
@@ -47,7 +81,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -58,7 +92,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -75,7 +109,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
