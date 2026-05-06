@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T07:35:31.640242+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-05-07T07:59:54.257855+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 07时59分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时35分]"
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 07时59分]"
         },
         {
           "title": "金十图示：2026年05月06日（周三）全球股市指数-欧洲市场",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 07时59分]"
         }
       ]
     }
