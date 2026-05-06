@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-06T19:50:11.986513+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-05-06T22:20:33.449188+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
           "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时20分]"
         },
         {
           "title": "A股市场节后放量上涨 谁在买入",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260506220059943800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2026年05月05日（周二）全球股市指数-美洲市场（收盘）",
@@ -110,8 +122,19 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "纳斯达克中国金龙指数涨超2%，百度(BIDU.O)涨超7%，阿里巴巴(BABA.N)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260506221024874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
         {
           "title": "阿里巴巴美股盘前涨超5%，百度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3099328",
@@ -119,7 +142,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -127,6 +150,34 @@
           "title": "港股AI应用股走势分化，美图(01357.HK)涨超16%，金山云(03896.HK)涨超5%，知行科技(01274.HK)、百度(09888.HK)、阿里巴巴(09988.HK)均涨超3%；五一视界(06651.HK)跌超6%，微创机器人(02252.HK)、迈富时(02556.HK)跌超5.5%，迅策(03317.HK)跌超4%。",
           "url": "https://flash.jin10.com/detail/20260506105308880800",
           "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
+          "url": "https://www.zhihu.com/question/2028883532005525054",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "新一代小米SU7上市48天锁单超8万台",
+          "url": "https://www.toutiao.com/trending/7635630703190851590/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
@@ -150,23 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新一代小米SU7上市48天锁单超8万台",
-          "url": "https://www.toutiao.com/trending/7635630703190851590/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     }
