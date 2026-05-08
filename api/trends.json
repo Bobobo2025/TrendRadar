@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T05:04:16.388396+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-05-09T06:57:48.605041+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时57分]"
         },
         {
           "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
@@ -25,7 +25,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -41,11 +41,12 @@
           "source": "微博",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 06时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.47%，报6994.95点，本周累计上涨1.56%，5月6日显著上涨，随后回吐部分涨幅。 热门中概股里，阿特斯初步收涨13.8%，晶科能源涨5.3%，小米、理想涨超2%，拼多多跌2.9%，新东方跌5.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.10%，本周反弹2.68%； 德银嘉实沪深300指数ETF（ASHR）收涨0.51%，本周涨0.93%； XtrackersHarvest中证50（ASHS）收涨0.59%，本周涨2.52%； 中国科技指数ETF（CQQQ）收涨0.81%，本周涨4.85%； MSCI新兴市场ex中国ETF（EMXC）收涨2.56%，本周涨7.40%。",
@@ -54,7 +55,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
