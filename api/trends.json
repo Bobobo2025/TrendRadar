@@ -1,51 +1,8 @@
 {
-  "generated_at": "2026-05-10T23:57:39.480607+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-05-11T01:02:17.442024+08:00",
+  "total_titles_processed": 321,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
-          "url": "https://wallstreetcn.com/livenews/3101101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            17,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 19时54分]"
-        },
-        {
-          "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
-          "url": "https://flash.jin10.com/detail/20260510100308967800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
-          "url": "https://flash.jin10.com/detail/20260510095522522800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
     {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
@@ -55,71 +12,11 @@
           "url": "https://www.zhihu.com/question/265062196",
           "source": "知乎",
           "ranks": [
-            15,
-            20
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯官宣增持《黑神话：悟空》开发商游戏科学至 24%，成唯一外部股东，你觉得是好的还是会影响创作自由度？",
-          "url": "https://www.zhihu.com/question/2033670239087503335",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            3,
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 21时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "精神病院炒股 持股市值超千万",
-          "url": "https://www.toutiao.com/trending/7637862815188913690/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "同价位该买奥迪还是买小米",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
