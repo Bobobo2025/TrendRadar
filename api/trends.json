@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:54:44.085635+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-05-10T21:24:11.765727+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,23 @@
       ]
     },
     {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -58,11 +75,12 @@
             13,
             7,
             3,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 21时24分]"
         }
       ]
     },
