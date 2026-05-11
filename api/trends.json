@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T03:52:30.594829+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-12T05:20:30.487079+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "基金经理在韩国股市创纪录反弹后撤出韩国ETF",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260512040543092800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收涨1.03%，报7067.16点。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。 ETF中，中国科技指数ETF（CQQQ）收涨2.07%，中概互联网指数ETF（KWEB）收涨0.14%。 德银嘉实沪深300指数ETF（ASHR）收涨2.18%，XtrackersHarvest中证50（ASHS）收涨1.81%，MSCI新兴市场ex中国ETF（EMXC）收跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     }
