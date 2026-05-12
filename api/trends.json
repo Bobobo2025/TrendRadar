@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T18:34:46.779511+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-05-12T21:06:04.588997+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场监管总局附条件批准腾讯收购喜马拉雅股权案，腾讯回应：将确保交易依法合规推进",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时36分 ~ 15时44分]"
+        },
+        {
+          "title": "腾讯称已停止微信状态浏览人数展示测试：“已读功能和访客功能”焊死，不会开发，不会提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33161668",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 21时06分]"
         },
         {
           "title": "腾讯张军：微信访客已焊死 不会开发",
@@ -54,16 +67,15 @@
           "time_info": "[12时36分 ~ 12时37分]"
         },
         {
-          "title": "腾讯称已停止微信状态浏览人数展示测试：“已读功能和访客功能”焊死，不会开发，不会提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161668",
-          "source": "澎湃新闻",
+          "title": "收购喜马拉雅获批 腾讯发声明",
+          "url": "https://www.baidu.com/s?wd=%E6%94%B6%E8%B4%AD%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E8%8E%B7%E6%89%B9+%E8%85%BE%E8%AE%AF%E5%8F%91%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "腾讯 已读访客功能不会开发",
@@ -83,7 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -105,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -116,7 +128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -127,7 +139,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -143,11 +155,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 21时06分]"
         },
         {
           "title": "中东脆弱停火打击风险情绪，欧洲股市下挫",
@@ -200,7 +213,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -244,7 +257,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -289,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
