@@ -1,437 +1,78 @@
 {
-  "generated_at": "2026-05-13T21:13:31.039588+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-05-14T00:24:25.188650+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772187",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至2.6%，此前公布Q4财报。",
-          "url": "https://wallstreetcn.com/livenews/3102923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "00时24分"
         },
         {
-          "title": "阿里巴巴：目标是保持高于市场平均水平的增长，以获得更大的市场份额，并巩固云计算领域的领先地位。 在云计算领域争取份额并巩固市场优势是主要目标，利润率仍然是次要的。 预计在未来1-2个季度内，阿里云的毛利率将显著提升。 到2033年，我们所需的算力将是2022年的10倍。 鉴于扩展算力的快速投资，将超出此前提出的3,800亿元资本支出计划。",
-          "url": "https://wallstreetcn.com/livenews/3103045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "阿里巴巴：批准每股ADS派发1.05美元现金股息。",
-          "url": "https://wallstreetcn.com/livenews/3102917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴Q4财报：即时零售业务收入同比增长57%",
-          "url": "https://wallstreetcn.com/livenews/3102916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)财报公布后，美股盘前一度跌超3%，现跌幅缩窄至2%。",
-          "url": "https://flash.jin10.com/detail/20260513175953584800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴：超过10万卡真武PPU已部署于阿里云公共云平台",
-          "url": "https://wallstreetcn.com/livenews/3102914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴Q4财报：资本性支出269亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3102913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴Q4财报：AI相关产品收入连续十一个季度实现三位数增长 ARR突破358亿元",
-          "url": "https://wallstreetcn.com/livenews/3102910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴第四季度营收2,433.8亿元人民币，同比增长2.9%，市场预估2,465.1亿元人民币。 第四季度阿里国际数字商业集团收入354.3亿元人民币，同比增长5.5%，市场预估359.3亿元人民币。 第四季度云智能集团收入416.3亿元人民币，同比增长38%，市场预估414.4亿元人民币。 第四季度中国电商事业集团收入1,222.2亿元人民币，市场预估1,260.3亿元人民币。 第四季度调整后EBITDA164.4亿元人民币，同比下降61%，市场预估240.6亿元人民币。 第四季度调整后净利润8,600万元人民币，上年同期298.5亿元人民币，市场预估150.8亿元人民币。 阿里巴巴美股盘前上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3102907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴CEO吴泳铭：阿里服务器几乎没有一张卡是空的",
-          "url": "https://wallstreetcn.com/livenews/3103031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)：截至2026年3月31日止年度，本公司于纽交所回购合共7,300万股普通股，总对价为10亿美元。截至本业绩公布日期，截至2026年3月31日止年度回购的所有普通股均已注销。",
-          "url": "https://flash.jin10.com/detail/20260513174937709800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "阿里巴巴：目前的（AI）供给能力无法完全满足不断增长的需求。 模型服务业务的快速增长将在未来几个季度对毛利率产生“非常积极的影响”。 过去一年我们坚定投入AI领域，未来两年也将继续坚定投资。 持续对云基础设施的投入将提升相关产品的毛利率。 我们认为这项AI投资在未来3到5年内的投资回报非常明确。",
-          "url": "https://wallstreetcn.com/livenews/3103016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
-          "url": "https://wallstreetcn.com/articles/3772017",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 08时07分]"
-        },
-        {
-          "title": "金十图示：2026年05月13日（周三）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260513180443621800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "港股大模型股大涨，智谱涨30%，MINIMAX涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3102816",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里巴巴公布第四季度财报",
+          "url": "https://www.douyin.com/hot/2497914",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "特朗普：美国人民理解股市波动",
-          "url": "https://flash.jin10.com/detail/20260513021415317800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "港股午评：恒生指数涨0.26% 恒生科技指数涨0.52%",
-          "url": "https://flash.jin10.com/detail/20260513120802246800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "中资券商跃升港股IPO主力军，头部机构竞逐生态构建",
-          "url": "https://wallstreetcn.com/livenews/3102554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "金十图示：2026年05月13日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260513151149407800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260513040548925800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流入38.47亿元，占比0.12%；大单资金净流出202.50亿元，占比0.62%；小单资金净流入167.00亿元，占比0.52%。",
-          "url": "https://flash.jin10.com/detail/20260513150740445800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "硬科技企业领衔 “A+H”模式升温，港股IPO“磁吸力”增强",
-          "url": "https://wallstreetcn.com/livenews/3102545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "腾讯称已停止微信状态浏览人数展示测试：“已读功能和访客功能”焊死，不会开发，不会提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161668",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 08时07分]"
-        },
-        {
-          "title": "腾讯高管：下半年将有更多国产芯片投入使用",
-          "url": "https://wallstreetcn.com/livenews/3103054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "腾讯回应收购喜马拉雅股权案获附条件批准：将确保交易依法合规推进",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33164785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时32分]"
-        },
-        {
-          "title": "马化腾回应腾讯AI是否落后",
-          "url": "https://www.toutiao.com/trending/7639279967072518180/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "腾讯元宝上线新功能：支持总结微信聊天记录",
-          "url": "https://wallstreetcn.com/livenews/3102693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "小米新耳机将采用全新形态设计",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=7&Refer=top",
+          "title": "小米四款新车曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E6%96%B0%E8%BD%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            7,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 21时13分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
-          "title": "纯电动汽车保值排名：小米跌出前十",
-          "url": "https://www.toutiao.com/trending/7638539260280258579/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时47分]"
-        },
-        {
-          "title": "小米17Max来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "title": "小米增程SUV车头logo曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A2%9E%E7%A8%8BSUV%E8%BD%A6%E5%A4%B4logo%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "小米汽车：YU7交付能力大幅提升",
-          "url": "https://www.toutiao.com/trending/7638536386953547306/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "小米新耳机将采用全新形态设计",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
-      "keyword_group": "理想汽车",
-      "match_count": 2,
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
       "titles": [
         {
-          "title": "理想汽车CEO李想：公司不会主动裁员",
-          "url": "https://wallstreetcn.com/livenews/3102793",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年05月13日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260513234116696800",
+          "source": "金十数据",
           "ranks": [
-            24
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "理想汽车李想：建议所有公司不裁人",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A3%81%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "00时24分"
         }
       ]
     }
