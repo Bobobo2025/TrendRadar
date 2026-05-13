@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-13T06:13:59.115021+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-13T08:07:45.239437+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
           "url": "https://wallstreetcn.com/articles/3772017",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 08时07分]"
         },
         {
           "title": "特朗普：美国人民理解股市波动",
@@ -30,6 +31,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "中资券商跃升港股IPO主力军，头部机构竞逐生态构建",
+          "url": "https://wallstreetcn.com/livenews/3102554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "金十图示：2026年05月12日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260513040548925800",
           "source": "金十数据",
@@ -39,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "硬科技企业领衔 “A+H”模式升温，港股IPO“磁吸力”增强",
+          "url": "https://wallstreetcn.com/livenews/3102545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
@@ -52,11 +75,29 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 08时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纯电动汽车保值排名：小米跌出前十",
+          "url": "https://www.toutiao.com/trending/7638539260280258579/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     }
