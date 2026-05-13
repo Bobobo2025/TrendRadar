@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T02:58:20.216728+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-14T04:49:32.091458+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E6%96%B0%E8%BD%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时49分]"
         },
         {
           "title": "小米增程SUV车头logo曝光",
@@ -35,11 +36,40 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E4%B9%B0YU7%E6%9C%80%E5%BF%AB2%E5%B0%8F%E6%97%B6%E6%8F%90%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "04时49分"
+        },
+        {
+          "title": "满足「长青游戏≥3 款」的中国游戏公司是否仅有腾讯一家？",
+          "url": "https://www.zhihu.com/question/1907101114811287067",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
@@ -52,11 +82,12 @@
           "url": "https://wallstreetcn.com/articles/3772187",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时49分]"
         },
         {
           "title": "阿里巴巴公布第四季度财报",
@@ -67,14 +98,14 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时49分]"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年05月13日（周三）全球股市指数-欧洲市场",
@@ -86,6 +117,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2026年05月13日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260514040545940800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3103208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     }
