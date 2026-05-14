@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T01:53:47.297489+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-15T03:50:05.900045+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772290",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时50分]"
         },
         {
           "title": "又有国际投行发声看好中国股市，外资一季度买了啥？",
@@ -54,19 +55,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时50分]"
         },
         {
           "title": "腾讯成立800人团队适配鸿蒙",
           "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E6%88%90%E7%AB%8B800%E4%BA%BA%E5%9B%A2%E9%98%9F%E9%80%82%E9%85%8D%E9%B8%BF%E8%92%99",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时50分]"
         }
       ]
     }
