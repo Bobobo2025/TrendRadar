@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T12:53:04.554211+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-05-15T15:54:29.051454+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 12时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 15时54分]"
         },
         {
           "title": "美联储威廉姆斯：考虑到投资者当前的预期，股市处于高位并不令人意外。",
@@ -74,7 +74,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马化腾说「不能别人做什么就也跨过去，过去『抢别人地盘』基本失败了」，如何解读？腾讯都在哪些地方失败过？",
@@ -127,8 +127,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时54分]"
+        },
+        {
+          "title": "财报利好为何难阻空头反扑 腾讯卖空股数创3月以来新高",
+          "url": "https://www.cls.cn/detail/2372160",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     }
