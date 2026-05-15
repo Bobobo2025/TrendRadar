@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-16T01:41:10.626339+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-16T03:42:05.829036+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯天美七年投入数十亿，《王者荣耀世界》却公测数据惨淡，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2037922321579630864",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 03时42分]"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/2038317052054721795",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 03时42分]"
         }
       ]
     }
