@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:53:04.994224+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-17T06:50:10.213126+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时50分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时50分]"
         },
         {
           "title": "伊朗股市将于下周二重开",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时50分]"
         },
         {
           "title": "高盛：股市再涨也会波动加大",
@@ -70,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时50分]"
         }
       ]
     },
@@ -87,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时50分]"
         }
       ]
     }
