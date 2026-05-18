@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T18:09:53.053762+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-05-18T22:32:58.622728+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -64,6 +64,17 @@
           "time_info": "[13时08分 ~ 18时09分]"
         },
         {
+          "title": "金十图示：2026年05月18日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260518220614464800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
           "url": "https://flash.jin10.com/detail/20260518120811012800",
           "source": "金十数据",
@@ -88,47 +99,8 @@
       ]
     },
     {
-      "keyword_group": "理想汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "理想汽车(LI.O)美股盘前跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260518174719751800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "恒指收跌1.11% 理想汽车跌超14%",
-          "url": "https://www.baidu.com/s?wd=%E6%81%92%E6%8C%87%E6%94%B6%E8%B7%8C1.11%25+%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "理想汽车跌超14%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
@@ -136,11 +108,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 18时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 22时32分]"
+        },
+        {
+          "title": "小米汽车为第二品牌“寻天”引入新的电池供应商",
+          "url": "https://wallstreetcn.com/livenews/3105469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "苹果华为小米集体降价",
@@ -166,6 +150,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "小米汽车为第二品牌“寻天”引入新的电池供应商",
+          "url": "https://flash.jin10.com/detail/20260518220038982800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "理想汽车(LI.O)美股盘前跌超9%。",
+          "url": "https://flash.jin10.com/detail/20260518174719751800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "恒指收跌1.11% 理想汽车跌超14%",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E6%8C%87%E6%94%B6%E8%B7%8C1.11%25+%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "理想汽车跌超14%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来李斌：换电模式利于电池健康和寿命延长",
+          "url": "https://wallstreetcn.com/livenews/3105467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -180,7 +231,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -197,7 +248,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
