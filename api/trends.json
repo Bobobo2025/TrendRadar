@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T19:21:30.151016+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-19T23:29:22.769888+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 23时29分]"
         },
         {
           "title": "港交所文件显示：小米集团(01810.HK)于5月19日回购330万股B类股份，斥资1亿港元。",
@@ -26,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -102,7 +103,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股AI应用板块走势分化，智谱(02513.HK)持续下挫跌差13%，MINIMAX-W(00100.HK)跌超9%，商汤(00020.HK)、范式智能(06682.HK)等跟跌。",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "港股电力股再度集体走强 AI算力竞赛或进入“抢电”阶段",
+          "url": "https://www.cls.cn/detail/2375347",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十图示：2026年05月18日（周一）全球股市指数-美洲市场（收盘）",
@@ -162,6 +174,34 @@
       ]
     },
     {
+      "keyword_group": "理想汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
+          "url": "https://www.zhihu.com/question/2039753147992781785",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -192,23 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
-          "url": "https://flash.jin10.com/detail/20260519040054557800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         }
       ]
     }
