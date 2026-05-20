@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T17:39:31.931207+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-05-20T20:28:35.623601+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时28分]"
         },
         {
           "title": "从房市到股市：韩国人再次“All in”？｜907编辑部",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时28分]"
         },
         {
           "title": "摩根大通：中国股市今年仍有可观上行空间 因流动性充裕和业绩向好",
@@ -110,6 +111,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时07分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米YU7代言人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
