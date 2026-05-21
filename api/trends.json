@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T15:58:40.150106+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-21T19:33:59.063366+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "从房市到股市：韩国人再次“All in”？｜907编辑部",
@@ -44,6 +44,17 @@
           "time_info": "[00时28分 ~ 11时57分]"
         },
         {
+          "title": "机构：A股市场存在健康调整可能性",
+          "url": "https://www.toutiao.com/trending/7641244881344233498/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "韩国股市开盘前，三星电子在Nextrade上涨5%，该公司与工会达成协议。",
           "url": "https://wallstreetcn.com/livenews/3106981",
           "source": "华尔街见闻-快讯",
@@ -80,18 +91,19 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "蔚来是怎么通过换电解决电池衰减问题的，难道每次都是换的新电池？",
           "url": "https://www.zhihu.com/question/2038837526228645684",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 19时33分]"
         },
         {
           "title": "SpaceX：Valor创始人Antonio J. Gracias持股7.3%。",
@@ -103,23 +115,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
+          "url": "https://wallstreetcn.com/livenews/3107363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "蔚来发布2026一季度财报，整车毛利率18.8%，连续四个季度环比增长，创四年来新高",
+          "url": "https://wallstreetcn.com/livenews/3107362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "小米新SU7首销期锁单8万台",
+          "url": "https://wallstreetcn.com/livenews/3107402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "小米发布首款耳夹式耳机，首销价799元",
+          "url": "https://wallstreetcn.com/livenews/3107398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "【小米17 Max发布，售价4799元起】5月21日，小米发布全新小米17 Max，售价4799元起，搭载第五代骁龙8至尊版，配备8000mAh超大电池。小米17 Max现已开启预售，5月25日早10点正式开售。",
+          "url": "https://wallstreetcn.com/livenews/3107396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
         {
           "title": "雷军回应小米 YU7 GT 定价，「肯定会有点小贵」，售价大概会落在什么区间？产品实力能否撑起售价？",
           "url": "https://www.zhihu.com/question/2040491234955894920",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 19时33分]"
         }
       ]
     }
