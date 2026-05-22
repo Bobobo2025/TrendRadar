@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T08:05:32.938370+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-05-22T13:03:33.561916+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "如何看待 5 月 21 日小米发布的 YU7 GT 及 YU7 标准版，有哪些亮点与不足？",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 08时05分]"
+        },
+        {
+          "title": "小米新品发布会",
+          "url": "https://www.douyin.com/hot/2507460",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 13时03分]"
         },
         {
           "title": "小米YU7GT价格",
@@ -58,17 +70,6 @@
           "time_info": "[02时01分 ~ 08时05分]"
         },
         {
-          "title": "小米新品发布会",
-          "url": "https://www.douyin.com/hot/2507460",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 08时05分]"
-        },
-        {
           "title": "小米发布首款耳夹式耳机",
           "url": "https://www.toutiao.com/trending/7641429959340834858/",
           "source": "今日头条",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 08时05分]"
+        },
+        {
+          "title": "“八败两胜”后小米YU7标准版“临时”下调定价 再战特斯拉Model Y",
+          "url": "https://www.cls.cn/detail/2378400",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "小米 YU7 GT 正式上市，定价 38.99 万元，这个定价策略怎么样？预计销量如何？",
@@ -142,6 +154,18 @@
           "time_info": "[02时01分 ~ 08时05分]"
         },
         {
+          "title": "小米新品发布会：大屏旗舰17 Max售价4799元起，跑车级SUV YU7 GT震撼上市",
+          "url": "https://wallstreetcn.com/articles/3772841",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时03分]"
+        },
+        {
           "title": "小米耳夹式耳机849元",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA849%E5%85%83%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -176,15 +200,15 @@
           "time_info": "[04时52分 ~ 08时05分]"
         },
         {
-          "title": "小米新品发布会：大屏旗舰17 Max售价4799元起，跑车级SUV YU7 GT震撼上市",
-          "url": "https://wallstreetcn.com/articles/3772841",
-          "source": "华尔街见闻",
+          "title": "小米YU7GT独家评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "13时03分"
         },
         {
           "title": "小米YU7GT",
@@ -196,12 +220,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "小米YU7 GT刷新纽北SUV圈速纪录",
+          "url": "https://www.toutiao.com/trending/7641939137729252907/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年05月21日（周四）全球股市指数-美洲市场（收盘）",
@@ -225,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260522120616602800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。 目前，标普跌超0.3%，道指跌107点，纳指跌0.47%。",
@@ -264,6 +343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "野村：维持蔚来汽车买入评级 需推更多热门车型支撑销量",
+          "url": "https://flash.jin10.com/detail/20260522120122897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
