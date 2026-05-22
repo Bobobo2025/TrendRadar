@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:13:44.583407+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-23T07:02:42.334530+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）全球股市指数-美洲市场",
@@ -26,9 +26,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普夸耀股市上涨。",
@@ -37,7 +37,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时02分]"
         },
         {
           "title": "小米YU7GT独家评测",
@@ -64,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时02分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -78,8 +79,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时02分]"
         }
       ]
     },
@@ -94,7 +95,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
