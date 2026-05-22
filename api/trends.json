@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T01:54:46.379914+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-23T03:50:31.065172+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时50分]"
         },
         {
           "title": "小米YU7GT独家评测",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时50分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时50分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时50分]"
         }
       ]
     }
