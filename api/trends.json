@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T11:29:59.431206+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-05-23T14:35:38.283198+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -77,11 +77,12 @@
           "ranks": [
             12,
             13,
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 14时35分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -107,7 +108,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
