@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T07:01:08.833307+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-24T08:05:23.883937+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时05分]"
         },
         {
           "title": "雷军透露小米下一步规划",
@@ -47,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 08时05分]"
         }
       ]
     },
@@ -62,11 +62,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 08时05分]"
         }
       ]
     }
