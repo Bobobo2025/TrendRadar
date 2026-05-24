@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:59:21.945406+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-25T06:03:58.849380+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             17,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "港股出台开户新规，对市场影响几何？核心要点有这些",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "腾讯官宣:放弃音频独家版权",
@@ -83,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时03分]"
         }
       ]
     },
@@ -101,8 +102,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
