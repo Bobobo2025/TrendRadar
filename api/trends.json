@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-25T18:11:39.169551+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-05-25T22:10:09.778830+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
         {
           "title": "股市为什么会涨",
           "url": "https://www.toutiao.com/trending/7643439042893188627/",
@@ -57,24 +69,13 @@
           "time_info": "08时02分"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
           "title": "同是科技，A股、港股不同命？",
           "url": "https://wallstreetcn.com/articles/3773003",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "腾讯官宣:放弃音频独家版权",
@@ -187,11 +188,12 @@
           "ranks": [
             10,
             15,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 18时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 22时10分]"
         },
         {
           "title": "腾讯宣布放弃并解除在线音频内容版权独家授权，如何看待这一做法？音频行业竞争格局会迎来重构吗？",
@@ -208,13 +210,24 @@
           "time_info": "[00时03分 ~ 08时02分]"
         },
         {
+          "title": "字节反击腾讯称“都是卖猪食的，谁也别看不起谁”？抖音副总裁李亮：相关内容系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33226639",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
           "title": "腾讯ima宣布AI助手Copilot功能全面开放",
           "url": "https://flash.jin10.com/detail/20260525172240380800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         }
