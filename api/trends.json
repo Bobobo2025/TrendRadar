@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T08:02:22.170750+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-05-25T13:22:11.624556+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -41,7 +41,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -52,7 +52,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -63,7 +63,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -108,13 +108,35 @@
           "time_info": "[00时03分 ~ 08时02分]"
         },
         {
+          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
+          "url": "https://www.zhihu.com/question/2041463586346849089",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
           "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
           "url": "https://flash.jin10.com/detail/20260525065625777800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -136,6 +158,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "腾讯官宣:放弃音频独家版权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354534&amp;topic_name=%E8%85%BE%E8%AE%AF%E5%AE%98%E5%AE%A3%3A%E6%94%BE%E5%BC%83%E9%9F%B3%E9%A2%91%E7%8B%AC%E5%AE%B6%E7%89%88%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 13时22分]"
+        },
+        {
           "title": "腾讯宣布放弃并解除在线音频内容版权独家授权，如何看待这一做法？音频行业竞争格局会迎来重构吗？",
           "url": "https://www.zhihu.com/question/2041201809620985040",
           "source": "知乎",
@@ -144,17 +178,6 @@
             10,
             15,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 08时02分]"
-        },
-        {
-          "title": "腾讯官宣:放弃音频独家版权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354534&amp;topic_name=%E8%85%BE%E8%AE%AF%E5%AE%98%E5%AE%A3%3A%E6%94%BE%E5%BC%83%E9%9F%B3%E9%A2%91%E7%8B%AC%E5%AE%B6%E7%89%88%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
