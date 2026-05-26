@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T04:55:35.269465+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-27T06:22:19.371109+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "想不想买小米汽车？武契奇：买不起",
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
+        },
+        {
+          "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
+          "url": "https://www.zhihu.com/question/2042667657242076706",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "武契奇在小米汽车工厂下单 买了啥",
@@ -26,31 +39,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
-        },
-        {
-          "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
-          "url": "https://www.zhihu.com/question/2042667657242076706",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3773155",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "小米发布2026年一季度业绩",
@@ -61,8 +63,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
+        },
+        {
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
@@ -72,19 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
-        },
-        {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
@@ -92,11 +95,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "小米YU7 GT爆单 有门店一天卖11辆",
@@ -106,19 +110,42 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时22分]"
         },
         {
           "title": "武契奇在小米工厂下单了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时22分]"
+        },
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
+          "url": "https://www.zhihu.com/question/2042778573321266131",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -155,7 +182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
