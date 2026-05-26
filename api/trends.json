@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T11:46:45.817952+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-26T15:52:41.375888+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 15时52分]"
         },
         {
           "title": "港股IPO储备充足，410家上市申请状态为“处理中”",
@@ -81,6 +81,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 11时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "想不想买小米汽车？武契奇：买不起",
+          "url": "https://www.baidu.com/s?wd=%E6%83%B3%E4%B8%8D%E6%83%B3%E4%B9%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%EF%BC%9F%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E4%B9%B0%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "武契奇抵达小米汽车工厂参访",
+          "url": "https://www.douyin.com/hot/2512770",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     }
