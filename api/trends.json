@@ -1,431 +1,50 @@
 {
-  "generated_at": "2026-05-27T20:55:21.331700+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-05-28T00:40:06.774645+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
+          "url": "https://www.cls.cn/detail/2383054",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
+        },
+        {
+          "title": "金十图示：2026年05月27日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260527234036528800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 19,
+      "match_count": 1,
       "titles": [
         {
           "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
           "url": "https://www.zhihu.com/question/2042890815265923370",
           "source": "知乎",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 20时55分]"
-        },
-        {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时22分 ~ 20时55分]"
-        },
-        {
-          "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
-          "url": "https://www.zhihu.com/question/2042667657242076706",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时08分]"
-        },
-        {
-          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773155",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时28分 ~ 17时56分]"
-        },
-        {
-          "title": "想不想买小米汽车？武契奇：买不起",
-          "url": "https://www.toutiao.com/trending/7644103690068069898/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂下单 买了啥",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95+%E4%B9%B0%E4%BA%86%E5%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米发布2026年一季度业绩",
-          "url": "https://www.douyin.com/hot/2513176",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 13时18分]"
-        },
-        {
-          "title": "武契奇说买不起小米汽车 雷军回应",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://www.toutiao.com/trending/7643645124177854510/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 13时18分]"
-        },
-        {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时08分]"
-        },
-        {
-          "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
-          "url": "https://www.zhihu.com/question/2042778573321266131",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 13时18分]"
-        },
-        {
-          "title": "小米宣布200亿港元回购计划",
-          "url": "https://www.douyin.com/hot/2513475",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时56分]"
-        },
-        {
-          "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
-          "url": "https://v.ifeng.com/c/8tPxP7tkeJs",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 08时08分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 20时55分]"
-        },
-        {
-          "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
-          "url": "https://www.zhihu.com/question/2042171361179815968",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米YU7 GT爆单 有门店一天卖11辆",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E7%88%86%E5%8D%95+%E6%9C%89%E9%97%A8%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8D%9611%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米汽车又亏了 爆款还能扛多久",
-          "url": "https://www.toutiao.com/trending/7644385423375994374/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "武契奇在小米工厂下单了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "武契奇抵达上海继续访问行程，26日造访清华大学及小米公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33238986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美伊和谈预期升温，油价跳水，全球股市走强，泛欧股指六连涨，金银铜齐升",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
-        },
-        {
-          "title": "韩国股市今年以来飙升100% 强劲涨势盖过互联网泡沫时期",
-          "url": "https://wallstreetcn.com/livenews/3109840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "美媒主播警告股市崩盘",
-          "url": "https://www.toutiao.com/trending/7643694787275407414/",
-          "source": "今日头条",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
-        },
-        {
-          "title": "日韩股市共创新高！芯片股集体“暴走” SK海力士突破万亿美元市值",
-          "url": "https://www.cls.cn/detail/2382411",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
-        },
-        {
-          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
-          "url": "https://www.cls.cn/detail/2381765",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时55分]"
-        },
-        {
-          "title": "韩国股市涨到熔断",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%B6%A8%E5%88%B0%E7%86%94%E6%96%AD%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "韩国股市涨到熔断",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%B6%A8%E5%88%B0%E7%86%94%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260527040540018800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "港股午评：恒生指数跌0.85% 恒生科技指数跌0.25%",
-          "url": "https://flash.jin10.com/detail/20260527120450056800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "腾讯：沧海V2芯片将于下半年量产",
-          "url": "https://flash.jin10.com/detail/20260527173422322800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "腾讯：沧海V2芯片将于下半年量产",
-          "url": "https://wallstreetcn.com/livenews/3110000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "腾讯游戏发布会2026",
-          "url": "https://search.bilibili.com/all?keyword=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A2026",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "腾讯游戏发布会",
-          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "姚明代言蔚来ES9",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%BB%A3%E8%A8%80%E8%94%9A%E6%9D%A5ES9%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "南向资金今日大幅净卖出77.17亿元。港股通（沪）方面，阿里巴巴-W、华虹半导体分别获净卖出6.15亿港元、3.95亿港元；中国海洋石油净买入额居首，金额为8.8亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出18.28亿港元、13.92亿港元；中芯国际净买入额居首，金额为14.02亿港元。",
-          "url": "https://flash.jin10.com/detail/20260527173119121800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "[00时39分 ~ 00时40分]"
         }
       ]
     }
