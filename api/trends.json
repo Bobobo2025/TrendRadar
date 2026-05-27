@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:56:02.105938+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-05-27T20:55:21.331700+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
@@ -16,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 20时55分]"
+        },
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 20时55分]"
         },
         {
           "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
@@ -57,19 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 17时56分]"
         },
         {
           "title": "武契奇在小米汽车工厂下单 买了啥",
@@ -168,6 +168,19 @@
           "time_info": "[02时28分 ~ 08时08分]"
         },
         {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 20时55分]"
+        },
+        {
           "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
           "url": "https://www.zhihu.com/question/2042171361179815968",
           "source": "知乎",
@@ -179,18 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 06时22分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 13时18分]"
         },
         {
           "title": "小米YU7 GT爆单 有门店一天卖11辆",
@@ -225,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 06时22分]"
+        },
+        {
+          "title": "武契奇抵达上海继续访问行程，26日造访清华大学及小米公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33238986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -335,7 +347,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "腾讯：沧海V2芯片将于下半年量产",
@@ -344,7 +356,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -355,9 +367,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "腾讯游戏发布会2026",
+          "url": "https://search.bilibili.com/all?keyword=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A2026",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "腾讯游戏发布会",
+          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -389,7 +423,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
