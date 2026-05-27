@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T05:58:13.574826+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-28T07:22:40.213449+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 07时22分]"
         },
         {
           "title": "雷军回应武契奇说小米车漂亮但买不起",
@@ -53,11 +53,12 @@
           "url": "https://www.cls.cn/detail/2383054",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2026年05月27日（周三）全球股市指数-欧洲市场",
