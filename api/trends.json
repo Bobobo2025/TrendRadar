@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T03:28:02.631505+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-05-28T05:58:13.574826+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时58分]"
         },
         {
           "title": "雷军回应武契奇说小米车漂亮但买不起",
           "url": "https://www.toutiao.com/trending/7643645124177854510/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 05时58分]"
         },
         {
           "title": "武契奇在小米汽车工厂买了啥",
@@ -55,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时58分]"
         },
         {
           "title": "金十图示：2026年05月27日（周三）全球股市指数-欧洲市场",
@@ -68,6 +69,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来ES9",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 05时58分]"
         }
       ]
     }
