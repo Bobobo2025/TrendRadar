@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T03:37:09.848181+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-29T05:57:36.322246+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 05时57分]"
         },
         {
           "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
           "url": "https://www.zhihu.com/question/2043264595666658269",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 05时57分]"
         }
       ]
     },
