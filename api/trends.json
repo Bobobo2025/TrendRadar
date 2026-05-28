@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T00:55:34.209363+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-29T03:37:09.848181+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时37分]"
         },
         {
           "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时37分]"
         }
       ]
     }
