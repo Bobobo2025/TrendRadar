@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:02:02.429150+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T06:59:44.306363+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时59分]"
         },
         {
           "title": "美联储发出加息警告 股市黄金会怎样",
           "url": "https://www.toutiao.com/trending/7645658791043665449/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时59分]"
         }
       ]
     },
@@ -41,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时59分]"
         },
         {
           "title": "小米MiMo首次公开模型推理系统全链路优化技术细节",
@@ -72,11 +74,12 @@
           "ranks": [
             27,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时59分]"
         }
       ]
     }
