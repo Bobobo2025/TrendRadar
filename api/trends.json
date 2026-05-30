@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T17:20:36.630364+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-05-30T19:23:18.059571+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             8,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 19时23分]"
         },
         {
           "title": "435万法拉利电车撞脸13万蔚来萤火虫",
@@ -59,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 19时23分]"
         },
         {
           "title": "贝莱德警告：如今越来越难期待股市继续取得超额回报，“未来避开潜在风险的路径正在变窄”",
@@ -100,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 19时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平，5月份累跌4.8%。 热门中概股里，美团初步收涨3.9%，百度涨2.4%，拼多多涨1.8%，阿里跌1.4%，小米跌2.4%，理想跌3.3%，日月光半导体跌5.6%。",
@@ -121,7 +122,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
