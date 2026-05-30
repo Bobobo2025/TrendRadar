@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T01:09:54.629837+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:20:26.300510+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时20分]"
         },
         {
           "title": "小米MiMo首次公开模型推理系统全链路优化技术细节",
@@ -26,8 +26,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时20分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.toutiao.com/trending/7644397891674619931/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时20分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时20分]"
         }
       ]
     }
