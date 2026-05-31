@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T02:05:00.781902+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-06-01T04:12:09.958349+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 04时12分]"
         },
         {
           "title": "中东股市收盘播报｜阿曼股市结束连涨10个月的趋势",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 04时12分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 04时12分]"
         }
       ]
     }
