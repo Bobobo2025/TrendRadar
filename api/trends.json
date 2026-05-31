@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T04:12:09.958349+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-01T06:04:06.349611+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 06时04分]"
         },
         {
           "title": "中东股市收盘播报｜阿曼股市结束连涨10个月的趋势",
@@ -26,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 06时04分]"
         }
       ]
     },
@@ -42,11 +43,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 06时04分]"
         }
       ]
     }
