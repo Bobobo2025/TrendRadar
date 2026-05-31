@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:59:44.306363+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-05-31T08:10:58.632923+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 08时10分]"
         },
         {
           "title": "美联储发出加息警告 股市黄金会怎样",
@@ -46,8 +46,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 08时10分]"
         },
         {
           "title": "小米MiMo首次公开模型推理系统全链路优化技术细节",
