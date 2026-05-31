@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T00:11:52.987833+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-01T02:05:00.781902+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时05分]"
         },
         {
           "title": "中东股市收盘播报｜阿曼股市结束连涨10个月的趋势",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时05分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2043989303341142831",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时05分]"
         }
       ]
     }
