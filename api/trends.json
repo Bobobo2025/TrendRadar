@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T02:41:37.161540+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:50:25.700461+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "今日，腾讯市值暴涨3000亿！",
+          "url": "https://www.cls.cn/detail/2388836",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
+        },
+        {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
           "url": "https://wallstreetcn.com/articles/3773623",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "今日，腾讯市值暴涨3000亿！",
-          "url": "https://www.cls.cn/detail/2388836",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
