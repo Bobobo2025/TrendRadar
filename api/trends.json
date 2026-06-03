@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T02:46:47.272690+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-04T05:51:53.485519+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 05时51分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 05时51分]"
         }
       ]
     }
