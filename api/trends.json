@@ -1,165 +1,33 @@
 {
-  "generated_at": "2026-06-03T22:43:12.275506+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-06-04T02:46:47.272690+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "今日，腾讯市值暴涨3000亿！",
-          "url": "https://www.cls.cn/detail/2388836",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 12时21分]"
-        },
-        {
-          "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
-          "url": "https://wallstreetcn.com/articles/3773623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 12时21分]"
-        },
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
-          "title": "腾讯云将逐步对混元旧版本模型进行切换升级调整",
-          "url": "https://wallstreetcn.com/livenews/3113658",
-          "source": "华尔街见闻-快讯",
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "【腾讯AI产业应用大会在即，即将发布系列智能体应用新品】据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同台对话，解读AI下半场腾讯在AI赛道的最新布局和思考。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3113463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股午评：恒生指数早盘震荡下行 科技权重股回调",
-          "url": "https://flash.jin10.com/detail/20260603120652973800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "新加坡股市收盘上涨0.8%，创下纪录高位5136.29点。",
-          "url": "https://wallstreetcn.com/livenews/3113679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "新加坡股市收盘上涨0.8%，创下纪录高位5,136.29点。",
-          "url": "https://flash.jin10.com/detail/20260603171444233800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
-          "url": "https://wallstreetcn.com/livenews/3113321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "高盛上调中国台湾和韩国股市基准指数目标位",
-          "url": "https://wallstreetcn.com/livenews/3113457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
-          "url": "https://www.zhihu.com/question/2044851902995812571",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当小米车主遇到问界车主",
-          "url": "https://www.douyin.com/hot/2520867",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
+          "time_info": "02时46分"
         }
       ]
     }
