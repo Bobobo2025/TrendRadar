@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T04:04:24.951328+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-06-06T06:17:11.967223+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "花旗：股市泡沫程度创2008年以来新高",
@@ -13,11 +13,23 @@
           "source": "今日头条",
           "ranks": [
             16,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时17分]"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260606040904931800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -31,11 +43,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时17分]"
         }
       ]
     }
