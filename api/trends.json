@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T06:26:09.168479+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-05T08:11:31.696768+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 08时11分]"
         },
         {
           "title": "小米寻天汽车最新谍照曝光",
