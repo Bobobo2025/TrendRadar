@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:55:09.068778+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-06T15:48:11.746522+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2046240341729042945",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时48分]"
         },
         {
           "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
