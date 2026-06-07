@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-07T06:05:24.959168+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-07T08:07:15.896685+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米回应SU7电吸门无防夹功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94SU7%E7%94%B5%E5%90%B8%E9%97%A8%E6%97%A0%E9%98%B2%E5%A4%B9%E5%8A%9F%E8%83%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Bobobo2025/TrendRadar/img/news.jpg"
 }
