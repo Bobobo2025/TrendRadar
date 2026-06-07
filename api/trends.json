@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T13:23:55.923242+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-06-07T17:16:41.625447+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米回应SU7电吸门无防夹功能",
@@ -25,9 +25,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "车主被夹骨折 小米：电吸门无防夹功能",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%A4%B9%E9%AA%A8%E6%8A%98+%E5%B0%8F%E7%B1%B3%EF%BC%9A%E7%94%B5%E5%90%B8%E9%97%A8%E6%97%A0%E9%98%B2%E5%A4%B9%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -42,9 +53,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据伊朗塔斯尼姆通讯社：德黑兰股市综合指数逼近历史新高。",
+          "url": "https://flash.jin10.com/detail/20260607151353868800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
