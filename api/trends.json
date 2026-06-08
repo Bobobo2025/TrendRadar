@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:08:07.126003+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-08T12:13:56.119265+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时26分]"
+        },
+        {
+          "title": "韩国总统李在明： 我认为韩国股市目前仍被低估",
+          "url": "https://wallstreetcn.com/articles/3774067",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "泰国股市SET指数日内跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3115817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -46,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯控股更新全球中期票据计划，根据全球中期票据计划建议发行票据。",
+          "url": "https://wallstreetcn.com/livenews/3115847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
