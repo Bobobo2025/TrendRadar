@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T06:29:46.723979+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-09T08:09:02.749230+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3774067",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时09分]"
         },
         {
           "title": "日韩股市突然暴跌 AI泡沫要破了吗",
@@ -25,11 +26,12 @@
           "ranks": [
             15,
             8,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时09分]"
         },
         {
           "title": "外围股市拖累A股大跌，公募一线解读：急跌如何应对？",
@@ -37,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时09分]"
         },
         {
           "title": "6 月 8 日韩国股市开盘跌超 8% 后熔断，日经 225 盘中跌幅近 5%，A 股低开震荡，半导体泡沫会破吗？",
@@ -97,11 +100,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时09分]"
         }
       ]
     }
