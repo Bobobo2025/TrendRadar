@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T17:50:28.330536+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-06-09T20:40:19.208688+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://news.ifeng.com/c/8tojgYoyeXn",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
-          "url": "https://www.cls.cn/detail/2394636",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 20时40分]"
         },
         {
           "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
           "url": "https://www.cls.cn/detail/2394752",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 20时40分]"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 20时40分]"
         },
         {
           "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
@@ -77,7 +80,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国总统李在明： 我认为韩国股市目前仍被低估",
@@ -132,6 +135,17 @@
           "time_info": "[01时56分 ~ 06时29分]"
         },
         {
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "全球股市黄金无差别暴跌原因是啥",
           "url": "https://www.toutiao.com/trending/7648993811242159635/",
           "source": "今日头条",
@@ -141,6 +155,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "腾讯给白鹿丞磊莫离随份子99999",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%BB%99%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E8%8E%AB%E7%A6%BB%E9%9A%8F%E4%BB%BD%E5%AD%9099999%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
+          "title": "南向资金今日大幅净卖出86.14亿元。港股通（沪）方面，盈富基金、五一视界分别获净卖出66.83亿港元、0.83亿港元；腾讯控股净买入额居首，金额为10.31亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出47.36亿港元、25.97亿港元；建滔集团净买入额居首，金额为11.18亿港元。",
+          "url": "https://flash.jin10.com/detail/20260609173108664800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "腾讯据悉最早周二定价发行离岸债券，拟筹资规模升至最多45亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "猫眼娱乐与腾讯围绕AI Agent达成合作：打造智能化票务新体验",
+          "url": "https://wallstreetcn.com/livenews/3116801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -155,7 +219,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -184,47 +248,8 @@
       ]
     },
     {
-      "keyword_group": "腾讯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "腾讯给白鹿丞磊莫离随份子99999",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E7%BB%99%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E8%8E%AB%E7%A6%BB%E9%9A%8F%E4%BB%BD%E5%AD%9099999%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "南向资金今日大幅净卖出86.14亿元。港股通（沪）方面，盈富基金、五一视界分别获净卖出66.83亿港元、0.83亿港元；腾讯控股净买入额居首，金额为10.31亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出47.36亿港元、25.97亿港元；建滔集团净买入额居首，金额为11.18亿港元。",
-          "url": "https://flash.jin10.com/detail/20260609173108664800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "腾讯据悉最早周二定价发行离岸债券，拟筹资规模升至最多45亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "江西南昌一辆小米SU7 Ultra起火，小米公司回应",
@@ -239,8 +264,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 17时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 20时40分]"
+        },
+        {
+          "title": "如何评价 6 月 9 日小米 MiMo-V2.5-Pro 的 UltraSpeed 模式？1000tps 是怎么实现的？",
+          "url": "https://www.zhihu.com/question/2047628080479524844",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "小米MiMo-V2.5-Pro限时开放UltraSpeed模式",
@@ -249,7 +285,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
