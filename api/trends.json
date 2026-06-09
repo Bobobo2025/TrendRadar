@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-09T13:09:04.361420+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-06-09T17:50:28.330536+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美方将阿里巴巴等中企列入“涉军”清单，中方：坚决反对",
+          "url": "https://news.ifeng.com/c/8tojgYoyeXn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
+          "url": "https://www.cls.cn/detail/2394752",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
+          "url": "https://wallstreetcn.com/livenews/3116536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
+          "url": "https://flash.jin10.com/detail/20260609122502333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "阿里巴巴ADR短线昨日，日内整体跌超0.2%。 百度ADR跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3116278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 5,
@@ -73,48 +145,20 @@
       ]
     },
     {
-      "keyword_group": "阿里巴巴",
+      "keyword_group": "蔚来 NIO",
       "match_count": 3,
       "titles": [
         {
-          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
-          "url": "https://wallstreetcn.com/livenews/3116536",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里巴巴百度蔚来紧急公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E5%BA%A6%E8%94%9A%E6%9D%A5%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时09分"
+          "time_info": "17时50分"
         },
-        {
-          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
-          "url": "https://flash.jin10.com/detail/20260609122502333800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "阿里巴巴ADR短线昨日，日内整体跌超0.2%。 百度ADR跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3116278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 2,
-      "titles": [
         {
           "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
           "url": "https://wallstreetcn.com/livenews/3116533",
@@ -122,7 +166,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -133,7 +177,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -141,7 +185,7 @@
     },
     {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯给白鹿丞磊莫离随份子99999",
@@ -155,13 +199,24 @@
           "time_info": "[13时08分 ~ 13时09分]"
         },
         {
+          "title": "南向资金今日大幅净卖出86.14亿元。港股通（沪）方面，盈富基金、五一视界分别获净卖出66.83亿港元、0.83亿港元；腾讯控股净买入额居首，金额为10.31亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出47.36亿港元、25.97亿港元；建滔集团净买入额居首，金额为11.18亿港元。",
+          "url": "https://flash.jin10.com/detail/20260609173108664800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "腾讯据悉最早周二定价发行离岸债券，拟筹资规模升至最多45亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3116520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -169,7 +224,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "江西南昌一辆小米SU7 Ultra起火，小米公司回应",
@@ -180,11 +235,23 @@
             13,
             11,
             10,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 13时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 17时50分]"
+        },
+        {
+          "title": "小米MiMo-V2.5-Pro限时开放UltraSpeed模式",
+          "url": "https://wallstreetcn.com/livenews/3116692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     }
