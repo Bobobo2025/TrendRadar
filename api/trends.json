@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T07:08:39.985959+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-14T12:18:07.519832+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3119174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 12时18分]"
         }
       ]
     }
