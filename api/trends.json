@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:13:59.664038+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-06-15T14:27:43.525998+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊有望周日签署协议？巴克莱：全球股市中的最大赢家将会是它！",
@@ -20,6 +20,28 @@
           "time_info": "[00时24分 ~ 08时13分]"
         },
         {
+          "title": "美伊达成协议，油价重挫4%，日韩股市大涨，日经225站上69000点，韩股熔断",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "溜溜梅港股主板上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BA%9C%E6%BA%9C%E6%A2%85%E6%B8%AF%E8%82%A1%E4%B8%BB%E6%9D%BF%E4%B8%8A%E5%B8%82%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "中东股市收盘播报｜沙特股市收涨将近0.6%，卡塔尔股指涨超1.9%，埃及股指涨2.3%",
           "url": "https://wallstreetcn.com/livenews/3119226",
           "source": "华尔街见闻-快讯",
@@ -29,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来李斌再次发出预警",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%8D%E6%AC%A1%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
