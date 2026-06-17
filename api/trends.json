@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T19:50:43.924652+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-17T23:37:31.749214+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
+          "url": "https://www.zhihu.com/question/2050275486652000215",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     }
