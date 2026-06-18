@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T12:11:48.921399+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-18T17:16:22.031388+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -30,13 +30,46 @@
           "time_info": "05时19分"
         },
         {
+          "title": "Momenta港股IPO获中国证监会备案",
+          "url": "https://flash.jin10.com/detail/20260618170915374800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "韩国股市过山车上的“蚂蚁”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396447",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "立讯精密港股上市获中国证监会备案",
+          "url": "https://flash.jin10.com/detail/20260618170400921800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "港股恒生指数跌超2%，恒生科技指数跌1.64%，中国人寿(02628.HK)跌超7%，中国宏桥(01378.HK)跌超6%，信义玻璃(00868.HK)、龙湖集团(00960.HK)均跌5%，紫金矿业(02899.HK)、中国海外发展(00688.HK)、泡泡玛特(09992.HK)均跌超4.5%。",
           "url": "https://flash.jin10.com/detail/20260618111700330800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -47,7 +80,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -83,7 +116,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
@@ -96,6 +129,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 07时27分]"
+        },
+        {
+          "title": "小米空调10年免费加氟",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%8310%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%8A%A0%E6%B0%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴集团：阿里云计划在2026年下半年在马来西亚和欧洲市场推出一系列智能AI服务。",
+          "url": "https://flash.jin10.com/detail/20260618170737641800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
