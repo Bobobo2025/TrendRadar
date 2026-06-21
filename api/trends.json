@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:10:03.760442+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-21T14:04:40.871982+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "女子用AI写3000字股市谣言被罚",
@@ -15,8 +15,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 14时04分]"
+        },
+        {
+          "title": "超级厄尔尼诺2027年或至 全球股市面临气候新考",
+          "url": "https://flash.jin10.com/detail/20260621104608381800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     }
