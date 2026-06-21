@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-21T06:10:55.724168+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-06-21T08:10:03.760442+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Bobobo2025/TrendRadar/img/news.jpg"
 }
