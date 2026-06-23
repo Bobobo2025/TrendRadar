@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T17:44:02.326604+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-06-23T20:35:22.189540+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时35分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时35分]"
         },
         {
           "title": "韩国股市跌到熔断",
@@ -69,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -98,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 20时35分]"
         },
         {
           "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
@@ -185,7 +187,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
