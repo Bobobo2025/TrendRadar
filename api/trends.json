@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T02:03:35.867710+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T04:18:23.341925+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时18分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -26,8 +26,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普在宾夕法尼亚州的集会上声称，美国股市今天创下新高。目前纳指跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260624030436095800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时18分"
         }
       ]
     },
@@ -40,11 +51,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时18分]"
         }
       ]
     }
