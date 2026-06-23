@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T04:18:23.341925+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-06-24T06:16:50.239022+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时16分]"
         },
         {
           "title": "特朗普在宾夕法尼亚州的集会上声称，美国股市今天创下新高。目前纳指跌近2%。",
@@ -36,7 +37,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
@@ -55,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时16分]"
         }
       ]
     }
