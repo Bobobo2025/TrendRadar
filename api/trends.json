@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-06-23T13:04:01.866981+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-23T17:44:02.326604+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，纳指期货跌2%，美光盘前跌超10%，韩股收跌10%，现货黄金失守4100",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
+          "title": "韩国股市跌到熔断",
+          "url": "https://www.douyin.com/hot/2544370",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
+        },
+        {
+          "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
+          "url": "https://www.cls.cn/detail/2406475",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
+          "title": "港股午评：恒生指数跌1.13%，恒生科技指数跌2.21%",
+          "url": "https://flash.jin10.com/detail/20260623120402391800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "“吸金”或超2000亿港元，港股新股市场上半年行情火热",
+          "url": "https://flash.jin10.com/detail/20260623165648954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "美伊谈判乐观情绪提振风险偏好 亚洲股市有望高开",
+          "url": "https://flash.jin10.com/detail/20260623063843115800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待懂车帝直播测试小米 SU7 和尚界 Z7 北京到上海 1300 公里续航？",
@@ -15,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 17时44分]"
         },
         {
           "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
@@ -44,6 +127,17 @@
           "time_info": "[03时31分 ~ 08时09分]"
         },
         {
+          "title": "博主测试小米SU7和尚界Z7续航",
+          "url": "https://www.toutiao.com/trending/7653568903793557540/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
           "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
           "url": "https://www.zhihu.com/question/2052342121999380803",
           "source": "知乎",
@@ -68,47 +162,8 @@
       ]
     },
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国股市跌到熔断",
-          "url": "https://www.douyin.com/hot/2544370",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
-        },
-        {
-          "title": "港股午评：恒生指数跌1.13%，恒生科技指数跌2.21%",
-          "url": "https://flash.jin10.com/detail/20260623120402391800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "美伊谈判乐观情绪提振风险偏好 亚洲股市有望高开",
-          "url": "https://flash.jin10.com/detail/20260623063843115800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "蔚来 NIO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "乐道总裁回应买不起蔚来才买乐道",
@@ -122,6 +177,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时31分 ~ 08时09分]"
+        },
+        {
+          "title": "9000座蔚来充换电站达成",
+          "url": "https://wallstreetcn.com/livenews/3123331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     }
