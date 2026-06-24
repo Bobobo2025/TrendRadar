@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T06:16:50.239022+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-24T08:02:08.438363+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
@@ -24,11 +24,34 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 08时02分]"
+        },
+        {
+          "title": "事关韩国股市，MSCI市场分类结果出炉",
+          "url": "https://flash.jin10.com/detail/20260624073245765800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "港股市场谨慎情绪蔓延，机构建议把握三条主线",
+          "url": "https://wallstreetcn.com/livenews/3123688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "特朗普在宾夕法尼亚州的集会上声称，美国股市今天创下新高。目前纳指跌近2%。",
@@ -40,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "港股新股市场火热态势延续，上半年“吸金”有望超2000亿港元",
+          "url": "https://wallstreetcn.com/livenews/3123681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -53,11 +87,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 08时02分]"
         }
       ]
     }
