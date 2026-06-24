@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:47:43.472785+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-24T22:35:43.275387+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260624220103369800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "港股午评：恒生指数涨0.04%，恒生科技指数1.34%",
@@ -172,6 +183,40 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米电视紧急致歉：地震预警系研发人员误发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 22时35分]"
+        },
+        {
+          "title": "小米集团股价跌破23港元",
+          "url": "https://www.toutiao.com/trending/7654789079603052570/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
@@ -201,31 +246,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米电视紧急致歉：地震预警系研发人员误发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 19时47分]"
         }
       ]
     }
