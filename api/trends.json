@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T18:44:44.103420+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-06-25T21:21:42.988169+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -127,6 +127,34 @@
       ]
     },
     {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯市值跌破 4 万亿港元，年内股价累计跌 27.72%，是什么原因？哪些业务能打开新的估值增长空间？",
+          "url": "https://www.zhihu.com/question/2052712338256565845",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
+        },
+        {
+          "title": "腾讯到白玉兰只干一件事",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%88%B0%E7%99%BD%E7%8E%89%E5%85%B0%E5%8F%AA%E5%B9%B2%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
       "titles": [
@@ -140,23 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯市值跌破 4 万亿港元，年内股价累计跌 27.72%，是什么原因？哪些业务能打开新的估值增长空间？",
-          "url": "https://www.zhihu.com/question/2052712338256565845",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     },
