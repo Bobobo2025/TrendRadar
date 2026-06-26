@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T00:20:19.601754+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:54:17.533310+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时54分]"
         },
         {
           "title": "金十图示：2026年06月26日（周五）全球股市指数-欧洲市场",
@@ -48,19 +48,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时54分]"
         },
         {
           "title": "股市亏的钱到底被谁赚走了",
           "url": "https://www.toutiao.com/trending/7655684603847380526/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时54分]"
         }
       ]
     }
