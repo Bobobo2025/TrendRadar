@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:54:45.587849+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-06-26T21:14:09.262106+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             18,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 21时14分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 18时54分]"
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
@@ -26,9 +38,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 21时14分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626204735007800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "21时14分"
         },
         {
           "title": "韩国股市为何会急涨急跌",
@@ -37,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -48,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -108,11 +131,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 21时14分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
@@ -150,7 +174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
