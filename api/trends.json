@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-06-26T15:56:54.840341+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-06-26T18:54:45.587849+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
+          "url": "https://www.zhihu.com/question/2053782944448082432",
+          "source": "知乎",
+          "ranks": [
+            18,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时54分]"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "韩国股市为何会急涨急跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%80%A5%E6%B6%A8%E6%80%A5%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "美国股市录得3月以来首次资金净流出 科技基金外流规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3125223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
         {
           "title": "金十图示：2026年06月25日（周四）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260625234250605800",
@@ -17,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
-          "url": "https://www.zhihu.com/question/2053782944448082432",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
         },
         {
           "title": "金十图示：2026年06月25日（周四）全球股市指数-美洲市场（收盘）",
@@ -73,11 +107,12 @@
           "url": "https://www.zhihu.com/question/2053441953073718137",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 18时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
@@ -89,6 +124,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯到白玉兰只干一件事",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%88%B0%E7%99%BD%E7%8E%89%E5%85%B0%E5%8F%AA%E5%B9%B2%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 05时45分]"
+        },
+        {
+          "title": "腾讯控股：2026年6月26日购回121万股，耗资约5亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3125198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -120,24 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯到白玉兰只干一件事",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%88%B0%E7%99%BD%E7%8E%89%E5%85%B0%E5%8F%AA%E5%B9%B2%E4%B8%80%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 05时45分]"
         }
       ]
     },
