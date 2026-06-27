@@ -1,160 +1,22 @@
 {
-  "generated_at": "2026-06-27T22:44:37.593701+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-06-28T00:07:25.931606+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 08时11分]"
-        },
-        {
-          "title": "股市亏的钱到底被谁赚走了",
-          "url": "https://www.toutiao.com/trending/7655684603847380526/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 08时11分]"
-        },
-        {
-          "title": "金十图示：2026年06月26日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260627042027619800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 08时11分]"
-        },
-        {
-          "title": "金十图示：2026年06月26日（周五）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260626234444546800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
-          "url": "https://www.zhihu.com/question/2053782944448082432",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "4张图拆解急涨急跌的韩国股市：两只股的狂欢和全市场的不安",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454989",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 12时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "腾讯",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何看待腾讯市值蒸发万亿，腾讯押宝姚顺雨是最大的失误吗？",
           "url": "https://www.zhihu.com/question/2053153048579594094",
           "source": "知乎",
           "ranks": [
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 22时44分]"
-        },
-        {
-          "title": "传腾讯拟退出对多家日本游戏工作室投资，腾讯：保持对日本游戏市场的长期关注",
-          "url": "https://wallstreetcn.com/livenews/3125542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3125451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱股价为何是小米的100倍",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B0%8F%E7%B1%B3%E7%9A%84100%E5%80%8D&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 08时11分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     }
