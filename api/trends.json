@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:11:01.686201+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-27T22:44:37.593701+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -102,11 +102,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 22时44分]"
         },
         {
           "title": "传腾讯拟退出对多家日本游戏工作室投资，腾讯：保持对日本游戏市场的长期关注",
