@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-28T06:05:16.276724+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-06-28T08:05:31.409367+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
       "match_count": 2,
       "titles": [
+        {
+          "title": "腾讯全球总部「企鹅岛」开建，总投资达 370 亿元，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/466045401",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
         {
           "title": "如何看待腾讯市值蒸发万亿，腾讯押宝姚顺雨是最大的失误吗？",
           "url": "https://www.zhihu.com/question/2053153048579594094",
@@ -15,24 +29,12 @@
             11,
             18,
             15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时05分]"
-        },
-        {
-          "title": "腾讯全球总部「企鹅岛」开建，总投资达 370 亿元，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/466045401",
-          "source": "知乎",
-          "ranks": [
-            14,
             12,
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时05分]"
         }
       ]
     }
