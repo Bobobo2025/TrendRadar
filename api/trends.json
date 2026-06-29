@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T12:08:33.165774+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-06-29T17:28:20.273024+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股联想集团(00992.HK)持续走弱，日内跌逾10%。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -48,9 +48,88 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "港股真健康医疗暗盘一度涨逾150%，最高报330港元。",
+          "url": "https://wallstreetcn.com/livenews/3125996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蔚来回应“洗车时车漆被冲掉”：并非材料质量缺陷，高压清洗需遵守安全操作规范",
+          "url": "https://wallstreetcn.com/livenews/3126005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "蔚来回应高压水枪洗车掉漆",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%9B%9E%E5%BA%94%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E6%B4%97%E8%BD%A6%E6%8E%89%E6%BC%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2054648629869146324",
+          "source": "知乎",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 17时28分]"
+        },
+        {
+          "title": "如何看待疑似小米资深员工在东方财富发表的《置身米内 2.0》？",
+          "url": "https://www.zhihu.com/question/2053987860768887837",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -86,23 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 05时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2054648629869146324",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         }
       ]
     }
