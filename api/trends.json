@@ -1,193 +1,39 @@
 {
-  "generated_at": "2026-06-29T22:06:20.049106+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-06-30T01:39:41.923885+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
       "titles": [
         {
-          "title": "港股联想集团(00992.HK)持续走弱，日内跌逾10%。",
-          "url": "https://flash.jin10.com/detail/20260629113454152800",
-          "source": "金十数据",
+          "title": "蔚来提醒车主规范用高压水枪洗车",
+          "url": "https://www.douyin.com/hot/2551806",
+          "source": "抖音",
           "ranks": [
-            3
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260629220213367800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市创将近四个月收盘新低，阿美创约四个月最大单日跌幅",
-          "url": "https://wallstreetcn.com/livenews/3125670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时04分]"
-        },
+          "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
         {
           "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 22时06分]"
-        },
-        {
-          "title": "港股科网股持续走强，哔哩哔哩(09626.HK)涨超8%，百度(09888.HK)涨超7%，京东(09618.HK)、美团(03690.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260629112913101800",
-          "source": "金十数据",
-          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "太合音乐拟港股上市：单一艺人连续两年采购额超三成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451502",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "港股真健康医疗暗盘一度涨逾150%，最高报330港元。",
-          "url": "https://wallstreetcn.com/livenews/3125996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "蔚来车主罚站",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5%E8%BD%A6%E4%B8%BB%E7%BD%9A%E7%AB%99&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "蔚来回应“洗车时车漆被冲掉”：并非材料质量缺陷，高压清洗需遵守安全操作规范",
-          "url": "https://wallstreetcn.com/livenews/3126005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "蔚来回应高压水枪洗车掉漆",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%9B%9E%E5%BA%94%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E6%B4%97%E8%BD%A6%E6%8E%89%E6%BC%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2054648629869146324",
-          "source": "知乎",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 17时28分]"
-        },
-        {
-          "title": "如何看待疑似小米资深员工在东方财富发表的《置身米内 2.0》？",
-          "url": "https://www.zhihu.com/question/2053987860768887837",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯回应做独立支付APP",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%81%9A%E7%8B%AC%E7%AB%8B%E6%94%AF%E4%BB%98APP%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车正式进入澳门市场，全球化布局再添重要版图",
-          "url": "https://wallstreetcn.com/livenews/3125676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时04分]"
+          "time_info": "01时39分"
         }
       ]
     }
