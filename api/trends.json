@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-30T13:06:11.378719+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-06-30T17:41:26.897861+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 08时16分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "金十图示：2026年06月29日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260630040610043800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "蔚来 NIO",
       "match_count": 2,
@@ -37,6 +77,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
+          "url": "https://wallstreetcn.com/articles/3775788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 17时41分]"
+        },
+        {
           "title": "腾讯与长鑫存储签200亿供应协议",
           "url": "https://www.douyin.com/hot/2551998",
           "source": "抖音",
@@ -48,46 +100,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时42分 ~ 08时16分]"
-        },
-        {
-          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
-          "url": "https://wallstreetcn.com/articles/3775788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 08时16分]"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260630040610043800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
         }
       ]
     },
