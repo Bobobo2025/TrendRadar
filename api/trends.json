@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-06-30T08:16:14.890539+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-06-30T13:06:11.378719+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蔚来提醒车主规范用高压水枪洗车",
+          "url": "https://www.douyin.com/hot/2551806",
+          "source": "抖音",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 13时06分]"
+        },
+        {
+          "title": "蔚来回应「网友给 ES9 洗车时车漆被高压水枪冲掉」，称是操作不当导致，到底是操作不当还是质量问题？",
+          "url": "https://www.zhihu.com/question/2054947373927888661",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯与长鑫存储签200亿供应协议",
+          "url": "https://www.douyin.com/hot/2551998",
+          "source": "抖音",
+          "ranks": [
+            12,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 08时16分]"
+        },
+        {
+          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
+          "url": "https://wallstreetcn.com/articles/3775788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 2,
@@ -29,42 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 NIO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蔚来提醒车主规范用高压水枪洗车",
-          "url": "https://www.douyin.com/hot/2551806",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯与长鑫存储签200亿供应协议",
-          "url": "https://www.douyin.com/hot/2551998",
-          "source": "抖音",
-          "ranks": [
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 08时16分]"
         }
       ]
     },
