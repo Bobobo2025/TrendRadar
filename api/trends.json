@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-06-30T20:11:27.868064+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-06-30T23:32:34.338397+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "腾讯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
+          "url": "https://wallstreetcn.com/articles/3775788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时32分]"
+        },
+        {
+          "title": "腾讯与长鑫存储签200亿供应协议",
+          "url": "https://www.douyin.com/hot/2551998",
+          "source": "抖音",
+          "ranks": [
+            12,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 08时16分]"
+        },
+        {
+          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
+          "url": "https://www.zhihu.com/question/2054996623214600765",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 3,
@@ -24,11 +68,12 @@
           "url": "https://www.cls.cn/detail/2412920",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 23时32分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）全球股市指数-美洲市场（收盘）",
@@ -73,38 +118,6 @@
       ]
     },
     {
-      "keyword_group": "腾讯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
-          "url": "https://wallstreetcn.com/articles/3775788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时11分]"
-        },
-        {
-          "title": "腾讯与长鑫存储签200亿供应协议",
-          "url": "https://www.douyin.com/hot/2551998",
-          "source": "抖音",
-          "ranks": [
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 08时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里巴巴",
       "match_count": 1,
       "titles": [
@@ -132,7 +145,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
