@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T17:52:22.805635+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-07-01T20:35:55.108885+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -54,7 +54,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -84,7 +84,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -103,11 +103,12 @@
           "url": "https://www.cls.cn/detail/2413957",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时35分]"
         },
         {
           "title": "科技繁荣助力，新兴市场股市有望创2009年以来最佳季度表现",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "机构：外资流出韩国股市的势头恐将持续",
+          "url": "https://wallstreetcn.com/livenews/3127401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "港股上半年IPO火热，券商加码在港业务",
@@ -134,6 +146,68 @@
       ]
     },
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时35分]"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "小米高层重大调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
+          "url": "https://www.cls.cn/detail/2414363",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "小米高层重大调整",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 NIO",
       "match_count": 2,
       "titles": [
@@ -142,11 +216,12 @@
           "url": "https://www.cls.cn/detail/2414041",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时35分]"
         },
         {
           "title": "蔚来公司6月交付40,597台，创今年以来新高，同比增长62.9%",
@@ -175,23 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
-          "url": "https://www.zhihu.com/question/2055596626312541231",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     }
