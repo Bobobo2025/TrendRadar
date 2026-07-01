@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T13:23:55.021994+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-07-01T17:52:22.805635+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
@@ -48,13 +48,24 @@
           "time_info": "[01时57分 ~ 06时16分]"
         },
         {
+          "title": "腾讯云：云原生构建将取消GPU免费额度",
+          "url": "https://wallstreetcn.com/livenews/3127301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "腾讯七月新剧",
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%B8%83%E6%9C%88%E6%96%B0%E5%89%A7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -73,7 +84,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -86,6 +97,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 06时16分]"
+        },
+        {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "科技繁荣助力，新兴市场股市有望创2009年以来最佳季度表现",
@@ -113,8 +135,19 @@
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
+          "url": "https://www.cls.cn/detail/2414041",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
         {
           "title": "蔚来公司6月交付40,597台，创今年以来新高，同比增长62.9%",
           "url": "https://wallstreetcn.com/livenews/3127159",
@@ -122,7 +155,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -139,9 +172,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     }
