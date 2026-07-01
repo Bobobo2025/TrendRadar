@@ -1,259 +1,78 @@
 {
-  "generated_at": "2026-07-01T23:44:28.396889+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-07-02T01:59:12.278449+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "腾讯",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
-          "url": "https://wallstreetcn.com/articles/3775788",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 08时07分]"
-        },
-        {
-          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
-          "url": "https://www.zhihu.com/question/2054996623214600765",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 08时07分]"
-        },
-        {
-          "title": "腾讯为什么把200亿交给长鑫存储",
-          "url": "https://www.toutiao.com/trending/7657155485811871282/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 06时16分]"
-        },
-        {
-          "title": "腾讯云：云原生构建将取消GPU免费额度",
-          "url": "https://wallstreetcn.com/livenews/3127301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "腾讯七月新剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%B8%83%E6%9C%88%E6%96%B0%E5%89%A7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
-          "url": "https://wallstreetcn.com/livenews/3126972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 06时16分]"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 20时35分]"
-        },
-        {
-          "title": "科技繁荣助力，新兴市场股市有望创2009年以来最佳季度表现",
-          "url": "https://wallstreetcn.com/livenews/3126921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "机构：外资流出韩国股市的势头恐将持续",
-          "url": "https://wallstreetcn.com/livenews/3127401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "港股上半年IPO火热，券商加码在港业务",
-          "url": "https://wallstreetcn.com/livenews/3127004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
           "url": "https://www.zhihu.com/question/2055596626312541231",
           "source": "知乎",
           "ranks": [
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 23时44分]"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
           "url": "https://www.cls.cn/detail/2414363",
           "source": "财联社热门",
           "ranks": [
-            10,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时35分 ~ 23时44分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "宝马销售抹黑小米被罚40万",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
           "source": "贴吧",
           "ranks": [
-            7,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时35分 ~ 23时44分]"
-        },
-        {
-          "title": "小米高层重大调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 23时44分]"
-        },
-        {
-          "title": "小米高层重大调整",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 23时44分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     },
     {
       "keyword_group": "蔚来 NIO",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
           "url": "https://www.cls.cn/detail/2414041",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 23时44分]"
-        },
-        {
-          "title": "蔚来公司6月交付40,597台，创今年以来新高，同比增长62.9%",
-          "url": "https://wallstreetcn.com/livenews/3127159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     },
     {
-      "keyword_group": "零跑汽车",
+      "keyword_group": "港股 港股通 股市",
       "match_count": 1,
       "titles": [
         {
-          "title": "零跑汽车公布6月交付数据：全球交付93376台，同比增长95%，上半年累计交付达356487台。",
-          "url": "https://wallstreetcn.com/livenews/3127138",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国股市又被“小作文”打崩：国民年金被曝7月启动再平衡，或抛售高达74万亿国内股票",
+          "url": "https://wallstreetcn.com/articles/3775964",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     }
