@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T06:19:45.777172+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-02T08:10:57.649671+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775964",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 08时10分]"
         },
         {
           "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
@@ -25,7 +26,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -74,11 +75,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 08时10分]"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -98,11 +100,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 08时10分]"
         }
       ]
     },
