@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T00:27:18.979449+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-04T02:14:54.192932+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时14分]"
         },
         {
           "title": "金十图示：2026年07月03日（周五）全球股市指数-欧洲市场",
@@ -36,22 +36,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "小米高管评老企业不敢承诺十年包修",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "月供五百开SU7?小米拿捏年轻人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时14分]"
+        },
+        {
+          "title": "小米高管评老企业不敢承诺十年包修",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2056394331271999624",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时14分]"
         }
       ]
     }
