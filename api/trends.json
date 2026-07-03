@@ -1,214 +1,78 @@
 {
-  "generated_at": "2026-07-03T22:10:34.969740+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-07-04T00:27:18.979449+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "金十图示：2026年07月02日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260703040609822800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
-          "url": "https://www.cls.cn/detail/2416037",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 19时34分]"
-        },
-        {
-          "title": "港股机器人概念股尾盘延续强势，来福谐波(03952.HK)涨超50%，埃斯顿(02715.HK)涨超30%，优必选(09880.HK)、兆威机电(02692.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260703154353013800",
+          "title": "金十图示：2026年07月03日（周五）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260703234159750800",
           "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3128232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨2.20%，报25592.19点。 法国股指初步收涨1.87%，意大利股指初步收涨1.73%、银行指数涨2.60%，英国股指初步收涨1.99%。 荷兰股市涨幅收窄至0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3128139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "港股机器人概念股持续走高，来福谐波涨超50%，埃斯顿涨超30%，优必选、兆威机电等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3128523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "港股午评：恒指震荡走强收涨1.57% 黄金股集体爆发",
-          "url": "https://flash.jin10.com/detail/20260703120813074800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "欧洲股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3128138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "小米高管评老企业不敢承诺十年包修",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
         {
           "title": "月供五百开SU7?小米拿捏年轻人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            6,
-            7,
-            8,
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 22时10分]"
-        },
-        {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时09分]"
-        },
-        {
-          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056094088609390914",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 22时10分]"
-        },
-        {
-          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2055964863189537048",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 06时09分]"
-        },
-        {
-          "title": "小米高管评老企业不敢承诺十年包修",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 22时10分]"
-        },
-        {
-          "title": "雷军称小米YU7少量现车1至5周交付",
-          "url": "https://www.toutiao.com/trending/7657917551999795236/",
-          "source": "今日头条",
-          "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 NIO",
+      "keyword_group": "腾讯",
       "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，CQQQ跌5.2%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3128207",
-          "source": "华尔街见闻-快讯",
+          "title": "腾讯 QClaw 负责人离职并否认「内部赛马」，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2056087398883370349",
+          "source": "知乎",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "00时27分"
         }
       ]
     },
@@ -217,15 +81,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克中国金龙指数跌超2%，百度(BIDU.O)跌5.39%，网易(NTES.O)跌2.67%，阿里巴巴(BABA.N)跌2.57%。",
-          "url": "https://flash.jin10.com/detail/20260703003627474800",
-          "source": "金十数据",
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
           "ranks": [
-            1
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时27分"
         }
       ]
     }
