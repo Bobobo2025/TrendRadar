@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T18:12:51.717362+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-07-04T20:08:54.079250+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 20时08分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
