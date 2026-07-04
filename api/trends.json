@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T12:37:18.790692+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-07-04T15:48:47.548896+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -19,6 +19,18 @@
           "time_info": "[00时27分 ~ 04时16分]"
         },
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时48分]"
+        },
+        {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -30,15 +42,15 @@
           "time_info": "06时07分"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
+          "title": "三星谈合作、SK海力士扩产、铠侠NAND送样，日韩股市用V型反弹回应算力过剩恐慌",
+          "url": "https://wallstreetcn.com/articles/3776145",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "15时48分"
         },
         {
           "title": "金十图示：2026年07月03日（周五）全球股市指数-欧洲市场",
