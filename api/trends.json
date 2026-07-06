@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T01:46:23.603173+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-07T04:01:55.481970+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
           "url": "https://www.zhihu.com/question/2057495402358596554",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3129505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
@@ -65,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "美国总统特朗普赞赏股市上涨。",
