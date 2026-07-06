@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:28:41.669539+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-07T01:46:23.603173+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,101 +12,72 @@
           "url": "https://wallstreetcn.com/articles/3776245",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 22时28分]"
-        },
-        {
-          "title": "腾讯控股：7月6日回购46.5万股股份，耗资约2亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3129309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "01时46分"
         },
         {
           "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
           "url": "https://www.zhihu.com/question/2057495402358596554",
           "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "据港交所文件：腾讯控股(00700.HK)于7月6日回购了465,000股，金额为2.048亿港元。",
-          "url": "https://flash.jin10.com/detail/20260706175722407800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "01时46分"
+        },
+        {
+          "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3129505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
+          "url": "https://wallstreetcn.com/livenews/3129495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年07月06日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260706220025142800",
-          "source": "金十数据",
+          "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
+          "url": "https://www.zhihu.com/question/2057430773481968954",
+          "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美国总统特朗普：股市将迎来大涨。 美国财长贝森特表现出色。",
-          "url": "https://wallstreetcn.com/livenews/3129419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260706180044133800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "零跑汽车",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时46分"
+        },
         {
-          "title": "零跑汽车登陆墨西哥，正式进入北美市场",
-          "url": "https://wallstreetcn.com/livenews/3129141",
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3129485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "01时46分"
         }
       ]
     }
