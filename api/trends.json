@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T02:20:04.062376+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-09T04:23:06.031366+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时23分]"
         },
         {
           "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
@@ -27,8 +27,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时23分]"
+        },
+        {
+          "title": "韩国股市，正走向现实版“鱿鱼游戏”",
+          "url": "https://news.ifeng.com/c/8ubLZunCT8y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时23分]"
         }
       ]
     },
