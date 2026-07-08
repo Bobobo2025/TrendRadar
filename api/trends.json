@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T04:23:06.031366+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-07-09T06:08:43.812545+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776441",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时08分]"
         },
         {
           "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时08分]"
         },
         {
           "title": "韩国股市，正走向现实版“鱿鱼游戏”",
@@ -38,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时08分]"
         }
       ]
     },
