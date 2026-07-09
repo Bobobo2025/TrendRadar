@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T06:08:43.812545+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-09T08:13:29.280945+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 08时13分]"
         },
         {
           "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
@@ -26,11 +27,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 08时13分]"
         },
         {
           "title": "韩国股市，正走向现实版“鱿鱼游戏”",
@@ -42,6 +44,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时08分]"
+        },
+        {
+          "title": "韩国股市熔断之后，市场在等三个答案",
+          "url": "https://wallstreetcn.com/articles/3776463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "黑天鹅突袭全球股市",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E5%A4%A9%E9%B9%85%E7%AA%81%E8%A2%AD%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         }
       ]
     },
