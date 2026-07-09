@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T04:48:33.897533+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-10T06:24:52.340287+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时24分]"
         },
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -27,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年07月09日（周四）全球股市指数-美洲市场（收盘）",
@@ -37,7 +38,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -54,7 +55,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -69,11 +70,12 @@
           "url": "https://www.zhihu.com/question/396173411",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 06时24分]"
         }
       ]
     },
@@ -87,11 +89,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时24分]"
         }
       ]
     }
