@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T06:24:52.340287+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-07-10T08:07:02.712953+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 08时07分]"
         },
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 08时07分]"
         },
         {
           "title": "金十图示：2026年07月09日（周四）全球股市指数-美洲市场（收盘）",
@@ -71,11 +72,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 08时07分]"
         }
       ]
     },
@@ -93,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 08时07分]"
         }
       ]
     }
