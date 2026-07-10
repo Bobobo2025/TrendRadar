@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T00:58:21.888500+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-11T02:26:51.287147+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时26分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）全球股市指数-欧洲市场",
