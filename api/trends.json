@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T16:49:33.493128+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-07-11T18:17:29.554729+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
@@ -95,11 +95,12 @@
           "url": "https://flash.jin10.com/detail/20260711161933786800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 18时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.23%，报6120.74点，本周累计上涨3.53%。 热门中概股里，网易初步收跌4.5%，日月光半导体跌1.2%，腾讯跌1.1%，拼多多跌0.8%，阿里涨1%，比亚迪涨2.9%，小米集团涨3.4%。 ETF中，中国科技指数ETF（CQQQ）收跌2.68%，本周反弹3.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.39%，本周反弹0.63%； XtrackersHarvest中证50（ASHS）收跌1.33%，本周跌0.89%； 中概互联网指数ETF（KWEB）收跌0.38%，本周累涨5.56%、延续上周反弹4.39%的表现； MSCI新兴市场ex中国ETF（EMXC）收涨0.33%，本周反弹1.37%。",
