@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-12T14:35:08.194658+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-12T17:04:00.566207+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "小米回应网传澎程价格",
+          "url": "https://wallstreetcn.com/livenews/3132377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时04分]"
+        },
         {
           "title": "小米回应网传澎程价格",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E6%BE%8E%E7%A8%8B%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=20&Refer=top",
@@ -20,16 +33,15 @@
           "time_info": "[11时25分 ~ 14时35分]"
         },
         {
-          "title": "小米回应网传澎程价格",
-          "url": "https://wallstreetcn.com/livenews/3132377",
-          "source": "华尔街见闻-快讯",
+          "title": "小米称推测澎程价格要讲科学",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%8E%A8%E6%B5%8B%E6%BE%8E%E7%A8%8B%E4%BB%B7%E6%A0%BC%E8%A6%81%E8%AE%B2%E7%A7%91%E5%AD%A6%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            13
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时35分]"
+          "time_info": "[17时03分 ~ 17时04分]"
         }
       ]
     },
