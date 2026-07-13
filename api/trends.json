@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-14T00:36:51.255785+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-14T02:46:01.753741+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
+          "url": "https://wallstreetcn.com/livenews/3133028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
         {
           "title": "金十图示：2026年07月13日（周一）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260713234053608800",
