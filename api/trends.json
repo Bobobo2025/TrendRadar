@@ -1,155 +1,22 @@
 {
-  "generated_at": "2026-07-13T21:25:46.188920+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-07-14T00:36:51.255785+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国股市波动性为1998年亚洲金融危机以来最高",
-          "url": "https://flash.jin10.com/detail/20260713180311789800",
+          "title": "金十图示：2026年07月13日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260713234053608800",
           "source": "金十数据",
           "ranks": [
-            1
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260713180306914800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "韩国股市竟然是“史上最便宜”！",
-          "url": "https://wallstreetcn.com/articles/3776742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 21时25分]"
-        },
-        {
-          "title": "日韩股市收跌 韩股重挫一度触发熔断",
-          "url": "https://flash.jin10.com/detail/20260713143153872800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "赛力斯A股盘中触及跌停，港股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3132576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-07-13）",
-          "url": "https://flash.jin10.com/detail/20260713210918009800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "港股汽车板块持续走低，赛力斯(09927.HK)跌超10%，广汽集团(02238.HK)跌超7%，岚图汽车(07489.HK)跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260713110352231800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "高盛：维持超配A股，建议布局港股优质互联网龙头",
-          "url": "https://flash.jin10.com/detail/20260713110210443800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "全球资金重新回流印度股市 单周扫货逾10亿美元",
-          "url": "https://flash.jin10.com/detail/20260713141630120800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "港股PCB股走低，建滔积层板(01888.HK)跌超12%，建滔集团(00148.HK)跌11.97%，广合科技(01989.HK)跌2.79%。",
-          "url": "https://flash.jin10.com/detail/20260713105523746800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "标普维持评级后，印尼股市涨幅扩大至1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "A股赛力斯盘中触及跌停，现报53.92元；港股赛力斯(09927.HK)跌10.29%。",
-          "url": "https://flash.jin10.com/detail/20260713105301606800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "韩国股市恢复交易，此前跌超8%，触发熔断机制，暂停交易20分钟。",
-          "url": "https://wallstreetcn.com/livenews/3132617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "00时36分"
         }
       ]
     }
