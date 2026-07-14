@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-14T18:49:11.881959+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-14T20:15:53.233907+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 9,
       "titles": [
-        {
-          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
-          "url": "https://wallstreetcn.com/articles/3776811",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 18时49分]"
-        },
         {
           "title": "韩国股市为何频频熔断",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E9%A2%91%E9%A2%91%E7%86%94%E6%96%AD",
@@ -28,7 +15,21 @@
             9,
             23,
             16,
-            27
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 20时15分]"
+        },
+        {
+          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
+          "url": "https://wallstreetcn.com/articles/3776811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -75,7 +76,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
