@@ -1,202 +1,39 @@
 {
-  "generated_at": "2026-07-14T22:54:19.675246+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-07-15T00:18:35.480563+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国股市为何频频熔断",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E9%A2%91%E9%A2%91%E7%86%94%E6%96%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            23,
-            16,
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 20时15分]"
-        },
-        {
-          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
-          "url": "https://wallstreetcn.com/articles/3776811",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 18时49分]"
-        },
-        {
-          "title": "韩国股市崩盘，与中东局势冲击新兴市场股市跌至七周低点",
-          "url": "https://wallstreetcn.com/livenews/3133089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时04分]"
-        },
-        {
-          "title": "美国债市“撞飞”了股市",
-          "url": "https://www.toutiao.com/trending/7661559194327613446/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "港股油气设备与服务股走强，山东墨龙(00568.HK)涨超13%，百勤油服(02178.HK)涨超8%，中石化油服(01033.HK)和涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260714101948728800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260714182104408800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
-          "url": "https://wallstreetcn.com/livenews/3133028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260713234053608800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "港股航空股普遍下跌，中国东方航空股份(00670.HK)跌近4%，中国国航(00753.HK)跌超2.2%，中国南方航空股份(01055.HK)1.8%，国泰航空(00293.HK)跌1.3%。",
-          "url": "https://flash.jin10.com/detail/20260714100911271800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
-          "url": "https://www.zhihu.com/question/2059629861941895196",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 16时09分]"
-        },
-        {
-          "title": "小米机器人打螺丝成功率98%",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "小米汽车紧急避险",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%B4%A7%E6%80%A5%E9%81%BF%E9%99%A9&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布数据万象MetaInsight智能检索产品计费项与价格调整",
-          "url": "https://wallstreetcn.com/livenews/3133441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "华策影视与腾讯音乐达成深度战略合作 探索“影视+音乐”跨界联动新模式",
-          "url": "https://flash.jin10.com/detail/20260714131418159800",
+          "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260714234056146800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 NIO",
+      "keyword_group": "小米 小米汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "港股汽车股拉升，蔚来汽车(09866.HK)涨超6%，比亚迪股份(01211.HK)涨超2%，理想汽车(02015.HK)、小鹏集团(09868.HK)、小米集团(01810.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260714100820753800",
-          "source": "金十数据",
+          "title": "小米机器人打螺丝成功率98%",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+          "source": "百度热搜",
           "ranks": [
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "00时18分"
         }
       ]
     }
