@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-15T07:05:47.214316+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-15T10:36:57.423019+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2026年07月15日（周三）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260715102604553800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
         {
           "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260714234056146800",
@@ -25,9 +36,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "韩国总统李在明表示，韩国股市企稳需要时间。",
+          "url": "https://wallstreetcn.com/livenews/3133999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "韩国股市为何频频熔断",
@@ -39,6 +61,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米机器人打螺丝成功率98%",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 05时59分]"
+        },
+        {
+          "title": "小伙家有200台小米设备不满手机售后",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%B6%E6%9C%89200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E8%AE%BE%E5%A4%87%E4%B8%8D%E6%BB%A1%E6%89%8B%E6%9C%BA%E5%94%AE%E5%90%8E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
@@ -56,25 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米机器人打螺丝成功率98%",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 05时59分]"
         }
       ]
     }
