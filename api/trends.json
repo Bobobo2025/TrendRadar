@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T06:58:35.703495+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-18T07:58:07.105616+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 06时58分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 07时58分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -31,29 +44,40 @@
           "time_info": "[01时15分 ~ 06时58分]"
         },
         {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时58分]"
-        },
-        {
           "title": "金十图示：2026年07月17日（周五）全球股市指数-美洲市场",
           "url": "https://flash.jin10.com/detail/20260718040602379800",
           "source": "金十数据",
           "ranks": [
             11,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 07时58分]"
+        },
+        {
+          "title": "大空头Burry：现在是抄底港股的绝佳时机",
+          "url": "https://wallstreetcn.com/articles/3777194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "韩国股市为何会从暴涨到股灾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E4%BC%9A%E4%BB%8E%E6%9A%B4%E6%B6%A8%E5%88%B0%E8%82%A1%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
@@ -132,8 +156,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 07时58分]"
         }
       ]
     },
@@ -149,8 +173,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 07时58分]"
         }
       ]
     }
