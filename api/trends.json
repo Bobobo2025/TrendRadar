@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T04:58:37.994716+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-07-18T06:00:00.224342+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 06时00分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 06时00分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -39,8 +39,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 06时00分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260718040602379800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时00分]"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
@@ -65,17 +77,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "金十图示：2026年07月17日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260718040602379800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
           "url": "https://flash.jin10.com/detail/20260717235319263800",
           "source": "金十数据",
@@ -93,7 +94,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -108,11 +109,12 @@
           "url": "https://wallstreetcn.com/livenews/3135899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时00分]"
         }
       ]
     },
@@ -128,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 06时00分]"
         }
       ]
     },
@@ -145,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 06时00分]"
         }
       ]
     }
