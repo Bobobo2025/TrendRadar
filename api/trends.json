@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T21:45:52.333113+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-07-19T22:58:18.530405+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时58分]"
         },
         {
           "title": "韩国股民迎来股市大变脸",
