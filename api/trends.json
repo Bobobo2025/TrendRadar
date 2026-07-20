@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T18:14:13.788710+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-07-20T21:08:42.667550+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股市场震荡整理，机构称短期抛压或已集中释放",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062469292113891730",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
