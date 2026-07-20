@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T11:55:52.880903+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-07-20T14:49:33.871738+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股市场震荡整理，机构称短期抛压或已集中释放",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "分析：对冲需求上升预示未来股市波动性将加剧",
+          "url": "https://flash.jin10.com/detail/20260720144222684800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "资深业内人士：支撑A股市场经受住美以伊冲突这一重大不确定性考验的价值锚点仍在",
@@ -66,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
+        },
+        {
+          "title": "中信证券：A股市场短期快速修整，长期韧性充分",
+          "url": "https://flash.jin10.com/detail/20260720144125606800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "因交易环境剧烈波动，花旗将韩国股市评级下调至中性",
