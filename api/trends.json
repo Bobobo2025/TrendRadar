@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T11:26:07.231651+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-07-21T14:32:30.519956+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "韩国股市持续上涨到熔断",
+          "url": "https://www.douyin.com/hot/2579540",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
         {
           "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
           "url": "https://www.zhihu.com/question/2062469292113891730",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "韩国股市崩跌之后，机会来了？花旗仍押注韩国牛市：10000点目标未变",
+          "url": "https://flash.jin10.com/detail/20260721140911928800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "金十图示：2026年07月20日（周一）全球股市指数-美洲市场（收盘）",
