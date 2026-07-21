@@ -1,221 +1,61 @@
 {
-  "generated_at": "2026-07-21T23:46:57.913658+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-07-22T01:23:01.231991+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
         {
           "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
           "url": "https://www.zhihu.com/question/2062838747457131203",
           "source": "知乎",
           "ranks": [
-            16,
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时48分 ~ 23时46分]"
-        },
-        {
-          "title": "韩国股市迎反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%BF%8E%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "韩国股市反弹带来什么信号",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%8F%8D%E5%BC%B9%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 21时55分]"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3A%E8%82%A1%E5%B8%82%E5%9C%BA+%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 23时46分]"
-        },
-        {
-          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
-          "url": "https://www.cls.cn/detail/2432530",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时48分]"
-        },
-        {
-          "title": "韩国股市持续上涨到熔断",
-          "url": "https://www.douyin.com/hot/2579540",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/2062469292113891730",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "花旗集团上调中国股市资产配置评级",
-          "url": "https://wallstreetcn.com/livenews/3137034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "多只宽基ETF成交放量，增量资金积极布局A股市场",
-          "url": "https://wallstreetcn.com/livenews/3137113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "韩国股市崩跌之后，机会来了？花旗仍押注韩国牛市：10000点目标未变",
-          "url": "https://flash.jin10.com/detail/20260721140911928800",
+          "title": "美国股市扩大涨幅，道指和标普500指数现涨超1%，纳指现涨1.4%。",
+          "url": "https://flash.jin10.com/detail/20260722005619337800",
           "source": "金十数据",
           "ranks": [
-            19
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "金十图示：2026年07月20日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260721040553027800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "小米18系列发布会日期曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%A5%E6%9C%9F%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
-        },
         {
           "title": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
           "url": "https://www.zhihu.com/question/2062847046097408907",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "小米上调手机出货目标？分析师：就没低过1亿部，存储价格拐点暂时不会出现",
-          "url": "https://wallstreetcn.com/livenews/3137466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "腾讯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3137072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
-          "url": "https://wallstreetcn.com/livenews/3137072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
-          "url": "https://flash.jin10.com/detail/20260721040127333800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         }
       ]
     }
