@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T08:02:14.223879+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-22T11:36:23.167529+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "事关A股市场 证监会最新发声",
@@ -60,9 +60,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "港股内房股短线拉升，旭辉控股集团(00884.HK)涨超7%，雅居乐集团(03383.HK)涨超5%，融创中国(01918.HK)、万科企业(02202.HK)、新城发展(01030.HK)、碧桂园(02007.HK)、华润置地(01109.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260722105348978800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
