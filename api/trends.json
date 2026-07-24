@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:07:10.491109+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-24T08:03:12.167346+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯被曝三队同步赛马，落败项目直接清零无复盘，员工担责，公司几乎零成本试错，如何评价大厂这种赛马机制？",
@@ -17,8 +17,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时03分]"
+        },
+        {
+          "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
+          "url": "https://wallstreetcn.com/articles/3777735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         }
       ]
     },
