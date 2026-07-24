@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T18:21:05.484202+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-24T20:20:52.467700+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 20时20分]"
+        },
+        {
+          "title": "腾讯317万年终奖员工因泄密被辞退",
+          "url": "https://www.cls.cn/detail/2436083",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时33分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 20时20分]"
         },
         {
           "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
-          "title": "腾讯317万年终奖员工因泄密被辞退",
-          "url": "https://www.cls.cn/detail/2436083",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "腾讯317万年终奖员工因泄密被辞退",
@@ -136,7 +136,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
