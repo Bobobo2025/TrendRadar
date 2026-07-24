@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T20:20:52.467700+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-07-24T22:57:32.320222+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[12时16分 ~ 18时21分]"
         },
         {
+          "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
+          "url": "https://www.zhihu.com/question/2063929870984242778",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 22时57分]"
+        },
+        {
           "title": "腾讯317万年终奖员工因泄密被辞退",
           "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 15时33分]"
-        },
-        {
-          "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
-          "url": "https://www.zhihu.com/question/2063929870984242778",
-          "source": "知乎",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 20时20分]"
         },
         {
           "title": "腾讯317万年终奖员工因泄密被辞退",
@@ -172,6 +172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "峰学蔚来武亮住院",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%AD%A6%E4%BA%AE%E4%BD%8F%E9%99%A2%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
