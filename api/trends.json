@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:02:12.859505+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T02:04:33.906622+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时04分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -25,9 +25,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时04分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时04分]"
         }
       ]
     }
