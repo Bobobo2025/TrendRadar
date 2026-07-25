@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:13:23.645220+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-07-25T21:38:11.084777+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 21时38分]"
         },
         {
           "title": "峰学蔚来武亮住院",
