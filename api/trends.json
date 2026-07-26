@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T15:38:09.821743+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-07-26T18:04:07.539441+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             8,
             16,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 18时04分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -29,11 +30,12 @@
             6,
             9,
             17,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 18时04分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -60,11 +62,29 @@
           "ranks": [
             12,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时38分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 18时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
+          "url": "https://www.zhihu.com/question/2064331256884622163",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     }
