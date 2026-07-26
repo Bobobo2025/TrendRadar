@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:03:18.926777+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-27T04:11:46.530212+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
@@ -44,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 04时11分]"
         }
       ]
     },
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 04时11分]"
         }
       ]
     }
