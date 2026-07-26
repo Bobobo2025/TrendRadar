@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T07:02:01.422375+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-07-26T08:09:32.791280+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时09分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -28,19 +28,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时09分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
           "url": "https://wallstreetcn.com/articles/3777919",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时09分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 08时09分]"
         }
       ]
     }
