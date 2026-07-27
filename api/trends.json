@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-07-28T05:13:08.950489+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-07-28T07:05:05.581167+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 5,
       "titles": [
+        {
+          "title": "“听泉赏宝”宣布彻底告别股市",
+          "url": "https://www.toutiao.com/trending/7667059764711079990/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
+        },
+        {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
+        },
+        {
+          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
+        },
         {
           "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
           "url": "https://www.cls.cn/detail/2437764",
@@ -20,50 +58,13 @@
           "time_info": "[01时44分 ~ 05时13分]"
         },
         {
-          "title": "“听泉赏宝”宣布彻底告别股市",
-          "url": "https://www.toutiao.com/trending/7667059764711079990/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
           "title": "金十图示：2026年07月27日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260728040603858800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
@@ -81,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
         },
         {
           "title": "腾讯宣布QQ宠物回归",
@@ -93,8 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时05分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.51%，报6257.87点，逼近50日均线（该技术指标目前下移至6294.47点）。 热门中概股里，宝尊电商初步收涨12.8%，小米涨8.3%，亿航智能涨7.5%，文远知行涨5.5%，亚朵、腾讯音乐、金山云涨超5%，大全新能源涨4.2%，理想涨4%，网易涨3.5%，拼多多、腾讯、阿里巴巴涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨2.70%，中国科技指数ETF（CQQQ）收涨2.43%。 XtrackersHarvest中证50（ASHS）收涨2.03%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.21%。",
@@ -103,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
@@ -122,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
         },
         {
           "title": "小米大模型调用量全球第一",
@@ -132,11 +133,12 @@
           "ranks": [
             23,
             29,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 07时05分]"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -145,7 +147,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
