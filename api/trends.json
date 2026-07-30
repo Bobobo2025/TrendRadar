@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-30T06:06:53.130904+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-07-30T08:02:23.560522+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
-          "url": "https://www.zhihu.com/question/2065767078427113175",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时06分]"
-        },
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
           "url": "https://wallstreetcn.com/articles/3778200",
@@ -30,8 +17,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 08时02分]"
+        },
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
+          "url": "https://www.zhihu.com/question/2065767078427113175",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 08时02分]"
+        },
+        {
+          "title": "证券时报：产业链韧性是A股市场坚固护城河",
+          "url": "https://flash.jin10.com/detail/20260730073249521800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "怎么看韩国股市跌44%",
@@ -44,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 08时02分]"
         },
         {
           "title": "韩国股市暴跌甩锅中国",
@@ -55,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 08时02分]"
         },
         {
           "title": "韩国股市连续两日熔断",
@@ -104,22 +116,24 @@
           "ranks": [
             15,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时06分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 08时02分]"
         },
         {
           "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
           "url": "https://www.zhihu.com/question/2065799308067041337",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时02分]"
         }
       ]
     },
