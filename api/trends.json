@@ -1,11 +1,309 @@
 {
-  "generated_at": "2026-07-30T19:54:13.325186+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-07-30T22:07:05.414040+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "小米澎程N90价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2066129660551722919",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程N90 Max预售价29.99万元",
+          "url": "https://www.toutiao.com/trending/7668228760780406838/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
+          "title": "小米澎程N90 Max预售价29.99万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90+Max%E9%A2%84%E5%94%AE%E4%BB%B729.99%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+          "url": "https://www.zhihu.com/question/2065799308067041337",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 14时36分]"
+        },
+        {
+          "title": "雷军：小米想打造“可移动的房子”，有SUV外观、驾驶性和通过性，还有类似房车的空间和布置的灵活性",
+          "url": "https://wallstreetcn.com/livenews/3142435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "雷军：小米澎程综合续航最高1705km，从上海开到北京中间绝对不用充电和加油",
+          "url": "https://wallstreetcn.com/livenews/3142434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
+          "url": "https://www.zhihu.com/question/2065017879477725134",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 08时02分]"
+        },
+        {
+          "title": "小米澎程N90",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
+          "title": "雷军：小米澎程从北京到上海无需补能",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E4%BB%8E%E5%8C%97%E4%BA%AC%E5%88%B0%E4%B8%8A%E6%B5%B7%E6%97%A0%E9%9C%80%E8%A1%A5%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程像在卖房",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%83%8F%E5%9C%A8%E5%8D%96%E6%88%BF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米发布龙甲电池：安全标准超国标",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%EF%BC%9A%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E8%B6%85%E5%9B%BD%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程N70",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程 N90 Max 推广文案中误将公路车轮径写成 25 寸惹争议，公路车轮径应为多少，该如何写？",
+          "url": "https://www.zhihu.com/question/2065822819670402411",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程发布会",
+          "url": "https://www.douyin.com/hot/2591095",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米澎程拉升小米股价超30%",
+          "url": "https://www.toutiao.com/trending/7667884087532752427/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "小米汽车发布龙甲电池体系",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%E4%BD%93%E7%B3%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "雷军：小米澎程综合续航最高1705km",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%BB%BC%E5%90%88%E7%BB%AD%E8%88%AA%E6%9C%80%E9%AB%981705km",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "小米澎程实车内饰曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "雷军：小米汽车累计交付70多万辆",
+          "url": "https://wallstreetcn.com/livenews/3142418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "小米汽车：小米澎程系列，2026年9月正式发布，今晚21:00开启预订。",
+          "url": "https://wallstreetcn.com/livenews/3142495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "雷军：小米澎程N90 Max预售价29.99万元",
+          "url": "https://wallstreetcn.com/livenews/3142484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "小米发布昆仑技术架构",
+          "url": "https://wallstreetcn.com/livenews/3142482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
@@ -35,6 +333,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 08时02分]"
+        },
+        {
+          "title": "中际旭创登陆港股",
+          "url": "https://www.douyin.com/hot/2590247",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 22时07分]"
         },
         {
           "title": "A股市值前10红了9个",
@@ -75,17 +387,16 @@
           "time_info": "[01时17分 ~ 11时59分]"
         },
         {
-          "title": "中际旭创登陆港股",
-          "url": "https://www.douyin.com/hot/2590247",
-          "source": "抖音",
+          "title": "股市暴雷,韩国殡葬业赚翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
+          "source": "贴吧",
           "ranks": [
-            6,
-            5,
-            9
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 22时07分]"
         },
         {
           "title": "李在明能否挽救韩国股市",
@@ -134,18 +445,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 14时36分]"
-        },
-        {
-          "title": "股市暴雷,韩国殡葬业赚翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时54分]"
         },
         {
           "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
@@ -226,6 +525,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "中证港股通半导体产业指数等4条指数将于7月31日发布",
+          "url": "https://wallstreetcn.com/livenews/3142485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "韩国股市会不会连环暴雷",
           "url": "https://www.toutiao.com/trending/7667929695526063643/",
           "source": "今日头条",
@@ -246,117 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "小米澎程发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
-        },
-        {
-          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
-          "url": "https://www.zhihu.com/question/2065799308067041337",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时06分 ~ 14时36分]"
-        },
-        {
-          "title": "雷军：小米想打造“可移动的房子”，有SUV外观、驾驶性和通过性，还有类似房车的空间和布置的灵活性",
-          "url": "https://wallstreetcn.com/livenews/3142435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "雷军：小米澎程综合续航最高1705km，从上海开到北京中间绝对不用充电和加油",
-          "url": "https://wallstreetcn.com/livenews/3142434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
-          "url": "https://www.zhihu.com/question/2065017879477725134",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 08时02分]"
-        },
-        {
-          "title": "小米澎程发布会",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
-        },
-        {
-          "title": "雷军晒小米机器人工作视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "小米澎程实车内饰曝光",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "雷军：小米汽车累计交付70多万辆",
-          "url": "https://wallstreetcn.com/livenews/3142418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         }
       ]
     },
