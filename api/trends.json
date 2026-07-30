@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T04:17:36.828808+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-31T06:09:02.696824+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
         },
         {
           "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
@@ -27,19 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
-        },
-        {
-          "title": "小米澎程像在卖房",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%83%8F%E5%9C%A8%E5%8D%96%E6%88%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
         },
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -50,21 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
-        },
-        {
-          "title": "小米澎程N90 Max预售价29.99万元",
-          "url": "https://www.toutiao.com/trending/7668228760780406838/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
         },
         {
           "title": "小米澎程N90价格",
@@ -75,8 +51,87 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "小米澎程N90 Max预售价29.99万元",
+          "url": "https://www.toutiao.com/trending/7668228760780406838/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "小米澎程像在卖房",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%83%8F%E5%9C%A8%E5%8D%96%E6%88%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "小米澎程发布会",
+          "url": "https://www.douyin.com/hot/2591095",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "小米澎程N70",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "小米澎程N90 Max预售价29.99万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90+Max%E9%A2%84%E5%94%AE%E4%BB%B729.99%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
+        },
+        {
+          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
+          "url": "https://wallstreetcn.com/articles/3778330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "time_info": "[02时18分 ~ 06时09分]"
         },
         {
           "title": "王腾买了小米N90Max",
@@ -86,30 +141,6 @@
             7,
             9,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
-        },
-        {
-          "title": "小米澎程发布会",
-          "url": "https://www.douyin.com/hot/2591095",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
-        },
-        {
-          "title": "小米澎程N70",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            20,
-            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -129,17 +160,16 @@
           "time_info": "[00时28分 ~ 04时17分]"
         },
         {
-          "title": "小米澎程N90 Max预售价29.99万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90+Max%E9%A2%84%E5%94%AE%E4%BB%B729.99%E4%B8%87",
-          "source": "百度热搜",
+          "title": "小米澎程N90",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            25,
-            23,
-            24
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时09分]"
         },
         {
           "title": "小米澎程N90车型详解",
@@ -151,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
-          "url": "https://wallstreetcn.com/articles/3778330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 04时17分]"
         },
         {
           "title": "小米澎程N90全网首次多车对比",
@@ -182,18 +200,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "小米澎程N90",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -204,7 +211,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
@@ -212,7 +219,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "股市暴雷,韩国殡葬业赚翻",
@@ -223,8 +230,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
         },
         {
           "title": "李在明能否挽救韩国股市",
@@ -232,11 +239,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时09分]"
         },
         {
           "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
@@ -247,8 +255,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 06时09分]"
+        },
+        {
+          "title": "韩国股市上演极端行情",
+          "url": "https://www.douyin.com/hot/2591025",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 04时17分]"
+          "time_info": "[06时08分 ~ 06时09分]"
         }
       ]
     }
