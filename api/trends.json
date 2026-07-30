@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:59:06.175817+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-07-30T14:36:44.719794+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
@@ -15,11 +15,12 @@
             3,
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 11时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 14时36分]"
         },
         {
           "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
@@ -36,6 +37,19 @@
           "time_info": "[01时17分 ~ 08时02分]"
         },
         {
+          "title": "韩国股市暴跌甩锅中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 14时36分]"
+        },
+        {
           "title": "怎么看韩国股市跌44%",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
           "source": "bilibili 热搜",
@@ -50,27 +64,15 @@
           "time_info": "[01时17分 ~ 11时59分]"
         },
         {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "A股市值前10红了9个",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            22
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 11时59分]"
-        },
-        {
-          "title": "李在明能否挽救韩国股市",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "证券时报：产业链韧性是A股市场坚固护城河",
@@ -84,26 +86,40 @@
           "time_info": "08时02分"
         },
         {
-          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
-          "url": "https://www.cls.cn/detail/2440581",
-          "source": "财联社热门",
+          "title": "李在明能否挽救韩国股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时36分]"
         },
         {
           "title": "韩国股市暴跌背后的真相",
           "url": "https://www.douyin.com/hot/2589992",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时36分]"
+        },
+        {
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时36分]"
         },
         {
           "title": "上市首日破发！港股中际旭创跌超8%",
@@ -126,6 +142,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "中际旭创登陆港股",
+          "url": "https://www.douyin.com/hot/2590247",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "机构：美联储的沟通令市场感到困难，或拖累长期债券和股市",
+          "url": "https://flash.jin10.com/detail/20260730141426505800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "韩国股市连续两日熔断",
@@ -164,7 +202,7 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
@@ -173,11 +211,12 @@
           "ranks": [
             19,
             8,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时06分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 14时36分]"
         },
         {
           "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
@@ -203,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "小米澎程实车内饰曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
