@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T08:02:23.560522+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-30T11:59:06.175817+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 11时59分]"
         },
         {
           "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
@@ -35,17 +36,6 @@
           "time_info": "[01时17分 ~ 08时02分]"
         },
         {
-          "title": "证券时报：产业链韧性是A股市场坚固护城河",
-          "url": "https://flash.jin10.com/detail/20260730073249521800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
           "title": "怎么看韩国股市跌44%",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
           "source": "bilibili 热搜",
@@ -56,19 +46,86 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 11时59分]"
         },
         {
           "title": "韩国股市暴跌甩锅中国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 11时59分]"
+        },
+        {
+          "title": "李在明能否挽救韩国股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "证券时报：产业链韧性是A股市场坚固护城河",
+          "url": "https://flash.jin10.com/detail/20260730073249521800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "韩国股市暴跌背后的真相",
+          "url": "https://www.douyin.com/hot/2589992",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "上市首日破发！港股中际旭创跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%EF%BC%81%E6%B8%AF%E8%82%A1%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "博主：股市并不适合多数人",
+          "url": "https://www.toutiao.com/trending/7667972218525060650/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "韩国股市连续两日熔断",
@@ -107,8 +164,21 @@
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+          "url": "https://www.zhihu.com/question/2065799308067041337",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时06分 ~ 11时59分]"
+        },
         {
           "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
           "url": "https://www.zhihu.com/question/2065017879477725134",
@@ -124,16 +194,15 @@
           "time_info": "[03时19分 ~ 08时02分]"
         },
         {
-          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
-          "url": "https://www.zhihu.com/question/2065799308067041337",
-          "source": "知乎",
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            8
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时06分 ~ 08时02分]"
+          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     },
