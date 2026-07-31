@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T06:09:02.696824+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-31T08:05:13.794747+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
+        },
+        {
+          "title": "还有谁?小米澎程顶配不到30万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356658&amp;topic_name=%E8%BF%98%E6%9C%89%E8%B0%81%3F%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E9%A1%B6%E9%85%8D%E4%B8%8D%E5%88%B030%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
@@ -31,28 +43,17 @@
           "time_info": "[00时28分 ~ 06时09分]"
         },
         {
-          "title": "还有谁?小米澎程顶配不到30万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356658&amp;topic_name=%E8%BF%98%E6%9C%89%E8%B0%81%3F%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E9%A1%B6%E9%85%8D%E4%B8%8D%E5%88%B030%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
-        },
-        {
           "title": "小米澎程N90价格",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E4%BB%B7%E6%A0%BC&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "小米澎程N90 Max预售价29.99万元",
@@ -62,11 +63,12 @@
             5,
             4,
             7,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "小米澎程像在卖房",
@@ -74,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "小米澎程发布会",
@@ -89,8 +92,22 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
+        },
+        {
+          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
+          "url": "https://wallstreetcn.com/articles/3778330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "time_info": "[02时18分 ~ 08时05分]"
         },
         {
           "title": "小米澎程N70",
@@ -121,19 +138,6 @@
           "time_info": "[00时28分 ~ 06时09分]"
         },
         {
-          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
-          "url": "https://wallstreetcn.com/articles/3778330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 06时09分]"
-        },
-        {
           "title": "王腾买了小米N90Max",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3N90Max%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -158,6 +162,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 04时17分]"
+        },
+        {
+          "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
+          "url": "https://www.cls.cn/detail/2441832",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 08时05分]"
         },
         {
           "title": "小米澎程N90",
@@ -194,17 +209,6 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
-          "url": "https://www.cls.cn/detail/2441832",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
           "title": "小米新车营销为何引争议",
           "url": "https://www.toutiao.com/trending/7668309782150778418/",
           "source": "今日头条",
@@ -230,8 +234,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "李在明能否挽救韩国股市",
@@ -240,11 +244,12 @@
           "ranks": [
             27,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 08时05分]"
         },
         {
           "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
@@ -252,22 +257,41 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 08时05分]"
         },
         {
           "title": "韩国股市上演极端行情",
           "url": "https://www.douyin.com/hot/2591025",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯因为没有文档文化无法蒸馏",
+          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E6%9C%89%E6%96%87%E6%A1%A3%E6%96%87%E5%8C%96%E6%97%A0%E6%B3%95%E8%92%B8%E9%A6%8F&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时08分 ~ 06时09分]"
+          "time_info": "[08时04分 ~ 08时05分]"
         }
       ]
     }
