@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T12:24:41.119595+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-07-31T15:52:20.272963+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 12时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 15时52分]"
         },
         {
           "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -73,6 +74,22 @@
           "time_info": "[00时28分 ~ 08时05分]"
         },
         {
+          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
+          "url": "https://wallstreetcn.com/articles/3778330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 15时52分]"
+        },
+        {
           "title": "小米澎程像在卖房",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%83%8F%E5%9C%A8%E5%8D%96%E6%88%BF",
           "source": "百度热搜",
@@ -96,21 +113,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 12时24分]"
-        },
-        {
-          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
-          "url": "https://wallstreetcn.com/articles/3778330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 12时24分]"
         },
         {
           "title": "小米澎程N70",
@@ -212,15 +214,37 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
+          "url": "https://www.zhihu.com/question/2065496535039742086",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "小米澎程两款车型公布预售价",
           "url": "https://www.toutiao.com/trending/7668024656095432255/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "小米门店现场热度不及YU7发布时",
+          "url": "https://www.toutiao.com/trending/7668520620040162859/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "小米新车营销为何引争议",
@@ -237,7 +261,7 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "股市暴雷,韩国殡葬业赚翻",
@@ -246,11 +270,27 @@
           "ranks": [
             16,
             17,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 12时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 15时52分]"
+        },
+        {
+          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 15时52分]"
         },
         {
           "title": "李在明能否挽救韩国股市",
@@ -267,27 +307,13 @@
           "time_info": "[00时28分 ~ 08时05分]"
         },
         {
-          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 12时24分]"
-        },
-        {
           "title": "港股午评：恒指收跌0.11% 存储及AI次新股飙升",
           "url": "https://flash.jin10.com/detail/20260731121206481800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -304,13 +330,24 @@
           "time_info": "[06时08分 ~ 08时05分]"
         },
         {
+          "title": "日韩股市“疯狂星期五”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E2%80%9C%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "韩国股市大涨13%触发熔断",
           "url": "https://www.douyin.com/hot/2591434",
           "source": "抖音",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
