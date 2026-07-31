@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T01:41:07.935864+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-01T03:36:23.028341+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2065496535039742086",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时36分]"
         },
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -26,8 +27,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时36分]"
         }
       ]
     }
