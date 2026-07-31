@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T15:52:20.272963+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-07-31T18:42:21.530044+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 15时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 18时42分]"
         },
         {
           "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -32,6 +33,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 12时24分]"
+        },
+        {
+          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
+          "url": "https://wallstreetcn.com/articles/3778330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 18时42分]"
         },
         {
           "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
@@ -72,22 +89,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 08时05分]"
-        },
-        {
-          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
-          "url": "https://wallstreetcn.com/articles/3778330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 15时52分]"
         },
         {
           "title": "小米澎程像在卖房",
@@ -203,6 +204,18 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
+          "url": "https://www.zhihu.com/question/2065496535039742086",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 18时42分]"
+        },
+        {
           "title": "小米澎程N90全网首次多车对比",
           "url": "https://www.toutiao.com/trending/7668024656095350335/",
           "source": "今日头条",
@@ -212,17 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
-          "url": "https://www.zhihu.com/question/2065496535039742086",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "小米澎程两款车型公布预售价",
@@ -242,7 +244,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -261,8 +263,24 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 18时42分]"
+        },
         {
           "title": "股市暴雷,韩国殡葬业赚翻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
@@ -276,21 +294,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 15时52分]"
-        },
-        {
-          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 15时52分]"
         },
         {
           "title": "李在明能否挽救韩国股市",
@@ -334,11 +337,23 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E2%80%9C%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 18时42分]"
+        },
+        {
+          "title": "大V：韩国危机远比股市要严重",
+          "url": "https://www.toutiao.com/trending/7668594003549359670/",
+          "source": "今日头条",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "18时42分"
         },
         {
           "title": "韩国股市大涨13%触发熔断",
@@ -350,6 +365,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "维达力科技港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3143138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260731180546775800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -367,6 +404,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "零跑汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗永浩对话零跑汽车朱江明",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AF%B9%E8%AF%9D%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E6%9C%B1%E6%B1%9F%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     }
