@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T18:43:25.093468+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-08-01T20:04:02.440241+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时36分]"
+        },
+        {
+          "title": "中创新航电池进入小米澎程供应链，177Ah质量风波待解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691788",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
         },
         {
           "title": "小米汽车：2026年7月，小米汽车交付量持续超过30000台。",
@@ -185,11 +196,12 @@
           "ranks": [
             17,
             2,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 20时04分]"
         }
       ]
     },
