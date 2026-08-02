@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-02T08:06:46.264636+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-08-02T12:25:58.046545+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://www.douyin.com/hot/2594149",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "雷军展示小米澎程N90 Max储物能力",
+          "url": "https://www.toutiao.com/trending/7668535970598191110/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "蔚来 NIO",
       "match_count": 1,
@@ -17,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 12时25分]"
         }
       ]
     },
@@ -32,11 +82,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 08时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 12时25分]"
         }
       ]
     },
@@ -49,28 +100,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 小米汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "雷军展示小米澎程N90 Max储物能力",
-          "url": "https://www.toutiao.com/trending/7668535970598191110/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时25分]"
         }
       ]
     }
