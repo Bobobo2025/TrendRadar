@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:58:00.028447+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-03T06:00:58.011364+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时00分]"
         },
         {
           "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
@@ -40,8 +40,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 06时00分]"
         }
       ]
     },
@@ -56,11 +56,12 @@
           "ranks": [
             15,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时00分]"
         },
         {
           "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
@@ -72,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时00分]"
         }
       ]
     }
