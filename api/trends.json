@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T18:00:40.165185+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-08-02T19:24:41.828414+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 18时00分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 19时24分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -48,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 18时00分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 19时24分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -60,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 18时00分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 19时24分]"
         },
         {
           "title": "雷军展示小米澎程N90 Max储物能力",
@@ -106,27 +109,29 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "韩国股市9次熔断原因何在",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%829%E6%AC%A1%E7%86%94%E6%96%AD%E5%8E%9F%E5%9B%A0%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
-        },
-        {
           "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
           "url": "https://www.zhihu.com/question/2066920268627547112",
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 19时24分]"
+        },
+        {
+          "title": "韩国股市9次熔断原因何在",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%829%E6%AC%A1%E7%86%94%E6%96%AD%E5%8E%9F%E5%9B%A0%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时33分 ~ 18时00分]"
+          "time_info": "[17时59分 ~ 19时24分]"
         },
         {
           "title": "明查｜韩国股市大跌，民众上街抗议？实为7月首尔罢工集会",
@@ -134,11 +139,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 18时00分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 19时24分]"
         }
       ]
     },
@@ -157,8 +163,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 18时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 19时24分]"
         }
       ]
     },
