@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T12:14:15.740098+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-08-05T15:55:32.877742+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "王腾的小米SU7Ultra泊车辅助遇bug",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "实探|小米澎程系列预售订单或超10万辆 多地设专营店待9月上市",
+          "url": "https://www.cls.cn/detail/2446101",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
@@ -44,8 +55,19 @@
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
         {
           "title": "金十图示：2026年08月04日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260804234542863800",
@@ -67,6 +89,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价文章《那一夜，腾讯因为没有文档文化无法蒸馏》?",
+          "url": "https://www.zhihu.com/question/2066556645577060770",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
