@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T03:40:35.159373+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-06T05:12:00.879626+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价文章《那一夜，腾讯因为没有文档文化无法蒸馏》?",
@@ -18,6 +18,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 03时40分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3145581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月05日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040617891800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     }
