@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:00:36.776597+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:02:07.750630+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3146825",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 01时02分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）全球股市指数-欧洲市场",
@@ -57,11 +58,29 @@
           "url": "https://www.zhihu.com/question/2068038088828217340",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 小米汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米高管玩梗被指越界",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%8E%A9%E6%A2%97%E8%A2%AB%E6%8C%87%E8%B6%8A%E7%95%8C&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
