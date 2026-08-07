@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T18:08:42.840431+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-08-07T19:48:32.190529+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -121,8 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 18时08分]"
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 19时48分]"
         },
         {
           "title": "腾讯阿里“易中天”押注 NPO明年迈向商用 先进光互联“多路线竞速”",
@@ -205,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
