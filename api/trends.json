@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T00:38:10.444408+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:33:38.648517+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3778910",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
@@ -25,7 +26,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
         }
@@ -43,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时33分]"
         }
       ]
     }
