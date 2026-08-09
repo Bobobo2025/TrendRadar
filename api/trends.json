@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:35:32.568140+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-10T04:35:19.422685+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
@@ -44,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         }
       ]
     }
