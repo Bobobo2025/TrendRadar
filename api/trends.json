@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-10T11:59:07.437436+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-08-10T13:40:41.083808+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "港股AI应用板块持续回落，MINIMAX-W(00100.HK)跌超5%，智谱(02513.HK)跌近3%，金山云(03896.HK)、中国软件国际(00354.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810133222062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
         {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260810093625841800",
@@ -36,9 +47,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "港股健世科技(09877.HK)午后拉升涨超4%，公司午间公告，预计中期收入同比增加385%至400%。",
+          "url": "https://flash.jin10.com/detail/20260810130716794800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "印尼股市上涨0.7%至6,454.388点，创5月20日以来最高水平。",
@@ -47,7 +69,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
