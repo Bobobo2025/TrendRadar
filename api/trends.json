@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-10T21:12:57.430678+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-08-10T23:01:43.302636+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 12,
       "titles": [
-        {
-          "title": "港股AI应用板块持续回落，MINIMAX-W(00100.HK)跌超5%，智谱(02513.HK)跌近3%，金山云(03896.HK)、中国软件国际(00354.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260810133222062800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
           "url": "https://wallstreetcn.com/articles/3779046",
@@ -28,8 +17,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 23时01分]"
+        },
+        {
+          "title": "港股AI应用板块持续回落，MINIMAX-W(00100.HK)跌超5%，智谱(02513.HK)跌近3%，金山云(03896.HK)、中国软件国际(00354.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810133222062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "A股市场到了哪个阶段",
@@ -94,7 +94,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
