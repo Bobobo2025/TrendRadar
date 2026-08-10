@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-08-10T09:56:13.689946+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-08-10T11:59:07.437436+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股 港股通 股市",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810093625841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "港股生物医药板块走强，药明康德(02359.HK)涨超5%，康方生物(09926.HK)涨超3%，药明生物(02269.HK)、君实生物(01877.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810093345298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "港股新消费概念走势分化，老铺黄金(06181.HK)涨超7%，蜜雪集团(02097.HK)涨超4%，沪上阿姨(02589.HK)跌超20%。",
+          "url": "https://flash.jin10.com/detail/20260810111142358800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "印尼股市上涨0.7%至6,454.388点，创5月20日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3147233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.53%，科指开涨0.85%，国泰君安国际(01788.HK)今日复牌开涨37.02%，公司获国泰海通(02611.HK)溢价约44.2%提私有化。",
+          "url": "https://flash.jin10.com/detail/20260810092050871800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "腾讯",
       "match_count": 4,
@@ -55,45 +116,6 @@
       ]
     },
     {
-      "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810093625841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "港股生物医药板块走强，药明康德(02359.HK)涨超5%，康方生物(09926.HK)涨超3%，药明生物(02269.HK)、君实生物(01877.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810093345298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.53%，科指开涨0.85%，国泰君安国际(01788.HK)今日复牌开涨37.02%，公司获国泰海通(02611.HK)溢价约44.2%提私有化。",
-          "url": "https://flash.jin10.com/detail/20260810092050871800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米 小米汽车",
       "match_count": 2,
       "titles": [
@@ -132,7 +154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -149,7 +171,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
