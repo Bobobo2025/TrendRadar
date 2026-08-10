@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T05:43:40.546466+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-08-11T06:40:31.704592+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时40分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）全球股市指数-美洲市场（收盘）",
@@ -36,7 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -53,7 +53,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
