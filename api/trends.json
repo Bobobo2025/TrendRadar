@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-11T06:40:31.704592+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-08-11T07:38:02.075703+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 3,
       "titles": [
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 07时38分]"
+        },
         {
           "title": "金十图示：2026年08月10日（周一）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260810234044531800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 06时40分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）全球股市指数-美洲市场（收盘）",
