@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:48:18.122696+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-08-13T05:48:48.398255+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时48分]"
         },
         {
           "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
@@ -26,11 +26,12 @@
             9,
             5,
             8,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时48分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -41,19 +42,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时48分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
           "url": "https://wallstreetcn.com/articles/3779299",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 05时48分]"
         },
         {
           "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
@@ -63,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 05时48分]"
         },
         {
           "title": "二季度新AI产品拖累105亿利润，腾讯总裁刘炽平回应",
@@ -88,11 +90,12 @@
           "url": "https://flash.jin10.com/detail/20260813040601475800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）全球股市指数-欧洲市场",
@@ -118,11 +121,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时48分]"
         }
       ]
     }
