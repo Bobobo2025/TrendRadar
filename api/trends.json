@@ -1,353 +1,67 @@
 {
-  "generated_at": "2026-08-13T21:15:19.599417+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-08-14T00:07:26.195635+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "腾讯",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779275",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 14时19分]"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时00分 ~ 21时15分]"
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 10时06分]"
-        },
-        {
-          "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
-          "url": "https://www.cls.cn/detail/2452763",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时00分 ~ 14时19分]"
-        },
-        {
-          "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
-          "url": "https://www.zhihu.com/question/2070928873705791858",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            8,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 05时48分]"
-        },
-        {
-          "title": "花旗：将腾讯目标价上调至765港元，重申买入评级",
-          "url": "https://wallstreetcn.com/livenews/3148841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "528 亿砸下去，腾讯要换估值锚",
-          "url": "https://wallstreetcn.com/articles/3779302",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 21时15分]"
-        },
-        {
-          "title": "摩根士丹利：下调腾讯目标价至550港元，维持超配评级",
-          "url": "https://wallstreetcn.com/livenews/3148839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
           "url": "https://wallstreetcn.com/articles/3779335",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 21时15分]"
-        },
-        {
-          "title": "腾讯启动顶尖AI产品人才招聘专项",
-          "url": "https://wallstreetcn.com/livenews/3149091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "00时07分"
         },
         {
           "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响？",
           "url": "https://www.zhihu.com/question/2070920779663767010",
           "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "香港恒生指数低开0.6%，报25288.07点；恒生科技指数跌0.29%。腾讯控股低开3.3%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3148821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "港股开盘，恒指开跌0.6%，科指开跌0.29%，腾讯控股(00700.HK)绩后开跌3.29%。",
-          "url": "https://flash.jin10.com/detail/20260813092059386800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "二季度新AI产品拖累105亿利润，腾讯总裁刘炽平回应",
-          "url": "https://wallstreetcn.com/livenews/3148676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "00时07分"
         }
       ]
     },
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "联想集团季度营收同比大增43% 港股股价涨超20%",
-          "url": "https://flash.jin10.com/detail/20260813140507190800",
+          "title": "金十图示：2026年08月13日（周四）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260813234046905800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "联想集团港股涨21%，报35.32港元。",
-          "url": "https://wallstreetcn.com/livenews/3148948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040601475800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时43分]"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260813180117935800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
-          "url": "https://www.zhihu.com/question/2067634093093818544",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "联想集团港股直线拉升，涨超12%，公司Q1营收增43%，经调整净利润同比增176%。",
-          "url": "https://wallstreetcn.com/livenews/3148920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260812234031456800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "AI热潮卷土重来 韩国股市强劲反弹",
-          "url": "https://flash.jin10.com/detail/20260813092752047800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-08-13）",
-          "url": "https://flash.jin10.com/detail/20260813090604599800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "00时07分"
         }
       ]
     },
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
-          "url": "https://www.zhihu.com/question/2070807325699580723",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 10时06分]"
-        },
-        {
-          "title": "据港交所文件：小米于8月13日回购了190万股B类股份，耗资为4990万港元。",
-          "url": "https://flash.jin10.com/detail/20260813180637371800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
         {
           "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
           "url": "https://www.zhihu.com/question/2070707279855367104",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 21时15分]"
-        },
-        {
-          "title": "卢伟冰官宣小米澎湃OS4",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "小米澎湃OS4 Beta版即将发布",
-          "url": "https://flash.jin10.com/detail/20260813090718592800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "00时07分"
         }
       ]
     }
