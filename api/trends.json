@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T03:12:31.085067+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-08-14T04:45:39.785083+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时45分]"
         }
       ]
     },
@@ -55,7 +55,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         }
@@ -71,11 +71,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时45分]"
         }
       ]
     }
