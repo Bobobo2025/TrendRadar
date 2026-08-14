@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-14T21:10:08.888448+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-08-14T22:54:15.326585+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
       "match_count": 9,
       "titles": [
+        {
+          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
+          "url": "https://wallstreetcn.com/articles/3779396",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时05分 ~ 22时54分]"
+        },
         {
           "title": "港股午评：恒指震荡收跌0.93% 京东绩后跌超10%",
           "url": "https://flash.jin10.com/detail/20260814121630803800",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
-          "url": "https://wallstreetcn.com/articles/3779396",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 21时10分]"
         },
         {
           "title": "机构策略：A股市场景气逻辑正在回归",
@@ -168,7 +169,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
