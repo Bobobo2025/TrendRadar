@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T06:23:44.135844+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-08-17T07:22:29.051067+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时22分]"
         },
         {
           "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
@@ -25,11 +25,12 @@
           "ranks": [
             18,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时22分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时22分]"
         }
       ]
     },
