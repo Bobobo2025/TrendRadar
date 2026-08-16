@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T15:33:15.058558+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-08-16T18:25:22.084434+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 小米汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "雷军晒图：15年前的今天小米手机发布",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -66,11 +77,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 18时25分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时25分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -83,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 15时33分]"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
         }
       ]
     },
