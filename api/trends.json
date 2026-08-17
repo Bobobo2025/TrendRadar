@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T18:35:03.511323+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-08-17T19:28:40.401880+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 19时28分]"
         },
         {
           "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
@@ -84,11 +84,12 @@
           "url": "https://www.zhihu.com/question/2070987118307029732",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 19时28分]"
         }
       ]
     },
@@ -103,7 +104,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
