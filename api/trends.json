@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:48:08.481314+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-08-17T22:30:48.916124+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260817220105359800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "金十图示：2026年08月17日（周一）亚太市场股市指数",
@@ -89,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时48分]"
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 22时30分]"
         }
       ]
     },
