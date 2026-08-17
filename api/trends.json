@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T12:44:01.648566+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-08-17T18:35:03.511323+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
@@ -20,13 +20,24 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "金十图示：2026年08月17日（周一）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260817180322606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "港股午评：恒生科技指数半日涨2% 半导体板块走强",
           "url": "https://flash.jin10.com/detail/20260817120748361800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -41,11 +52,12 @@
           "url": "https://wallstreetcn.com/articles/3779445",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 12时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 18时35分]"
         },
         {
           "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
@@ -60,6 +72,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 NIO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
+          "url": "https://www.zhihu.com/question/2070987118307029732",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "腾讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据港交所文件显示，腾讯控股于8月17日回购67.3万股股份，耗资3.007亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3150415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
