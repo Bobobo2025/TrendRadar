@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T12:46:53.413075+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-19T19:27:33.800511+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股 港股通 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美银全球基金经理调查：债市已进ICU，股市依旧KTV",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 19时27分]"
         },
         {
           "title": "汇丰：将韩国股市评级上调至增持。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "韩国股市为何大起大落",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
